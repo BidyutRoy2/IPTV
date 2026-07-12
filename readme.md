@@ -2,7 +2,7 @@
 
 **Copy this link for IPTV**
 ```bash
-https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u
+https://raw.githubusercontent.com/BidyutRoy2/IPTV/refs/heads/main/combined.m3u
 ```
 
 ---  
@@ -79,7 +79,7 @@ flowchart TD
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/time2shine/IPTV.git
+git clone https://github.com/BidyutRoy2/IPTV.git
 cd IPTV
 ```
 
