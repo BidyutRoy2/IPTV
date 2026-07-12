@@ -3,10 +3,12 @@
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
 #EXTINF:-1 group-title="Bangla",Green TV (0d)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla",Mohona TV (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",MOV | ZB Cinema (0d)
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-#EXTINF:-1 group-title="Bangla",TIKANA TV (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla",NRB HD TV (0d)
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (1d)
 https://live20.bozztv.com/akamaissh101/ssh101/usbdjournal/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (1d)
@@ -23,18 +25,8 @@ https://mediapackage-azf5-source.fullscreen.nz/index.m3u8
 https://mediapackage-azf4-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 group-title="India",MU | 8X music (0d)
 https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
-#EXTINF:-1 group-title="India",MU | NH BollyRaga (0d)
-https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8
-#EXTINF:-1 group-title="India",NEWS | NDTV English (0d)
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 group-title="International",OTHER | Telemundo (1d)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
-#EXTINF:-1 group-title="International News",HLN (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Kids",2. The Jungle Book (0d)
-https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:-1 group-title="Kids",2. The Jungle Book (0d)
-https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 group-title="Kids",ZB Cartoon (0d)
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 group-title="Movies",EN | HBO (5d)
@@ -65,7 +57,5 @@ https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
 #EXTINF:-1 group-title="Sports",CR | Fox Cricket 501 (0d)
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
-#EXTINF:-1 group-title="Sports",MIXER | Sports Fishing (0d)
-https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
 #EXTINF:-1 group-title="Travel",GO2Travel TV (6d)
 https://go2thls.wns.live/hls/stream.m3u8
