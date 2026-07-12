@@ -1,0 +1,111 @@
+name: 🔁 Update Channels & Movies
+
+on:
+  # Reusable from orchestrator
+  workflow_call: {}
+  # Manual trigger from Actions tab
+  workflow_dispatch: {}
+
+permissions:
+  contents: write  # needed for committing & pushing changes
+
+# Prevent overlapping runs per branch
+concurrency:
+  group: epg-pipeline-${{ github.ref_name }}
+  cancel-in-progress: false
+
+jobs:
+  update-channels:
+    name: 🛰️ Link Health & Status Update
+    runs-on: ubuntu-latest
+
+    # Portable binaries; scripts read these
+    env:
+      MPV_PATH: ./mpv.AppImage
+      FFMPEG_DIR: ./ffmpeg-static
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0  # so we can commit & push
+
+      - name: 🐍 Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install Python deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # ---------- mpv (AppImage) ----------
+      - name: 💾 Cache mpv AppImage
+        id: mpv-cache
+        uses: actions/cache@v4
+        with:
+          path: mpv.AppImage
+          # 🔑 bump this when you change versions
+          key: mpv-appimage-0.40.0-320-g840683407
+          restore-keys: |
+            mpv-appimage-
+
+      - name: ⬇️ Download mpv (first run only)
+        if: steps.mpv-cache.outputs.cache-hit != 'true'
+        run: |
+          curl -fL --retry 3 -o mpv.AppImage \
+            https://github.com/pkgforge-dev/mpv-AppImage/releases/download/v0.40.0-320-g840683407%402025-09-15_1757920254/mpv-v0.40.0-320-g840683407-anylinux-x86_64.AppImage
+          chmod +x mpv.AppImage
+
+      - name: ✅ Verify mpv
+        run: ./mpv.AppImage --version
+
+      # ---------- FFmpeg (static) ----------
+      - name: 💾 Cache FFmpeg
+        id: ffmpeg-cache
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.FFMPEG_DIR }}
+          # 🔑 bump this when you change versions
+          key: ffmpeg-static-6.1.1
+          restore-keys: |
+            ffmpeg-static-
+
+      - name: ⬇️ Download & extract FFmpeg (first run only)
+        if: steps.ffmpeg-cache.outputs.cache-hit != 'true'
+        run: |
+          curl -fL --retry 3 -o ffmpeg.tar.xz \
+            https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz
+          mkdir -p "$FFMPEG_DIR"
+          tar -xf ffmpeg.tar.xz --strip-components=1 -C "$FFMPEG_DIR"
+
+      - name: ➕ Add FFmpeg to PATH
+        run: echo "$PWD/$FFMPEG_DIR/bin" >> $GITHUB_PATH
+
+      - name: ✅ Verify FFmpeg
+        run: |
+          which ffmpeg
+          ffmpeg -version
+
+      # ---------- scripts ----------
+      - name: 📡 Check Channel statuses (FFmpeg/MPV)
+        run: python scripts/static_channels_update.py
+
+      - name: 🎬 Check Movie statuses (FFmpeg/MPV)
+        run: python scripts/static_movies_update.py
+
+      - name: 📝 Commit updated JSON & M3U
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add static_channels.json static_movies.json obsolete/excluded_whitelisted.m3u obsolete/offline.m3u || true
+          if ! git diff --cached --quiet; then
+            BRANCH="${GITHUB_REF_NAME:-$(git rev-parse --abbrev-ref HEAD)}"
+            git pull --rebase origin "${BRANCH}" || true
+            git commit -m "🔄 Update links online/offline status"
+            git push origin "${BRANCH}"
+          else
+            echo "No changes to commit"
+          fi

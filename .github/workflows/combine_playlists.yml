@@ -1,0 +1,58 @@
+name: "🔀 Combine All Links"
+
+on:
+  # Reusable from the orchestrator
+  workflow_call: {}
+  # Manual run from Actions tab
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # required to commit & push
+
+# Prevent overlapping runs per branch
+concurrency:
+  group: epg-pipeline-${{ github.ref_name }}
+  cancel-in-progress: false
+
+jobs:
+  gathering_all_IPTV:
+    name: "🚀 Build & Publish Combined IPTV Playlist"
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: "📥 Checkout repository"
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0  # allow committing & rebasing
+
+      - name: "🐍 Set up Python 3.11"
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: "🔀 Combine YouTube & static playlists"
+        run: |
+          python scripts/combine_playlists.py
+
+      - name: "⬆️ Commit combined.m3u if changed"
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          BRANCH="${GITHUB_REF_NAME:-$(git rev-parse --abbrev-ref HEAD)}"
+
+          # Pull latest changes safely even if the combine step modified files
+          git fetch origin "${BRANCH}"
+          git pull --rebase --autostash origin "${BRANCH}"
+
+          # Stage, commit, and push only if there are changes
+          git add combined.m3u || true
+          if git diff --cached --quiet; then
+            echo "No changes to combined.m3u"
+          else
+            git commit -m "🔄 Update combined playlist ($(date '+%Y-%m-%d %H:%M:%S'))"
+            git push origin "${BRANCH}"
+          fi
