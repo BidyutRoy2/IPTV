@@ -1,16 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="Bangla",Amar Bangla (0d)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Ayna TV (0d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",Bangla One (1d)
-https://video1.getstreamhosting.com:1936/eycqczsxka/eycqczsxka/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",MU | ATN MUSIC (2d)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",NRB HD TV (0d)
-https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (0d)
-https://live20.bozztv.com/akamaissh101/ssh101/usbdjournal/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (0d)
-http://str24.l9574.com/510.stream/index.m3u8
+#EXTINF:-1 group-title="Educational",CGTN Documentary (0d)
+https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 group-title="Educational",HGTV (6d)
 https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 group-title="India",MOV | Movie One (7d)
@@ -25,14 +19,12 @@ https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 group-title="International",EN | Brave +1 (6d)
 https://i.mjh.nz/.r/bravo-plus1.m3u8
-#EXTINF:-1 group-title="International News",Connecting America (0d)
-https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/ts-us-e2-n1/playlist/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:-1 group-title="International News",CGTN (0d)
+https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 group-title="Movies",EN | HBO (India) (5d)
 http://103.213.31.111/HBOHD/index.m3u8
 #EXTINF:-1 group-title="Movies",EN | ThreePlus1 (6d)
 https://mediapackage-three-plus-1-source.fullscreen.nz/index.m3u8
-#EXTINF:-1 group-title="Music",EN | Kronehit HD (0d)
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 group-title="Pakistan",ENT | Bol Entertainment (3d)
 https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
 #EXTINF:-1 group-title="Pakistan",ENT | Express Entertainment (2d)
