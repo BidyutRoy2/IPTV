@@ -1,51 +1,59 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla News",IN | ABP Ananda (0d)
-https://amg01412-xiaomiasia-abpananda-xiaomi-lzyzw.amagi.tv/playlist/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | ABP Ananda (0d)
-https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Bangla",Ayna TV (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla",DEEPTO TV HD (0d)
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
+#EXTINF:-1 group-title="Bangla",DEEPTO TV HD (0d)
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 group-title="Bangla",MOV | ZB Cinema (0d)
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 group-title="Bangla",MU | ZB Music (0d)
+https://server.zillarbarta.com/zbmusic/index.m3u8
+#EXTINF:-1 group-title="Bangla",MU | ZB Music (0d)
+https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla News",BD | Jago News 24 (0d)
+https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 group-title="Educational",Discover Pakistan TV (0d)
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 #EXTINF:-1 group-title="Educational",HGTV (7d)
 https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 group-title="India",MOV | Goldmines (0d)
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
 #EXTINF:-1 group-title="India",MOV | Movie One (8d)
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/movie-one-176/playlist.m3u8
 #EXTINF:-1 group-title="India",MOV | Shemaroo Bollywood 1 (5d)
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
 #EXTINF:-1 group-title="India",MU | 7X Music (1d)
 https://cdn2.in/7xPunjabihls/live.m3u8
-#EXTINF:-1 group-title="India",MU | 8X music (1d)
-https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
 #EXTINF:-1 group-title="India",MU | Shemaroo Filmy Gaane (5d)
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 #EXTINF:-1 group-title="India",MU | Steelbird Music (1d)
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
-#EXTINF:-1 group-title="India",NEWS | News18 India (0d)
-https://amg01448-samsungin-news18india-samsungin-ad-gx.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungin-news18india-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="International",EN | Brave +1 (7d)
 https://i.mjh.nz/.r/bravo-plus1.m3u8
-#EXTINF:-1 group-title="International News",HLN (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="International News",CNN USA (0d)
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="International News",DW News (0d)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 group-title="International News",GB News (0d)
+https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="Kids",1. Persiana Junior (0d)
+https://junhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Movies",EN | HBO (India) (6d)
 http://103.213.31.111/HBOHD/index.m3u8
 #EXTINF:-1 group-title="Movies",EN | ThreePlus1 (7d)
 https://mediapackage-three-plus-1-source.fullscreen.nz/index.m3u8
-#EXTINF:-1 group-title="Music",EN | NOW 80's (0d)
-https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/ts-eu-w1-n2/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="Pakistan",ENT | Bol Entertainment (4d)
 https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
 #EXTINF:-1 group-title="Pakistan",ENT | Express Entertainment (3d)
 https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
-#EXTINF:-1 group-title="Pakistan",NEWS | Dunya News (1d)
-http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
 #EXTINF:-1 group-title="Sports",---FIFA(BEIN SPORTS 1 Turkey)--- (0d)
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1 group-title="Sports",---FIFA(Bein Sports Direct)--- (7d)
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 group-title="Sports",---FIFA(S Football)--- (2d)
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-#EXTINF:-1 group-title="Sports",FB | ORF Sport+ HD (0d)
-http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
-#EXTINF:-1 group-title="Sports",FIGHT | MMA TV (0d)
-https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
+#EXTINF:-1 group-title="Sports",--Live(Euro Sport 1)-- (0d)
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | ESPN (3d)
 http://41.205.93.154/ESPN/index.m3u8
