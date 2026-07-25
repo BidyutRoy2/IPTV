@@ -149,59 +149,56 @@
     <display-name>ENT | Sony Entertainment HD</display-name>
     <icon src="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png"/>
   </channel>
-  <programme start="20260725160000 +0600" stop="20260725170000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Tum Ho Naa - Ghar Ki Superstar</title>
-  </programme>
-  <programme start="20260725170000 +0600" stop="20260725180000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Maharani</title>
-  </programme>
-  <programme start="20260725180000 +0600" stop="20260725183000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Mere Sai - Shraddha Aur Saburi</title>
-  </programme>
-  <programme start="20260725183000 +0600" stop="20260725190000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Asian Magazine</title>
-  </programme>
-  <programme start="20260725190000 +0600" stop="20260725193000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Asian Magazine</title>
-  </programme>
-  <programme start="20260725193000 +0600" stop="20260725203000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Crime Patrol</title>
-  </programme>
-  <programme start="20260725203000 +0600" stop="20260725212500 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260725153000 +0600" stop="20260725162500 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">ATN Live Gurubani</title>
   </programme>
-  <programme start="20260725212500 +0600" stop="20260725220000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260725162500 +0600" stop="20260725170000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Mere Sai - Shraddha Aur Saburi</title>
   </programme>
-  <programme start="20260725220000 +0600" stop="20260725223000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260725170000 +0600" stop="20260725173000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Vighnaharta Ganesh</title>
   </programme>
-  <programme start="20260725223000 +0600" stop="20260725230000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260725173000 +0600" stop="20260725180000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Vighnaharta Ganesh</title>
   </programme>
-  <programme start="20260725230000 +0600" stop="20260725233000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260725180000 +0600" stop="20260725183000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Awakening Of Brahmakumari&amp;#x27;s</title>
   </programme>
-  <programme start="20260725233000 +0600" stop="20260726003000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260725183000 +0600" stop="20260725193000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">CID</title>
   </programme>
-  <programme start="20260726003000 +0600" stop="20260726010000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260725193000 +0600" stop="20260725200000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Asian Magazine</title>
   </programme>
-  <programme start="20260726010000 +0600" stop="20260726013000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260725200000 +0600" stop="20260725203000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Asian Magazine</title>
   </programme>
-  <programme start="20260726013000 +0600" stop="20260726030000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260725203000 +0600" stop="20260725220000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Indian Idol</title>
   </programme>
-  <programme start="20260726030000 +0600" stop="20260726043000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260725220000 +0600" stop="20260725233000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">India&amp;#x27;s Best Dancer</title>
   </programme>
-  <programme start="20260726043000 +0600" stop="20260726053000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260725233000 +0600" stop="20260726003000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Asian Variety Show</title>
   </programme>
-  <programme start="20260726053000 +0600" stop="20260726060000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260726003000 +0600" stop="20260726010000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">The Kapil Sharma Show</title>
+  </programme>
+  <programme start="20260726010000 +0600" stop="20260726023000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Indian Idol</title>
+  </programme>
+  <programme start="20260726023000 +0600" stop="20260726040000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">India&amp;#x27;s Best Dancer</title>
+  </programme>
+  <programme start="20260726040000 +0600" stop="20260726043000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Asian Magazine</title>
+  </programme>
+  <programme start="20260726043000 +0600" stop="20260726050000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Asian Magazine</title>
+  </programme>
+  <programme start="20260726050000 +0600" stop="20260726060000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">C.I.D.</title>
   </programme>
   <programme start="20260726060000 +0600" stop="20260726073000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Indian Idol</title>
@@ -209,304 +206,307 @@
   <programme start="20260726073000 +0600" stop="20260726090000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">India&amp;#x27;s Best Dancer</title>
   </programme>
-  <programme start="20260726090000 +0600" stop="20260726093000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Asian Magazine</title>
-  </programme>
-  <programme start="20260726093000 +0600" stop="20260726100000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Asian Magazine</title>
-  </programme>
-  <programme start="20260726100000 +0600" stop="20260726110000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">C.I.D.</title>
-  </programme>
-  <programme start="20260726110000 +0600" stop="20260726123000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260726090000 +0600" stop="20260726103000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Indian Idol</title>
   </programme>
-  <programme start="20260726123000 +0600" stop="20260726140000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260726103000 +0600" stop="20260726120000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">India&amp;#x27;s Best Dancer</title>
   </programme>
-  <programme start="20260726140000 +0600" stop="20260726153000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Indian Idol</title>
+  <programme start="20260726120000 +0600" stop="20260726133000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">The Kapil Sharma Show</title>
   </programme>
-  <programme start="20260726153000 +0600" stop="20260726170000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">India&amp;#x27;s Best Dancer</title>
+  <programme start="20260726133000 +0600" stop="20260726140000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Asian Magazine</title>
+  </programme>
+  <programme start="20260726140000 +0600" stop="20260726143000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Asian Magazine</title>
+  </programme>
+  <programme start="20260726143000 +0600" stop="20260726153000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Crime Patrol</title>
+  </programme>
+  <programme start="20260726153000 +0600" stop="20260726162500 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">ATN Live Gurubani</title>
   </programme>
   <channel id="FoxNews.us">
     <display-name>Fox News</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg"/>
   </channel>
   <programme start="20260725160000 +0600" stop="20260725170000 +0600" channel="FoxNews.us">
-    <title lang="bn">Jesse Watters Primetime</title>
+    <title lang="bn">Fox &amp;amp; Friends Weekend</title>
   </programme>
   <programme start="20260725170000 +0600" stop="20260725180000 +0600" channel="FoxNews.us">
-    <title lang="bn">Hannity</title>
+    <title lang="bn">Fox &amp;amp; Friends Weekend</title>
   </programme>
   <programme start="20260725180000 +0600" stop="20260725190000 +0600" channel="FoxNews.us">
-    <title lang="bn">Gutfeld!</title>
+    <title lang="bn">Fox &amp;amp; Friends Weekend</title>
   </programme>
   <programme start="20260725190000 +0600" stop="20260725200000 +0600" channel="FoxNews.us">
-    <title lang="bn">Fox News at Night</title>
+    <title lang="bn">Fox &amp;amp; Friends Weekend</title>
   </programme>
   <programme start="20260725200000 +0600" stop="20260725210000 +0600" channel="FoxNews.us">
-    <title lang="bn">The Five</title>
+    <title lang="bn">Saturday in America</title>
   </programme>
   <programme start="20260725210000 +0600" stop="20260725220000 +0600" channel="FoxNews.us">
-    <title lang="bn">Fox &amp;amp; Friends Weekend</title>
+    <title lang="bn">Saturday in America</title>
   </programme>
   <programme start="20260725220000 +0600" stop="20260725230000 +0600" channel="FoxNews.us">
-    <title lang="bn">Fox &amp;amp; Friends Weekend</title>
+    <title lang="bn">Fox News Live</title>
   </programme>
   <programme start="20260725230000 +0600" stop="20260726000000 +0600" channel="FoxNews.us">
-    <title lang="bn">Fox &amp;amp; Friends Weekend</title>
+    <title lang="bn">Fox News Live</title>
   </programme>
   <programme start="20260726000000 +0600" stop="20260726010000 +0600" channel="FoxNews.us">
-    <title lang="bn">Fox &amp;amp; Friends Weekend</title>
-  </programme>
-  <programme start="20260726010000 +0600" stop="20260726020000 +0600" channel="FoxNews.us">
-    <title lang="bn">Saturday in America</title>
-  </programme>
-  <programme start="20260726020000 +0600" stop="20260726030000 +0600" channel="FoxNews.us">
-    <title lang="bn">Saturday in America</title>
-  </programme>
-  <programme start="20260726030000 +0600" stop="20260726040000 +0600" channel="FoxNews.us">
-    <title lang="bn">Fox News Live</title>
-  </programme>
-  <programme start="20260726040000 +0600" stop="20260726050000 +0600" channel="FoxNews.us">
-    <title lang="bn">Fox News Live</title>
-  </programme>
-  <programme start="20260726050000 +0600" stop="20260726060000 +0600" channel="FoxNews.us">
     <title lang="bn">The Journal Editorial Report</title>
   </programme>
-  <programme start="20260726060000 +0600" stop="20260726070000 +0600" channel="FoxNews.us">
+  <programme start="20260726010000 +0600" stop="20260726020000 +0600" channel="FoxNews.us">
     <title lang="bn">Fox Report With Jon Scott</title>
+  </programme>
+  <programme start="20260726020000 +0600" stop="20260726030000 +0600" channel="FoxNews.us">
+    <title lang="bn">Fox Report With Jon Scott</title>
+  </programme>
+  <programme start="20260726030000 +0600" stop="20260726040000 +0600" channel="FoxNews.us">
+    <title lang="bn">The Big Weekend Show</title>
+  </programme>
+  <programme start="20260726040000 +0600" stop="20260726050000 +0600" channel="FoxNews.us">
+    <title lang="bn">The Big Weekend Show</title>
+  </programme>
+  <programme start="20260726050000 +0600" stop="20260726060000 +0600" channel="FoxNews.us">
+    <title lang="bn">The Big Weekend Show</title>
+  </programme>
+  <programme start="20260726060000 +0600" stop="20260726070000 +0600" channel="FoxNews.us">
+    <title lang="bn">Life, Liberty &amp;amp; Levin</title>
   </programme>
   <programme start="20260726070000 +0600" stop="20260726080000 +0600" channel="FoxNews.us">
-    <title lang="bn">Fox Report With Jon Scott</title>
-  </programme>
-  <programme start="20260726080000 +0600" stop="20260726090000 +0600" channel="FoxNews.us">
-    <title lang="bn">The Big Weekend Show</title>
-  </programme>
-  <programme start="20260726090000 +0600" stop="20260726100000 +0600" channel="FoxNews.us">
-    <title lang="bn">The Big Weekend Show</title>
-  </programme>
-  <programme start="20260726100000 +0600" stop="20260726110000 +0600" channel="FoxNews.us">
-    <title lang="bn">The Big Weekend Show</title>
-  </programme>
-  <programme start="20260726110000 +0600" stop="20260726120000 +0600" channel="FoxNews.us">
-    <title lang="bn">Life, Liberty &amp;amp; Levin</title>
-  </programme>
-  <programme start="20260726120000 +0600" stop="20260726130000 +0600" channel="FoxNews.us">
     <title lang="bn">My View With Lara Trump</title>
   </programme>
-  <programme start="20260726130000 +0600" stop="20260726140000 +0600" channel="FoxNews.us">
+  <programme start="20260726080000 +0600" stop="20260726090000 +0600" channel="FoxNews.us">
     <title lang="bn">FOX News Saturday Night With Jimmy Failla</title>
   </programme>
-  <programme start="20260726140000 +0600" stop="20260726150000 +0600" channel="FoxNews.us">
+  <programme start="20260726090000 +0600" stop="20260726100000 +0600" channel="FoxNews.us">
     <title lang="bn">Gutfeld!</title>
   </programme>
-  <programme start="20260726150000 +0600" stop="20260726160000 +0600" channel="FoxNews.us">
+  <programme start="20260726100000 +0600" stop="20260726110000 +0600" channel="FoxNews.us">
     <title lang="bn">Life, Liberty &amp;amp; Levin</title>
+  </programme>
+  <programme start="20260726110000 +0600" stop="20260726120000 +0600" channel="FoxNews.us">
+    <title lang="bn">My View With Lara Trump</title>
+  </programme>
+  <programme start="20260726120000 +0600" stop="20260726130000 +0600" channel="FoxNews.us">
+    <title lang="bn">FOX News Saturday Night With Jimmy Failla</title>
+  </programme>
+  <programme start="20260726130000 +0600" stop="20260726140000 +0600" channel="FoxNews.us">
+    <title lang="bn">Life, Liberty &amp;amp; Levin</title>
+  </programme>
+  <programme start="20260726140000 +0600" stop="20260726150000 +0600" channel="FoxNews.us">
+    <title lang="bn">My View With Lara Trump</title>
+  </programme>
+  <programme start="20260726150000 +0600" stop="20260726160000 +0600" channel="FoxNews.us">
+    <title lang="bn">FOX News Saturday Night With Jimmy Failla</title>
   </programme>
   <channel id="EuronewsEnglish.fr">
     <display-name>Euronews English</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/f/f9/Euronews_2022_Stacked_III.svg"/>
   </channel>
-  <programme start="20260725160000 +0600" stop="20260725160900 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260725160000 +0600" stop="20260725160500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260725160900 +0600" stop="20260725163000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Europe Conversation</title>
+  <programme start="20260725160500 +0600" stop="20260725162900 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260725163000 +0600" stop="20260725163800 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260725162900 +0600" stop="20260725163500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260725163800 +0600" stop="20260725164800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Made In Europe</title>
+  <programme start="20260725163500 +0600" stop="20260725164600 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260725164800 +0600" stop="20260725170000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">News</title>
+  <programme start="20260725164600 +0600" stop="20260725170000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
   </programme>
   <programme start="20260725170000 +0600" stop="20260725170500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260725170500 +0600" stop="20260725172900 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260725172900 +0600" stop="20260725173400 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
-  </programme>
-  <programme start="20260725173400 +0600" stop="20260725174500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260725174500 +0600" stop="20260725180000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
-  </programme>
-  <programme start="20260725180000 +0600" stop="20260725180900 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
-  </programme>
-  <programme start="20260725180900 +0600" stop="20260725183000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260725170500 +0600" stop="20260725171800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">12 Minutes With</title>
   </programme>
-  <programme start="20260725183000 +0600" stop="20260725183800 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260725171800 +0600" stop="20260725173000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20260725173000 +0600" stop="20260725173800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260725183800 +0600" stop="20260725184800 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260725173800 +0600" stop="20260725175100 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Made In Europe</title>
   </programme>
-  <programme start="20260725184800 +0600" stop="20260725190000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">News</title>
+  <programme start="20260725175100 +0600" stop="20260725180000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Focus</title>
+  </programme>
+  <programme start="20260725180000 +0600" stop="20260725180500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260725180500 +0600" stop="20260725183000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
+  </programme>
+  <programme start="20260725183000 +0600" stop="20260725183500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260725183500 +0600" stop="20260725184600 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
+  </programme>
+  <programme start="20260725184600 +0600" stop="20260725190000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
   </programme>
   <programme start="20260725190000 +0600" stop="20260725190500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260725190500 +0600" stop="20260725192900 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260725192900 +0600" stop="20260725193400 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
-  </programme>
-  <programme start="20260725193400 +0600" stop="20260725194500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260725194500 +0600" stop="20260725200000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
-  </programme>
-  <programme start="20260725200000 +0600" stop="20260725200500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
-  </programme>
-  <programme start="20260725200500 +0600" stop="20260725201800 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260725190500 +0600" stop="20260725191800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">12 Minutes With</title>
   </programme>
-  <programme start="20260725201800 +0600" stop="20260725203000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260725191800 +0600" stop="20260725193000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20260725203000 +0600" stop="20260725203500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260725193000 +0600" stop="20260725193500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260725203500 +0600" stop="20260725204400 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260725193500 +0600" stop="20260725194400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Made In Europe</title>
   </programme>
-  <programme start="20260725204400 +0600" stop="20260725210000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260725194400 +0600" stop="20260725200000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
+  </programme>
+  <programme start="20260725200000 +0600" stop="20260725200600 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260725200600 +0600" stop="20260725203000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
+  </programme>
+  <programme start="20260725203000 +0600" stop="20260725203600 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260725203600 +0600" stop="20260725210000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
   </programme>
   <programme start="20260725210000 +0600" stop="20260725210500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260725210500 +0600" stop="20260725212900 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
+  <programme start="20260725210500 +0600" stop="20260725211800 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">12 Minutes With</title>
   </programme>
-  <programme start="20260725212900 +0600" stop="20260725213500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260725211800 +0600" stop="20260725213000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20260725213000 +0600" stop="20260725213500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260725213500 +0600" stop="20260725214600 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
+  <programme start="20260725213500 +0600" stop="20260725214400 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Made In Europe</title>
   </programme>
-  <programme start="20260725214600 +0600" stop="20260725220000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
+  <programme start="20260725214400 +0600" stop="20260725220000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20260725220000 +0600" stop="20260725220500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260725220500 +0600" stop="20260725221800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">12 Minutes With</title>
+  <programme start="20260725220500 +0600" stop="20260725222900 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260725221800 +0600" stop="20260725223000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725223000 +0600" stop="20260725223800 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260725222900 +0600" stop="20260725223500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260725223800 +0600" stop="20260725225100 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Made In Europe</title>
+  <programme start="20260725223500 +0600" stop="20260725225100 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
   </programme>
   <programme start="20260725225100 +0600" stop="20260725230000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Focus</title>
   </programme>
-  <programme start="20260725230000 +0600" stop="20260725230500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260725230000 +0600" stop="20260725231000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260725230500 +0600" stop="20260725233000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
+  <programme start="20260725231000 +0600" stop="20260725233000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">12 Minutes With</title>
   </programme>
-  <programme start="20260725233000 +0600" stop="20260725233500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260725233000 +0600" stop="20260725233800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260725233500 +0600" stop="20260725234600 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
+  <programme start="20260725233800 +0600" stop="20260725234800 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Made In Europe</title>
   </programme>
-  <programme start="20260725234600 +0600" stop="20260726000000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
+  <programme start="20260725234800 +0600" stop="20260726000000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20260726000000 +0600" stop="20260726000500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260726000500 +0600" stop="20260726001800 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726000500 +0600" stop="20260726002900 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
+  </programme>
+  <programme start="20260726002900 +0600" stop="20260726003400 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260726003400 +0600" stop="20260726004500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
+  </programme>
+  <programme start="20260726004500 +0600" stop="20260726010000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260726010000 +0600" stop="20260726010500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260726010500 +0600" stop="20260726011800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">12 Minutes With</title>
   </programme>
-  <programme start="20260726001800 +0600" stop="20260726003000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726011800 +0600" stop="20260726013000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20260726003000 +0600" stop="20260726003500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726013000 +0600" stop="20260726013500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260726003500 +0600" stop="20260726004400 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726013500 +0600" stop="20260726014400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Made In Europe</title>
   </programme>
-  <programme start="20260726004400 +0600" stop="20260726010000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726014400 +0600" stop="20260726020000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726010000 +0600" stop="20260726010600 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
-  </programme>
-  <programme start="20260726010600 +0600" stop="20260726013000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260726013000 +0600" stop="20260726013600 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
-  </programme>
-  <programme start="20260726013600 +0600" stop="20260726020000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
   </programme>
   <programme start="20260726020000 +0600" stop="20260726020500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260726020500 +0600" stop="20260726021800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">12 Minutes With</title>
+  <programme start="20260726020500 +0600" stop="20260726022900 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260726021800 +0600" stop="20260726023000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726023000 +0600" stop="20260726023500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726022900 +0600" stop="20260726023400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260726023500 +0600" stop="20260726024400 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726023400 +0600" stop="20260726024500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
+  </programme>
+  <programme start="20260726024500 +0600" stop="20260726030000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260726030000 +0600" stop="20260726031000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260726031000 +0600" stop="20260726033000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">12 Minutes With</title>
+  </programme>
+  <programme start="20260726033000 +0600" stop="20260726033800 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260726033800 +0600" stop="20260726034800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Made In Europe</title>
   </programme>
-  <programme start="20260726024400 +0600" stop="20260726030000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726034800 +0600" stop="20260726040000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20260726030000 +0600" stop="20260726030500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
+  <programme start="20260726040000 +0600" stop="20260726040500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Global Week-End</title>
   </programme>
-  <programme start="20260726030500 +0600" stop="20260726032900 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260726032900 +0600" stop="20260726033500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
-  </programme>
-  <programme start="20260726033500 +0600" stop="20260726035100 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260726035100 +0600" stop="20260726040000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Focus</title>
-  </programme>
-  <programme start="20260726040000 +0600" stop="20260726041000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
-  </programme>
-  <programme start="20260726041000 +0600" stop="20260726043000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726040500 +0600" stop="20260726041700 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">12 Minutes With</title>
   </programme>
+  <programme start="20260726041700 +0600" stop="20260726043000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Global Week-End</title>
+  </programme>
   <programme start="20260726043000 +0600" stop="20260726043800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
+    <title lang="bn">Global Week-End</title>
   </programme>
   <programme start="20260726043800 +0600" stop="20260726044800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Made In Europe</title>
@@ -515,61 +515,58 @@
     <title lang="bn">News</title>
   </programme>
   <programme start="20260726050000 +0600" stop="20260726050500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
+    <title lang="bn">Global Week-End</title>
   </programme>
-  <programme start="20260726050500 +0600" stop="20260726052900 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726050500 +0600" stop="20260726053000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260726052900 +0600" stop="20260726053400 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
+  <programme start="20260726053000 +0600" stop="20260726053500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Global Week-End</title>
   </programme>
-  <programme start="20260726053400 +0600" stop="20260726054500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726053500 +0600" stop="20260726054500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The Ring</title>
   </programme>
   <programme start="20260726054500 +0600" stop="20260726060000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
+    <title lang="bn">Global Week-End</title>
   </programme>
   <programme start="20260726060000 +0600" stop="20260726060500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
+    <title lang="bn">Global Week-End</title>
   </programme>
-  <programme start="20260726060500 +0600" stop="20260726061800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">12 Minutes With</title>
+  <programme start="20260726060500 +0600" stop="20260726062900 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Europe Conversation</title>
   </programme>
-  <programme start="20260726061800 +0600" stop="20260726063000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">News</title>
+  <programme start="20260726062900 +0600" stop="20260726063800 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Global Week-End</title>
   </programme>
-  <programme start="20260726063000 +0600" stop="20260726063500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
-  </programme>
-  <programme start="20260726063500 +0600" stop="20260726064400 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726063800 +0600" stop="20260726064800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Made In Europe</title>
   </programme>
-  <programme start="20260726064400 +0600" stop="20260726070000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726064800 +0600" stop="20260726070000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20260726070000 +0600" stop="20260726070500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
+    <title lang="bn">Global Week-End</title>
   </programme>
   <programme start="20260726070500 +0600" stop="20260726072900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260726072900 +0600" stop="20260726073400 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
+  <programme start="20260726072900 +0600" stop="20260726073500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Global Week-End</title>
   </programme>
-  <programme start="20260726073400 +0600" stop="20260726074500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726073500 +0600" stop="20260726074600 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260726074500 +0600" stop="20260726080000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
+  <programme start="20260726074600 +0600" stop="20260726080000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Global Week-End</title>
   </programme>
-  <programme start="20260726080000 +0600" stop="20260726081000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
+  <programme start="20260726080000 +0600" stop="20260726080800 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Global Week-End</title>
   </programme>
-  <programme start="20260726081000 +0600" stop="20260726083000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726080800 +0600" stop="20260726082900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">12 Minutes With</title>
   </programme>
-  <programme start="20260726083000 +0600" stop="20260726083800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">5 Minutes</title>
+  <programme start="20260726082900 +0600" stop="20260726083800 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Global Week-End</title>
   </programme>
   <programme start="20260726083800 +0600" stop="20260726084800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Made In Europe</title>
@@ -578,188 +575,188 @@
     <title lang="bn">News</title>
   </programme>
   <programme start="20260726090000 +0600" stop="20260726090500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Global Week-End</title>
+    <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260726090500 +0600" stop="20260726091700 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726090500 +0600" stop="20260726092900 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
+  </programme>
+  <programme start="20260726092900 +0600" stop="20260726093400 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260726093400 +0600" stop="20260726094600 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
+  </programme>
+  <programme start="20260726094600 +0600" stop="20260726100000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260726100000 +0600" stop="20260726100800 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260726100800 +0600" stop="20260726102900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">12 Minutes With</title>
   </programme>
-  <programme start="20260726091700 +0600" stop="20260726093000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Global Week-End</title>
+  <programme start="20260726102900 +0600" stop="20260726103800 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260726093000 +0600" stop="20260726093800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Global Week-End</title>
-  </programme>
-  <programme start="20260726093800 +0600" stop="20260726094800 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726103800 +0600" stop="20260726104800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Made In Europe</title>
   </programme>
-  <programme start="20260726094800 +0600" stop="20260726100000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726104800 +0600" stop="20260726110000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726100000 +0600" stop="20260726100500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Global Week-End</title>
-  </programme>
-  <programme start="20260726100500 +0600" stop="20260726103000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260726103000 +0600" stop="20260726103500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Global Week-End</title>
-  </programme>
-  <programme start="20260726103500 +0600" stop="20260726104500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260726104500 +0600" stop="20260726110000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Global Week-End</title>
   </programme>
   <programme start="20260726110000 +0600" stop="20260726110500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Global Week-End</title>
+    <title lang="bn">5 Minutes</title>
   </programme>
   <programme start="20260726110500 +0600" stop="20260726112900 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Europe Conversation</title>
+    <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260726112900 +0600" stop="20260726113800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Global Week-End</title>
+  <programme start="20260726112900 +0600" stop="20260726113400 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260726113800 +0600" stop="20260726114800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Made In Europe</title>
+  <programme start="20260726113400 +0600" stop="20260726114500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260726114800 +0600" stop="20260726120000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">News</title>
+  <programme start="20260726114500 +0600" stop="20260726120000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
   </programme>
   <programme start="20260726120000 +0600" stop="20260726120500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Global Week-End</title>
+    <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260726120500 +0600" stop="20260726122900 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260726122900 +0600" stop="20260726123500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Global Week-End</title>
-  </programme>
-  <programme start="20260726123500 +0600" stop="20260726124600 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260726124600 +0600" stop="20260726130000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Global Week-End</title>
-  </programme>
-  <programme start="20260726130000 +0600" stop="20260726130800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Global Week-End</title>
-  </programme>
-  <programme start="20260726130800 +0600" stop="20260726132900 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726120500 +0600" stop="20260726121800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">12 Minutes With</title>
   </programme>
-  <programme start="20260726132900 +0600" stop="20260726133800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Global Week-End</title>
-  </programme>
-  <programme start="20260726133800 +0600" stop="20260726134800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Made In Europe</title>
-  </programme>
-  <programme start="20260726134800 +0600" stop="20260726140000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726121800 +0600" stop="20260726123000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20260726140000 +0600" stop="20260726140500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726123000 +0600" stop="20260726123500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260726140500 +0600" stop="20260726142900 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726123500 +0600" stop="20260726124400 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Made In Europe</title>
+  </programme>
+  <programme start="20260726124400 +0600" stop="20260726130000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20260726130000 +0600" stop="20260726130500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260726130500 +0600" stop="20260726132900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260726142900 +0600" stop="20260726143400 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726132900 +0600" stop="20260726133400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260726143400 +0600" stop="20260726144600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726133400 +0600" stop="20260726134500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260726144600 +0600" stop="20260726150000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726134500 +0600" stop="20260726140000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260726150000 +0600" stop="20260726150800 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726140000 +0600" stop="20260726140800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260726150800 +0600" stop="20260726152900 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726140800 +0600" stop="20260726142900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">12 Minutes With</title>
   </programme>
-  <programme start="20260726152900 +0600" stop="20260726153800 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726142900 +0600" stop="20260726143800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260726153800 +0600" stop="20260726154800 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726143800 +0600" stop="20260726144800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Made In Europe</title>
   </programme>
-  <programme start="20260726154800 +0600" stop="20260726160000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260726144800 +0600" stop="20260726150000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
+  </programme>
+  <programme start="20260726150000 +0600" stop="20260726150500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260726150500 +0600" stop="20260726152900 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
+  </programme>
+  <programme start="20260726152900 +0600" stop="20260726153500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260726153500 +0600" stop="20260726155100 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
+  </programme>
+  <programme start="20260726155100 +0600" stop="20260726160000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Focus</title>
   </programme>
   <channel id="CNN.us">
     <display-name>CNN</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg"/>
   </channel>
   <programme start="20260725160000 +0600" stop="20260725170000 +0600" channel="CNN.us">
-    <title lang="bn">The Story Is With Elex Michaelson</title>
+    <title lang="bn">CNN This Morning Weekend</title>
   </programme>
   <programme start="20260725170000 +0600" stop="20260725180000 +0600" channel="CNN.us">
-    <title lang="bn">CNN NewsNight With Abby Phillip</title>
+    <title lang="bn">CNN This Morning Weekend</title>
   </programme>
   <programme start="20260725180000 +0600" stop="20260725190000 +0600" channel="CNN.us">
-    <title lang="bn">CNN NewsNight With Abby Phillip</title>
-  </programme>
-  <programme start="20260725190000 +0600" stop="20260725200000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Newsroom Live</title>
-  </programme>
-  <programme start="20260725200000 +0600" stop="20260725210000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Newsroom Live</title>
-  </programme>
-  <programme start="20260725210000 +0600" stop="20260725220000 +0600" channel="CNN.us">
-    <title lang="bn">CNN This Morning Weekend</title>
-  </programme>
-  <programme start="20260725220000 +0600" stop="20260725230000 +0600" channel="CNN.us">
-    <title lang="bn">CNN This Morning Weekend</title>
-  </programme>
-  <programme start="20260725230000 +0600" stop="20260726000000 +0600" channel="CNN.us">
     <title lang="bn">First of All With Victor Blackwell</title>
   </programme>
-  <programme start="20260726000000 +0600" stop="20260726010000 +0600" channel="CNN.us">
+  <programme start="20260725190000 +0600" stop="20260725200000 +0600" channel="CNN.us">
     <title lang="bn">Smerconish</title>
   </programme>
-  <programme start="20260726010000 +0600" stop="20260726020000 +0600" channel="CNN.us">
+  <programme start="20260725200000 +0600" stop="20260725210000 +0600" channel="CNN.us">
     <title lang="bn">CNN Table for Five</title>
   </programme>
-  <programme start="20260726020000 +0600" stop="20260726030000 +0600" channel="CNN.us">
+  <programme start="20260725210000 +0600" stop="20260725220000 +0600" channel="CNN.us">
     <title lang="bn">The Amanpour Hour</title>
   </programme>
-  <programme start="20260726030000 +0600" stop="20260726040000 +0600" channel="CNN.us">
+  <programme start="20260725220000 +0600" stop="20260725230000 +0600" channel="CNN.us">
     <title lang="bn">The Arena: Saturday</title>
   </programme>
-  <programme start="20260726040000 +0600" stop="20260726050000 +0600" channel="CNN.us">
+  <programme start="20260725230000 +0600" stop="20260726000000 +0600" channel="CNN.us">
     <title lang="bn">Smerconish</title>
   </programme>
-  <programme start="20260726050000 +0600" stop="20260726060000 +0600" channel="CNN.us">
+  <programme start="20260726000000 +0600" stop="20260726010000 +0600" channel="CNN.us">
     <title lang="bn">CNN Newsroom With Fredricka Whitfield</title>
   </programme>
-  <programme start="20260726060000 +0600" stop="20260726070000 +0600" channel="CNN.us">
+  <programme start="20260726010000 +0600" stop="20260726020000 +0600" channel="CNN.us">
     <title lang="bn">CNN Newsroom With Fredricka Whitfield</title>
   </programme>
-  <programme start="20260726070000 +0600" stop="20260726080000 +0600" channel="CNN.us">
+  <programme start="20260726020000 +0600" stop="20260726030000 +0600" channel="CNN.us">
     <title lang="bn">The Arena: Saturday</title>
   </programme>
-  <programme start="20260726080000 +0600" stop="20260726090000 +0600" channel="CNN.us">
+  <programme start="20260726030000 +0600" stop="20260726040000 +0600" channel="CNN.us">
     <title lang="bn">CNN Newsroom</title>
+  </programme>
+  <programme start="20260726040000 +0600" stop="20260726050000 +0600" channel="CNN.us">
+    <title lang="bn">CNN Newsroom</title>
+  </programme>
+  <programme start="20260726050000 +0600" stop="20260726060000 +0600" channel="CNN.us">
+    <title lang="bn">CNN Newsroom</title>
+  </programme>
+  <programme start="20260726060000 +0600" stop="20260726070000 +0600" channel="CNN.us">
+    <title lang="bn">Live Aid: When Rock &amp;#x27;n&amp;#x27; Roll Took on the World</title>
+  </programme>
+  <programme start="20260726070000 +0600" stop="20260726080000 +0600" channel="CNN.us">
+    <title lang="bn">Live Aid: When Rock &amp;#x27;n&amp;#x27; Roll Took on the World</title>
+  </programme>
+  <programme start="20260726080000 +0600" stop="20260726090000 +0600" channel="CNN.us">
+    <title lang="bn">Live Aid: When Rock &amp;#x27;n&amp;#x27; Roll Took on the World</title>
   </programme>
   <programme start="20260726090000 +0600" stop="20260726100000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Newsroom</title>
+    <title lang="bn">Live Aid: When Rock &amp;#x27;n&amp;#x27; Roll Took on the World</title>
   </programme>
   <programme start="20260726100000 +0600" stop="20260726110000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Newsroom</title>
+    <title lang="bn">Vegas: The Story of Sin City</title>
   </programme>
   <programme start="20260726110000 +0600" stop="20260726120000 +0600" channel="CNN.us">
-    <title lang="bn">Live Aid: When Rock &amp;#x27;n&amp;#x27; Roll Took on the World</title>
+    <title lang="bn">Vegas: The Story of Sin City</title>
   </programme>
   <programme start="20260726120000 +0600" stop="20260726130000 +0600" channel="CNN.us">
-    <title lang="bn">Live Aid: When Rock &amp;#x27;n&amp;#x27; Roll Took on the World</title>
+    <title lang="bn">Vegas: The Story of Sin City</title>
   </programme>
   <programme start="20260726130000 +0600" stop="20260726140000 +0600" channel="CNN.us">
-    <title lang="bn">Live Aid: When Rock &amp;#x27;n&amp;#x27; Roll Took on the World</title>
+    <title lang="bn">Vegas: The Story of Sin City</title>
   </programme>
   <programme start="20260726140000 +0600" stop="20260726150000 +0600" channel="CNN.us">
-    <title lang="bn">Live Aid: When Rock &amp;#x27;n&amp;#x27; Roll Took on the World</title>
+    <title lang="bn">CNN Newsroom Live</title>
   </programme>
   <programme start="20260726150000 +0600" stop="20260726160000 +0600" channel="CNN.us">
-    <title lang="bn">Vegas: The Story of Sin City</title>
+    <title lang="bn">CNN Newsroom Live</title>
   </programme>
   <channel id="TV9Bharatvarsh">
     <display-name>NEWS | TV9 Bharatvarsh</display-name>
@@ -1013,69 +1010,6 @@
     <display-name>Al Jazeera English</display-name>
     <icon src="https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png"/>
   </channel>
-  <programme start="20260724000000 +0600" stop="20260724030000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260724030000 +0600" stop="20260724060000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260724060000 +0600" stop="20260724090000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260724090000 +0600" stop="20260724120000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260724120000 +0600" stop="20260724150000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260724150000 +0600" stop="20260724180000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260724180000 +0600" stop="20260725000000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260725000000 +0600" stop="20260725030000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260725030000 +0600" stop="20260725060000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260725060000 +0600" stop="20260725090000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260725090000 +0600" stop="20260725120000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260725120000 +0600" stop="20260725150000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260725150000 +0600" stop="20260725180000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260725180000 +0600" stop="20260726000000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260726000000 +0600" stop="20260726030000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260726030000 +0600" stop="20260726060000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260726060000 +0600" stop="20260726090000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260726090000 +0600" stop="20260726120000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260726120000 +0600" stop="20260726150000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260726150000 +0600" stop="20260726180000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
-  <programme start="20260726180000 +0600" stop="20260726183000 +0600" channel="aljazeera.com">
-    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
-  </programme>
   <channel id="WION.in">
     <display-name>WION</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/1d/WION_World_Is_One_News.svg"/>
@@ -1635,402 +1569,6 @@
     <display-name>TRTWorld.tr</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/6/6e/TRT_World_logo.svg"/>
   </channel>
-  <programme start="20260724000000 +0600" stop="20260724003000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260724003000 +0600" stop="20260724010000 +0600" channel="TRT World">
-    <title lang="bn">Nextech</title>
-  </programme>
-  <programme start="20260724010000 +0600" stop="20260724013000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260724013000 +0600" stop="20260724020000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
-  </programme>
-  <programme start="20260724020000 +0600" stop="20260724023000 +0600" channel="TRT World">
-    <title lang="bn">Business News</title>
-  </programme>
-  <programme start="20260724023000 +0600" stop="20260724030000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20260724030000 +0600" stop="20260724040000 +0600" channel="TRT World">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260724040000 +0600" stop="20260724050000 +0600" channel="TRT World">
-    <title lang="bn">Storyteller</title>
-  </programme>
-  <programme start="20260724050000 +0600" stop="20260724053000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260724053000 +0600" stop="20260724060000 +0600" channel="TRT World">
-    <title lang="bn">Nextech</title>
-  </programme>
-  <programme start="20260724060000 +0600" stop="20260724063000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260724063000 +0600" stop="20260724070000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20260724070000 +0600" stop="20260724080000 +0600" channel="TRT World">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260724080000 +0600" stop="20260724083000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260724083000 +0600" stop="20260724090000 +0600" channel="TRT World">
-    <title lang="bn">Nexus</title>
-  </programme>
-  <programme start="20260724090000 +0600" stop="20260724093000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260724093000 +0600" stop="20260724100000 +0600" channel="TRT World">
-    <title lang="bn">Africa Matters</title>
-  </programme>
-  <programme start="20260724100000 +0600" stop="20260724103000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260724103000 +0600" stop="20260724110000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20260724110000 +0600" stop="20260724120000 +0600" channel="TRT World">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260724120000 +0600" stop="20260724123000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20260724123000 +0600" stop="20260724130000 +0600" channel="TRT World">
-    <title lang="bn">Money Talks</title>
-  </programme>
-  <programme start="20260724130000 +0600" stop="20260724131500 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20260724131500 +0600" stop="20260724133000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20260724133000 +0600" stop="20260724140000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
-  </programme>
-  <programme start="20260724140000 +0600" stop="20260724150000 +0600" channel="TRT World">
-    <title lang="bn">Newshour - London</title>
-  </programme>
-  <programme start="20260724150000 +0600" stop="20260724153000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20260724153000 +0600" stop="20260724160000 +0600" channel="TRT World">
-    <title lang="bn">Across The Balkans</title>
-  </programme>
-  <programme start="20260724160000 +0600" stop="20260724163000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20260724163000 +0600" stop="20260724170000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260724170000 +0600" stop="20260724173000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260724173000 +0600" stop="20260724180000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20260724180000 +0600" stop="20260724183000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260724183000 +0600" stop="20260724190000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
-  </programme>
-  <programme start="20260724190000 +0600" stop="20260724193000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260724193000 +0600" stop="20260724200000 +0600" channel="TRT World">
-    <title lang="bn">Nextech</title>
-  </programme>
-  <programme start="20260724200000 +0600" stop="20260724201500 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260724201500 +0600" stop="20260724203000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20260724203000 +0600" stop="20260724210000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260724210000 +0600" stop="20260724213000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260724213000 +0600" stop="20260724220000 +0600" channel="TRT World">
-    <title lang="bn">Money Talks</title>
-  </programme>
-  <programme start="20260724220000 +0600" stop="20260724223000 +0600" channel="TRT World">
-    <title lang="bn">Across The Balkans</title>
-  </programme>
-  <programme start="20260724223000 +0600" stop="20260724230000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20260724230000 +0600" stop="20260724233000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260724233000 +0600" stop="20260725000000 +0600" channel="TRT World">
-    <title lang="bn">Africa Matters</title>
-  </programme>
-  <programme start="20260725000000 +0600" stop="20260725003000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725003000 +0600" stop="20260725010000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260725010000 +0600" stop="20260725013000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725013000 +0600" stop="20260725020000 +0600" channel="TRT World">
-    <title lang="bn">Money Talks</title>
-  </programme>
-  <programme start="20260725020000 +0600" stop="20260725023000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725023000 +0600" stop="20260725030000 +0600" channel="TRT World">
-    <title lang="bn">My America</title>
-  </programme>
-  <programme start="20260725030000 +0600" stop="20260725033000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725033000 +0600" stop="20260725040000 +0600" channel="TRT World">
-    <title lang="bn">Bigger Than Five</title>
-  </programme>
-  <programme start="20260725040000 +0600" stop="20260725043000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20260725043000 +0600" stop="20260725050000 +0600" channel="TRT World">
-    <title lang="bn">Just 2 Degrees</title>
-  </programme>
-  <programme start="20260725050000 +0600" stop="20260725053000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725053000 +0600" stop="20260725054500 +0600" channel="TRT World">
-    <title lang="bn">Debrief</title>
-  </programme>
-  <programme start="20260725054500 +0600" stop="20260725060000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20260725060000 +0600" stop="20260725063000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725063000 +0600" stop="20260725070000 +0600" channel="TRT World">
-    <title lang="bn">Building Visions</title>
-  </programme>
-  <programme start="20260725070000 +0600" stop="20260725073000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725073000 +0600" stop="20260725080000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260725080000 +0600" stop="20260725083000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725083000 +0600" stop="20260725090000 +0600" channel="TRT World">
-    <title lang="bn">Money Talks</title>
-  </programme>
-  <programme start="20260725090000 +0600" stop="20260725093000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725093000 +0600" stop="20260725100000 +0600" channel="TRT World">
-    <title lang="bn">Across The Balkans</title>
-  </programme>
-  <programme start="20260725100000 +0600" stop="20260725103000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20260725103000 +0600" stop="20260725110000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
-  </programme>
-  <programme start="20260725110000 +0600" stop="20260725113000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725113000 +0600" stop="20260725120000 +0600" channel="TRT World">
-    <title lang="bn">Nexus</title>
-  </programme>
-  <programme start="20260725120000 +0600" stop="20260725123000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725123000 +0600" stop="20260725130000 +0600" channel="TRT World">
-    <title lang="bn">Africa Matters</title>
-  </programme>
-  <programme start="20260725130000 +0600" stop="20260725133000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725133000 +0600" stop="20260725140000 +0600" channel="TRT World">
-    <title lang="bn">Inside America</title>
-  </programme>
-  <programme start="20260725140000 +0600" stop="20260725143000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725143000 +0600" stop="20260725144500 +0600" channel="TRT World">
-    <title lang="bn">Scoreline</title>
-  </programme>
-  <programme start="20260725144500 +0600" stop="20260725150000 +0600" channel="TRT World">
-    <title lang="bn">Debrief</title>
-  </programme>
-  <programme start="20260725150000 +0600" stop="20260725153000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725153000 +0600" stop="20260725160000 +0600" channel="TRT World">
-    <title lang="bn">Money Talks</title>
-  </programme>
-  <programme start="20260725160000 +0600" stop="20260725163000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725163000 +0600" stop="20260725170000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260725170000 +0600" stop="20260725180000 +0600" channel="TRT World">
-    <title lang="bn">Storyteller</title>
-  </programme>
-  <programme start="20260725180000 +0600" stop="20260725183000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725183000 +0600" stop="20260725184500 +0600" channel="TRT World">
-    <title lang="bn">Scoreline</title>
-  </programme>
-  <programme start="20260725184500 +0600" stop="20260725190000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20260725190000 +0600" stop="20260725193000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725193000 +0600" stop="20260725200000 +0600" channel="TRT World">
-    <title lang="bn">Just 2 Degrees</title>
-  </programme>
-  <programme start="20260725200000 +0600" stop="20260725201500 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725201500 +0600" stop="20260725203000 +0600" channel="TRT World">
-    <title lang="bn">Debrief</title>
-  </programme>
-  <programme start="20260725203000 +0600" stop="20260725210000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20260725210000 +0600" stop="20260725213000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725213000 +0600" stop="20260725220000 +0600" channel="TRT World">
-    <title lang="bn">Money Talks</title>
-  </programme>
-  <programme start="20260725220000 +0600" stop="20260725230000 +0600" channel="TRT World">
-    <title lang="bn">Storyteller</title>
-  </programme>
-  <programme start="20260725230000 +0600" stop="20260725233000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260725233000 +0600" stop="20260726000000 +0600" channel="TRT World">
-    <title lang="bn">Bigger Than Five</title>
-  </programme>
-  <programme start="20260726000000 +0600" stop="20260726003000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726003000 +0600" stop="20260726010000 +0600" channel="TRT World">
-    <title lang="bn">Building Visions</title>
-  </programme>
-  <programme start="20260726010000 +0600" stop="20260726013000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726013000 +0600" stop="20260726020000 +0600" channel="TRT World">
-    <title lang="bn">Money Talks</title>
-  </programme>
-  <programme start="20260726020000 +0600" stop="20260726023000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726023000 +0600" stop="20260726030000 +0600" channel="TRT World">
-    <title lang="bn">Africa Matters</title>
-  </programme>
-  <programme start="20260726030000 +0600" stop="20260726033000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726033000 +0600" stop="20260726040000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260726040000 +0600" stop="20260726043000 +0600" channel="TRT World">
-    <title lang="bn">Nexus</title>
-  </programme>
-  <programme start="20260726043000 +0600" stop="20260726050000 +0600" channel="TRT World">
-    <title lang="bn">Nextech</title>
-  </programme>
-  <programme start="20260726050000 +0600" stop="20260726053000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726053000 +0600" stop="20260726060000 +0600" channel="TRT World">
-    <title lang="bn">My America</title>
-  </programme>
-  <programme start="20260726060000 +0600" stop="20260726063000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726063000 +0600" stop="20260726070000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20260726070000 +0600" stop="20260726073000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726073000 +0600" stop="20260726074500 +0600" channel="TRT World">
-    <title lang="bn">Debrief</title>
-  </programme>
-  <programme start="20260726074500 +0600" stop="20260726080000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20260726080000 +0600" stop="20260726083000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726083000 +0600" stop="20260726090000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260726090000 +0600" stop="20260726093000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726093000 +0600" stop="20260726100000 +0600" channel="TRT World">
-    <title lang="bn">Just 2 Degrees</title>
-  </programme>
-  <programme start="20260726100000 +0600" stop="20260726110000 +0600" channel="TRT World">
-    <title lang="bn">Storyteller</title>
-  </programme>
-  <programme start="20260726110000 +0600" stop="20260726113000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726113000 +0600" stop="20260726120000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
-  </programme>
-  <programme start="20260726120000 +0600" stop="20260726123000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726123000 +0600" stop="20260726130000 +0600" channel="TRT World">
-    <title lang="bn">Money Talks</title>
-  </programme>
-  <programme start="20260726130000 +0600" stop="20260726133000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726133000 +0600" stop="20260726140000 +0600" channel="TRT World">
-    <title lang="bn">Across The Balkans</title>
-  </programme>
-  <programme start="20260726140000 +0600" stop="20260726143000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726143000 +0600" stop="20260726144500 +0600" channel="TRT World">
-    <title lang="bn">Scoreline</title>
-  </programme>
-  <programme start="20260726144500 +0600" stop="20260726150000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20260726150000 +0600" stop="20260726153000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726153000 +0600" stop="20260726160000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260726160000 +0600" stop="20260726163000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726163000 +0600" stop="20260726170000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20260726170000 +0600" stop="20260726173000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260726173000 +0600" stop="20260726180000 +0600" channel="TRT World">
-    <title lang="bn">Building Visions</title>
-  </programme>
   <channel id="Bloomberg TV">
     <display-name>BloombergTV.us</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/9/93/Bloomberg_tv_2016.svg"/>
