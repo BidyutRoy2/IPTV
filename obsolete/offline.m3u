@@ -9,10 +9,6 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla News",IN | Ananda Barta (1d)
 https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | High News (0d)
-https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | High News (0d)
-http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 group-title="India",ENT | DD Bharati (1d)
 https://cdn-1.pishow.tv/live/10/master.m3u8
 #EXTINF:-1 group-title="India",ENT | Manoranjan Grand (1d)
@@ -29,18 +25,20 @@ https://cdn-1.pishow.tv/live/449/master.m3u8
 https://dprx6ugrwz23t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3dd1mb493xhhl/H2O_Friends_GB.m3u8
 #EXTINF:-1 group-title="Kids",1. Hi Dost! (1d)
 https://cdn-1.pishow.tv/live/224/master.m3u8
+#EXTINF:-1 group-title="Movies",EN | Action Hollywood Movies (0d)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Music",AR | Arabica TV (5d)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 group-title="Pakistan",ENT | Bol Entertainment (5d)
 https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
-#EXTINF:-1 group-title="Pakistan",ENT | Express Entertainment (9d)
-https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 group-title="Pakistan",NEWS | Dunya News (0d)
+https://imob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 group-title="Pakistan",NEWS | Dunya News (0d)
+https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w1668837618_b950272.m3u8
+#EXTINF:-1 group-title="Pakistan",NEWS | Dunya News (0d)
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1 group-title="Pakistan",NEWS | Dunya News (0d)
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
-#EXTINF:-1 group-title="Religious",IBN TV Africa (1d)
-http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
-#EXTINF:-1 group-title="Religious",MTA 1 Bangla (0d)
-https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 group-title="Sports",---FIFA(S Football)--- (8d)
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 #EXTINF:-1 group-title="Sports",MIXER | ESPN (9d)
