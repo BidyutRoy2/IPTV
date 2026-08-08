@@ -1,55 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla",Ayna TV (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",GALAXY TV BD (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",GAZI TV HD (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",Mohona TV (5d)
+#EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 group-title="Bangla",Mohona TV (6d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",Movie Bangla TV (1d)
+#EXTINF:-1 group-title="Bangla",Movie Bangla TV (2d)
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 group-title="Bangla",RTV (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",TIKANA TV (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",Time Televis HD (0d)
-https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | Channel 1 (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | Jago News 24 (0d)
+#EXTINF:-1 group-title="Bangla News",BD | Jago News 24 (1d)
 https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | Jago News 24 (0d)
+#EXTINF:-1 group-title="Bangla News",BD | Jago News 24 (1d)
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
-#EXTINF:-1 group-title="India",MU | 8X music (7d)
+#EXTINF:-1 group-title="India",MU | 8X music (8d)
 https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
-#EXTINF:-1 group-title="India",NEWS | ET Now Swadesh (9d)
-https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="International News",CNN International (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="International News",HLN (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Kids",1. Ketchup TV (0d)
+#EXTINF:-1 group-title="Kids",1. Ketchup TV (1d)
 https://d24p9tv2w5yorn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hv7b0gembp7xn/vod.m3u8
-#EXTINF:-1 group-title="Kids",1. Roya Kids (0d)
+#EXTINF:-1 group-title="Kids",1. Roya Kids (1d)
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
-#EXTINF:-1 group-title="Kids",2. YAAAS! (0d)
+#EXTINF:-1 group-title="Kids",2. YAAAS! (1d)
 https://d3knqoaufvjug3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-caepqnvi5dnka/yas.m3u8
-#EXTINF:-1 group-title="Music",EN | Cool Summer Channel (0d)
+#EXTINF:-1 group-title="Movies",OTHER | K Cine (0d)
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music",EN | Cool Summer Channel (1d)
 https://d2hzqddebd4oer.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-468m04kfpf5n7/csts.m3u8
-#EXTINF:-1 group-title="Music",EN | Def Jam (0d)
+#EXTINF:-1 group-title="Music",EN | Def Jam (1d)
 https://d1t9jj3kgy7bur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m84lyt8jpwc3r/gigs.m3u8
-#EXTINF:-1 group-title="Religious",Al Quran Al Kareem TV (8d)
+#EXTINF:-1 group-title="Religious",Al Quran Al Kareem TV (9d)
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-#EXTINF:-1 group-title="Religious",MTA 1 Bangla (0d)
+#EXTINF:-1 group-title="Religious",MTA 1 Bangla (1d)
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
-#EXTINF:-1 group-title="Religious",Peace TV English (0d)
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-#EXTINF:-1 group-title="Sports",---FIFA(BEIN SPORTS 1 Turkey)--- (0d)
+#EXTINF:-1 group-title="Sports",---FIFA(BEIN SPORTS 1 Turkey)--- (1d)
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 group-title="Sports",--Live(Euro Sport 1)-- (0d)
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 group-title="Sports",FB | Goal TV (0d)
-https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
-#EXTINF:-1 group-title="Sports",FB | Goal TV (0d)
-https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8
