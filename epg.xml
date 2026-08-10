@@ -146,50 +146,44 @@
     <display-name>ENT | Sony Entertainment HD</display-name>
     <icon src="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png"/>
   </channel>
-  <programme start="20260810153000 +0600" stop="20260810163000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">ATN Live Gurubani</title>
+  <programme start="20260810153000 +0600" stop="20260810170000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">India&amp;#x27;s Best Dancer</title>
   </programme>
-  <programme start="20260810163000 +0600" stop="20260810170000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Mere Sai - Shraddha Aur Saburi</title>
+  <programme start="20260810170000 +0600" stop="20260810183000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">The Kapil Sharma Show</title>
   </programme>
-  <programme start="20260810170000 +0600" stop="20260810173000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Vighnaharta Ganesh</title>
-  </programme>
-  <programme start="20260810173000 +0600" stop="20260810180000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Vighnaharta Ganesh</title>
-  </programme>
-  <programme start="20260810180000 +0600" stop="20260810183000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Awakening Of Brahmakumari&amp;#x27;s</title>
-  </programme>
-  <programme start="20260810183000 +0600" stop="20260810193000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">C.I.D.</title>
-  </programme>
-  <programme start="20260810193000 +0600" stop="20260810200000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260810183000 +0600" stop="20260810190000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Asian Magazine</title>
   </programme>
-  <programme start="20260810200000 +0600" stop="20260810203000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">ATN&amp;#x27;s Tribute to 100 Years of Indian Cinema</title>
+  <programme start="20260810190000 +0600" stop="20260810193000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Asian Magazine</title>
   </programme>
-  <programme start="20260810203000 +0600" stop="20260810213000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260810193000 +0600" stop="20260810203000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Crime Patrol</title>
   </programme>
+  <programme start="20260810203000 +0600" stop="20260810213000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">ATN Live Gurubani</title>
+  </programme>
   <programme start="20260810213000 +0600" stop="20260810220000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Gatha Shree Ashtavinayak Ki</title>
+    <title lang="bn">Mere Sai - Shraddha Aur Saburi</title>
   </programme>
   <programme start="20260810220000 +0600" stop="20260810223000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Gatha Shree Ashtavinayak Ki</title>
+    <title lang="bn">Vighnaharta Ganesh</title>
   </programme>
-  <programme start="20260810223000 +0600" stop="20260810233000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260810223000 +0600" stop="20260810230000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Vighnaharta Ganesh</title>
+  </programme>
+  <programme start="20260810230000 +0600" stop="20260810233000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Awakening Of Brahmakumari&amp;#x27;s</title>
+  </programme>
+  <programme start="20260810233000 +0600" stop="20260811003000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">C.I.D.</title>
   </programme>
-  <programme start="20260810233000 +0600" stop="20260811000000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Taarak Mehta Ka Ooltah Chashmah</title>
+  <programme start="20260811003000 +0600" stop="20260811010000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Asian Magazine</title>
   </programme>
-  <programme start="20260811000000 +0600" stop="20260811003000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Pushpa Impossible</title>
-  </programme>
-  <programme start="20260811003000 +0600" stop="20260811013000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">The Drama Company</title>
+  <programme start="20260811010000 +0600" stop="20260811013000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">ATN&amp;#x27;s Tribute to 100 Years of Indian Cinema</title>
   </programme>
   <programme start="20260811013000 +0600" stop="20260811023000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Crime Patrol</title>
@@ -200,123 +194,120 @@
   <programme start="20260811030000 +0600" stop="20260811033000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Gatha Shree Ashtavinayak Ki</title>
   </programme>
-  <programme start="20260811033000 +0600" stop="20260811040000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Mere Sai - Shraddha Aur Saburi</title>
-  </programme>
-  <programme start="20260811040000 +0600" stop="20260811043000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Asian Magazine</title>
+  <programme start="20260811033000 +0600" stop="20260811043000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">C.I.D.</title>
   </programme>
   <programme start="20260811043000 +0600" stop="20260811050000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Asian Magazine</title>
+    <title lang="bn">Taarak Mehta Ka Ooltah Chashmah</title>
   </programme>
   <programme start="20260811050000 +0600" stop="20260811053000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Taarak Mehta Ka Ooltah Chashmah</title>
-  </programme>
-  <programme start="20260811053000 +0600" stop="20260811060000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Pushpa Impossible</title>
   </programme>
-  <programme start="20260811060000 +0600" stop="20260811063000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Gatha Shree Ashtavinayak Ki</title>
-  </programme>
-  <programme start="20260811063000 +0600" stop="20260811070000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Gatha Shree Ashtavinayak Ki</title>
-  </programme>
-  <programme start="20260811070000 +0600" stop="20260811083000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Kaun Banega Crorepati</title>
-  </programme>
-  <programme start="20260811083000 +0600" stop="20260811093000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260811053000 +0600" stop="20260811063000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">The Drama Company</title>
   </programme>
-  <programme start="20260811093000 +0600" stop="20260811100000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Mere Sai - Shraddha Aur Saburi</title>
-  </programme>
-  <programme start="20260811100000 +0600" stop="20260811113000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Kaun Banega Crorepati</title>
-  </programme>
-  <programme start="20260811113000 +0600" stop="20260811120100 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Gatha Shree Ashtavinayak Ki</title>
-  </programme>
-  <programme start="20260811120100 +0600" stop="20260811123000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Gatha Shree Ashtavinayak Ki</title>
-  </programme>
-  <programme start="20260811123000 +0600" stop="20260811130000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Taarak Mehta Ka Ooltah Chashmah</title>
-  </programme>
-  <programme start="20260811130000 +0600" stop="20260811133000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Pushpa Impossible</title>
-  </programme>
-  <programme start="20260811133000 +0600" stop="20260811140000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Asian Magazine</title>
-  </programme>
-  <programme start="20260811140000 +0600" stop="20260811143000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Asian Magazine</title>
-  </programme>
-  <programme start="20260811143000 +0600" stop="20260811153000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260811063000 +0600" stop="20260811073000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Crime Patrol</title>
   </programme>
-  <programme start="20260811153000 +0600" stop="20260811163000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">ATN Live Gurubani</title>
+  <programme start="20260811073000 +0600" stop="20260811080000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Gatha Shree Ashtavinayak Ki</title>
+  </programme>
+  <programme start="20260811080000 +0600" stop="20260811083000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Gatha Shree Ashtavinayak Ki</title>
+  </programme>
+  <programme start="20260811083000 +0600" stop="20260811090000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Mere Sai - Shraddha Aur Saburi</title>
+  </programme>
+  <programme start="20260811090000 +0600" stop="20260811093000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Asian Magazine</title>
+  </programme>
+  <programme start="20260811093000 +0600" stop="20260811100000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Asian Magazine</title>
+  </programme>
+  <programme start="20260811100000 +0600" stop="20260811103000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Taarak Mehta Ka Ooltah Chashmah</title>
+  </programme>
+  <programme start="20260811103000 +0600" stop="20260811110000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Pushpa Impossible</title>
+  </programme>
+  <programme start="20260811110000 +0600" stop="20260811113000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Gatha Shree Ashtavinayak Ki</title>
+  </programme>
+  <programme start="20260811113000 +0600" stop="20260811120000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Gatha Shree Ashtavinayak Ki</title>
+  </programme>
+  <programme start="20260811120000 +0600" stop="20260811133000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Kaun Banega Crorepati</title>
+  </programme>
+  <programme start="20260811133000 +0600" stop="20260811143000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">The Drama Company</title>
+  </programme>
+  <programme start="20260811143000 +0600" stop="20260811150000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Mere Sai - Shraddha Aur Saburi</title>
+  </programme>
+  <programme start="20260811150000 +0600" stop="20260811163000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Kaun Banega Crorepati</title>
   </programme>
   <channel id="FoxNews.us">
     <display-name>Fox News</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg"/>
   </channel>
   <programme start="20260810160000 +0600" stop="20260810170000 +0600" channel="FoxNews.us">
-    <title lang="bn">FOX and Friends</title>
+    <title lang="bn">One Nation With Brian Kilmeade</title>
   </programme>
   <programme start="20260810170000 +0600" stop="20260810180000 +0600" channel="FoxNews.us">
-    <title lang="bn">FOX and Friends</title>
+    <title lang="bn">FOX News Sunday</title>
   </programme>
   <programme start="20260810180000 +0600" stop="20260810190000 +0600" channel="FoxNews.us">
-    <title lang="bn">FOX and Friends</title>
+    <title lang="bn">Life, Liberty &amp;amp; Levin</title>
   </programme>
   <programme start="20260810190000 +0600" stop="20260810200000 +0600" channel="FoxNews.us">
-    <title lang="bn">America&amp;#x27;s Newsroom</title>
+    <title lang="bn">Sunday Night in America With Trey Gowdy</title>
   </programme>
   <programme start="20260810200000 +0600" stop="20260810210000 +0600" channel="FoxNews.us">
-    <title lang="bn">America&amp;#x27;s Newsroom</title>
+    <title lang="bn">FOX &amp;amp; Friends First</title>
   </programme>
   <programme start="20260810210000 +0600" stop="20260810220000 +0600" channel="FoxNews.us">
-    <title lang="bn">The Faulkner Focus</title>
+    <title lang="bn">FOX and Friends</title>
   </programme>
   <programme start="20260810220000 +0600" stop="20260810230000 +0600" channel="FoxNews.us">
-    <title lang="bn">Outnumbered</title>
+    <title lang="bn">FOX and Friends</title>
   </programme>
   <programme start="20260810230000 +0600" stop="20260811000000 +0600" channel="FoxNews.us">
-    <title lang="bn">America Reports</title>
+    <title lang="bn">FOX and Friends</title>
   </programme>
   <programme start="20260811000000 +0600" stop="20260811010000 +0600" channel="FoxNews.us">
-    <title lang="bn">America Reports</title>
+    <title lang="bn">America&amp;#x27;s Newsroom</title>
   </programme>
   <programme start="20260811010000 +0600" stop="20260811020000 +0600" channel="FoxNews.us">
-    <title lang="bn">The Story With Martha MacCallum</title>
+    <title lang="bn">America&amp;#x27;s Newsroom</title>
   </programme>
   <programme start="20260811020000 +0600" stop="20260811030000 +0600" channel="FoxNews.us">
-    <title lang="bn">The Will Cain Show</title>
+    <title lang="bn">The Faulkner Focus</title>
   </programme>
   <programme start="20260811030000 +0600" stop="20260811040000 +0600" channel="FoxNews.us">
-    <title lang="bn">The Five</title>
+    <title lang="bn">Outnumbered</title>
   </programme>
   <programme start="20260811040000 +0600" stop="20260811050000 +0600" channel="FoxNews.us">
-    <title lang="bn">Special Report With Bret Baier</title>
+    <title lang="bn">America Reports</title>
   </programme>
   <programme start="20260811050000 +0600" stop="20260811060000 +0600" channel="FoxNews.us">
-    <title lang="bn">The Ingraham Angle</title>
+    <title lang="bn">America Reports</title>
   </programme>
   <programme start="20260811060000 +0600" stop="20260811070000 +0600" channel="FoxNews.us">
-    <title lang="bn">Jesse Watters Primetime</title>
+    <title lang="bn">The Story With Martha MacCallum</title>
   </programme>
   <programme start="20260811070000 +0600" stop="20260811080000 +0600" channel="FoxNews.us">
-    <title lang="bn">Hannity</title>
+    <title lang="bn">The Will Cain Show</title>
   </programme>
   <programme start="20260811080000 +0600" stop="20260811090000 +0600" channel="FoxNews.us">
-    <title lang="bn">Gutfeld!</title>
+    <title lang="bn">The Five</title>
   </programme>
   <programme start="20260811090000 +0600" stop="20260811100000 +0600" channel="FoxNews.us">
-    <title lang="bn">Fox News at Night</title>
+    <title lang="bn">Special Report With Bret Baier</title>
   </programme>
   <programme start="20260811100000 +0600" stop="20260811110000 +0600" channel="FoxNews.us">
-    <title lang="bn">The Five</title>
+    <title lang="bn">The Ingraham Angle</title>
   </programme>
   <programme start="20260811110000 +0600" stop="20260811120000 +0600" channel="FoxNews.us">
     <title lang="bn">Jesse Watters Primetime</title>
@@ -331,110 +322,95 @@
     <title lang="bn">Fox News at Night</title>
   </programme>
   <programme start="20260811150000 +0600" stop="20260811160000 +0600" channel="FoxNews.us">
-    <title lang="bn">FOX &amp;amp; Friends First</title>
+    <title lang="bn">The Five</title>
   </programme>
   <channel id="EuronewsEnglish.fr">
     <display-name>Euronews English</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/f/f9/Euronews_2022_Stacked_III.svg"/>
   </channel>
   <programme start="20260810160000 +0600" stop="20260810161500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Euronews Now</title>
+    <title lang="bn">Wake up Europe</title>
   </programme>
   <programme start="20260810161500 +0600" stop="20260810163000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Euronews Now</title>
+    <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20260810163000 +0600" stop="20260810170000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Euronews Now</title>
+  <programme start="20260810163000 +0600" stop="20260810164500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20260810170000 +0600" stop="20260810171500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Euronews Now</title>
+  <programme start="20260810164500 +0600" stop="20260810165100 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20260810171500 +0600" stop="20260810173000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Euronews Now</title>
+  <programme start="20260810165100 +0600" stop="20260810173000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Silk Road Adventure</title>
   </programme>
-  <programme start="20260810173000 +0600" stop="20260810180000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Euronews Now</title>
+  <programme start="20260810173000 +0600" stop="20260810174800 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20260810180000 +0600" stop="20260810181500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Euronews Now</title>
+  <programme start="20260810174800 +0600" stop="20260810183000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Made In Europe</title>
   </programme>
-  <programme start="20260810181500 +0600" stop="20260810183000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Euronews Now</title>
-  </programme>
-  <programme start="20260810183000 +0600" stop="20260810190000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Euronews Now</title>
-  </programme>
-  <programme start="20260810190000 +0600" stop="20260810191500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Euronews Now</title>
-  </programme>
-  <programme start="20260810191500 +0600" stop="20260810193000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Euronews Now</title>
+  <programme start="20260810183000 +0600" stop="20260810193000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Wake up Europe</title>
   </programme>
   <programme start="20260810193000 +0600" stop="20260810200000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20260810200000 +0600" stop="20260810201800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
+  <programme start="20260810200000 +0600" stop="20260810201600 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Euronews Now</title>
   </programme>
-  <programme start="20260810201800 +0600" stop="20260810203000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260810201600 +0600" stop="20260810203000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Made In Europe</title>
   </programme>
-  <programme start="20260810203000 +0600" stop="20260810204900 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
-  </programme>
-  <programme start="20260810204900 +0600" stop="20260810210000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Silk Road Adventure</title>
+  <programme start="20260810203000 +0600" stop="20260810210000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Euronews Now</title>
   </programme>
   <programme start="20260810210000 +0600" stop="20260810211500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
+    <title lang="bn">Euronews Now</title>
   </programme>
   <programme start="20260810211500 +0600" stop="20260810213000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
+    <title lang="bn">Euronews Now</title>
   </programme>
   <programme start="20260810213000 +0600" stop="20260810220000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
+    <title lang="bn">Euronews Now</title>
   </programme>
   <programme start="20260810220000 +0600" stop="20260810221500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
+    <title lang="bn">Euronews Now</title>
   </programme>
   <programme start="20260810221500 +0600" stop="20260810223000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
+    <title lang="bn">Euronews Now</title>
   </programme>
   <programme start="20260810223000 +0600" stop="20260810230000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
+    <title lang="bn">Euronews Now</title>
   </programme>
   <programme start="20260810230000 +0600" stop="20260810231500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
+    <title lang="bn">Euronews Now</title>
   </programme>
   <programme start="20260810231500 +0600" stop="20260810233000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Euronews Now</title>
+  </programme>
+  <programme start="20260810233000 +0600" stop="20260811000000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Euronews Now</title>
+  </programme>
+  <programme start="20260811000000 +0600" stop="20260811001500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Euronews Now</title>
+  </programme>
+  <programme start="20260811001500 +0600" stop="20260811003000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Euronews Now</title>
+  </programme>
+  <programme start="20260811003000 +0600" stop="20260811010000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Euronews Now</title>
+  </programme>
+  <programme start="20260811010000 +0600" stop="20260811011800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260810233000 +0600" stop="20260810234700 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260811011800 +0600" stop="20260811013000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Made In Europe</title>
+  </programme>
+  <programme start="20260811013000 +0600" stop="20260811014900 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260810234700 +0600" stop="20260811000000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">East west connect</title>
-  </programme>
-  <programme start="20260811000000 +0600" stop="20260811001400 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
-  </programme>
-  <programme start="20260811001400 +0600" stop="20260811003100 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
-  </programme>
-  <programme start="20260811003100 +0600" stop="20260811004500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260811004500 +0600" stop="20260811010000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
-  </programme>
-  <programme start="20260811010000 +0600" stop="20260811011500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
-  </programme>
-  <programme start="20260811011500 +0600" stop="20260811013000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
-  </programme>
-  <programme start="20260811013000 +0600" stop="20260811020000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
+  <programme start="20260811014900 +0600" stop="20260811020000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Silk Road Adventure</title>
   </programme>
   <programme start="20260811020000 +0600" stop="20260811021500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
@@ -442,11 +418,8 @@
   <programme start="20260811021500 +0600" stop="20260811023000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260811023000 +0600" stop="20260811024600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260811023000 +0600" stop="20260811030000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
-  </programme>
-  <programme start="20260811024600 +0600" stop="20260811030000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">News</title>
   </programme>
   <programme start="20260811030000 +0600" stop="20260811031500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
@@ -463,16 +436,22 @@
   <programme start="20260811041500 +0600" stop="20260811043000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260811043000 +0600" stop="20260811050000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260811043000 +0600" stop="20260811044700 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260811050000 +0600" stop="20260811051500 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260811044700 +0600" stop="20260811050000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">East west connect</title>
+  </programme>
+  <programme start="20260811050000 +0600" stop="20260811051400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260811051500 +0600" stop="20260811053000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260811051400 +0600" stop="20260811053100 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260811053000 +0600" stop="20260811060000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260811053100 +0600" stop="20260811054500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20260811054500 +0600" stop="20260811060000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
   <programme start="20260811060000 +0600" stop="20260811061500 +0600" channel="EuronewsEnglish.fr">
@@ -484,10 +463,10 @@
   <programme start="20260811063000 +0600" stop="20260811070000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260811070000 +0600" stop="20260811071400 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260811070000 +0600" stop="20260811071500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260811071400 +0600" stop="20260811073000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260811071500 +0600" stop="20260811073000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The European debrief</title>
   </programme>
   <programme start="20260811073000 +0600" stop="20260811074600 +0600" channel="EuronewsEnglish.fr">
@@ -515,77 +494,86 @@
     <title lang="bn">The European debrief</title>
   </programme>
   <programme start="20260811100000 +0600" stop="20260811101500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Wake up Europe</title>
+    <title lang="bn">The European debrief</title>
   </programme>
   <programme start="20260811101500 +0600" stop="20260811103000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Wake up Europe</title>
+    <title lang="bn">The European debrief</title>
   </programme>
   <programme start="20260811103000 +0600" stop="20260811110000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Wake up Europe</title>
+    <title lang="bn">The European debrief</title>
   </programme>
   <programme start="20260811110000 +0600" stop="20260811111500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Wake up Europe</title>
+    <title lang="bn">The European debrief</title>
   </programme>
   <programme start="20260811111500 +0600" stop="20260811113000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Wake up Europe</title>
+    <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260811113000 +0600" stop="20260811123000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Wake up Europe</title>
+  <programme start="20260811113000 +0600" stop="20260811120000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260811123000 +0600" stop="20260811124800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Wake up Europe</title>
+  <programme start="20260811120000 +0600" stop="20260811121400 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260811124800 +0600" stop="20260811133000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260811121400 +0600" stop="20260811123000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20260811123000 +0600" stop="20260811124600 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20260811124600 +0600" stop="20260811130000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20260811133000 +0600" stop="20260811134600 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260811130000 +0600" stop="20260811131500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20260811131500 +0600" stop="20260811133000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20260811133000 +0600" stop="20260811140000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20260811140000 +0600" stop="20260811141500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20260811141500 +0600" stop="20260811143000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20260811143000 +0600" stop="20260811150000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20260811150000 +0600" stop="20260811151500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20260811134600 +0600" stop="20260811143000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Made In Europe</title>
+  <programme start="20260811151500 +0600" stop="20260811153000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Wake up Europe</title>
   </programme>
-  <programme start="20260811143000 +0600" stop="20260811144600 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Euronews Now</title>
-  </programme>
-  <programme start="20260811144600 +0600" stop="20260811150000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260811150000 +0600" stop="20260811151600 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Euronews Now</title>
-  </programme>
-  <programme start="20260811151600 +0600" stop="20260811153000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260811153000 +0600" stop="20260811154600 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Euronews Now</title>
-  </programme>
-  <programme start="20260811154600 +0600" stop="20260811160000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Made In Europe</title>
+  <programme start="20260811153000 +0600" stop="20260811160000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Wake up Europe</title>
   </programme>
   <channel id="CNN.us">
     <display-name>CNN</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg"/>
   </channel>
   <programme start="20260810160000 +0600" stop="20260810170000 +0600" channel="CNN.us">
-    <title lang="bn">CNN This Morning</title>
+    <title lang="bn">The Eighties</title>
   </programme>
   <programme start="20260810170000 +0600" stop="20260810180000 +0600" channel="CNN.us">
-    <title lang="bn">CNN News Central</title>
+    <title lang="bn">Eclipsing Power: Musk, Bezos and the New Space Race</title>
   </programme>
   <programme start="20260810180000 +0600" stop="20260810190000 +0600" channel="CNN.us">
-    <title lang="bn">CNN News Central</title>
+    <title lang="bn">CNN Newsroom Live</title>
   </programme>
   <programme start="20260810190000 +0600" stop="20260810200000 +0600" channel="CNN.us">
-    <title lang="bn">CNN News Central</title>
+    <title lang="bn">CNN Newsroom Live</title>
   </programme>
   <programme start="20260810200000 +0600" stop="20260810210000 +0600" channel="CNN.us">
-    <title lang="bn">The Situation Room</title>
+    <title lang="bn">CNN Headline Express</title>
   </programme>
   <programme start="20260810210000 +0600" stop="20260810220000 +0600" channel="CNN.us">
-    <title lang="bn">The Situation Room</title>
+    <title lang="bn">CNN This Morning</title>
   </programme>
   <programme start="20260810220000 +0600" stop="20260810230000 +0600" channel="CNN.us">
-    <title lang="bn">Inside Politics With Dana Bash</title>
+    <title lang="bn">CNN News Central</title>
   </programme>
   <programme start="20260810230000 +0600" stop="20260811000000 +0600" channel="CNN.us">
     <title lang="bn">CNN News Central</title>
@@ -594,49 +582,49 @@
     <title lang="bn">CNN News Central</title>
   </programme>
   <programme start="20260811010000 +0600" stop="20260811020000 +0600" channel="CNN.us">
-    <title lang="bn">CNN News Central</title>
+    <title lang="bn">The Situation Room</title>
   </programme>
   <programme start="20260811020000 +0600" stop="20260811030000 +0600" channel="CNN.us">
-    <title lang="bn">The Arena With Kasie Hunt</title>
+    <title lang="bn">The Situation Room</title>
   </programme>
   <programme start="20260811030000 +0600" stop="20260811040000 +0600" channel="CNN.us">
-    <title lang="bn">The Lead With Jake Tapper</title>
+    <title lang="bn">Inside Politics With Dana Bash</title>
   </programme>
   <programme start="20260811040000 +0600" stop="20260811050000 +0600" channel="CNN.us">
-    <title lang="bn">The Lead With Jake Tapper</title>
+    <title lang="bn">CNN News Central</title>
   </programme>
   <programme start="20260811050000 +0600" stop="20260811060000 +0600" channel="CNN.us">
-    <title lang="bn">Erin Burnett OutFront</title>
+    <title lang="bn">CNN News Central</title>
   </programme>
   <programme start="20260811060000 +0600" stop="20260811070000 +0600" channel="CNN.us">
-    <title lang="bn">Anderson Cooper 360</title>
+    <title lang="bn">CNN News Central</title>
   </programme>
   <programme start="20260811070000 +0600" stop="20260811080000 +0600" channel="CNN.us">
-    <title lang="bn">The Source With Kaitlan Collins</title>
+    <title lang="bn">The Arena With Kasie Hunt</title>
   </programme>
   <programme start="20260811080000 +0600" stop="20260811090000 +0600" channel="CNN.us">
-    <title lang="bn">CNN NewsNight With Abby Phillip</title>
+    <title lang="bn">The Lead With Jake Tapper</title>
   </programme>
   <programme start="20260811090000 +0600" stop="20260811100000 +0600" channel="CNN.us">
-    <title lang="bn">Laura Coates Live</title>
+    <title lang="bn">The Lead With Jake Tapper</title>
   </programme>
   <programme start="20260811100000 +0600" stop="20260811110000 +0600" channel="CNN.us">
-    <title lang="bn">The Story Is With Elex Michaelson</title>
+    <title lang="bn">Erin Burnett OutFront</title>
   </programme>
   <programme start="20260811110000 +0600" stop="20260811120000 +0600" channel="CNN.us">
-    <title lang="bn">The Story Is With Elex Michaelson</title>
+    <title lang="bn">Anderson Cooper 360</title>
   </programme>
   <programme start="20260811120000 +0600" stop="20260811130000 +0600" channel="CNN.us">
-    <title lang="bn">Anderson Cooper 360</title>
+    <title lang="bn">The Source With Kaitlan Collins</title>
   </programme>
   <programme start="20260811130000 +0600" stop="20260811140000 +0600" channel="CNN.us">
     <title lang="bn">CNN NewsNight With Abby Phillip</title>
   </programme>
   <programme start="20260811140000 +0600" stop="20260811150000 +0600" channel="CNN.us">
-    <title lang="bn">Anderson Cooper 360</title>
+    <title lang="bn">Laura Coates Live</title>
   </programme>
   <programme start="20260811150000 +0600" stop="20260811160000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Headline Express</title>
+    <title lang="bn">The Story Is With Elex Michaelson</title>
   </programme>
   <channel id="TV9Bharatvarsh">
     <display-name>NEWS | TV9 Bharatvarsh</display-name>
@@ -890,1091 +878,587 @@
     <display-name>Al Jazeera English</display-name>
     <icon src="https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png"/>
   </channel>
-  <programme start="20260810000000 +0600" stop="20260810003000 +0600" channel="aljazeera.com">
-    <title lang="bn">徹子の部屋[字]</title>
+  <programme start="20260810003000 +0600" stop="20260810013000 +0600" channel="aljazeera.com">
+    <title lang="bn">Reali mistika (62)</title>
   </programme>
-  <programme start="20260810003000 +0600" stop="20260810004500 +0600" channel="aljazeera.com">
-    <title lang="bn">DAIGOも台所　〜きょうの献立　何にする?〜　名店の味ポークソテージンジャー[字]</title>
+  <programme start="20260810013000 +0600" stop="20260810023000 +0600" channel="aljazeera.com">
+    <title lang="bn">Hadsonas ir Reksas (1)</title>
   </programme>
-  <programme start="20260810004500 +0600" stop="20260810005500 +0600" channel="aljazeera.com">
-    <title lang="bn">ANNニュース[字]</title>
+  <programme start="20260810023000 +0600" stop="20260810033000 +0600" channel="aljazeera.com">
+    <title lang="bn">Kodas (75)</title>
   </programme>
-  <programme start="20260810005500 +0600" stop="20260810015300 +0600" channel="aljazeera.com">
-    <title lang="bn">クロスロード 〜救命救急の約束〜　#5[解][字][再]</title>
+  <programme start="20260810033000 +0600" stop="20260810043000 +0600" channel="aljazeera.com">
+    <title lang="bn">Mentalistas (13)</title>
   </programme>
-  <programme start="20260810015300 +0600" stop="20260810025000 +0600" channel="aljazeera.com">
-    <title lang="bn">科捜研の女13　#6[字][再]</title>
+  <programme start="20260810043000 +0600" stop="20260810053000 +0600" channel="aljazeera.com">
+    <title lang="bn">Virtuvės košmarai (1)</title>
   </programme>
-  <programme start="20260810025000 +0600" stop="20260810034800 +0600" channel="aljazeera.com">
-    <title lang="bn">相棒21　#9[解][字][再]</title>
+  <programme start="20260810053000 +0600" stop="20260810063000 +0600" channel="aljazeera.com">
+    <title lang="bn">911 (8)</title>
   </programme>
-  <programme start="20260810034800 +0600" stop="20260810060000 +0600" channel="aljazeera.com">
-    <title lang="bn">スーパーJチャンネル[字]</title>
+  <programme start="20260810063000 +0600" stop="20260810080000 +0600" channel="aljazeera.com">
+    <title lang="bn">Mano virtuvė geriausia (7)</title>
   </programme>
-  <programme start="20260810060000 +0600" stop="20260810085400 +0600" channel="aljazeera.com">
-    <title lang="bn">Qさま!!　3時間SP[字]</title>
+  <programme start="20260810080000 +0600" stop="20260810090000 +0600" channel="aljazeera.com">
+    <title lang="bn">Žemiau denio (6)</title>
   </programme>
-  <programme start="20260810085400 +0600" stop="20260810101000 +0600" channel="aljazeera.com">
-    <title lang="bn">報道ステーション[字]</title>
+  <programme start="20260810090000 +0600" stop="20260810100000 +0600" channel="aljazeera.com">
+    <title lang="bn">Kodas (76)</title>
   </programme>
-  <programme start="20260810101000 +0600" stop="20260810104000 +0600" channel="aljazeera.com">
-    <title lang="bn">熱闘甲子園[字]</title>
-  </programme>
-  <programme start="20260810104000 +0600" stop="20260810104500 +0600" channel="aljazeera.com">
-    <title lang="bn">世界の車窓から[字]</title>
-  </programme>
-  <programme start="20260810104500 +0600" stop="20260810111500 +0600" channel="aljazeera.com">
-    <title lang="bn">光一&amp;amp;シゲのSHOWマン!![字]</title>
-  </programme>
-  <programme start="20260810111500 +0600" stop="20260810114500 +0600" channel="aljazeera.com">
-    <title lang="bn">くりぃむナンタラ　ドンデコルテ渡辺を深掘りクイズ!説教した女性と禁断の恋愛!?[字]</title>
-  </programme>
-  <programme start="20260810114500 +0600" stop="20260810124500 +0600" channel="aljazeera.com">
-    <title lang="bn">START UP!ドリームエンタ[字]</title>
-  </programme>
-  <programme start="20260810124500 +0600" stop="20260810125000 +0600" channel="aljazeera.com">
-    <title lang="bn">テレ朝サマフェスナビ</title>
-  </programme>
-  <programme start="20260810125000 +0600" stop="20260810125500 +0600" channel="aljazeera.com">
-    <title lang="bn">全力坂</title>
-  </programme>
-  <programme start="20260810125500 +0600" stop="20260810132500 +0600" channel="aljazeera.com">
-    <title lang="bn">musicる　TV</title>
-  </programme>
-  <programme start="20260810132500 +0600" stop="20260810135000 +0600" channel="aljazeera.com">
-    <title lang="bn">耳の穴かっぽじって聞け!</title>
-  </programme>
-  <programme start="20260810135000 +0600" stop="20260810141500 +0600" channel="aljazeera.com">
-    <title lang="bn">冠モナキ　【知ってほしい自分の一面をアピール!】</title>
-  </programme>
-  <programme start="20260810141500 +0600" stop="20260810143500 +0600" channel="aljazeera.com">
-    <title lang="bn">熊プロのイケメロパラダイス</title>
-  </programme>
-  <programme start="20260810143500 +0600" stop="20260810150000 +0600" channel="aljazeera.com">
-    <title lang="bn">ワカコさんとマサルくんのお宅は買わないの??</title>
-  </programme>
-  <programme start="20260810150000 +0600" stop="20260810155500 +0600" channel="aljazeera.com">
-    <title lang="bn">おはよう!時代劇　暴れん坊将軍9　#21[字][再]</title>
-  </programme>
-  <programme start="20260810155500 +0600" stop="20260810190000 +0600" channel="aljazeera.com">
-    <title lang="bn">グッド!モーニング[デ][字]</title>
-  </programme>
-  <programme start="20260810190000 +0600" stop="20260810205500 +0600" channel="aljazeera.com">
-    <title lang="bn">羽鳥慎一モーニングショー[字]</title>
-  </programme>
-  <programme start="20260810205500 +0600" stop="20260810211000 +0600" channel="aljazeera.com">
-    <title lang="bn">有働由美子の健康案内人![字]</title>
-  </programme>
-  <programme start="20260810211000 +0600" stop="20260810214000 +0600" channel="aljazeera.com">
-    <title lang="bn">じゅん散歩[字]</title>
-  </programme>
-  <programme start="20260810214000 +0600" stop="20260811000000 +0600" channel="aljazeera.com">
-    <title lang="bn">大下容子ワイド!スクランブル[字]</title>
-  </programme>
-  <programme start="20260811000000 +0600" stop="20260811003000 +0600" channel="aljazeera.com">
-    <title lang="bn">徹子の部屋[字]</title>
-  </programme>
-  <programme start="20260811003000 +0600" stop="20260811004500 +0600" channel="aljazeera.com">
-    <title lang="bn">DAIGOも台所　〜きょうの献立　何にする?〜　今年も流す!そうめんパーティー[字]</title>
-  </programme>
-  <programme start="20260811004500 +0600" stop="20260811005500 +0600" channel="aljazeera.com">
-    <title lang="bn">ANNニュース[字]</title>
-  </programme>
-  <programme start="20260811005500 +0600" stop="20260811012500 +0600" channel="aljazeera.com">
-    <title lang="bn">買いドキ!生放送ショッピング　期間限定商品を手にする大チャンス!お見逃しなく!</title>
-  </programme>
-  <programme start="20260811012500 +0600" stop="20260811034800 +0600" channel="aljazeera.com">
-    <title lang="bn">西村京太郎トラベルミステリー59[字][再]</title>
-  </programme>
-  <programme start="20260811034800 +0600" stop="20260811060000 +0600" channel="aljazeera.com">
-    <title lang="bn">スーパーJチャンネル[字]</title>
-  </programme>
-  <programme start="20260811060000 +0600" stop="20260811080000 +0600" channel="aljazeera.com">
-    <title lang="bn">火曜の良純孝太郎　2時間SP　世界文化遺産“富士山&amp;quot;ぐるっと一周大冒険[字]</title>
-  </programme>
-  <programme start="20260811080000 +0600" stop="20260811085400 +0600" channel="aljazeera.com">
-    <title lang="bn">クロスロード 〜救命救急の約束〜　#6[解][字]</title>
-  </programme>
-  <programme start="20260811085400 +0600" stop="20260811101000 +0600" channel="aljazeera.com">
-    <title lang="bn">報道ステーション[字]</title>
-  </programme>
-  <programme start="20260811101000 +0600" stop="20260811104000 +0600" channel="aljazeera.com">
-    <title lang="bn">熱闘甲子園[字]</title>
-  </programme>
-  <programme start="20260811104000 +0600" stop="20260811104500 +0600" channel="aljazeera.com">
-    <title lang="bn">世界の車窓から[字]</title>
-  </programme>
-  <programme start="20260811104500 +0600" stop="20260811111500 +0600" channel="aljazeera.com">
-    <title lang="bn">ロンドンハーツ[字]</title>
-  </programme>
-  <programme start="20260811111500 +0600" stop="20260811114500 +0600" channel="aljazeera.com">
-    <title lang="bn">テレビ千鳥[字]</title>
-  </programme>
-  <programme start="20260811114500 +0600" stop="20260811121500 +0600" channel="aljazeera.com">
-    <title lang="bn">夫が寝たあとに[字]</title>
-  </programme>
-  <programme start="20260811121500 +0600" stop="20260811123200 +0600" channel="aljazeera.com">
-    <title lang="bn">永野&amp;amp;くるまのひっかかりニーチェ</title>
-  </programme>
-  <programme start="20260811123200 +0600" stop="20260811125000 +0600" channel="aljazeera.com">
-    <title lang="bn">ファンタスティックPARK</title>
-  </programme>
-  <programme start="20260811125000 +0600" stop="20260811125200 +0600" channel="aljazeera.com">
-    <title lang="bn">テレ朝サマフェスナビ</title>
-  </programme>
-  <programme start="20260811125200 +0600" stop="20260811125700 +0600" channel="aljazeera.com">
-    <title lang="bn">全力坂</title>
-  </programme>
-  <programme start="20260811125700 +0600" stop="20260811132700 +0600" channel="aljazeera.com">
-    <title lang="bn">RECTRUCK</title>
-  </programme>
-  <programme start="20260811132700 +0600" stop="20260811135200 +0600" channel="aljazeera.com">
-    <title lang="bn">深夜のダイアン</title>
-  </programme>
-  <programme start="20260811135200 +0600" stop="20260811141700 +0600" channel="aljazeera.com">
-    <title lang="bn">若槻千夏のうるさい心理テスト</title>
-  </programme>
-  <programme start="20260811141700 +0600" stop="20260811143700 +0600" channel="aljazeera.com">
-    <title lang="bn">スポンジ・シノ2　傑作選</title>
-  </programme>
-  <programme start="20260811143700 +0600" stop="20260811144500 +0600" channel="aljazeera.com">
-    <title lang="bn">バスケW杯まであと1年　あの歓喜をもう一度</title>
-  </programme>
-  <programme start="20260811144500 +0600" stop="20260811150000 +0600" channel="aljazeera.com">
-    <title lang="bn">ミッドナイトマルシェ</title>
-  </programme>
-  <programme start="20260811150000 +0600" stop="20260811155500 +0600" channel="aljazeera.com">
-    <title lang="bn">おはよう!時代劇　暴れん坊将軍9　#22[字][再]</title>
-  </programme>
-  <programme start="20260811155500 +0600" stop="20260811190000 +0600" channel="aljazeera.com">
-    <title lang="bn">グッド!モーニング[デ][字]</title>
-  </programme>
-  <programme start="20260811190000 +0600" stop="20260811205500 +0600" channel="aljazeera.com">
-    <title lang="bn">羽鳥慎一モーニングショー[字]</title>
-  </programme>
-  <programme start="20260811205500 +0600" stop="20260811211000 +0600" channel="aljazeera.com">
-    <title lang="bn">有働由美子の健康案内人!　なかなか相談できないけど意外と多い!尿トラブル[字]</title>
-  </programme>
-  <programme start="20260811211000 +0600" stop="20260811214000 +0600" channel="aljazeera.com">
-    <title lang="bn">じゅん散歩[字]</title>
-  </programme>
-  <programme start="20260811214000 +0600" stop="20260812000000 +0600" channel="aljazeera.com">
-    <title lang="bn">大下容子ワイド!スクランブル[字]</title>
-  </programme>
-  <programme start="20260812000000 +0600" stop="20260812003000 +0600" channel="aljazeera.com">
-    <title lang="bn">徹子の部屋[字]</title>
-  </programme>
-  <programme start="20260812003000 +0600" stop="20260812004500 +0600" channel="aljazeera.com">
-    <title lang="bn">DAIGOも台所　〜きょうの献立　何にする?〜　みんなで豚しゃぶのニンニク味噌[字]</title>
-  </programme>
-  <programme start="20260812004500 +0600" stop="20260812005500 +0600" channel="aljazeera.com">
-    <title lang="bn">ANNニュース[字]</title>
-  </programme>
-  <programme start="20260812005500 +0600" stop="20260812015400 +0600" channel="aljazeera.com">
-    <title lang="bn">大追跡〜警視庁SSBC強行犯係〜2　#3[解][字][再]</title>
-  </programme>
-  <programme start="20260812015400 +0600" stop="20260812025000 +0600" channel="aljazeera.com">
-    <title lang="bn">科捜研の女19　#11[解][字][再]</title>
-  </programme>
-  <programme start="20260812025000 +0600" stop="20260812034800 +0600" channel="aljazeera.com">
-    <title lang="bn">相棒8　#18[字][再]</title>
-  </programme>
-  <programme start="20260812034800 +0600" stop="20260812060000 +0600" channel="aljazeera.com">
-    <title lang="bn">スーパーJチャンネル[字]</title>
-  </programme>
-  <programme start="20260812060000 +0600" stop="20260812080000 +0600" channel="aljazeera.com">
-    <title lang="bn">くりぃむクイズ　ミラクル9　2時間SP[字]</title>
-  </programme>
-  <programme start="20260812080000 +0600" stop="20260812085400 +0600" channel="aljazeera.com">
-    <title lang="bn">大追跡〜警視庁SSBC強行犯係〜 Season2　#4/トクリュウ撲滅作戦[解][字]</title>
-  </programme>
-  <programme start="20260812085400 +0600" stop="20260812101000 +0600" channel="aljazeera.com">
-    <title lang="bn">報道ステーション[字]</title>
-  </programme>
-  <programme start="20260812101000 +0600" stop="20260812104000 +0600" channel="aljazeera.com">
-    <title lang="bn">熱闘甲子園[字]</title>
-  </programme>
-  <programme start="20260812104000 +0600" stop="20260812104500 +0600" channel="aljazeera.com">
-    <title lang="bn">健査官〜サインを見逃すな〜[字]</title>
-  </programme>
-  <programme start="20260812104500 +0600" stop="20260812111500 +0600" channel="aljazeera.com">
-    <title lang="bn">かまいガチ　旅行に行きたい芸人&amp;amp;スタッフが激突!「軽井沢旅行選抜会議」[字]</title>
-  </programme>
-  <programme start="20260812111500 +0600" stop="20260812114500 +0600" channel="aljazeera.com">
-    <title lang="bn">片田舎のおっさん、剣聖になるII　#6【イマニメーションW】[デ][字]</title>
-  </programme>
-  <programme start="20260812114500 +0600" stop="20260812125000 +0600" channel="aljazeera.com">
-    <title lang="bn">AI大作戦[字]</title>
-  </programme>
-  <programme start="20260812125000 +0600" stop="20260812125200 +0600" channel="aljazeera.com">
-    <title lang="bn">テレ朝サマフェスナビ</title>
-  </programme>
-  <programme start="20260812125200 +0600" stop="20260812125700 +0600" channel="aljazeera.com">
-    <title lang="bn">全力坂</title>
-  </programme>
-  <programme start="20260812125700 +0600" stop="20260812132700 +0600" channel="aljazeera.com">
-    <title lang="bn">Break　Out</title>
-  </programme>
-  <programme start="20260812132700 +0600" stop="20260812135200 +0600" channel="aljazeera.com">
-    <title lang="bn">ニカゲーム</title>
-  </programme>
-  <programme start="20260812135200 +0600" stop="20260812141700 +0600" channel="aljazeera.com">
-    <title lang="bn">まいにち大喜利&amp;amp;賞レース</title>
-  </programme>
-  <programme start="20260812141700 +0600" stop="20260812143700 +0600" channel="aljazeera.com">
-    <title lang="bn">ジャンボ&amp;amp;みーぱんの　おしえて推しコサン</title>
-  </programme>
-  <programme start="20260812143700 +0600" stop="20260812150000 +0600" channel="aljazeera.com">
-    <title lang="bn">ワカコさんとマサルくんのお宅は買わないの??</title>
-  </programme>
-  <programme start="20260812150000 +0600" stop="20260812155500 +0600" channel="aljazeera.com">
-    <title lang="bn">おはよう!時代劇　暴れん坊将軍9　#23[字][再]</title>
-  </programme>
-  <programme start="20260812155500 +0600" stop="20260812190000 +0600" channel="aljazeera.com">
-    <title lang="bn">グッド!モーニング[デ][字]</title>
-  </programme>
-  <programme start="20260812190000 +0600" stop="20260812205500 +0600" channel="aljazeera.com">
-    <title lang="bn">羽鳥慎一モーニングショー[字]</title>
-  </programme>
-  <programme start="20260812205500 +0600" stop="20260812211000 +0600" channel="aljazeera.com">
-    <title lang="bn">有働由美子の健康案内人!　なかなか相談できないけど意外と多い!尿トラブル[字]</title>
-  </programme>
-  <programme start="20260812211000 +0600" stop="20260812214000 +0600" channel="aljazeera.com">
-    <title lang="bn">じゅん散歩[字]</title>
-  </programme>
-  <programme start="20260812214000 +0600" stop="20260813000000 +0600" channel="aljazeera.com">
-    <title lang="bn">大下容子ワイド!スクランブル[字]</title>
-  </programme>
-  <programme start="20260813000000 +0600" stop="20260813003000 +0600" channel="aljazeera.com">
-    <title lang="bn">徹子の部屋　秋川雅史[字]</title>
-  </programme>
-  <programme start="20260813003000 +0600" stop="20260813004500 +0600" channel="aljazeera.com">
-    <title lang="bn">DAIGOも台所　〜きょうの献立　何にする?〜　手軽で必見!お刺身アレンジ[字]</title>
-  </programme>
-  <programme start="20260813004500 +0600" stop="20260813005500 +0600" channel="aljazeera.com">
-    <title lang="bn">ANNニュース[字]</title>
-  </programme>
-  <programme start="20260813005500 +0600" stop="20260813015300 +0600" channel="aljazeera.com">
-    <title lang="bn">大空港〜GATE24〜　#3[解][字][再]</title>
-  </programme>
-  <programme start="20260813015300 +0600" stop="20260813025000 +0600" channel="aljazeera.com">
-    <title lang="bn">科捜研の女　2022　#4[解][字][再]</title>
-  </programme>
-  <programme start="20260813025000 +0600" stop="20260813034800 +0600" channel="aljazeera.com">
-    <title lang="bn">相棒12　#12[解][字][再]</title>
-  </programme>
-  <programme start="20260813034800 +0600" stop="20260813060000 +0600" channel="aljazeera.com">
-    <title lang="bn">スーパーJチャンネル[字]</title>
-  </programme>
-  <programme start="20260813060000 +0600" stop="20260813080000 +0600" channel="aljazeera.com">
-    <title lang="bn">林修の今知りたいでしょ!　2時間SP　夏が変わった!昭和の常識&amp;amp;令和の新常識![字]</title>
-  </programme>
-  <programme start="20260813080000 +0600" stop="20260813085400 +0600" channel="aljazeera.com">
-    <title lang="bn">大空港〜GATE24〜　#4[解][字]</title>
-  </programme>
-  <programme start="20260813085400 +0600" stop="20260813101000 +0600" channel="aljazeera.com">
-    <title lang="bn">報道ステーション[字]</title>
-  </programme>
-  <programme start="20260813101000 +0600" stop="20260813104000 +0600" channel="aljazeera.com">
-    <title lang="bn">熱闘甲子園[字]</title>
-  </programme>
-  <programme start="20260813104000 +0600" stop="20260813104500 +0600" channel="aljazeera.com">
-    <title lang="bn">And　One[字]</title>
-  </programme>
-  <programme start="20260813104500 +0600" stop="20260813114500 +0600" channel="aljazeera.com">
-    <title lang="bn">アメトーーク!　ダチョウ倶楽部を考えよう2026[字]</title>
-  </programme>
-  <programme start="20260813114500 +0600" stop="20260813121500 +0600" channel="aljazeera.com">
-    <title lang="bn">見取り図じゃん[字]</title>
-  </programme>
-  <programme start="20260813121500 +0600" stop="20260813125000 +0600" channel="aljazeera.com">
-    <title lang="bn">あざとくて何が悪いの?[字]</title>
-  </programme>
-  <programme start="20260813125000 +0600" stop="20260813125200 +0600" channel="aljazeera.com">
-    <title lang="bn">テレ朝サマフェスナビ</title>
-  </programme>
-  <programme start="20260813125200 +0600" stop="20260813125700 +0600" channel="aljazeera.com">
-    <title lang="bn">全力坂</title>
-  </programme>
-  <programme start="20260813125700 +0600" stop="20260813132700 +0600" channel="aljazeera.com">
-    <title lang="bn">FRUITS　ZIPPERのNEW　KAWAIIってしてよ?</title>
-  </programme>
-  <programme start="20260813132700 +0600" stop="20260813135200 +0600" channel="aljazeera.com">
-    <title lang="bn">サクラミーツ</title>
-  </programme>
-  <programme start="20260813135200 +0600" stop="20260813141700 +0600" channel="aljazeera.com">
-    <title lang="bn">EBiDAN熱中!朝までBUDDiiS</title>
-  </programme>
-  <programme start="20260813141700 +0600" stop="20260813143700 +0600" channel="aljazeera.com">
-    <title lang="bn">ドンデコルテ銀次と弱者たちの鍋会　傑作選</title>
-  </programme>
-  <programme start="20260813143700 +0600" stop="20260813144500 +0600" channel="aljazeera.com">
-    <title lang="bn">バスケW杯まであと1年　あの歓喜をもう一度</title>
-  </programme>
-  <programme start="20260813144500 +0600" stop="20260813150000 +0600" channel="aljazeera.com">
-    <title lang="bn">ショッピングなう</title>
-  </programme>
-  <programme start="20260813150000 +0600" stop="20260813155500 +0600" channel="aljazeera.com">
-    <title lang="bn">おはよう!時代劇　暴れん坊将軍9　#24[字][再]</title>
-  </programme>
-  <programme start="20260813155500 +0600" stop="20260813190000 +0600" channel="aljazeera.com">
-    <title lang="bn">グッド!モーニング[デ][字]</title>
-  </programme>
-  <programme start="20260813190000 +0600" stop="20260813205500 +0600" channel="aljazeera.com">
-    <title lang="bn">羽鳥慎一モーニングショー[字]</title>
-  </programme>
-  <programme start="20260813205500 +0600" stop="20260813211000 +0600" channel="aljazeera.com">
-    <title lang="bn">有働由美子の健康案内人!　なかなか相談できないけど意外と多い!尿トラブル[字]</title>
-  </programme>
-  <programme start="20260813211000 +0600" stop="20260813214000 +0600" channel="aljazeera.com">
-    <title lang="bn">じゅん散歩[字]</title>
-  </programme>
-  <programme start="20260813214000 +0600" stop="20260814000000 +0600" channel="aljazeera.com">
-    <title lang="bn">大下容子ワイド!スクランブル[字]</title>
-  </programme>
-  <programme start="20260814000000 +0600" stop="20260814003000 +0600" channel="aljazeera.com">
-    <title lang="bn">徹子の部屋　戦争と私[字]</title>
-  </programme>
-  <programme start="20260814003000 +0600" stop="20260814004500 +0600" channel="aljazeera.com">
-    <title lang="bn">DAIGOも台所　〜きょうの献立　何にする?〜　くずしチーズハンバーグ丼[字]</title>
-  </programme>
-  <programme start="20260814004500 +0600" stop="20260814005000 +0600" channel="aljazeera.com">
-    <title lang="bn">ANNニュース[字]</title>
-  </programme>
-  <programme start="20260814005000 +0600" stop="20260814005500 +0600" channel="aljazeera.com">
-    <title lang="bn">TOKYO　EVERYONE[手][字]</title>
-  </programme>
-  <programme start="20260814005500 +0600" stop="20260814015300 +0600" channel="aljazeera.com">
-    <title lang="bn">午後もじゅん散歩[字]</title>
-  </programme>
-  <programme start="20260814015300 +0600" stop="20260814025000 +0600" channel="aljazeera.com">
-    <title lang="bn">新・科捜研の女4　#4[字][再]</title>
-  </programme>
-  <programme start="20260814025000 +0600" stop="20260814034800 +0600" channel="aljazeera.com">
-    <title lang="bn">相棒17　#13[解][字][再]</title>
-  </programme>
-  <programme start="20260814034800 +0600" stop="20260814055000 +0600" channel="aljazeera.com">
-    <title lang="bn">スーパーJチャンネル[字]</title>
-  </programme>
-  <programme start="20260814055000 +0600" stop="20260814070000 +0600" channel="aljazeera.com">
-    <title lang="bn">ザワつく!金曜日[字]</title>
-  </programme>
-  <programme start="20260814070000 +0600" stop="20260814085400 +0600" channel="aljazeera.com">
-    <title lang="bn">昭和の名曲　帰りたくなる歌がある　今夜決定!ふるさとソングNo.1[字]</title>
-  </programme>
-  <programme start="20260814085400 +0600" stop="20260814101000 +0600" channel="aljazeera.com">
-    <title lang="bn">報道ステーション[字]</title>
-  </programme>
-  <programme start="20260814101000 +0600" stop="20260814104000 +0600" channel="aljazeera.com">
-    <title lang="bn">熱闘甲子園[字]</title>
-  </programme>
-  <programme start="20260814104000 +0600" stop="20260814104500 +0600" channel="aljazeera.com">
-    <title lang="bn">気づきの扉[解][字]</title>
-  </programme>
-  <programme start="20260814104500 +0600" stop="20260814114500 +0600" channel="aljazeera.com">
-    <title lang="bn">名探偵のままでいて　#5[解][字]</title>
-  </programme>
-  <programme start="20260814114500 +0600" stop="20260814121500 +0600" channel="aljazeera.com">
-    <title lang="bn">キッチンカー大作戦![字]</title>
-  </programme>
-  <programme start="20260814121500 +0600" stop="20260814124500 +0600" channel="aljazeera.com">
-    <title lang="bn">バズマンTV</title>
-  </programme>
-  <programme start="20260814124500 +0600" stop="20260814130000 +0600" channel="aljazeera.com">
-    <title lang="bn">ラブ!!Jリーグ[字]</title>
-  </programme>
-  <programme start="20260814130000 +0600" stop="20260814132000 +0600" channel="aljazeera.com">
-    <title lang="bn">M:ZINE</title>
-  </programme>
-  <programme start="20260814132000 +0600" stop="20260814132200 +0600" channel="aljazeera.com">
-    <title lang="bn">テレ朝サマフェスナビ</title>
-  </programme>
-  <programme start="20260814132200 +0600" stop="20260814135200 +0600" channel="aljazeera.com">
-    <title lang="bn">全力!アオハル応援団</title>
-  </programme>
-  <programme start="20260814135200 +0600" stop="20260814141700 +0600" channel="aljazeera.com">
-    <title lang="bn">新日ちゃんぴおん!</title>
-  </programme>
-  <programme start="20260814141700 +0600" stop="20260814143000 +0600" channel="aljazeera.com">
-    <title lang="bn">イベレコ</title>
-  </programme>
-  <programme start="20260814143000 +0600" stop="20260814150000 +0600" channel="aljazeera.com">
-    <title lang="bn">秘湯ロマン</title>
-  </programme>
-  <programme start="20260814150000 +0600" stop="20260814152500 +0600" channel="aljazeera.com">
-    <title lang="bn">ワカコさんとマサルくんのお宅は買わないの??</title>
-  </programme>
-  <programme start="20260814152500 +0600" stop="20260814155000 +0600" channel="aljazeera.com">
-    <title lang="bn">渡辺篤史の建もの探訪[字]</title>
-  </programme>
-  <programme start="20260814155000 +0600" stop="20260814162000 +0600" channel="aljazeera.com">
-    <title lang="bn">テレメンタリー2026「戦争と原発 〜知られざる飛行場の記憶〜」[字]</title>
-  </programme>
-  <programme start="20260814162000 +0600" stop="20260814165000 +0600" channel="aljazeera.com">
-    <title lang="bn">日本のチカラ[字]</title>
-  </programme>
-  <programme start="20260814165000 +0600" stop="20260814170000 +0600" channel="aljazeera.com">
-    <title lang="bn">ANNニュース[手][字]</title>
-  </programme>
-  <programme start="20260814170000 +0600" stop="20260814190000 +0600" channel="aljazeera.com">
-    <title lang="bn">グッド!モーニング[デ][字]</title>
-  </programme>
-  <programme start="20260814190000 +0600" stop="20260814203000 +0600" channel="aljazeera.com">
-    <title lang="bn">朝だ!生です旅サラダ[デ][字]</title>
-  </programme>
-  <programme start="20260814203000 +0600" stop="20260814205500 +0600" channel="aljazeera.com">
-    <title lang="bn">食彩の王国「まるで、お姫様扱い!?鎌倉&amp;amp;葉山グルメを支える(秘)ブランドたまごの味」[字]</title>
-  </programme>
-  <programme start="20260814205500 +0600" stop="20260814210000 +0600" channel="aljazeera.com">
-    <title lang="bn">しあわせのたね。[字]</title>
-  </programme>
-  <programme start="20260814210000 +0600" stop="20260814213000 +0600" channel="aljazeera.com">
-    <title lang="bn">題名のない音楽会「“音楽会のお宝映像&amp;quot;を鑑賞する休日〜ディズニー編」[字]</title>
-  </programme>
-  <programme start="20260814213000 +0600" stop="20260814220000 +0600" channel="aljazeera.com">
-    <title lang="bn">買いドキ!生放送ショッピング　期間限定商品を手にする大チャンス!お見逃しなく!</title>
-  </programme>
-  <programme start="20260814220000 +0600" stop="20260814223000 +0600" channel="aljazeera.com">
-    <title lang="bn">サンド&amp;amp;キスマイの気になるマン　傑作選[字]</title>
-  </programme>
-  <programme start="20260814223000 +0600" stop="20260815003000 +0600" channel="aljazeera.com">
-    <title lang="bn">ワイド!スクランブル　サタデー[字]</title>
-  </programme>
-  <programme start="20260815003000 +0600" stop="20260815013000 +0600" channel="aljazeera.com">
-    <title lang="bn">林修の今知りたいでしょ!　傑作選[字]</title>
-  </programme>
-  <programme start="20260815013000 +0600" stop="20260815023000 +0600" channel="aljazeera.com">
-    <title lang="bn">帰れマンデー見っけ隊!!　傑作選[字]</title>
-  </programme>
-  <programme start="20260815023000 +0600" stop="20260815030000 +0600" channel="aljazeera.com">
-    <title lang="bn">なにわ男子の逆転男子[字]</title>
-  </programme>
-  <programme start="20260815030000 +0600" stop="20260815033000 +0600" channel="aljazeera.com">
-    <title lang="bn">バチバチSTAR[字]</title>
-  </programme>
-  <programme start="20260815033000 +0600" stop="20260815040000 +0600" channel="aljazeera.com">
-    <title lang="bn">クレヨンしんちゃん　【海の家のななこおねいさんだゾ】(他)[デ][解][字]</title>
-  </programme>
-  <programme start="20260815040000 +0600" stop="20260815043000 +0600" channel="aljazeera.com">
-    <title lang="bn">ドラえもん　【恐怖の四かいだん】【のび太の惑星探査ミッション】[デ][字]</title>
-  </programme>
-  <programme start="20260815043000 +0600" stop="20260815050000 +0600" channel="aljazeera.com">
-    <title lang="bn">ANNスーパーJチャンネル[字]</title>
-  </programme>
-  <programme start="20260815050000 +0600" stop="20260815053000 +0600" channel="aljazeera.com">
-    <title lang="bn">人生の楽園　民話の里 ブルーベリー農園と宿　〜岩手・遠野市[字]</title>
-  </programme>
-  <programme start="20260815053000 +0600" stop="20260815055600 +0600" channel="aljazeera.com">
-    <title lang="bn">1泊家族[字]</title>
-  </programme>
-  <programme start="20260815055600 +0600" stop="20260815085400 +0600" channel="aljazeera.com">
-    <title lang="bn">池上彰のニュースそうだったのか!!　3時間SP[字]</title>
-  </programme>
-  <programme start="20260815085400 +0600" stop="20260815095200 +0600" channel="aljazeera.com">
-    <title lang="bn">サタデーステーション[字]</title>
-  </programme>
-  <programme start="20260815095200 +0600" stop="20260815095600 +0600" channel="aljazeera.com">
-    <title lang="bn">私の幸福時間[字]</title>
-  </programme>
-  <programme start="20260815095600 +0600" stop="20260815100000 +0600" channel="aljazeera.com">
-    <title lang="bn">港時間[字]</title>
-  </programme>
-  <programme start="20260815100000 +0600" stop="20260815103000 +0600" channel="aljazeera.com">
-    <title lang="bn">熱闘甲子園[字]</title>
-  </programme>
-  <programme start="20260815103000 +0600" stop="20260815110000 +0600" channel="aljazeera.com">
-    <title lang="bn">夏色の雲が恋と嵐をまきおこす　#6[字]</title>
-  </programme>
-  <programme start="20260815110000 +0600" stop="20260815113000 +0600" channel="aljazeera.com">
-    <title lang="bn">天幕のジャードゥーガル　#8【イマニメーション】[デ][字]</title>
-  </programme>
-  <programme start="20260815113000 +0600" stop="20260815120000 +0600" channel="aljazeera.com">
-    <title lang="bn">テレ朝サマフェス音楽LIVEダイジェスト[字]</title>
-  </programme>
-  <programme start="20260815120000 +0600" stop="20260815123000 +0600" channel="aljazeera.com">
-    <title lang="bn">タイムトラベルダディ　#3　ダイアン津田ドラマ初主演!竹中直人出演!　[字]</title>
-  </programme>
-  <programme start="20260815123000 +0600" stop="20260815130000 +0600" channel="aljazeera.com">
-    <title lang="bn">ワールドプロレスリング</title>
-  </programme>
-  <programme start="20260815130000 +0600" stop="20260815133000 +0600" channel="aljazeera.com">
-    <title lang="bn">「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます　#7[字]</title>
-  </programme>
-  <programme start="20260815133000 +0600" stop="20260815140000 +0600" channel="aljazeera.com">
-    <title lang="bn">花織さんは転生しても喧嘩がしたい【ANiMAZiNG!!!】　#6</title>
-  </programme>
-  <programme start="20260815140000 +0600" stop="20260815143000 +0600" channel="aljazeera.com">
-    <title lang="bn">上田ちゃんネル</title>
-  </programme>
-  <programme start="20260815143000 +0600" stop="20260815150000 +0600" channel="aljazeera.com">
-    <title lang="bn">映画クレヨンしんちゃん新作公開記念　野原家と愉快な妖怪が夏の大冒険SP</title>
-  </programme>
-  <programme start="20260815150000 +0600" stop="20260815153000 +0600" channel="aljazeera.com">
-    <title lang="bn">サタデーマルシェ</title>
-  </programme>
-  <programme start="20260815153000 +0600" stop="20260815153500 +0600" channel="aljazeera.com">
-    <title lang="bn">CSテレ朝ナビ!!</title>
-  </programme>
-  <programme start="20260815153500 +0600" stop="20260815160500 +0600" channel="aljazeera.com">
-    <title lang="bn">ワカコさんとマサルくんのお宅は買わないの??</title>
+  <programme start="20260810100000 +0600" stop="20260810103000 +0600" channel="aljazeera.com">
+    <title lang="bn">Mentalistas (14)</title>
   </programme>
   <channel id="WION.in">
     <display-name>WION</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/1d/WION_World_Is_One_News.svg"/>
   </channel>
   <programme start="20260810004000 +0600" stop="20260810013500 +0600" channel="WION.in">
-    <title lang="bn">My Best Friend&amp;#x27;s an Animal</title>
+    <title lang="bn">The Mating Game</title>
   </programme>
   <programme start="20260810013500 +0600" stop="20260810023000 +0600" channel="WION.in">
-    <title lang="bn">My Best Friend&amp;#x27;s an Animal</title>
+    <title lang="bn">Secret Africa: Into the Wild</title>
   </programme>
-  <programme start="20260810023000 +0600" stop="20260810025500 +0600" channel="WION.in">
-    <title lang="bn">Aussie Snake Wranglers: Deadly Pursuit</title>
+  <programme start="20260810023000 +0600" stop="20260810033000 +0600" channel="WION.in">
+    <title lang="bn">Great Asian Railway Journeys</title>
   </programme>
-  <programme start="20260810025500 +0600" stop="20260810032500 +0600" channel="WION.in">
-    <title lang="bn">Aussie Snake Wranglers: Deadly Pursuit</title>
+  <programme start="20260810033000 +0600" stop="20260810042500 +0600" channel="WION.in">
+    <title lang="bn">The World&amp;#x27;s Deadliest Weather</title>
   </programme>
-  <programme start="20260810032500 +0600" stop="20260810042000 +0600" channel="WION.in">
-    <title lang="bn">Africa&amp;#x27;s Hunters</title>
+  <programme start="20260810042500 +0600" stop="20260810052000 +0600" channel="WION.in">
+    <title lang="bn">Chasing Monsters</title>
   </programme>
-  <programme start="20260810042000 +0600" stop="20260810051500 +0600" channel="WION.in">
-    <title lang="bn">The Great Elephant Tale</title>
+  <programme start="20260810052000 +0600" stop="20260810062000 +0600" channel="WION.in">
+    <title lang="bn">Asia</title>
   </programme>
-  <programme start="20260810051500 +0600" stop="20260810061000 +0600" channel="WION.in">
-    <title lang="bn">Pride Rules</title>
+  <programme start="20260810062000 +0600" stop="20260810071500 +0600" channel="WION.in">
+    <title lang="bn">Kingdom</title>
   </programme>
-  <programme start="20260810061000 +0600" stop="20260810070500 +0600" channel="WION.in">
-    <title lang="bn">Kingdom of the Tide</title>
+  <programme start="20260810071500 +0600" stop="20260810081000 +0600" channel="WION.in">
+    <title lang="bn">Chasing Monsters</title>
   </programme>
-  <programme start="20260810070500 +0600" stop="20260810080000 +0600" channel="WION.in">
-    <title lang="bn">My Best Friend&amp;#x27;s an Animal</title>
+  <programme start="20260810081000 +0600" stop="20260810090500 +0600" channel="WION.in">
+    <title lang="bn">Walking With Dinosaurs</title>
   </programme>
-  <programme start="20260810080000 +0600" stop="20260810085500 +0600" channel="WION.in">
-    <title lang="bn">My Best Friend&amp;#x27;s an Animal</title>
+  <programme start="20260810090500 +0600" stop="20260810100000 +0600" channel="WION.in">
+    <title lang="bn">The Great Wall With Ash Dykes</title>
   </programme>
-  <programme start="20260810085500 +0600" stop="20260810095000 +0600" channel="WION.in">
-    <title lang="bn">Superbeast</title>
+  <programme start="20260810100000 +0600" stop="20260810110000 +0600" channel="WION.in">
+    <title lang="bn">Inside the Factory</title>
   </programme>
-  <programme start="20260810095000 +0600" stop="20260810104500 +0600" channel="WION.in">
-    <title lang="bn">Africa&amp;#x27;s Hunters</title>
+  <programme start="20260810110000 +0600" stop="20260810115000 +0600" channel="WION.in">
+    <title lang="bn">Chasing Monsters</title>
   </programme>
-  <programme start="20260810104500 +0600" stop="20260810114000 +0600" channel="WION.in">
-    <title lang="bn">The Great Elephant Tale</title>
+  <programme start="20260810115000 +0600" stop="20260810134000 +0600" channel="WION.in">
+    <title lang="bn">Walking With Dinosaurs</title>
   </programme>
-  <programme start="20260810114000 +0600" stop="20260810132500 +0600" channel="WION.in">
-    <title lang="bn">Pride Rules</title>
+  <programme start="20260810134000 +0600" stop="20260810143500 +0600" channel="WION.in">
+    <title lang="bn">Inside the Factory</title>
   </programme>
-  <programme start="20260810132500 +0600" stop="20260810142000 +0600" channel="WION.in">
-    <title lang="bn">My Best Friend&amp;#x27;s an Animal</title>
+  <programme start="20260810143500 +0600" stop="20260810152500 +0600" channel="WION.in">
+    <title lang="bn">Chasing Monsters</title>
   </programme>
-  <programme start="20260810142000 +0600" stop="20260810151500 +0600" channel="WION.in">
-    <title lang="bn">My Best Friend&amp;#x27;s an Animal</title>
+  <programme start="20260810152500 +0600" stop="20260810162000 +0600" channel="WION.in">
+    <title lang="bn">Walking With Dinosaurs</title>
   </programme>
-  <programme start="20260810151500 +0600" stop="20260810154000 +0600" channel="WION.in">
-    <title lang="bn">Aussie Snake Wranglers: Deadly Pursuit</title>
+  <programme start="20260810162000 +0600" stop="20260810171500 +0600" channel="WION.in">
+    <title lang="bn">The Great Wall With Ash Dykes</title>
   </programme>
-  <programme start="20260810154000 +0600" stop="20260810161000 +0600" channel="WION.in">
-    <title lang="bn">Aussie Snake Wranglers: Deadly Pursuit</title>
+  <programme start="20260810171500 +0600" stop="20260810181000 +0600" channel="WION.in">
+    <title lang="bn">Inside the Factory</title>
   </programme>
-  <programme start="20260810161000 +0600" stop="20260810170500 +0600" channel="WION.in">
-    <title lang="bn">Africa&amp;#x27;s Hunters</title>
+  <programme start="20260810181000 +0600" stop="20260810190500 +0600" channel="WION.in">
+    <title lang="bn">Asia</title>
   </programme>
-  <programme start="20260810170500 +0600" stop="20260810180000 +0600" channel="WION.in">
-    <title lang="bn">The Great Elephant Tale</title>
+  <programme start="20260810190500 +0600" stop="20260810200000 +0600" channel="WION.in">
+    <title lang="bn">The Great Wall With Ash Dykes</title>
   </programme>
-  <programme start="20260810180000 +0600" stop="20260810182500 +0600" channel="WION.in">
-    <title lang="bn">Mysteries of Evolution</title>
+  <programme start="20260810200000 +0600" stop="20260810205000 +0600" channel="WION.in">
+    <title lang="bn">Chasing Monsters</title>
   </programme>
-  <programme start="20260810182500 +0600" stop="20260810192000 +0600" channel="WION.in">
-    <title lang="bn">Africa&amp;#x27;s Hunters</title>
+  <programme start="20260810205000 +0600" stop="20260810215000 +0600" channel="WION.in">
+    <title lang="bn">Inside the Factory</title>
   </programme>
-  <programme start="20260810192000 +0600" stop="20260810201500 +0600" channel="WION.in">
-    <title lang="bn">The Great Elephant Tale</title>
+  <programme start="20260810215000 +0600" stop="20260810224500 +0600" channel="WION.in">
+    <title lang="bn">Walking With Dinosaurs</title>
   </programme>
-  <programme start="20260810201500 +0600" stop="20260810211000 +0600" channel="WION.in">
-    <title lang="bn">Superbeast</title>
+  <programme start="20260810224500 +0600" stop="20260810234500 +0600" channel="WION.in">
+    <title lang="bn">Asia</title>
   </programme>
-  <programme start="20260810211000 +0600" stop="20260810220500 +0600" channel="WION.in">
-    <title lang="bn">Coral City</title>
+  <programme start="20260810234500 +0600" stop="20260811004000 +0600" channel="WION.in">
+    <title lang="bn">The Great Wall With Ash Dykes</title>
   </programme>
-  <programme start="20260810220500 +0600" stop="20260810230000 +0600" channel="WION.in">
-    <title lang="bn">Coral City</title>
+  <programme start="20260811004000 +0600" stop="20260811014000 +0600" channel="WION.in">
+    <title lang="bn">The Mating Game</title>
   </programme>
-  <programme start="20260810230000 +0600" stop="20260810235000 +0600" channel="WION.in">
-    <title lang="bn">Pride Rules</title>
+  <programme start="20260811014000 +0600" stop="20260811023500 +0600" channel="WION.in">
+    <title lang="bn">Walking With Dinosaurs</title>
   </programme>
-  <programme start="20260810235000 +0600" stop="20260811004000 +0600" channel="WION.in">
-    <title lang="bn">Osprey: Sea Raptor</title>
+  <programme start="20260811023500 +0600" stop="20260811033000 +0600" channel="WION.in">
+    <title lang="bn">Inside the Factory</title>
   </programme>
-  <programme start="20260811004000 +0600" stop="20260811013500 +0600" channel="WION.in">
-    <title lang="bn">Africa&amp;#x27;s Hunters</title>
+  <programme start="20260811033000 +0600" stop="20260811042500 +0600" channel="WION.in">
+    <title lang="bn">Asia</title>
   </programme>
-  <programme start="20260811013500 +0600" stop="20260811023000 +0600" channel="WION.in">
-    <title lang="bn">The Great Elephant Tale</title>
+  <programme start="20260811042500 +0600" stop="20260811051500 +0600" channel="WION.in">
+    <title lang="bn">Chasing Monsters</title>
   </programme>
-  <programme start="20260811023000 +0600" stop="20260811025500 +0600" channel="WION.in">
-    <title lang="bn">Aussie Snake Wranglers: Deadly Pursuit</title>
+  <programme start="20260811051500 +0600" stop="20260811061500 +0600" channel="WION.in">
+    <title lang="bn">Walking With Dinosaurs</title>
   </programme>
-  <programme start="20260811025500 +0600" stop="20260811032500 +0600" channel="WION.in">
-    <title lang="bn">Aussie Snake Wranglers: Deadly Pursuit</title>
+  <programme start="20260811061500 +0600" stop="20260811071500 +0600" channel="WION.in">
+    <title lang="bn">The Great Wall With Ash Dykes</title>
   </programme>
-  <programme start="20260811032500 +0600" stop="20260811042000 +0600" channel="WION.in">
-    <title lang="bn">Coral City</title>
+  <programme start="20260811071500 +0600" stop="20260811081000 +0600" channel="WION.in">
+    <title lang="bn">Chasing Monsters</title>
   </programme>
-  <programme start="20260811042000 +0600" stop="20260811051500 +0600" channel="WION.in">
-    <title lang="bn">Coral City</title>
+  <programme start="20260811081000 +0600" stop="20260811084000 +0600" channel="WION.in">
+    <title lang="bn">Deadly Mission Shark</title>
   </programme>
-  <programme start="20260811051500 +0600" stop="20260811061000 +0600" channel="WION.in">
-    <title lang="bn">Pride Rules</title>
+  <programme start="20260811084000 +0600" stop="20260811091000 +0600" channel="WION.in">
+    <title lang="bn">Deadly Mission Shark</title>
   </programme>
-  <programme start="20260811061000 +0600" stop="20260811070500 +0600" channel="WION.in">
-    <title lang="bn">Osprey: Sea Raptor</title>
+  <programme start="20260811091000 +0600" stop="20260811094000 +0600" channel="WION.in">
+    <title lang="bn">Robson Green&amp;#x27;s Weekend Escapes</title>
   </programme>
-  <programme start="20260811070500 +0600" stop="20260811080000 +0600" channel="WION.in">
-    <title lang="bn">Africa&amp;#x27;s Hunters</title>
+  <programme start="20260811094000 +0600" stop="20260811101500 +0600" channel="WION.in">
+    <title lang="bn">Robson Green&amp;#x27;s Weekend Escapes</title>
   </programme>
-  <programme start="20260811080000 +0600" stop="20260811085500 +0600" channel="WION.in">
-    <title lang="bn">The Great Elephant Tale</title>
+  <programme start="20260811101500 +0600" stop="20260811111500 +0600" channel="WION.in">
+    <title lang="bn">Spectacular Earth</title>
   </programme>
-  <programme start="20260811085500 +0600" stop="20260811095000 +0600" channel="WION.in">
-    <title lang="bn">Superbeast</title>
+  <programme start="20260811111500 +0600" stop="20260811123500 +0600" channel="WION.in">
+    <title lang="bn">Chasing Monsters</title>
   </programme>
-  <programme start="20260811095000 +0600" stop="20260811104500 +0600" channel="WION.in">
-    <title lang="bn">Coral City</title>
+  <programme start="20260811123500 +0600" stop="20260811131000 +0600" channel="WION.in">
+    <title lang="bn">Deadly Mission Shark</title>
   </programme>
-  <programme start="20260811104500 +0600" stop="20260811114000 +0600" channel="WION.in">
-    <title lang="bn">Coral City</title>
+  <programme start="20260811131000 +0600" stop="20260811134000 +0600" channel="WION.in">
+    <title lang="bn">Robson Green&amp;#x27;s Weekend Escapes</title>
   </programme>
-  <programme start="20260811114000 +0600" stop="20260811132500 +0600" channel="WION.in">
-    <title lang="bn">Pride Rules</title>
+  <programme start="20260811134000 +0600" stop="20260811141500 +0600" channel="WION.in">
+    <title lang="bn">Robson Green&amp;#x27;s Weekend Escapes</title>
   </programme>
-  <programme start="20260811132500 +0600" stop="20260811142000 +0600" channel="WION.in">
-    <title lang="bn">Africa&amp;#x27;s Hunters</title>
+  <programme start="20260811141500 +0600" stop="20260811151500 +0600" channel="WION.in">
+    <title lang="bn">Spectacular Earth</title>
   </programme>
-  <programme start="20260811142000 +0600" stop="20260811151500 +0600" channel="WION.in">
-    <title lang="bn">The Great Elephant Tale</title>
-  </programme>
-  <programme start="20260811151500 +0600" stop="20260811154000 +0600" channel="WION.in">
-    <title lang="bn">Aussie Snake Wranglers: Deadly Pursuit</title>
-  </programme>
-  <programme start="20260811154000 +0600" stop="20260811161000 +0600" channel="WION.in">
-    <title lang="bn">Aussie Snake Wranglers: Deadly Pursuit</title>
+  <programme start="20260811151500 +0600" stop="20260811161000 +0600" channel="WION.in">
+    <title lang="bn">The Great Wall With Ash Dykes</title>
   </programme>
   <programme start="20260811161000 +0600" stop="20260811170500 +0600" channel="WION.in">
-    <title lang="bn">Coral City</title>
+    <title lang="bn">Walking With Dinosaurs</title>
   </programme>
-  <programme start="20260811170500 +0600" stop="20260811180000 +0600" channel="WION.in">
-    <title lang="bn">Coral City</title>
+  <programme start="20260811170500 +0600" stop="20260811173500 +0600" channel="WION.in">
+    <title lang="bn">Deadly Mission Shark</title>
   </programme>
-  <programme start="20260811180000 +0600" stop="20260811182500 +0600" channel="WION.in">
-    <title lang="bn">Mysteries of Evolution</title>
+  <programme start="20260811173500 +0600" stop="20260811181000 +0600" channel="WION.in">
+    <title lang="bn">Deadly Mission Shark</title>
   </programme>
-  <programme start="20260811182500 +0600" stop="20260811192000 +0600" channel="WION.in">
-    <title lang="bn">Coral City</title>
+  <programme start="20260811181000 +0600" stop="20260811184000 +0600" channel="WION.in">
+    <title lang="bn">Robson Green&amp;#x27;s Weekend Escapes</title>
   </programme>
-  <programme start="20260811192000 +0600" stop="20260811195000 +0600" channel="WION.in">
-    <title lang="bn">Coral City</title>
+  <programme start="20260811184000 +0600" stop="20260811191500 +0600" channel="WION.in">
+    <title lang="bn">Robson Green&amp;#x27;s Weekend Escapes</title>
+  </programme>
+  <programme start="20260811191500 +0600" stop="20260811194500 +0600" channel="WION.in">
+    <title lang="bn">The Great Wall With Ash Dykes</title>
   </programme>
   <channel id="CGTN.cn">
     <display-name>CGTN</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/>
   </channel>
-  <programme start="20260810005500 +0600" stop="20260810024900 +0600" channel="CGTN.cn">
-    <title lang="bn">ゴゴスマ</title>
+  <programme start="20260810000000 +0600" stop="20260810003100 +0600" channel="CGTN.cn">
+    <title lang="bn">Danger Force</title>
   </programme>
-  <programme start="20260810024900 +0600" stop="20260810060000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nスタ[字]　井上貴博、出水麻衣が、あなたのパートナーに。</title>
+  <programme start="20260810003100 +0600" stop="20260810010000 +0600" channel="CGTN.cn">
+    <title lang="bn">Danger Force</title>
   </programme>
-  <programme start="20260810060000 +0600" stop="20260810075500 +0600" channel="CGTN.cn">
-    <title lang="bn">CDTVライブ!ライブ![字][デ]</title>
+  <programme start="20260810010000 +0600" stop="20260810013100 +0600" channel="CGTN.cn">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260810075500 +0600" stop="20260810090000 +0600" channel="CGTN.cn">
-    <title lang="bn">テレビ×ミセス★びしょ濡れMAX!夏の東京ディズニーリゾート大視察ロケSP![字]</title>
+  <programme start="20260810013100 +0600" stop="20260810020000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260810090000 +0600" stop="20260810095700 +0600" channel="CGTN.cn">
-    <title lang="bn">プロフェッショナルランキング★SASUKE泣ける名場面ランキングBEST20[字]</title>
+  <programme start="20260810020000 +0600" stop="20260810023100 +0600" channel="CGTN.cn">
+    <title lang="bn">Rock, Paper, Scissors</title>
   </programme>
-  <programme start="20260810095700 +0600" stop="20260810100000 +0600" channel="CGTN.cn">
-    <title lang="bn">トップニュース先出し[字]</title>
+  <programme start="20260810023100 +0600" stop="20260810030000 +0600" channel="CGTN.cn">
+    <title lang="bn">Rock, Paper, Scissors</title>
   </programme>
-  <programme start="20260810100000 +0600" stop="20260810105600 +0600" channel="CGTN.cn">
-    <title lang="bn">news23[字]あなたと、あなたの身近な人にとって大切なニュースを</title>
+  <programme start="20260810030000 +0600" stop="20260810032000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Patrick Star Show</title>
   </programme>
-  <programme start="20260810105600 +0600" stop="20260810115500 +0600" channel="CGTN.cn">
-    <title lang="bn">クレイジージャーニー[字]</title>
+  <programme start="20260810032000 +0600" stop="20260810034500 +0600" channel="CGTN.cn">
+    <title lang="bn">The Patrick Star Show</title>
   </programme>
-  <programme start="20260810115500 +0600" stop="20260810115800 +0600" channel="CGTN.cn">
-    <title lang="bn">Gヘルスケア  街角ドクター訪問</title>
+  <programme start="20260810034500 +0600" stop="20260810041000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260810115800 +0600" stop="20260810122800 +0600" channel="CGTN.cn">
-    <title lang="bn">ひらめけ!うんぴょこちゃんねる WEST.お兄さんが子どもの自由な発想を全力表現</title>
+  <programme start="20260810041000 +0600" stop="20260810043500 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260810122800 +0600" stop="20260810123500 +0600" channel="CGTN.cn">
-    <title lang="bn">イベントGO!</title>
+  <programme start="20260810043500 +0600" stop="20260810050000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260810123500 +0600" stop="20260810151500 +0600" channel="CGTN.cn">
-    <title lang="bn">カイモノラボ</title>
+  <programme start="20260810050000 +0600" stop="20260810052500 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260810151500 +0600" stop="20260810153000 +0600" channel="CGTN.cn">
-    <title lang="bn">TBS　NEWS</title>
+  <programme start="20260810052500 +0600" stop="20260810055000 +0600" channel="CGTN.cn">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260810153000 +0600" stop="20260810162000 +0600" channel="CGTN.cn">
-    <title lang="bn">THE　TIME&amp;#x27;[デ]</title>
+  <programme start="20260810055000 +0600" stop="20260810061500 +0600" channel="CGTN.cn">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260810162000 +0600" stop="20260810190000 +0600" channel="CGTN.cn">
-    <title lang="bn">THE　TIME,[字][デ]</title>
+  <programme start="20260810061500 +0600" stop="20260810063000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260810190000 +0600" stop="20260810205500 +0600" channel="CGTN.cn">
-    <title lang="bn">ラヴィット!　日本でいちばん明るい朝番組[字]</title>
+  <programme start="20260810063000 +0600" stop="20260810064000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260810205500 +0600" stop="20260810212500 +0600" channel="CGTN.cn">
-    <title lang="bn">買いドキ!生ショップ　この時期にぴったりの季節商品や今だけの期間限定商品がお得[字]</title>
+  <programme start="20260810064000 +0600" stop="20260810065500 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260810212500 +0600" stop="20260810225500 +0600" channel="CGTN.cn">
-    <title lang="bn">ひるおび[字]</title>
+  <programme start="20260810065500 +0600" stop="20260810071000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260810225500 +0600" stop="20260811005500 +0600" channel="CGTN.cn">
-    <title lang="bn">ひるおび[字]</title>
+  <programme start="20260810071000 +0600" stop="20260810072500 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260811005500 +0600" stop="20260811024900 +0600" channel="CGTN.cn">
-    <title lang="bn">ゴゴスマ</title>
+  <programme start="20260810072500 +0600" stop="20260810073500 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260811024900 +0600" stop="20260811060000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nスタ[字]　井上貴博、出水麻衣が、あなたのパートナーに。</title>
+  <programme start="20260810073500 +0600" stop="20260810074500 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260811060000 +0600" stop="20260811075500 +0600" channel="CGTN.cn">
-    <title lang="bn">THE神業チャレンジ★くら寿司!売上対決&amp;amp;鈴木亮平VS神職人&amp;amp;松尾VS神クレーン[解][字]</title>
+  <programme start="20260810074500 +0600" stop="20260810080000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260811075500 +0600" stop="20260811090000 +0600" channel="CGTN.cn">
-    <title lang="bn">マツコの知らない世界[解][字]【毎週火曜よる8時55分!マツコ仰天!驚きの世界】</title>
+  <programme start="20260810080000 +0600" stop="20260810081000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260811090000 +0600" stop="20260811100000 +0600" channel="CGTN.cn">
-    <title lang="bn">火曜ドラマ「君の好きは無敵」#5すべては「かわいい」と「好き」を守るために![解][字]</title>
+  <programme start="20260810081000 +0600" stop="20260810083500 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260811100000 +0600" stop="20260811105600 +0600" channel="CGTN.cn">
-    <title lang="bn">news23[字]あなたと、あなたの身近な人にとって大切なニュースを</title>
+  <programme start="20260810083500 +0600" stop="20260810090000 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260811105600 +0600" stop="20260811112400 +0600" channel="CGTN.cn">
-    <title lang="bn">地球まるごと大実験ネイチャーティーチャー[字]</title>
+  <programme start="20260810090000 +0600" stop="20260810093100 +0600" channel="CGTN.cn">
+    <title lang="bn">Rock, Paper, Scissors</title>
   </programme>
-  <programme start="20260811112400 +0600" stop="20260811115300 +0600" channel="CGTN.cn">
-    <title lang="bn">「トーキング千鳥!」ナビ</title>
+  <programme start="20260810093100 +0600" stop="20260810100000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Patrick Star Show</title>
   </programme>
-  <programme start="20260811115300 +0600" stop="20260811115600 +0600" channel="CGTN.cn">
-    <title lang="bn">Gヘルスケア  街角ドクター訪問【テーマ:腰痛】</title>
+  <programme start="20260810100000 +0600" stop="20260810103100 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260811115600 +0600" stop="20260811122600 +0600" channel="CGTN.cn">
-    <title lang="bn">アッコとジャンボ</title>
+  <programme start="20260810103100 +0600" stop="20260810110000 +0600" channel="CGTN.cn">
+    <title lang="bn">Sonic Prime</title>
   </programme>
-  <programme start="20260811122600 +0600" stop="20260811125600 +0600" channel="CGTN.cn">
-    <title lang="bn">幸せになりたいマサムネ君　第6話【中沢元紀・主演★ドラマイズム】[解][字]</title>
+  <programme start="20260810110000 +0600" stop="20260810113100 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans: Undercover</title>
   </programme>
-  <programme start="20260811125600 +0600" stop="20260811133600 +0600" channel="CGTN.cn">
-    <title lang="bn">アカデミーナイトG</title>
+  <programme start="20260810113100 +0600" stop="20260810120000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans: Undercover</title>
   </programme>
-  <programme start="20260811133600 +0600" stop="20260811134300 +0600" channel="CGTN.cn">
-    <title lang="bn">イベントGO!</title>
+  <programme start="20260810120000 +0600" stop="20260810123100 +0600" channel="CGTN.cn">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260811134300 +0600" stop="20260811144500 +0600" channel="CGTN.cn">
-    <title lang="bn">カイモノラボ</title>
+  <programme start="20260810123100 +0600" stop="20260810130000 +0600" channel="CGTN.cn">
+    <title lang="bn">Rock Island Mysteries</title>
   </programme>
-  <programme start="20260811144500 +0600" stop="20260811153000 +0600" channel="CGTN.cn">
-    <title lang="bn">TBS　NEWS</title>
+  <programme start="20260810130000 +0600" stop="20260810133100 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260811153000 +0600" stop="20260811162000 +0600" channel="CGTN.cn">
-    <title lang="bn">THE　TIME&amp;#x27;[デ]</title>
+  <programme start="20260810133100 +0600" stop="20260810140000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260811162000 +0600" stop="20260811190000 +0600" channel="CGTN.cn">
-    <title lang="bn">THE　TIME,[字][デ]</title>
+  <programme start="20260810140000 +0600" stop="20260810143100 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260811190000 +0600" stop="20260811205500 +0600" channel="CGTN.cn">
-    <title lang="bn">ラヴィット!　日本でいちばん明るい朝番組[字]</title>
+  <programme start="20260810143100 +0600" stop="20260810150000 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260811205500 +0600" stop="20260811212500 +0600" channel="CGTN.cn">
-    <title lang="bn">滝沢カレン&amp;amp;和田明日香のフィーリンきっちん[字]</title>
+  <programme start="20260810150000 +0600" stop="20260810153100 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260811212500 +0600" stop="20260811225500 +0600" channel="CGTN.cn">
-    <title lang="bn">ひるおび[字]</title>
+  <programme start="20260810153100 +0600" stop="20260810160000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Patrick Star Show</title>
   </programme>
-  <programme start="20260811225500 +0600" stop="20260812005500 +0600" channel="CGTN.cn">
-    <title lang="bn">ひるおび[字]</title>
+  <programme start="20260810160000 +0600" stop="20260810163100 +0600" channel="CGTN.cn">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260812005500 +0600" stop="20260812024900 +0600" channel="CGTN.cn">
-    <title lang="bn">ゴゴスマ</title>
+  <programme start="20260810163100 +0600" stop="20260810170000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans: Undercover</title>
   </programme>
-  <programme start="20260812024900 +0600" stop="20260812060000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nスタ[字]　井上貴博、出水麻衣が、あなたのパートナーに。</title>
+  <programme start="20260810170000 +0600" stop="20260810173100 +0600" channel="CGTN.cn">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260812060000 +0600" stop="20260812085800 +0600" channel="CGTN.cn">
-    <title lang="bn">世界くらべてみたら★SixTONES森本&amp;amp;あばれる君参戦!世界で自由研究[字][デ]</title>
+  <programme start="20260810173100 +0600" stop="20260810180000 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260812085800 +0600" stop="20260812090000 +0600" channel="CGTN.cn">
-    <title lang="bn">フラッシュニュース[字]</title>
+  <programme start="20260810180000 +0600" stop="20260810183100 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260812090000 +0600" stop="20260812100000 +0600" channel="CGTN.cn">
-    <title lang="bn">「トーキング千鳥!」好評第2弾★千鳥VS話題の有名人10名!東京は天国or地獄SP</title>
+  <programme start="20260810183100 +0600" stop="20260810190000 +0600" channel="CGTN.cn">
+    <title lang="bn">Sonic Prime</title>
   </programme>
-  <programme start="20260812100000 +0600" stop="20260812105600 +0600" channel="CGTN.cn">
-    <title lang="bn">news23[字]あなたと、あなたの身近な人にとって大切なニュースを</title>
+  <programme start="20260810190000 +0600" stop="20260810193100 +0600" channel="CGTN.cn">
+    <title lang="bn">Sonic Prime</title>
   </programme>
-  <programme start="20260812105600 +0600" stop="20260812115500 +0600" channel="CGTN.cn">
-    <title lang="bn">よるのブランチ[字]八村倫太郎率いるWATWINGとクイズ対決★1年前のリベンジ合戦</title>
+  <programme start="20260810193100 +0600" stop="20260810200000 +0600" channel="CGTN.cn">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260812115500 +0600" stop="20260812115800 +0600" channel="CGTN.cn">
-    <title lang="bn">Gヘルスケア  街角ドクター訪問【テーマ:腰痛】</title>
+  <programme start="20260810200000 +0600" stop="20260810203100 +0600" channel="CGTN.cn">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260812115800 +0600" stop="20260812122800 +0600" channel="CGTN.cn">
-    <title lang="bn">ふるさとの未来[解]</title>
+  <programme start="20260810203100 +0600" stop="20260810210000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans: Undercover</title>
   </programme>
-  <programme start="20260812122800 +0600" stop="20260812123500 +0600" channel="CGTN.cn">
-    <title lang="bn">イベントGO! ブロードウェイミュージカル『シカゴ』情報!</title>
+  <programme start="20260810210000 +0600" stop="20260810213100 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260812123500 +0600" stop="20260812144500 +0600" channel="CGTN.cn">
-    <title lang="bn">カイモノラボ</title>
+  <programme start="20260810213100 +0600" stop="20260810220000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans: Undercover</title>
   </programme>
-  <programme start="20260812144500 +0600" stop="20260812153000 +0600" channel="CGTN.cn">
-    <title lang="bn">TBS　NEWS</title>
+  <programme start="20260810220000 +0600" stop="20260810223100 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans: Undercover</title>
   </programme>
-  <programme start="20260812153000 +0600" stop="20260812162000 +0600" channel="CGTN.cn">
-    <title lang="bn">THE　TIME&amp;#x27;[デ]</title>
+  <programme start="20260810223100 +0600" stop="20260810230000 +0600" channel="CGTN.cn">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260812162000 +0600" stop="20260812190000 +0600" channel="CGTN.cn">
-    <title lang="bn">THE　TIME,[字][デ]</title>
+  <programme start="20260810230000 +0600" stop="20260810233100 +0600" channel="CGTN.cn">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260812190000 +0600" stop="20260812205500 +0600" channel="CGTN.cn">
-    <title lang="bn">ラヴィット!　日本でいちばん明るい朝番組[字]</title>
+  <programme start="20260810233100 +0600" stop="20260811000000 +0600" channel="CGTN.cn">
+    <title lang="bn">Danger Force</title>
   </programme>
-  <programme start="20260812205500 +0600" stop="20260812212500 +0600" channel="CGTN.cn">
-    <title lang="bn">滝沢カレン&amp;amp;和田明日香のフィーリンきっちん[字]</title>
+  <programme start="20260811000000 +0600" stop="20260811003100 +0600" channel="CGTN.cn">
+    <title lang="bn">Danger Force</title>
   </programme>
-  <programme start="20260812212500 +0600" stop="20260812225500 +0600" channel="CGTN.cn">
-    <title lang="bn">ひるおび[字]</title>
+  <programme start="20260811003100 +0600" stop="20260811010000 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260812225500 +0600" stop="20260813005500 +0600" channel="CGTN.cn">
-    <title lang="bn">ひるおび[字]</title>
+  <programme start="20260811010000 +0600" stop="20260811013100 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260813005500 +0600" stop="20260813024900 +0600" channel="CGTN.cn">
-    <title lang="bn">ゴゴスマ</title>
+  <programme start="20260811013100 +0600" stop="20260811020000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260813024900 +0600" stop="20260813060000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nスタ[字]　井上貴博、出水麻衣が、あなたのパートナーに。</title>
+  <programme start="20260811020000 +0600" stop="20260811023100 +0600" channel="CGTN.cn">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260813060000 +0600" stop="20260813070000 +0600" channel="CGTN.cn">
-    <title lang="bn">プレバト!!【陶芸…特待生の片桐仁が昇格試験!★俳句…お題は「花火大会」】[字]</title>
+  <programme start="20260811023100 +0600" stop="20260811030000 +0600" channel="CGTN.cn">
+    <title lang="bn">Rock, Paper, Scissors</title>
   </programme>
-  <programme start="20260813070000 +0600" stop="20260813090000 +0600" channel="CGTN.cn">
-    <title lang="bn">ニンゲン観察バラエティ　モニタリング[字]</title>
+  <programme start="20260811030000 +0600" stop="20260811033000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Patrick Star Show</title>
   </programme>
-  <programme start="20260813090000 +0600" stop="20260813095700 +0600" channel="CGTN.cn">
-    <title lang="bn">サンド屋台☆菜々緒&amp;amp;宮澤エマ&amp;amp;モナキおヨネが来店で大揉め!!爆笑トーク&amp;amp;ゲーム[字]</title>
+  <programme start="20260811033000 +0600" stop="20260811040000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Patrick Star Show</title>
   </programme>
-  <programme start="20260813095700 +0600" stop="20260813100000 +0600" channel="CGTN.cn">
-    <title lang="bn">アジア大会×VIVANT〜新たな別班候補はだれだ?〜[字]</title>
+  <programme start="20260811040000 +0600" stop="20260811042500 +0600" channel="CGTN.cn">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260813100000 +0600" stop="20260813105600 +0600" channel="CGTN.cn">
-    <title lang="bn">news23[字]あなたと、あなたの身近な人にとって大切なニュースを</title>
+  <programme start="20260811042500 +0600" stop="20260811045000 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260813105600 +0600" stop="20260813112600 +0600" channel="CGTN.cn">
-    <title lang="bn">スーパーの裏でヤニ吸うふたり　♯6[字]</title>
+  <programme start="20260811045000 +0600" stop="20260811051500 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260813112600 +0600" stop="20260813115600 +0600" channel="CGTN.cn">
-    <title lang="bn">追放された転生重騎士はゲーム知識で無双する#07◆スーパーアニメイズムTURBO[字][デ]</title>
+  <programme start="20260811051500 +0600" stop="20260811054000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260813115600 +0600" stop="20260813115900 +0600" channel="CGTN.cn">
-    <title lang="bn">Gヘルスケア  街角ドクター訪問【テーマ:腰痛】</title>
+  <programme start="20260811054000 +0600" stop="20260811060500 +0600" channel="CGTN.cn">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260813115900 +0600" stop="20260813122800 +0600" channel="CGTN.cn">
-    <title lang="bn">限界突破!やってM!LK</title>
+  <programme start="20260811060500 +0600" stop="20260811063000 +0600" channel="CGTN.cn">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260813122800 +0600" stop="20260813125800 +0600" channel="CGTN.cn">
-    <title lang="bn">TVアニメ『乙女怪獣キャラメリゼ』第7話「狙われた新汰」[字]</title>
+  <programme start="20260811063000 +0600" stop="20260811064000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260813125800 +0600" stop="20260813130500 +0600" channel="CGTN.cn">
-    <title lang="bn">イベントGO! ブロードウェイミュージカル『シカゴ』情報!</title>
+  <programme start="20260811064000 +0600" stop="20260811065000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260813130500 +0600" stop="20260813144500 +0600" channel="CGTN.cn">
-    <title lang="bn">カイモノラボ</title>
+  <programme start="20260811065000 +0600" stop="20260811070000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260813144500 +0600" stop="20260813153000 +0600" channel="CGTN.cn">
-    <title lang="bn">TBS　NEWS</title>
+  <programme start="20260811070000 +0600" stop="20260811071000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260813153000 +0600" stop="20260813162000 +0600" channel="CGTN.cn">
-    <title lang="bn">THE　TIME&amp;#x27;[デ]</title>
+  <programme start="20260811071000 +0600" stop="20260811072000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260813162000 +0600" stop="20260813190000 +0600" channel="CGTN.cn">
-    <title lang="bn">THE　TIME,[字][デ]</title>
+  <programme start="20260811072000 +0600" stop="20260811073000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260813190000 +0600" stop="20260813205500 +0600" channel="CGTN.cn">
-    <title lang="bn">ラヴィット!　日本でいちばん明るい朝番組[字]</title>
+  <programme start="20260811073000 +0600" stop="20260811074000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260813205500 +0600" stop="20260813212500 +0600" channel="CGTN.cn">
-    <title lang="bn">滝沢カレン&amp;amp;和田明日香のフィーリンきっちん[字]</title>
+  <programme start="20260811074000 +0600" stop="20260811075000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260813212500 +0600" stop="20260813225500 +0600" channel="CGTN.cn">
-    <title lang="bn">ひるおび[字]</title>
+  <programme start="20260811075000 +0600" stop="20260811080000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260813225500 +0600" stop="20260814005500 +0600" channel="CGTN.cn">
-    <title lang="bn">ひるおび[字]</title>
+  <programme start="20260811080000 +0600" stop="20260811083000 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260814005500 +0600" stop="20260814024900 +0600" channel="CGTN.cn">
-    <title lang="bn">ゴゴスマ</title>
+  <programme start="20260811083000 +0600" stop="20260811090000 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260814024900 +0600" stop="20260814060000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nスタ[字]　日比麻音子、南波雅俊、山内あゆが、あなたのパートナーに。</title>
+  <programme start="20260811090000 +0600" stop="20260811093100 +0600" channel="CGTN.cn">
+    <title lang="bn">Rock, Paper, Scissors</title>
   </programme>
-  <programme start="20260814060000 +0600" stop="20260814075500 +0600" channel="CGTN.cn">
-    <title lang="bn">それSnow　Manにやらせて下さいSP★サッカー森保監督がTBSバラエティ初出演</title>
+  <programme start="20260811093100 +0600" stop="20260811100000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Patrick Star Show</title>
   </programme>
-  <programme start="20260814075500 +0600" stop="20260814090000 +0600" channel="CGTN.cn">
-    <title lang="bn">Snow　Man佐久間　渡辺　宮舘の江戸川会★岡田将生・鈴木亮平と下町トーク[字]</title>
+  <programme start="20260811100000 +0600" stop="20260811103100 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260814090000 +0600" stop="20260814095400 +0600" channel="CGTN.cn">
-    <title lang="bn">金曜ドラマ「Tシャツが乾くまで」第6話[解][字]</title>
+  <programme start="20260811103100 +0600" stop="20260811110000 +0600" channel="CGTN.cn">
+    <title lang="bn">Sonic Prime</title>
   </programme>
-  <programme start="20260814095400 +0600" stop="20260814100000 +0600" channel="CGTN.cn">
-    <title lang="bn">私のサントラ[解][字]</title>
+  <programme start="20260811110000 +0600" stop="20260811113100 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans: Undercover</title>
   </programme>
-  <programme start="20260814100000 +0600" stop="20260814103000 +0600" channel="CGTN.cn">
-    <title lang="bn">A-Studio+[解][字]</title>
+  <programme start="20260811113100 +0600" stop="20260811120000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans: Undercover</title>
   </programme>
-  <programme start="20260814103000 +0600" stop="20260814105800 +0600" channel="CGTN.cn">
-    <title lang="bn">ララLIFE　〜人生を豊かにする、週末HOW TOバラエティ〜[字]</title>
+  <programme start="20260811120000 +0600" stop="20260811123100 +0600" channel="CGTN.cn">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260814105800 +0600" stop="20260814114300 +0600" channel="CGTN.cn">
-    <title lang="bn">news23[字]あなたと、あなたの身近な人にとって大切なニュースを</title>
+  <programme start="20260811123100 +0600" stop="20260811130000 +0600" channel="CGTN.cn">
+    <title lang="bn">Rock Island Mysteries</title>
   </programme>
-  <programme start="20260814114300 +0600" stop="20260814114800 +0600" channel="CGTN.cn">
-    <title lang="bn">Gヘルスケア  街角ドクター訪問【テーマ:腰痛】</title>
+  <programme start="20260811130000 +0600" stop="20260811133100 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260814114800 +0600" stop="20260814121800 +0600" channel="CGTN.cn">
-    <title lang="bn">有田哲平とコスられない街</title>
+  <programme start="20260811133100 +0600" stop="20260811140000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans: Undercover</title>
   </programme>
-  <programme start="20260814121800 +0600" stop="20260814122300 +0600" channel="CGTN.cn">
-    <title lang="bn">ジョシとドラゴン★サバンナ高橋&amp;amp;伊藤麻希</title>
+  <programme start="20260811140000 +0600" stop="20260811143100 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans: Undercover</title>
   </programme>
-  <programme start="20260814122300 +0600" stop="20260814125300 +0600" channel="CGTN.cn">
-    <title lang="bn">こちけんリアピのてれび1年生</title>
+  <programme start="20260811143100 +0600" stop="20260811150000 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260814125300 +0600" stop="20260814132300 +0600" channel="CGTN.cn">
-    <title lang="bn">コードギアス　奪還のロゼ　#06【アニメイズム】</title>
+  <programme start="20260811150000 +0600" stop="20260811153100 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260814132300 +0600" stop="20260814133300 +0600" channel="CGTN.cn">
-    <title lang="bn">With☆ベイスターズ</title>
+  <programme start="20260811153100 +0600" stop="20260811160000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Patrick Star Show</title>
   </programme>
-  <programme start="20260814133300 +0600" stop="20260814134500 +0600" channel="CGTN.cn">
-    <title lang="bn">イベントGO!プラス ブロードウェイミュージカル『シカゴ』情報!</title>
+  <programme start="20260811160000 +0600" stop="20260811163100 +0600" channel="CGTN.cn">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260814134500 +0600" stop="20260814150000 +0600" channel="CGTN.cn">
-    <title lang="bn">カイモノラボ</title>
+  <programme start="20260811163100 +0600" stop="20260811170000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans: Undercover</title>
   </programme>
-  <programme start="20260814150000 +0600" stop="20260814154500 +0600" channel="CGTN.cn">
-    <title lang="bn">TBS　NEWS</title>
+  <programme start="20260811170000 +0600" stop="20260811173100 +0600" channel="CGTN.cn">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260814154500 +0600" stop="20260814161500 +0600" channel="CGTN.cn">
-    <title lang="bn">ぜひモノ</title>
+  <programme start="20260811173100 +0600" stop="20260811180000 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260814161500 +0600" stop="20260814163000 +0600" channel="CGTN.cn">
-    <title lang="bn">皇室アルバム</title>
+  <programme start="20260811180000 +0600" stop="20260811183100 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260814163000 +0600" stop="20260814164500 +0600" channel="CGTN.cn">
-    <title lang="bn">JNNニュース[手][字]</title>
+  <programme start="20260811183100 +0600" stop="20260811190000 +0600" channel="CGTN.cn">
+    <title lang="bn">Sonic Prime</title>
   </programme>
-  <programme start="20260814164500 +0600" stop="20260814183000 +0600" channel="CGTN.cn">
-    <title lang="bn">夜明けのラヴィット![字]</title>
+  <programme start="20260811190000 +0600" stop="20260811193100 +0600" channel="CGTN.cn">
+    <title lang="bn">Sonic Prime</title>
   </programme>
-  <programme start="20260814183000 +0600" stop="20260814202500 +0600" channel="CGTN.cn">
-    <title lang="bn">サタプラ[字]試して!レトルトポークカレー★進化する最新かき氷★江戸絵画展に大行列!?</title>
+  <programme start="20260811193100 +0600" stop="20260811200000 +0600" channel="CGTN.cn">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260814202500 +0600" stop="20260814203000 +0600" channel="CGTN.cn">
-    <title lang="bn">アニメ「リラックマ」#20[字]</title>
+  <programme start="20260811200000 +0600" stop="20260811203100 +0600" channel="CGTN.cn">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260814203000 +0600" stop="20260814224500 +0600" channel="CGTN.cn">
-    <title lang="bn">王様のブランチ[字]</title>
+  <programme start="20260811203100 +0600" stop="20260811210000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans: Undercover</title>
   </programme>
-  <programme start="20260814224500 +0600" stop="20260814225900 +0600" channel="CGTN.cn">
-    <title lang="bn">JNNニュース[字]</title>
+  <programme start="20260811210000 +0600" stop="20260811213100 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260814225900 +0600" stop="20260815010000 +0600" channel="CGTN.cn">
-    <title lang="bn">王様のブランチ[字]</title>
+  <programme start="20260811213100 +0600" stop="20260811220000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260815010000 +0600" stop="20260815020000 +0600" channel="CGTN.cn">
-    <title lang="bn">今さらシロー![字] 岡田×秋山　大人も楽しめる「サンリオピューロランド」の秘密SP</title>
+  <programme start="20260811220000 +0600" stop="20260811223100 +0600" channel="CGTN.cn">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260815020000 +0600" stop="20260815033000 +0600" channel="CGTN.cn">
-    <title lang="bn">大泉サンドの年2会★8月16日よる7時から最新作放送[字]</title>
+  <programme start="20260811223100 +0600" stop="20260811230000 +0600" channel="CGTN.cn">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260815033000 +0600" stop="20260815043000 +0600" channel="CGTN.cn">
-    <title lang="bn">THEワールドチェンジ　AIが変える戦争の世界[字]</title>
+  <programme start="20260811230000 +0600" stop="20260811233100 +0600" channel="CGTN.cn">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260815043000 +0600" stop="20260815055000 +0600" channel="CGTN.cn">
-    <title lang="bn">報道特集[字]</title>
+  <programme start="20260811233100 +0600" stop="20260812000000 +0600" channel="CGTN.cn">
+    <title lang="bn">Danger Force</title>
   </programme>
-  <programme start="20260815055000 +0600" stop="20260815055100 +0600" channel="CGTN.cn">
-    <title lang="bn">ウィークエンドウェザー[字]</title>
+  <programme start="20260812000000 +0600" stop="20260812003100 +0600" channel="CGTN.cn">
+    <title lang="bn">Danger Force</title>
   </programme>
-  <programme start="20260815055100 +0600" stop="20260815075400 +0600" channel="CGTN.cn">
-    <title lang="bn">ジョブチューン★築地銀だこ×超一流料理人!この夏勝負の10品でジャッジに挑む![字][デ]</title>
+  <programme start="20260812003100 +0600" stop="20260812010000 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260815075400 +0600" stop="20260815085600 +0600" channel="CGTN.cn">
-    <title lang="bn">今さらシロー![字]水族館・西武・アニメに餃子!岡田准一&amp;amp;ロバート秋山が池袋潜入SP</title>
+  <programme start="20260812010000 +0600" stop="20260812013100 +0600" channel="CGTN.cn">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260815085600 +0600" stop="20260815090000 +0600" channel="CGTN.cn">
-    <title lang="bn">和心百景〜織る人が自由に表現する　『知花花織/沖縄』〜[解][字]</title>
+  <programme start="20260812013100 +0600" stop="20260812020000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260815090000 +0600" stop="20260815102400 +0600" channel="CGTN.cn">
-    <title lang="bn">情報7daysニュースキャスター[字]</title>
+  <programme start="20260812020000 +0600" stop="20260812023100 +0600" channel="CGTN.cn">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260815102400 +0600" stop="20260815103000 +0600" channel="CGTN.cn">
-    <title lang="bn">Weatherニュースキャスター[字]</title>
-  </programme>
-  <programme start="20260815103000 +0600" stop="20260815110000 +0600" channel="CGTN.cn">
-    <title lang="bn">人生最高レストラン[解][字]</title>
-  </programme>
-  <programme start="20260815110000 +0600" stop="20260815112800 +0600" channel="CGTN.cn">
-    <title lang="bn">S☆1[字]週末のスポーツ情報番組。世界で活躍するアスリートを熱く厚くお届けします!</title>
-  </programme>
-  <programme start="20260815112800 +0600" stop="20260815115800 +0600" channel="CGTN.cn">
-    <title lang="bn">IMP.の「できません」は言いません[字]</title>
-  </programme>
-  <programme start="20260815115800 +0600" stop="20260815122800 +0600" channel="CGTN.cn">
-    <title lang="bn">バース・デイ[字]</title>
-  </programme>
-  <programme start="20260815122800 +0600" stop="20260815125800 +0600" channel="CGTN.cn">
-    <title lang="bn">カバン持ちさせてください!</title>
-  </programme>
-  <programme start="20260815125800 +0600" stop="20260815150000 +0600" channel="CGTN.cn">
-    <title lang="bn">カイモノラボ</title>
-  </programme>
-  <programme start="20260815150000 +0600" stop="20260815153000 +0600" channel="CGTN.cn">
-    <title lang="bn">落語研究会【五街道雲助『目黒のさんま』/柳家三三『提灯屋』】</title>
+  <programme start="20260812023100 +0600" stop="20260812030100 +0600" channel="CGTN.cn">
+    <title lang="bn">Rock, Paper, Scissors</title>
   </programme>
   <channel id="cna.sg">
     <display-name>Channel News Asia</display-name>
     <icon src="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg"/>
   </channel>
-  <programme start="20260810004000 +0600" stop="20260810020000 +0600" channel="cna.sg">
-    <title lang="bn">х/ф Разрушение</title>
+  <programme start="20260810010000 +0600" stop="20260810040000 +0600" channel="cna.sg">
+    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
   </programme>
-  <programme start="20260810020000 +0600" stop="20260810032500 +0600" channel="cna.sg">
-    <title lang="bn">х/ф Джулс</title>
+  <programme start="20260810040000 +0600" stop="20260810070000 +0600" channel="cna.sg">
+    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
   </programme>
-  <programme start="20260810032500 +0600" stop="20260810051000 +0600" channel="cna.sg">
-    <title lang="bn">х/ф Можно только представить</title>
+  <programme start="20260810070000 +0600" stop="20260810100000 +0600" channel="cna.sg">
+    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
   </programme>
-  <programme start="20260810051000 +0600" stop="20260810062500 +0600" channel="cna.sg">
-    <title lang="bn">х/ф Летние каникулы, или Как спасти город</title>
+  <programme start="20260810100000 +0600" stop="20260810130000 +0600" channel="cna.sg">
+    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
   </programme>
-  <programme start="20260810062500 +0600" stop="20260810075000 +0600" channel="cna.sg">
-    <title lang="bn">х/ф Детки в порядке</title>
+  <programme start="20260810130000 +0600" stop="20260810160000 +0600" channel="cna.sg">
+    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
   </programme>
-  <programme start="20260810075000 +0600" stop="20260810091000 +0600" channel="cna.sg">
-    <title lang="bn">х/ф Лулу и Бриггс</title>
+  <programme start="20260810160000 +0600" stop="20260810190000 +0600" channel="cna.sg">
+    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
   </programme>
-  <programme start="20260810091000 +0600" stop="20260810104500 +0600" channel="cna.sg">
-    <title lang="bn">х/ф Леди на драйве</title>
+  <programme start="20260810190000 +0600" stop="20260811010000 +0600" channel="cna.sg">
+    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
   </programme>
-  <programme start="20260810104500 +0600" stop="20260810111500 +0600" channel="cna.sg">
-    <title lang="bn">х/ф Уровень 16</title>
+  <programme start="20260811010000 +0600" stop="20260811040000 +0600" channel="cna.sg">
+    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
+  </programme>
+  <programme start="20260811040000 +0600" stop="20260811070000 +0600" channel="cna.sg">
+    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
+  </programme>
+  <programme start="20260811070000 +0600" stop="20260811100000 +0600" channel="cna.sg">
+    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
+  </programme>
+  <programme start="20260811100000 +0600" stop="20260811130000 +0600" channel="cna.sg">
+    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
+  </programme>
+  <programme start="20260811130000 +0600" stop="20260811160000 +0600" channel="cna.sg">
+    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
+  </programme>
+  <programme start="20260811160000 +0600" stop="20260811190000 +0600" channel="cna.sg">
+    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
+  </programme>
+  <programme start="20260811190000 +0600" stop="20260811193000 +0600" channel="cna.sg">
+    <title lang="bn">Le miroir de la Chine qui rapporte tous les aspects du pays</title>
   </programme>
   <channel id="TRT World">
     <display-name>TRTWorld.tr</display-name>
