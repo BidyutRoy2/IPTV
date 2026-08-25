@@ -3,27 +3,41 @@
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Mohona TV (1d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",NRB HD TV (0d)
-https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | Jago News 24 (0d)
-https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla",MU | ATN MUSIC (0d)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (6d)
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+#EXTINF:-1 group-title="Bangla News",IN | Tribe TV (0d)
+https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 #EXTINF:-1 group-title="Educational",Law & Crime (7d)
 https://ebd6ee5f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19MYXdhbmRDcmltZV9ITFM/playlist.m3u8?ads.wurl_channel=226&ads.wurl_name=LawandCrime&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="India",MU | 9X TASHAN (0d)
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 group-title="India",NEWS | IBC 24 (4d)
 https://cdn-3.pishow.tv/live/220/master.m3u8
-#EXTINF:-1 group-title="International News",AccuWeather NOW (0d)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 group-title="International",QVC UK (0d)
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
+#EXTINF:-1 group-title="International News",DW News (0d)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="International News",DW News (0d)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="International News",DW News (0d)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="International News",DW News (0d)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 group-title="International News",HLN (1d)
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="International News",Newsmax TV (0d)
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="International News",Newsmax TV (0d)
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="Kids",1. Ani (9d)
 http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 group-title="Movies",EN | LoL TV (0d)
+https://streams2.sofast.tv/ptnr-yupptv/title-LOL-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8
 #EXTINF:-1 group-title="Religious",QURAN (6d)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Sunnah TV (6d)
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
-#EXTINF:-1 group-title="Sports",FIGHT | FIGHT NETWORK (0d)
-https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
 #EXTINF:-1 group-title="Sports",POKER | FanDuel TV Extra (5d)
 https://d1x2mlky5ieruz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lsgd252lenx0/v1/fanduelgroup_fandueltv_01/samsungheadend_us/latest/main/hls/playlist.m3u8
