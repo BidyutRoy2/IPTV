@@ -9,18 +9,14 @@ https://cdn-4.pishow.tv/live/1231/1231_1.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla News",IN | R Plus News (0d)
 https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
-#EXTINF:-1 group-title="India",MU | 9XM (0d)
-https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 group-title="India",MU | Tunes 6 (5d)
 https://stream.d6-pro.com/tunes6music/live/video.m3u8
 #EXTINF:-1 group-title="India",NEWS | IBC 24 (9d)
 https://cdn-3.pishow.tv/live/220/master.m3u8
-#EXTINF:-1 group-title="India",NEWS | Times Of India (0d)
-https://live.sli.ke/live/npnhm84gz9/master.m3u8
 #EXTINF:-1 group-title="International News",HLN (0d)
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Movies",EN | Action Hollywood Movies (0d)
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="Kids",ZB Cartoon (0d)
+https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 group-title="Movies",EN | FX2 (0d)
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music",EN | Play TV (0d)
@@ -29,7 +25,7 @@ http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunks.m3u8
 #EXTINF:-1 group-title="Sports",---FIFA(Caze TV 🇧🇷 Brazil)--- (5d)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 group-title="Sports",FIGHT | MMA TV (0d)
-https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
-#EXTINF:-1 group-title="Sports",MIXER | Sports First TV (0d)
-https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
+#EXTINF:-1 group-title="Sports",--Live(Euro Sport 1)-- (0d)
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="Sports",FB | ORF Sport+ HD (0d)
+http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
