@@ -1,30 +1,56 @@
 #EXTM3U
+#EXTINF:-1 group-title="Bangla",Akash Aath (0d)
+https://cdn-4.pishow.tv/live/969/master.m3u8
 #EXTINF:-1 group-title="Bangla",Ayna TV (1d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",GAZI TV HD (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",Mohona TV (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",RTV (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | Channel 1 (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla",DD Bangla (0d)
+https://cdn-4.pishow.tv/live/37/master.m3u8
+#EXTINF:-1 group-title="Bangla",Enter10 Bangla HD (0d)
+https://cdn-4.pishow.tv/live/241/master.m3u8
+#EXTINF:-1 group-title="Bangla",Khushboo Bangla (0d)
+https://cdn-4.pishow.tv/live/1473/master.m3u8
+#EXTINF:-1 group-title="Bangla",MU | SANGEET BANGLA (0d)
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 group-title="Bangla",Orange Bangla TV (0d)
+https://cdn-4.pishow.tv/live/1499/master.m3u8
+#EXTINF:-1 group-title="Bangla",R Plus Gold (0d)
+https://cdn-4.pishow.tv/live/1231/1231_1.m3u8
+#EXTINF:-1 group-title="Bangla News",IN | R Plus News (0d)
+https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
+#EXTINF:-1 group-title="Bangla News",IN | Republic Bangla (0d)
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Educational",Love the Planet (3d)
 https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="India",Bhoj | Oscar Movies Bhojpuri (0d)
+https://cdn-4.pishow.tv/live/233/master.m3u8
 #EXTINF:-1 group-title="India",ENT | DD Bharati (0d)
 https://cdn-1.pishow.tv/live/10/master.m3u8
 #EXTINF:-1 group-title="India",ENT | Manoranjan Grand (0d)
 https://cdn-1.pishow.tv/live/1011/master.m3u8
 #EXTINF:-1 group-title="India",ENT | Manoranjan TV (0d)
 https://cdn-1.pishow.tv/live/1013/master.m3u8
+#EXTINF:-1 group-title="India",ENT | Shemaroo TV (0d)
+https://cdn-3.pishow.tv/live/230/master.m3u8
+#EXTINF:-1 group-title="India",MOV | B4U Kadak (0d)
+https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1 group-title="India",MOV | Goldmines (0d)
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 group-title="India",MOV | Goldmines Movies (0d)
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 group-title="India",MOV | Goldmines Movies 2 (0d)
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 group-title="India",MU | B4U Music India (0d)
+https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 group-title="India",MU | MK Six (0d)
+https://cdn-3.pishow.tv/live/1253/master.m3u8
+#EXTINF:-1 group-title="India",MU | MUSIC INDIA HD (0d)
+https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 group-title="India",MU | PTC Chakde (0d)
 https://cdn-1.pishow.tv/live/449/master.m3u8
-#EXTINF:-1 group-title="India",NEWS | Bharat Express (0d)
-https://stream1.livebox.co.in/VCAREhls/live.m3u8
-#EXTINF:-1 group-title="India",NEWS | NDTV English (0d)
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 group-title="International News",Connecting America (0d)
-https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/ts-us-e2-n1/playlist/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:-1 group-title="India",MU | Public Music (0d)
+https://cdn-3.pishow.tv/live/441/master.m3u8
+#EXTINF:-1 group-title="International",Nosey (0d)
+https://bc744a85.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9Ob3NleV9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="International News",HLN (1d)
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Kids",1. Hi Dost! (0d)
@@ -33,13 +59,17 @@ https://cdn-1.pishow.tv/live/224/master.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 #EXTINF:-1 group-title="Movies",EN | FX2 (4d)
 https://toonixhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Movies",EN | Toonami Aftermath Movie (0d)
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 group-title="Music",EN | Play TV (4d)
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+#EXTINF:-1 group-title="Religious",Channel Win (0d)
+https://cdn-4.pishow.tv/live/229/master.m3u8
 #EXTINF:-1 group-title="Sports",---FIFA(Caze TV 🇧🇷 Brazil)--- (9d)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 group-title="Sports",---Live(DD Sports)--- (0d)
+https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 group-title="Sports",FB | ORF Sport+ HD (0d)
 http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
 #EXTINF:-1 group-title="Sports",MIXER | H20 TV (2d)
 https://1261a78709344810a5b834d397509879.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-738-H2OTV-SPORTSTRIBALTV/mt/sportstribaltv/738/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports",MIXER | Sports Fishing (0d)
+https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
