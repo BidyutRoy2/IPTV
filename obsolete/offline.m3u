@@ -3,12 +3,18 @@
 https://cdn-4.pishow.tv/live/969/master.m3u8
 #EXTINF:-1 group-title="Bangla",Ayna TV (2d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla",Channel S (0d)
+https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",DD Bangla (1d)
 https://cdn-4.pishow.tv/live/37/master.m3u8
 #EXTINF:-1 group-title="Bangla",Enter10 Bangla HD (1d)
 https://cdn-4.pishow.tv/live/241/master.m3u8
+#EXTINF:-1 group-title="Bangla",GAZI TV HD (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",Khushboo Bangla (1d)
 https://cdn-4.pishow.tv/live/1473/master.m3u8
+#EXTINF:-1 group-title="Bangla",Mohona TV (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",MU | ATN MUSIC (0d)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",MU | SANGEET BANGLA (1d)
@@ -19,10 +25,8 @@ https://cdn-4.pishow.tv/live/1499/master.m3u8
 https://cdn-4.pishow.tv/live/1231/1231_1.m3u8
 #EXTINF:-1 group-title="Bangla",RTV (0d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | High News (0d)
-https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | High News (0d)
-http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8
+#EXTINF:-1 group-title="Bangla News",BD | Channel 1 (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla News",IN | R Plus News (1d)
 https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
 #EXTINF:-1 group-title="Educational",Love the Planet (4d)
@@ -51,8 +55,6 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 https://cdn-3.pishow.tv/live/1253/master.m3u8
 #EXTINF:-1 group-title="India",MU | MUSIC INDIA HD (1d)
 https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 group-title="India",MU | Only Music (0d)
-https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
 #EXTINF:-1 group-title="India",MU | PTC Chakde (1d)
 https://cdn-1.pishow.tv/live/449/master.m3u8
 #EXTINF:-1 group-title="India",MU | Public Music (1d)
@@ -69,12 +71,12 @@ https://toonixhls.wns.live/hls/stream.m3u8
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 #EXTINF:-1 group-title="Religious",Channel Win (1d)
 https://cdn-4.pishow.tv/live/229/master.m3u8
-#EXTINF:-1 group-title="Religious",IBN TV Africa (0d)
-http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
 #EXTINF:-1 group-title="Sports",---Live(DD Sports)--- (1d)
 https://cdn-6.pishow.tv/live/13/master.m3u8
-#EXTINF:-1 group-title="Sports",CR | Cricket Gold (0d)
-https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
+#EXTINF:-1 group-title="Sports",--Live(Euro Sport 1)-- (0d)
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="Sports",--Live(Euro Sport 2 HD)-- (0d)
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="Sports",FB | ORF Sport+ HD (1d)
 http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
 #EXTINF:-1 group-title="Sports",MIXER | H20 TV (3d)
