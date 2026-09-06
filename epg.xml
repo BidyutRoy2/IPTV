@@ -935,1238 +935,1043 @@
     <display-name>Al Jazeera English</display-name>
     <icon src="https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png"/>
   </channel>
-  <programme start="20260906000500 +0600" stop="20260906001500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906000000 +0600" stop="20260906003000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260906001500 +0600" stop="20260906004500 +0600" channel="aljazeera.com">
-    <title lang="bn">Spidey und seine Super-Freunde</title>
+  <programme start="20260906003000 +0600" stop="20260906010000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260906004500 +0600" stop="20260906011000 +0600" channel="aljazeera.com">
-    <title lang="bn">Miraculous – Geschichten von Ladybug und Cat Noir</title>
+  <programme start="20260906010000 +0600" stop="20260906013000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260906011000 +0600" stop="20260906025500 +0600" channel="aljazeera.com">
-    <title lang="bn">Ratatouille</title>
+  <programme start="20260906013000 +0600" stop="20260906020000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260906025500 +0600" stop="20260906044500 +0600" channel="aljazeera.com">
-    <title lang="bn">Cars</title>
+  <programme start="20260906020000 +0600" stop="20260906023000 +0600" channel="aljazeera.com">
+    <title lang="bn">Shatak Aajtak</title>
   </programme>
-  <programme start="20260906044500 +0600" stop="20260906045000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906023000 +0600" stop="20260906030000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260906045000 +0600" stop="20260906045500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906030000 +0600" stop="20260906033000 +0600" channel="aljazeera.com">
+    <title lang="bn">War Room</title>
   </programme>
-  <programme start="20260906045500 +0600" stop="20260906050500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906033000 +0600" stop="20260906040000 +0600" channel="aljazeera.com">
+    <title lang="bn">War Room</title>
   </programme>
-  <programme start="20260906050500 +0600" stop="20260906051000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906040000 +0600" stop="20260906043000 +0600" channel="aljazeera.com">
+    <title lang="bn">Adbhut Avishwasniya Akalpniya</title>
   </programme>
-  <programme start="20260906051000 +0600" stop="20260906052500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906043000 +0600" stop="20260906050000 +0600" channel="aljazeera.com">
+    <title lang="bn">Adbhut Avishwasniya Akalpniya</title>
   </programme>
-  <programme start="20260906052500 +0600" stop="20260906053000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906050000 +0600" stop="20260906053000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260906053000 +0600" stop="20260906053500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906053000 +0600" stop="20260906060000 +0600" channel="aljazeera.com">
+    <title lang="bn">Duniya Aajtak</title>
   </programme>
-  <programme start="20260906053500 +0600" stop="20260906054500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906060000 +0600" stop="20260906063000 +0600" channel="aljazeera.com">
+    <title lang="bn">Mera Gaon Mera Desh</title>
   </programme>
-  <programme start="20260906054500 +0600" stop="20260906055500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260906055500 +0600" stop="20260906060500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260906060500 +0600" stop="20260906061000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260906061000 +0600" stop="20260906061500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260906061500 +0600" stop="20260906062000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260906062000 +0600" stop="20260906063000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260906063000 +0600" stop="20260906063500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260906063500 +0600" stop="20260906064000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260906064000 +0600" stop="20260906065000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260906065000 +0600" stop="20260906070000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906063000 +0600" stop="20260906070000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
   <programme start="20260906070000 +0600" stop="20260906073000 +0600" channel="aljazeera.com">
-    <title lang="bn">Miraculous – Geschichten von Ladybug und Cat Noir</title>
+    <title lang="bn">Ranbhoomi</title>
   </programme>
-  <programme start="20260906073000 +0600" stop="20260906075500 +0600" channel="aljazeera.com">
-    <title lang="bn">Miraculous – Geschichten von Ladybug und Cat Noir</title>
+  <programme start="20260906073000 +0600" stop="20260906080000 +0600" channel="aljazeera.com">
+    <title lang="bn">Ranbhoomi</title>
   </programme>
-  <programme start="20260906075500 +0600" stop="20260906082000 +0600" channel="aljazeera.com">
-    <title lang="bn">Yuna &amp;amp; Stitch</title>
+  <programme start="20260906080000 +0600" stop="20260906083000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260906082000 +0600" stop="20260906084500 +0600" channel="aljazeera.com">
-    <title lang="bn">Yuna &amp;amp; Stitch</title>
+  <programme start="20260906083000 +0600" stop="20260906090000 +0600" channel="aljazeera.com">
+    <title lang="bn">Saas Bahu Betiyan</title>
   </programme>
-  <programme start="20260906084500 +0600" stop="20260906091500 +0600" channel="aljazeera.com">
-    <title lang="bn">Yuna &amp;amp; Stitch</title>
+  <programme start="20260906090000 +0600" stop="20260906093000 +0600" channel="aljazeera.com">
+    <title lang="bn">Saas Bahu Betiyan</title>
   </programme>
-  <programme start="20260906091500 +0600" stop="20260906093500 +0600" channel="aljazeera.com">
-    <title lang="bn">Big City Greens</title>
+  <programme start="20260906093000 +0600" stop="20260906100000 +0600" channel="aljazeera.com">
+    <title lang="bn">Saas Bahu Betiyan</title>
   </programme>
-  <programme start="20260906093500 +0600" stop="20260906095000 +0600" channel="aljazeera.com">
-    <title lang="bn">Big City Greens</title>
+  <programme start="20260906100000 +0600" stop="20260906103000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260906095000 +0600" stop="20260906101500 +0600" channel="aljazeera.com">
-    <title lang="bn">Big City Greens</title>
+  <programme start="20260906103000 +0600" stop="20260906110000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260906101500 +0600" stop="20260906102500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906110000 +0600" stop="20260906113000 +0600" channel="aljazeera.com">
+    <title lang="bn">Dangal</title>
   </programme>
-  <programme start="20260906102500 +0600" stop="20260906103000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906113000 +0600" stop="20260906120000 +0600" channel="aljazeera.com">
+    <title lang="bn">Dangal</title>
   </programme>
-  <programme start="20260906103000 +0600" stop="20260906103500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906120000 +0600" stop="20260906123000 +0600" channel="aljazeera.com">
+    <title lang="bn">Behas Baazigar</title>
   </programme>
-  <programme start="20260906103500 +0600" stop="20260906105000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906123000 +0600" stop="20260906130000 +0600" channel="aljazeera.com">
+    <title lang="bn">Behas Baazigar</title>
   </programme>
-  <programme start="20260906105000 +0600" stop="20260906105500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906130000 +0600" stop="20260906133000 +0600" channel="aljazeera.com">
+    <title lang="bn">AAJTAK 7 BAJE</title>
   </programme>
-  <programme start="20260906105500 +0600" stop="20260906110000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906133000 +0600" stop="20260906140000 +0600" channel="aljazeera.com">
+    <title lang="bn">Vishesh</title>
   </programme>
-  <programme start="20260906110000 +0600" stop="20260906111000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906140000 +0600" stop="20260906143000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak Special Show</title>
   </programme>
-  <programme start="20260906111000 +0600" stop="20260906113000 +0600" channel="aljazeera.com">
-    <title lang="bn">Miraculous – Geschichten von Ladybug und Cat Noir</title>
+  <programme start="20260906143000 +0600" stop="20260906150000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak Special Show</title>
   </programme>
-  <programme start="20260906113000 +0600" stop="20260906115500 +0600" channel="aljazeera.com">
-    <title lang="bn">Miraculous – Geschichten von Ladybug und Cat Noir</title>
+  <programme start="20260906150000 +0600" stop="20260906153000 +0600" channel="aljazeera.com">
+    <title lang="bn">Black And White</title>
   </programme>
-  <programme start="20260906115500 +0600" stop="20260906131500 +0600" channel="aljazeera.com">
-    <title lang="bn">Tarzan 2</title>
+  <programme start="20260906153000 +0600" stop="20260906160000 +0600" channel="aljazeera.com">
+    <title lang="bn">Black And White</title>
   </programme>
-  <programme start="20260906131500 +0600" stop="20260906152500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bedtime Stories</title>
+  <programme start="20260906160000 +0600" stop="20260906163000 +0600" channel="aljazeera.com">
+    <title lang="bn">Frontline</title>
   </programme>
-  <programme start="20260906152500 +0600" stop="20260906155500 +0600" channel="aljazeera.com">
-    <title lang="bn">Hör&amp;#x27; mal, wer da hämmert</title>
+  <programme start="20260906163000 +0600" stop="20260906170000 +0600" channel="aljazeera.com">
+    <title lang="bn">Frontline</title>
   </programme>
-  <programme start="20260906155500 +0600" stop="20260906162500 +0600" channel="aljazeera.com">
-    <title lang="bn">Hör&amp;#x27; mal, wer da hämmert</title>
-  </programme>
-  <programme start="20260906162500 +0600" stop="20260906165500 +0600" channel="aljazeera.com">
-    <title lang="bn">Hör&amp;#x27; mal, wer da hämmert</title>
-  </programme>
-  <programme start="20260906165500 +0600" stop="20260906173000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hör&amp;#x27; mal, wer da hämmert</title>
+  <programme start="20260906170000 +0600" stop="20260906173000 +0600" channel="aljazeera.com">
+    <title lang="bn">Adbhut Avishwasniya Akalpniya</title>
   </programme>
   <programme start="20260906173000 +0600" stop="20260906180000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hör&amp;#x27; mal, wer da hämmert</title>
+    <title lang="bn">Adbhut Avishwasniya Akalpniya</title>
   </programme>
-  <programme start="20260906180000 +0600" stop="20260906200000 +0600" channel="aljazeera.com">
-    <title lang="bn">Teleshopping</title>
+  <programme start="20260906180000 +0600" stop="20260906183000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260906200000 +0600" stop="20260906223500 +0600" channel="aljazeera.com">
-    <title lang="bn">Teleshopping</title>
+  <programme start="20260906183000 +0600" stop="20260906190000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260906223500 +0600" stop="20260906224500 +0600" channel="aljazeera.com">
-    <title lang="bn">Micky Maus: Die flinken Flitzer</title>
+  <programme start="20260906190000 +0600" stop="20260906193000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260906224500 +0600" stop="20260906231000 +0600" channel="aljazeera.com">
-    <title lang="bn">PJ Masks – Pyjamahelden</title>
+  <programme start="20260906193000 +0600" stop="20260906200000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260906231000 +0600" stop="20260906234000 +0600" channel="aljazeera.com">
-    <title lang="bn">Micky Maus Wunderhaus+</title>
+  <programme start="20260906200000 +0600" stop="20260906203000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260906234000 +0600" stop="20260906234500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906203000 +0600" stop="20260906210000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260906234500 +0600" stop="20260906235000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906210000 +0600" stop="20260906213000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260906235000 +0600" stop="20260906235500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906213000 +0600" stop="20260906220000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260906235500 +0600" stop="20260907000500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906220000 +0600" stop="20260906223000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260907000500 +0600" stop="20260907001500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260906223000 +0600" stop="20260906230000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260907001500 +0600" stop="20260907004500 +0600" channel="aljazeera.com">
-    <title lang="bn">Iron Man und seine fantastischen Freunde</title>
+  <programme start="20260906230000 +0600" stop="20260906233000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260907004500 +0600" stop="20260907010500 +0600" channel="aljazeera.com">
-    <title lang="bn">Sofia die Erste: Königliche Zauberschule</title>
+  <programme start="20260906233000 +0600" stop="20260907000000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260907010500 +0600" stop="20260907012000 +0600" channel="aljazeera.com">
-    <title lang="bn">Disney Junior Arielle</title>
+  <programme start="20260907000000 +0600" stop="20260907003000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260907012000 +0600" stop="20260907013000 +0600" channel="aljazeera.com">
-    <title lang="bn">Disney Junior Arielle</title>
+  <programme start="20260907003000 +0600" stop="20260907010000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260907013000 +0600" stop="20260907015500 +0600" channel="aljazeera.com">
-    <title lang="bn">Modern Family</title>
+  <programme start="20260907010000 +0600" stop="20260907013000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260907015500 +0600" stop="20260907022500 +0600" channel="aljazeera.com">
-    <title lang="bn">Modern Family</title>
+  <programme start="20260907013000 +0600" stop="20260907020000 +0600" channel="aljazeera.com">
+    <title lang="bn">Shatak Aajtak</title>
   </programme>
-  <programme start="20260907022500 +0600" stop="20260907025500 +0600" channel="aljazeera.com">
-    <title lang="bn">Dharma &amp;amp; Greg</title>
+  <programme start="20260907020000 +0600" stop="20260907023000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260907025500 +0600" stop="20260907032000 +0600" channel="aljazeera.com">
-    <title lang="bn">Dharma &amp;amp; Greg</title>
+  <programme start="20260907023000 +0600" stop="20260907030000 +0600" channel="aljazeera.com">
+    <title lang="bn">Breaking News</title>
   </programme>
-  <programme start="20260907032000 +0600" stop="20260907035000 +0600" channel="aljazeera.com">
-    <title lang="bn">Dharma &amp;amp; Greg</title>
+  <programme start="20260907030000 +0600" stop="20260907033000 +0600" channel="aljazeera.com">
+    <title lang="bn">Yogi Ka Chunavi Yagya</title>
   </programme>
-  <programme start="20260907035000 +0600" stop="20260907042000 +0600" channel="aljazeera.com">
-    <title lang="bn">Wunderbare Jahre</title>
+  <programme start="20260907033000 +0600" stop="20260907040000 +0600" channel="aljazeera.com">
+    <title lang="bn">Subh Samchar</title>
   </programme>
-  <programme start="20260907042000 +0600" stop="20260907045500 +0600" channel="aljazeera.com">
-    <title lang="bn">Wunderbare Jahre</title>
+  <programme start="20260907040000 +0600" stop="20260907043000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20260907045500 +0600" stop="20260907052000 +0600" channel="aljazeera.com">
-    <title lang="bn">Modern Family</title>
+  <programme start="20260907043000 +0600" stop="20260907050000 +0600" channel="aljazeera.com">
+    <title lang="bn">Newsroom</title>
   </programme>
-  <programme start="20260907052000 +0600" stop="20260907055000 +0600" channel="aljazeera.com">
-    <title lang="bn">Modern Family</title>
+  <programme start="20260907050000 +0600" stop="20260907053000 +0600" channel="aljazeera.com">
+    <title lang="bn">Newsroom</title>
   </programme>
-  <programme start="20260907055000 +0600" stop="20260907061000 +0600" channel="aljazeera.com">
-    <title lang="bn">Chip und Chap: Das Leben im Park</title>
+  <programme start="20260907053000 +0600" stop="20260907060000 +0600" channel="aljazeera.com">
+    <title lang="bn">Duniya Aajtak</title>
   </programme>
-  <programme start="20260907061000 +0600" stop="20260907062500 +0600" channel="aljazeera.com">
-    <title lang="bn">Chip und Chap: Das Leben im Park</title>
+  <programme start="20260907060000 +0600" stop="20260907063000 +0600" channel="aljazeera.com">
+    <title lang="bn">Mera Gaon Mera Desh</title>
   </programme>
-  <programme start="20260907062500 +0600" stop="20260907065000 +0600" channel="aljazeera.com">
-    <title lang="bn">Die Beni Challenge</title>
+  <programme start="20260907063000 +0600" stop="20260907070000 +0600" channel="aljazeera.com">
+    <title lang="bn">Khabrein Asardaar</title>
   </programme>
-  <programme start="20260907065000 +0600" stop="20260907072000 +0600" channel="aljazeera.com">
-    <title lang="bn">Miraculous – Geschichten von Ladybug und Cat Noir</title>
+  <programme start="20260907070000 +0600" stop="20260907073000 +0600" channel="aljazeera.com">
+    <title lang="bn">Ranbhoomi</title>
   </programme>
-  <programme start="20260907072000 +0600" stop="20260907075000 +0600" channel="aljazeera.com">
-    <title lang="bn">Miraculous – Geschichten von Ladybug und Cat Noir</title>
+  <programme start="20260907073000 +0600" stop="20260907080000 +0600" channel="aljazeera.com">
+    <title lang="bn">Ranbhoomi</title>
   </programme>
-  <programme start="20260907075000 +0600" stop="20260907082000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hamster &amp;amp; Gretel</title>
+  <programme start="20260907080000 +0600" stop="20260907083000 +0600" channel="aljazeera.com">
+    <title lang="bn">Business Aajtak</title>
   </programme>
-  <programme start="20260907082000 +0600" stop="20260907084500 +0600" channel="aljazeera.com">
-    <title lang="bn">Big City Greens</title>
+  <programme start="20260907083000 +0600" stop="20260907090000 +0600" channel="aljazeera.com">
+    <title lang="bn">Saas Bahu Betiyan</title>
   </programme>
-  <programme start="20260907084500 +0600" stop="20260907091500 +0600" channel="aljazeera.com">
-    <title lang="bn">Der Geist und Molly McGee</title>
+  <programme start="20260907090000 +0600" stop="20260907093000 +0600" channel="aljazeera.com">
+    <title lang="bn">Saas Bahu Betiyan</title>
   </programme>
-  <programme start="20260907091500 +0600" stop="20260907094500 +0600" channel="aljazeera.com">
-    <title lang="bn">Disneys Lilo &amp;amp; Stitch</title>
+  <programme start="20260907093000 +0600" stop="20260907100000 +0600" channel="aljazeera.com">
+    <title lang="bn">Saas Bahu Betiyan</title>
   </programme>
-  <programme start="20260907094500 +0600" stop="20260907101500 +0600" channel="aljazeera.com">
-    <title lang="bn">Phineas und Ferb</title>
+  <programme start="20260907100000 +0600" stop="20260907103000 +0600" channel="aljazeera.com">
+    <title lang="bn">Movie Masala</title>
   </programme>
-  <programme start="20260907101500 +0600" stop="20260907102000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260907103000 +0600" stop="20260907110000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak Gujarat</title>
   </programme>
-  <programme start="20260907102000 +0600" stop="20260907102500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260907110000 +0600" stop="20260907113000 +0600" channel="aljazeera.com">
+    <title lang="bn">Dangal</title>
   </programme>
-  <programme start="20260907102500 +0600" stop="20260907103500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260907113000 +0600" stop="20260907120000 +0600" channel="aljazeera.com">
+    <title lang="bn">Dangal</title>
   </programme>
-  <programme start="20260907103500 +0600" stop="20260907105000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260907120000 +0600" stop="20260907123000 +0600" channel="aljazeera.com">
+    <title lang="bn">Halla Bol</title>
   </programme>
-  <programme start="20260907105000 +0600" stop="20260907105500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260907123000 +0600" stop="20260907130000 +0600" channel="aljazeera.com">
+    <title lang="bn">Halla Bol</title>
   </programme>
-  <programme start="20260907105500 +0600" stop="20260907110000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260907130000 +0600" stop="20260907133000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aaj Tak Punjab</title>
   </programme>
-  <programme start="20260907110000 +0600" stop="20260907110500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
+  <programme start="20260907133000 +0600" stop="20260907140000 +0600" channel="aljazeera.com">
+    <title lang="bn">Subh Samchar</title>
   </programme>
-  <programme start="20260907110500 +0600" stop="20260907113000 +0600" channel="aljazeera.com">
-    <title lang="bn">Miraculous – Geschichten von Ladybug und Cat Noir</title>
+  <programme start="20260907140000 +0600" stop="20260907143000 +0600" channel="aljazeera.com">
+    <title lang="bn">Khabardar</title>
   </programme>
-  <programme start="20260907113000 +0600" stop="20260907115500 +0600" channel="aljazeera.com">
-    <title lang="bn">Miraculous – Geschichten von Ladybug und Cat Noir</title>
+  <programme start="20260907143000 +0600" stop="20260907150000 +0600" channel="aljazeera.com">
+    <title lang="bn">Khabardar</title>
   </programme>
-  <programme start="20260907115500 +0600" stop="20260907121500 +0600" channel="aljazeera.com">
-    <title lang="bn">Big City Greens</title>
+  <programme start="20260907150000 +0600" stop="20260907153000 +0600" channel="aljazeera.com">
+    <title lang="bn">Black And White</title>
   </programme>
-  <programme start="20260907121500 +0600" stop="20260907123500 +0600" channel="aljazeera.com">
-    <title lang="bn">Modern Family</title>
+  <programme start="20260907153000 +0600" stop="20260907160000 +0600" channel="aljazeera.com">
+    <title lang="bn">Black And White</title>
   </programme>
-  <programme start="20260907123500 +0600" stop="20260907131500 +0600" channel="aljazeera.com">
-    <title lang="bn">Modern Family</title>
+  <programme start="20260907160000 +0600" stop="20260907163000 +0600" channel="aljazeera.com">
+    <title lang="bn">Dastak</title>
   </programme>
-  <programme start="20260907131500 +0600" stop="20260907134000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hör&amp;#x27; mal, wer da hämmert</title>
+  <programme start="20260907163000 +0600" stop="20260907170000 +0600" channel="aljazeera.com">
+    <title lang="bn">Dastak</title>
   </programme>
-  <programme start="20260907134000 +0600" stop="20260907141000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hör&amp;#x27; mal, wer da hämmert</title>
+  <programme start="20260907170000 +0600" stop="20260907173000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak Gujarat</title>
   </programme>
-  <programme start="20260907141000 +0600" stop="20260907144500 +0600" channel="aljazeera.com">
-    <title lang="bn">Hör&amp;#x27; mal, wer da hämmert</title>
-  </programme>
-  <programme start="20260907144500 +0600" stop="20260907151500 +0600" channel="aljazeera.com">
-    <title lang="bn">Hör&amp;#x27; mal, wer da hämmert</title>
-  </programme>
-  <programme start="20260907151500 +0600" stop="20260907154500 +0600" channel="aljazeera.com">
-    <title lang="bn">Hör&amp;#x27; mal, wer da hämmert</title>
-  </programme>
-  <programme start="20260907154500 +0600" stop="20260907161500 +0600" channel="aljazeera.com">
-    <title lang="bn">How I Met Your Mother</title>
-  </programme>
-  <programme start="20260907161500 +0600" stop="20260907164500 +0600" channel="aljazeera.com">
-    <title lang="bn">How I Met Your Mother</title>
-  </programme>
-  <programme start="20260907164500 +0600" stop="20260907171000 +0600" channel="aljazeera.com">
-    <title lang="bn">How I Met Your Mother</title>
-  </programme>
-  <programme start="20260907171000 +0600" stop="20260907174000 +0600" channel="aljazeera.com">
-    <title lang="bn">How I Met Your Mother</title>
-  </programme>
-  <programme start="20260907174000 +0600" stop="20260907181000 +0600" channel="aljazeera.com">
-    <title lang="bn">How I Met Your Mother</title>
-  </programme>
-  <programme start="20260907181000 +0600" stop="20260907201000 +0600" channel="aljazeera.com">
-    <title lang="bn">Teleshopping</title>
-  </programme>
-  <programme start="20260907201000 +0600" stop="20260907224500 +0600" channel="aljazeera.com">
-    <title lang="bn">Teleshopping</title>
-  </programme>
-  <programme start="20260907224500 +0600" stop="20260907231000 +0600" channel="aljazeera.com">
-    <title lang="bn">PJ Masks – Pyjamahelden</title>
-  </programme>
-  <programme start="20260907231000 +0600" stop="20260907234000 +0600" channel="aljazeera.com">
-    <title lang="bn">Micky Maus Wunderhaus+</title>
-  </programme>
-  <programme start="20260907234000 +0600" stop="20260907234500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260907234500 +0600" stop="20260907235000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260907235000 +0600" stop="20260907235500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260907235500 +0600" stop="20260908000500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260908000500 +0600" stop="20260908001500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260908001500 +0600" stop="20260908004500 +0600" channel="aljazeera.com">
-    <title lang="bn">Iron Man und seine fantastischen Freunde</title>
-  </programme>
-  <programme start="20260908004500 +0600" stop="20260908010500 +0600" channel="aljazeera.com">
-    <title lang="bn">Sofia die Erste: Königliche Zauberschule</title>
-  </programme>
-  <programme start="20260908010500 +0600" stop="20260908012000 +0600" channel="aljazeera.com">
-    <title lang="bn">Disney Junior Arielle</title>
-  </programme>
-  <programme start="20260908012000 +0600" stop="20260908013000 +0600" channel="aljazeera.com">
-    <title lang="bn">Disney Junior Arielle</title>
-  </programme>
-  <programme start="20260908013000 +0600" stop="20260908015500 +0600" channel="aljazeera.com">
-    <title lang="bn">Modern Family</title>
-  </programme>
-  <programme start="20260908015500 +0600" stop="20260908022500 +0600" channel="aljazeera.com">
-    <title lang="bn">Modern Family</title>
-  </programme>
-  <programme start="20260908022500 +0600" stop="20260908025500 +0600" channel="aljazeera.com">
-    <title lang="bn">Dharma &amp;amp; Greg</title>
-  </programme>
-  <programme start="20260908025500 +0600" stop="20260908032000 +0600" channel="aljazeera.com">
-    <title lang="bn">Dharma &amp;amp; Greg</title>
-  </programme>
-  <programme start="20260908032000 +0600" stop="20260908035000 +0600" channel="aljazeera.com">
-    <title lang="bn">Dharma &amp;amp; Greg</title>
-  </programme>
-  <programme start="20260908035000 +0600" stop="20260908042000 +0600" channel="aljazeera.com">
-    <title lang="bn">Wunderbare Jahre</title>
-  </programme>
-  <programme start="20260908042000 +0600" stop="20260908045000 +0600" channel="aljazeera.com">
-    <title lang="bn">Wunderbare Jahre</title>
-  </programme>
-  <programme start="20260908045000 +0600" stop="20260908052000 +0600" channel="aljazeera.com">
-    <title lang="bn">Modern Family</title>
-  </programme>
-  <programme start="20260908052000 +0600" stop="20260908054500 +0600" channel="aljazeera.com">
-    <title lang="bn">Modern Family</title>
-  </programme>
-  <programme start="20260908054500 +0600" stop="20260908060500 +0600" channel="aljazeera.com">
-    <title lang="bn">Chip und Chap: Das Leben im Park</title>
-  </programme>
-  <programme start="20260908060500 +0600" stop="20260908061500 +0600" channel="aljazeera.com">
-    <title lang="bn">Chip und Chap: Das Leben im Park</title>
-  </programme>
-  <programme start="20260908061500 +0600" stop="20260908062500 +0600" channel="aljazeera.com">
-    <title lang="bn">Chip und Chap: Das Leben im Park</title>
-  </programme>
-  <programme start="20260908062500 +0600" stop="20260908065500 +0600" channel="aljazeera.com">
-    <title lang="bn">Die Beni Challenge</title>
-  </programme>
-  <programme start="20260908065500 +0600" stop="20260908072500 +0600" channel="aljazeera.com">
-    <title lang="bn">Miraculous – Geschichten von Ladybug und Cat Noir</title>
-  </programme>
-  <programme start="20260908072500 +0600" stop="20260908075500 +0600" channel="aljazeera.com">
-    <title lang="bn">Miraculous – Geschichten von Ladybug und Cat Noir</title>
-  </programme>
-  <programme start="20260908075500 +0600" stop="20260908082000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hamster &amp;amp; Gretel</title>
-  </programme>
-  <programme start="20260908082000 +0600" stop="20260908085000 +0600" channel="aljazeera.com">
-    <title lang="bn">Big City Greens</title>
-  </programme>
-  <programme start="20260908085000 +0600" stop="20260908091500 +0600" channel="aljazeera.com">
-    <title lang="bn">Der Geist und Molly McGee</title>
-  </programme>
-  <programme start="20260908091500 +0600" stop="20260908094000 +0600" channel="aljazeera.com">
-    <title lang="bn">Disneys Lilo &amp;amp; Stitch</title>
-  </programme>
-  <programme start="20260908094000 +0600" stop="20260908101500 +0600" channel="aljazeera.com">
-    <title lang="bn">Phineas und Ferb</title>
-  </programme>
-  <programme start="20260908101500 +0600" stop="20260908102000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260908102000 +0600" stop="20260908102500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260908102500 +0600" stop="20260908103000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260908103000 +0600" stop="20260908104500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260908104500 +0600" stop="20260908105500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260908105500 +0600" stop="20260908110000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260908110000 +0600" stop="20260908110500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bluey</title>
-  </programme>
-  <programme start="20260908110500 +0600" stop="20260908112500 +0600" channel="aljazeera.com">
-    <title lang="bn">Miraculous – Geschichten von Ladybug und Cat Noir</title>
-  </programme>
-  <programme start="20260908112500 +0600" stop="20260908115500 +0600" channel="aljazeera.com">
-    <title lang="bn">Miraculous – Geschichten von Ladybug und Cat Noir</title>
-  </programme>
-  <programme start="20260908115500 +0600" stop="20260908121500 +0600" channel="aljazeera.com">
-    <title lang="bn">Big City Greens</title>
-  </programme>
-  <programme start="20260908121500 +0600" stop="20260908123500 +0600" channel="aljazeera.com">
-    <title lang="bn">Modern Family</title>
-  </programme>
-  <programme start="20260908123500 +0600" stop="20260908131500 +0600" channel="aljazeera.com">
-    <title lang="bn">Modern Family</title>
-  </programme>
-  <programme start="20260908131500 +0600" stop="20260908152500 +0600" channel="aljazeera.com">
-    <title lang="bn">Zahnfee auf Bewährung</title>
-  </programme>
-  <programme start="20260908152500 +0600" stop="20260908160000 +0600" channel="aljazeera.com">
-    <title lang="bn">Scrubs – Die Anfänger</title>
-  </programme>
-  <programme start="20260908160000 +0600" stop="20260908163000 +0600" channel="aljazeera.com">
-    <title lang="bn">Scrubs – Die Anfänger</title>
-  </programme>
-  <programme start="20260908163000 +0600" stop="20260908165500 +0600" channel="aljazeera.com">
-    <title lang="bn">Scrubs – Die Anfänger</title>
-  </programme>
-  <programme start="20260908165500 +0600" stop="20260908172500 +0600" channel="aljazeera.com">
-    <title lang="bn">Scrubs – Die Anfänger</title>
-  </programme>
-  <programme start="20260908172500 +0600" stop="20260908175000 +0600" channel="aljazeera.com">
-    <title lang="bn">Scrubs – Die Anfänger</title>
-  </programme>
-  <programme start="20260908175000 +0600" stop="20260908181000 +0600" channel="aljazeera.com">
-    <title lang="bn">Scrubs – Die Anfänger</title>
-  </programme>
-  <programme start="20260908181000 +0600" stop="20260908184000 +0600" channel="aljazeera.com">
-    <title lang="bn">Teleshopping</title>
+  <programme start="20260907173000 +0600" stop="20260907180000 +0600" channel="aljazeera.com">
+    <title lang="bn">Movie Masala</title>
   </programme>
   <channel id="WION.in">
     <display-name>WION</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/1d/WION_World_Is_One_News.svg"/>
   </channel>
-  <programme start="20260906011000 +0600" stop="20260906024500 +0600" channel="WION.in">
-    <title lang="bn">х/ф Честный вор</title>
+  <programme start="20260906000000 +0600" stop="20260906003000 +0600" channel="WION.in">
+    <title lang="bn">Как это устроено? 17 с-н 10 с. Вересковые украшения / Мгновенное фото / Свекольный сахар / Электроро</title>
   </programme>
-  <programme start="20260906024500 +0600" stop="20260906042500 +0600" channel="WION.in">
-    <title lang="bn">х/ф Ничего, кроме правды</title>
+  <programme start="20260906003000 +0600" stop="20260906010000 +0600" channel="WION.in">
+    <title lang="bn">Как это устроено? 17 с-н 11 с. Подводные роботы / Лазанья / Ленточные пилы / Лыжный треккинг</title>
   </programme>
-  <programme start="20260906042500 +0600" stop="20260906061000 +0600" channel="WION.in">
-    <title lang="bn">х/ф Логово Монстра</title>
+  <programme start="20260906010000 +0600" stop="20260906013000 +0600" channel="WION.in">
+    <title lang="bn">Супермеханик Энт Энстед, 9 с. Проснись и пей</title>
   </programme>
-  <programme start="20260906061000 +0600" stop="20260906074500 +0600" channel="WION.in">
-    <title lang="bn">х/ф Бесчестный</title>
+  <programme start="20260906013000 +0600" stop="20260906020000 +0600" channel="WION.in">
+    <title lang="bn">Супермеханик Энт Энстед, 10 с. Финишная прямая</title>
   </programme>
-  <programme start="20260906074500 +0600" stop="20260906092000 +0600" channel="WION.in">
-    <title lang="bn">х/ф Миддлтон</title>
+  <programme start="20260906020000 +0600" stop="20260906023000 +0600" channel="WION.in">
+    <title lang="bn">Супермеханик Энт Энстед, 11 с. Оно живое!</title>
   </programme>
-  <programme start="20260906092000 +0600" stop="20260906104500 +0600" channel="WION.in">
-    <title lang="bn">х/ф А вот и она</title>
+  <programme start="20260906023000 +0600" stop="20260906030000 +0600" channel="WION.in">
+    <title lang="bn">Супермеханик Энт Энстед, 12 с. Свидание с Alfa Romeo</title>
   </programme>
-  <programme start="20260906104500 +0600" stop="20260906110000 +0600" channel="WION.in">
-    <title lang="bn">Новости Голливуда</title>
+  <programme start="20260906030000 +0600" stop="20260906040000 +0600" channel="WION.in">
+    <title lang="bn">Американские лесорубы. 8 с. Вали вниз!</title>
   </programme>
-  <programme start="20260906110000 +0600" stop="20260906124500 +0600" channel="WION.in">
-    <title lang="bn">х/ф Вальдо</title>
+  <programme start="20260906040000 +0600" stop="20260906050000 +0600" channel="WION.in">
+    <title lang="bn">Американские лесорубы. 9 с. Смертельная смена</title>
   </programme>
-  <programme start="20260906124500 +0600" stop="20260906142000 +0600" channel="WION.in">
-    <title lang="bn">х/ф Переводчики</title>
+  <programme start="20260906050000 +0600" stop="20260906060000 +0600" channel="WION.in">
+    <title lang="bn">Охотники за старьем, 20 с-н 7 с. Эклектичные находки</title>
   </programme>
-  <programme start="20260906142000 +0600" stop="20260906154000 +0600" channel="WION.in">
-    <title lang="bn">х/ф Строго конфиденциально</title>
+  <programme start="20260906060000 +0600" stop="20260906070000 +0600" channel="WION.in">
+    <title lang="bn">Охотники за старьем, 20 с-н 8 с. Полезные подсказки</title>
   </programme>
-  <programme start="20260906154000 +0600" stop="20260906170000 +0600" channel="WION.in">
-    <title lang="bn">х/ф Гонка со временем</title>
+  <programme start="20260906070000 +0600" stop="20260906080000 +0600" channel="WION.in">
+    <title lang="bn">Гигантские стройки 6. 7 с. Мост в Сан-Франциско</title>
   </programme>
-  <programme start="20260906170000 +0600" stop="20260906171500 +0600" channel="WION.in">
-    <title lang="bn">Новости Голливуда. 351 с.</title>
+  <programme start="20260906080000 +0600" stop="20260906090000 +0600" channel="WION.in">
+    <title lang="bn">Гигантские стройки 6. 8 с. Туннель в Сен-Готарде</title>
   </programme>
-  <programme start="20260906171500 +0600" stop="20260906184500 +0600" channel="WION.in">
-    <title lang="bn">х/ф Любой ценой</title>
+  <programme start="20260906090000 +0600" stop="20260906100000 +0600" channel="WION.in">
+    <title lang="bn">Автобан А2. 14 c</title>
   </programme>
-  <programme start="20260906184500 +0600" stop="20260906201000 +0600" channel="WION.in">
-    <title lang="bn">х/ф Ловушка времени</title>
+  <programme start="20260906100000 +0600" stop="20260906110000 +0600" channel="WION.in">
+    <title lang="bn">Стройка на Аляске 2. 5 с. Тяжёлый труд</title>
   </programme>
-  <programme start="20260906201000 +0600" stop="20260906215000 +0600" channel="WION.in">
-    <title lang="bn">х/ф Ветреная река</title>
+  <programme start="20260906110000 +0600" stop="20260906120000 +0600" channel="WION.in">
+    <title lang="bn">Стройка на Аляске 2. 6 с. Накал страстей</title>
   </programme>
-  <programme start="20260906215000 +0600" stop="20260906233500 +0600" channel="WION.in">
-    <title lang="bn">х/ф Повар на колесах</title>
+  <programme start="20260906120000 +0600" stop="20260906123000 +0600" channel="WION.in">
+    <title lang="bn">Охотники за крошечными домами. 1 с. Бунгало в коробке</title>
   </programme>
-  <programme start="20260906233500 +0600" stop="20260907005500 +0600" channel="WION.in">
-    <title lang="bn">х/ф Лулу и Бриггс</title>
+  <programme start="20260906123000 +0600" stop="20260906130000 +0600" channel="WION.in">
+    <title lang="bn">Охотники за крошечными домами. 2 с. Устремления без долгов</title>
   </programme>
-  <programme start="20260907005500 +0600" stop="20260907022500 +0600" channel="WION.in">
-    <title lang="bn">х/ф Билл и Тед снова в деле</title>
+  <programme start="20260906130000 +0600" stop="20260906133000 +0600" channel="WION.in">
+    <title lang="bn">Охотники за крошечными домами. 3 с. Домик в саду</title>
   </programme>
-  <programme start="20260907022500 +0600" stop="20260907034500 +0600" channel="WION.in">
-    <title lang="bn">х/ф Детки в порядке</title>
+  <programme start="20260906133000 +0600" stop="20260906140000 +0600" channel="WION.in">
+    <title lang="bn">Охотники за крошечными домами. 4 с. Маленький дом с большим потенциалом</title>
   </programme>
-  <programme start="20260907034500 +0600" stop="20260907050500 +0600" channel="WION.in">
-    <title lang="bn">х/ф Гамбит</title>
+  <programme start="20260906140000 +0600" stop="20260906150000 +0600" channel="WION.in">
+    <title lang="bn">В сердце бури 3. 2 с. Ураганный май</title>
   </programme>
-  <programme start="20260907050500 +0600" stop="20260907064500 +0600" channel="WION.in">
-    <title lang="bn">х/ф Друг в океане</title>
+  <programme start="20260906150000 +0600" stop="20260906160000 +0600" channel="WION.in">
+    <title lang="bn">В сердце бури 2. 1 с. Суперторнадо в Небраске</title>
   </programme>
-  <programme start="20260907064500 +0600" stop="20260907071500 +0600" channel="WION.in">
-    <title lang="bn">х/ф Королевство полной луны</title>
+  <programme start="20260906160000 +0600" stop="20260906170000 +0600" channel="WION.in">
+    <title lang="bn">Экспедиция в тайну 2. 6 с. История ошибалась</title>
+  </programme>
+  <programme start="20260906170000 +0600" stop="20260906173000 +0600" channel="WION.in">
+    <title lang="bn">Пограничная служба: Испания 7. 7 c</title>
+  </programme>
+  <programme start="20260906173000 +0600" stop="20260906180000 +0600" channel="WION.in">
+    <title lang="bn">Пограничная служба: Испания 7. 8 c</title>
+  </programme>
+  <programme start="20260906180000 +0600" stop="20260906183000 +0600" channel="WION.in">
+    <title lang="bn">Золотая лихорадка, 15 с-н 10 с. Атака на трёх фронтах</title>
   </programme>
   <channel id="CGTN.cn">
     <display-name>CGTN</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/>
   </channel>
-  <programme start="20260906000000 +0600" stop="20260906003000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260906003000 +0600" stop="20260906010000 +0600" channel="CGTN.cn">
-    <title lang="bn">Inside Story</title>
+  <programme start="20260906000000 +0600" stop="20260906010000 +0600" channel="CGTN.cn">
+    <title lang="bn">Full Frame</title>
   </programme>
   <programme start="20260906010000 +0600" stop="20260906013000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
+    <title lang="bn">The World Today</title>
   </programme>
   <programme start="20260906013000 +0600" stop="20260906020000 +0600" channel="CGTN.cn">
-    <title lang="bn">The Listening Post</title>
+    <title lang="bn">Biz Talk</title>
   </programme>
-  <programme start="20260906020000 +0600" stop="20260906030000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
+  <programme start="20260906020000 +0600" stop="20260906023000 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today</title>
+  </programme>
+  <programme start="20260906023000 +0600" stop="20260906030000 +0600" channel="CGTN.cn">
+    <title lang="bn">Sports Scene</title>
   </programme>
   <programme start="20260906030000 +0600" stop="20260906033000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
+    <title lang="bn">The World Today</title>
   </programme>
   <programme start="20260906033000 +0600" stop="20260906040000 +0600" channel="CGTN.cn">
-    <title lang="bn">The Bottom Line</title>
+    <title lang="bn">Talk Africa</title>
   </programme>
   <programme start="20260906040000 +0600" stop="20260906043000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
+    <title lang="bn">The World Today</title>
   </programme>
   <programme start="20260906043000 +0600" stop="20260906050000 +0600" channel="CGTN.cn">
-    <title lang="bn">Counting the Cost</title>
+    <title lang="bn">д/с Faces of Africa</title>
   </programme>
-  <programme start="20260906050000 +0600" stop="20260906060000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
+  <programme start="20260906050000 +0600" stop="20260906051500 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today</title>
   </programme>
-  <programme start="20260906060000 +0600" stop="20260906063000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
+  <programme start="20260906051500 +0600" stop="20260906060000 +0600" channel="CGTN.cn">
+    <title lang="bn">Africa Live</title>
   </programme>
-  <programme start="20260906063000 +0600" stop="20260906070000 +0600" channel="CGTN.cn">
-    <title lang="bn">Inside Story</title>
+  <programme start="20260906060000 +0600" stop="20260906070000 +0600" channel="CGTN.cn">
+    <title lang="bn">Zoom In</title>
   </programme>
-  <programme start="20260906070000 +0600" stop="20260906080000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
+  <programme start="20260906070000 +0600" stop="20260906071500 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today</title>
   </programme>
-  <programme start="20260906080000 +0600" stop="20260906090000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
+  <programme start="20260906071500 +0600" stop="20260906080000 +0600" channel="CGTN.cn">
+    <title lang="bn">China 24</title>
   </programme>
-  <programme start="20260906090000 +0600" stop="20260906093000 +0600" channel="CGTN.cn">
-    <title lang="bn">Srebrenica: Genocide on Trial</title>
+  <programme start="20260906080000 +0600" stop="20260906083000 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today</title>
   </programme>
-  <programme start="20260906093000 +0600" stop="20260906100000 +0600" channel="CGTN.cn">
-    <title lang="bn">The Listening Post</title>
+  <programme start="20260906083000 +0600" stop="20260906090000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Agenda</title>
   </programme>
-  <programme start="20260906100000 +0600" stop="20260906110000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
+  <programme start="20260906090000 +0600" stop="20260906100000 +0600" channel="CGTN.cn">
+    <title lang="bn">Big Story</title>
+  </programme>
+  <programme start="20260906100000 +0600" stop="20260906103000 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today</title>
+  </programme>
+  <programme start="20260906103000 +0600" stop="20260906110000 +0600" channel="CGTN.cn">
+    <title lang="bn">Travelogue</title>
   </programme>
   <programme start="20260906110000 +0600" stop="20260906113000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
+    <title lang="bn">The World Today</title>
   </programme>
   <programme start="20260906113000 +0600" stop="20260906120000 +0600" channel="CGTN.cn">
-    <title lang="bn">101 East</title>
+    <title lang="bn">Razor</title>
   </programme>
   <programme start="20260906120000 +0600" stop="20260906123000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
+    <title lang="bn">Africa Live</title>
   </programme>
   <programme start="20260906123000 +0600" stop="20260906130000 +0600" channel="CGTN.cn">
-    <title lang="bn">Inside Story</title>
+    <title lang="bn">д/с Faces of Africa</title>
   </programme>
-  <programme start="20260906130000 +0600" stop="20260906140000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
+  <programme start="20260906130000 +0600" stop="20260906133000 +0600" channel="CGTN.cn">
+    <title lang="bn">Razor</title>
+  </programme>
+  <programme start="20260906133000 +0600" stop="20260906140000 +0600" channel="CGTN.cn">
+    <title lang="bn">Talk Africa</title>
   </programme>
   <programme start="20260906140000 +0600" stop="20260906143000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
+    <title lang="bn">The World Today</title>
   </programme>
   <programme start="20260906143000 +0600" stop="20260906150000 +0600" channel="CGTN.cn">
-    <title lang="bn">Talk to Al Jazeera</title>
+    <title lang="bn">Inheritors</title>
   </programme>
   <programme start="20260906150000 +0600" stop="20260906153000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
+    <title lang="bn">The World Today</title>
   </programme>
   <programme start="20260906153000 +0600" stop="20260906160000 +0600" channel="CGTN.cn">
-    <title lang="bn">Studio B: Unscripted</title>
+    <title lang="bn">Travelogue</title>
   </programme>
-  <programme start="20260906160000 +0600" stop="20260906170000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
+  <programme start="20260906160000 +0600" stop="20260906163000 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today</title>
+  </programme>
+  <programme start="20260906163000 +0600" stop="20260906170000 +0600" channel="CGTN.cn">
+    <title lang="bn">Assignment Asia</title>
   </programme>
   <programme start="20260906170000 +0600" stop="20260906180000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
+    <title lang="bn">Americas Now</title>
   </programme>
   <programme start="20260906180000 +0600" stop="20260906183000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
+    <title lang="bn">The World Today</title>
   </programme>
   <programme start="20260906183000 +0600" stop="20260906190000 +0600" channel="CGTN.cn">
-    <title lang="bn">Inside Story</title>
+    <title lang="bn">д/с Faces of Africa</title>
   </programme>
-  <programme start="20260906190000 +0600" stop="20260906200000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
+  <programme start="20260906190000 +0600" stop="20260906193000 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today</title>
+  </programme>
+  <programme start="20260906193000 +0600" stop="20260906200000 +0600" channel="CGTN.cn">
+    <title lang="bn">Inheritors</title>
   </programme>
   <programme start="20260906200000 +0600" stop="20260906203000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
+    <title lang="bn">The World Today</title>
   </programme>
   <programme start="20260906203000 +0600" stop="20260906210000 +0600" channel="CGTN.cn">
-    <title lang="bn">The Bottom Line</title>
+    <title lang="bn">Razor</title>
   </programme>
-  <programme start="20260906210000 +0600" stop="20260906220000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
+  <programme start="20260906210000 +0600" stop="20260906213000 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today</title>
   </programme>
-  <programme start="20260906220000 +0600" stop="20260906223000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
+  <programme start="20260906213000 +0600" stop="20260906220000 +0600" channel="CGTN.cn">
+    <title lang="bn">Travelogue</title>
+  </programme>
+  <programme start="20260906220000 +0600" stop="20260906221500 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today</title>
+  </programme>
+  <programme start="20260906221500 +0600" stop="20260906223000 +0600" channel="CGTN.cn">
+    <title lang="bn">Sports Scene</title>
   </programme>
   <programme start="20260906223000 +0600" stop="20260906230000 +0600" channel="CGTN.cn">
-    <title lang="bn">Counting the Cost</title>
+    <title lang="bn">The Point with Liu Xin</title>
   </programme>
-  <programme start="20260906230000 +0600" stop="20260906233000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
+  <programme start="20260906230000 +0600" stop="20260907000000 +0600" channel="CGTN.cn">
+    <title lang="bn">Global Watch</title>
   </programme>
-  <programme start="20260906233000 +0600" stop="20260907000000 +0600" channel="CGTN.cn">
-    <title lang="bn">101 East</title>
+  <programme start="20260907000000 +0600" stop="20260907001500 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today</title>
   </programme>
-  <programme start="20260907000000 +0600" stop="20260907003000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
+  <programme start="20260907001500 +0600" stop="20260907003000 +0600" channel="CGTN.cn">
+    <title lang="bn">Sports Scene</title>
   </programme>
   <programme start="20260907003000 +0600" stop="20260907010000 +0600" channel="CGTN.cn">
-    <title lang="bn">Inside Story</title>
+    <title lang="bn">Rediscovering China</title>
   </programme>
   <programme start="20260907010000 +0600" stop="20260907013000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
+    <title lang="bn">The World Today</title>
   </programme>
   <programme start="20260907013000 +0600" stop="20260907020000 +0600" channel="CGTN.cn">
-    <title lang="bn">Talk to Al Jazeera</title>
+    <title lang="bn">Razor</title>
   </programme>
-  <programme start="20260907020000 +0600" stop="20260907030000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
+  <programme start="20260907020000 +0600" stop="20260907023000 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today</title>
   </programme>
-  <programme start="20260907030000 +0600" stop="20260907033000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
+  <programme start="20260907023000 +0600" stop="20260907030000 +0600" channel="CGTN.cn">
+    <title lang="bn">Sports Scene</title>
   </programme>
-  <programme start="20260907033000 +0600" stop="20260907040000 +0600" channel="CGTN.cn">
-    <title lang="bn">Studio B: Unscripted</title>
+  <programme start="20260907030000 +0600" stop="20260907031500 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today</title>
+  </programme>
+  <programme start="20260907031500 +0600" stop="20260907040000 +0600" channel="CGTN.cn">
+    <title lang="bn">Global Business</title>
   </programme>
   <programme start="20260907040000 +0600" stop="20260907043000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
+    <title lang="bn">The World Today</title>
   </programme>
   <programme start="20260907043000 +0600" stop="20260907050000 +0600" channel="CGTN.cn">
-    <title lang="bn">The Listening Post</title>
+    <title lang="bn">The Vibe</title>
   </programme>
-  <programme start="20260907050000 +0600" stop="20260907060000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
+  <programme start="20260907050000 +0600" stop="20260907051500 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today</title>
+  </programme>
+  <programme start="20260907051500 +0600" stop="20260907060000 +0600" channel="CGTN.cn">
+    <title lang="bn">Africa Live</title>
   </programme>
   <programme start="20260907060000 +0600" stop="20260907063000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
+    <title lang="bn">Asia Today</title>
   </programme>
   <programme start="20260907063000 +0600" stop="20260907070000 +0600" channel="CGTN.cn">
-    <title lang="bn">Inside Story</title>
-  </programme>
-  <programme start="20260907070000 +0600" stop="20260907080000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260907080000 +0600" stop="20260907090000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260907090000 +0600" stop="20260907093000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260907093000 +0600" stop="20260907100000 +0600" channel="CGTN.cn">
-    <title lang="bn">Talk to Al Jazeera</title>
-  </programme>
-  <programme start="20260907100000 +0600" stop="20260907110000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260907110000 +0600" stop="20260907113000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260907113000 +0600" stop="20260907120000 +0600" channel="CGTN.cn">
-    <title lang="bn">All Hail The Military</title>
-  </programme>
-  <programme start="20260907120000 +0600" stop="20260907123000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260907123000 +0600" stop="20260907130000 +0600" channel="CGTN.cn">
-    <title lang="bn">Inside Story</title>
-  </programme>
-  <programme start="20260907130000 +0600" stop="20260907140000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260907140000 +0600" stop="20260907143000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260907143000 +0600" stop="20260907150000 +0600" channel="CGTN.cn">
-    <title lang="bn">Al Jazeera Reels</title>
-  </programme>
-  <programme start="20260907150000 +0600" stop="20260907153000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260907153000 +0600" stop="20260907160000 +0600" channel="CGTN.cn">
-    <title lang="bn">Witness</title>
-  </programme>
-  <programme start="20260907160000 +0600" stop="20260907170000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260907170000 +0600" stop="20260907180000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260907180000 +0600" stop="20260907183000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260907183000 +0600" stop="20260907190000 +0600" channel="CGTN.cn">
-    <title lang="bn">Inside Story</title>
-  </programme>
-  <programme start="20260907190000 +0600" stop="20260907200000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260907200000 +0600" stop="20260907203000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260907203000 +0600" stop="20260907210000 +0600" channel="CGTN.cn">
-    <title lang="bn">Studio B: Unscripted</title>
-  </programme>
-  <programme start="20260907210000 +0600" stop="20260907220000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260907220000 +0600" stop="20260907223000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260907223000 +0600" stop="20260907230000 +0600" channel="CGTN.cn">
-    <title lang="bn">The Listening Post</title>
-  </programme>
-  <programme start="20260907230000 +0600" stop="20260907233000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260907233000 +0600" stop="20260908000000 +0600" channel="CGTN.cn">
-    <title lang="bn">All Hail The Military</title>
-  </programme>
-  <programme start="20260908000000 +0600" stop="20260908003000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260908003000 +0600" stop="20260908010000 +0600" channel="CGTN.cn">
-    <title lang="bn">Inside Story</title>
-  </programme>
-  <programme start="20260908010000 +0600" stop="20260908013000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260908013000 +0600" stop="20260908020000 +0600" channel="CGTN.cn">
-    <title lang="bn">Al Jazeera Reels</title>
-  </programme>
-  <programme start="20260908020000 +0600" stop="20260908030000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260908030000 +0600" stop="20260908033000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260908033000 +0600" stop="20260908040000 +0600" channel="CGTN.cn">
-    <title lang="bn">Witness</title>
-  </programme>
-  <programme start="20260908040000 +0600" stop="20260908043000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260908043000 +0600" stop="20260908050000 +0600" channel="CGTN.cn">
-    <title lang="bn">Talk to Al Jazeera</title>
-  </programme>
-  <programme start="20260908050000 +0600" stop="20260908060000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260908060000 +0600" stop="20260908063000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260908063000 +0600" stop="20260908070000 +0600" channel="CGTN.cn">
-    <title lang="bn">Inside Story</title>
-  </programme>
-  <programme start="20260908070000 +0600" stop="20260908080000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260908080000 +0600" stop="20260908090000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260908090000 +0600" stop="20260908093000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260908093000 +0600" stop="20260908100000 +0600" channel="CGTN.cn">
-    <title lang="bn">Al Jazeera Reels</title>
-  </programme>
-  <programme start="20260908100000 +0600" stop="20260908110000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260908110000 +0600" stop="20260908113000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260908113000 +0600" stop="20260908120000 +0600" channel="CGTN.cn">
-    <title lang="bn">The Bottom Line</title>
-  </programme>
-  <programme start="20260908120000 +0600" stop="20260908123000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260908123000 +0600" stop="20260908130000 +0600" channel="CGTN.cn">
-    <title lang="bn">Inside Story</title>
-  </programme>
-  <programme start="20260908130000 +0600" stop="20260908140000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260908140000 +0600" stop="20260908143000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260908143000 +0600" stop="20260908150000 +0600" channel="CGTN.cn">
-    <title lang="bn">Counting the Cost</title>
-  </programme>
-  <programme start="20260908150000 +0600" stop="20260908153000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260908153000 +0600" stop="20260908160000 +0600" channel="CGTN.cn">
-    <title lang="bn">Fight For the Pacific</title>
-  </programme>
-  <programme start="20260908160000 +0600" stop="20260908170000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260908170000 +0600" stop="20260908180000 +0600" channel="CGTN.cn">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260908180000 +0600" stop="20260908183000 +0600" channel="CGTN.cn">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20260908183000 +0600" stop="20260908190000 +0600" channel="CGTN.cn">
-    <title lang="bn">Inside Story</title>
+    <title lang="bn">Dialogue</title>
   </programme>
   <channel id="cna.sg">
     <display-name>Channel News Asia</display-name>
     <icon src="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg"/>
   </channel>
-  <programme start="20260906000000 +0600" stop="20260906003000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260906003500 +0600" stop="20260906013000 +0600" channel="cna.sg">
+    <title lang="bn">Into the Wild Colombia S1 Ep01</title>
   </programme>
-  <programme start="20260906003000 +0600" stop="20260906010000 +0600" channel="cna.sg">
-    <title lang="bn">The Travel Show (r)</title>
+  <programme start="20260906013000 +0600" stop="20260906022500 +0600" channel="cna.sg">
+    <title lang="bn">Into the Wild Colombia S1 Ep02</title>
   </programme>
-  <programme start="20260906010000 +0600" stop="20260906013000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260906022500 +0600" stop="20260906032000 +0600" channel="cna.sg">
+    <title lang="bn">Into the Wild Colombia S1 Ep03</title>
   </programme>
-  <programme start="20260906013000 +0600" stop="20260906020000 +0600" channel="cna.sg">
-    <title lang="bn">Tech Now (r)</title>
+  <programme start="20260906032000 +0600" stop="20260906041500 +0600" channel="cna.sg">
+    <title lang="bn">Into the Wild Colombia S1 Ep04</title>
   </programme>
-  <programme start="20260906020000 +0600" stop="20260906023000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260906041500 +0600" stop="20260906051000 +0600" channel="cna.sg">
+    <title lang="bn">Snow Leopards With Dan O&amp;#x27;Neill S1 Ep01</title>
   </programme>
-  <programme start="20260906023000 +0600" stop="20260906030000 +0600" channel="cna.sg">
-    <title lang="bn">Streets of Gold: Mumbai (r)</title>
+  <programme start="20260906051000 +0600" stop="20260906060500 +0600" channel="cna.sg">
+    <title lang="bn">Snow Leopards With Dan O&amp;#x27;Neill S1 Ep02</title>
   </programme>
-  <programme start="20260906030000 +0600" stop="20260906033000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260906060500 +0600" stop="20260906070000 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep01</title>
   </programme>
-  <programme start="20260906033000 +0600" stop="20260906040000 +0600" channel="cna.sg">
-    <title lang="bn">Fighting For Freedom: Bilal Fawaz (r)</title>
+  <programme start="20260906070000 +0600" stop="20260906075500 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep02</title>
   </programme>
-  <programme start="20260906040000 +0600" stop="20260906050000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260906075500 +0600" stop="20260906085000 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep03</title>
   </programme>
-  <programme start="20260906050000 +0600" stop="20260906053000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260906085000 +0600" stop="20260906094500 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep04</title>
   </programme>
-  <programme start="20260906053000 +0600" stop="20260906060000 +0600" channel="cna.sg">
-    <title lang="bn">Talking Business (r)</title>
+  <programme start="20260906094500 +0600" stop="20260906104000 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep05</title>
   </programme>
-  <programme start="20260906060000 +0600" stop="20260906063000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260906104000 +0600" stop="20260906113500 +0600" channel="cna.sg">
+    <title lang="bn">Snow Leopards With Dan O&amp;#x27;Neill S1 Ep01</title>
   </programme>
-  <programme start="20260906063000 +0600" stop="20260906070000 +0600" channel="cna.sg">
-    <title lang="bn">Abandoned: Searching For Soldier Dad (r)</title>
+  <programme start="20260906113500 +0600" stop="20260906122500 +0600" channel="cna.sg">
+    <title lang="bn">Snow Leopards With Dan O&amp;#x27;Neill S1 Ep02</title>
   </programme>
-  <programme start="20260906070000 +0600" stop="20260906073000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260906122500 +0600" stop="20260906132000 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep01</title>
   </programme>
-  <programme start="20260906073000 +0600" stop="20260906080000 +0600" channel="cna.sg">
-    <title lang="bn">Talking Movies (r)</title>
+  <programme start="20260906132000 +0600" stop="20260906141500 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep02</title>
   </programme>
-  <programme start="20260906080000 +0600" stop="20260906090000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260906141500 +0600" stop="20260906151000 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep03</title>
   </programme>
-  <programme start="20260906090000 +0600" stop="20260906100000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260906151000 +0600" stop="20260906160500 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep04</title>
   </programme>
-  <programme start="20260906100000 +0600" stop="20260906103000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260906160500 +0600" stop="20260906170000 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep05</title>
   </programme>
-  <programme start="20260906103000 +0600" stop="20260906110000 +0600" channel="cna.sg">
-    <title lang="bn">Streets of Gold: Mumbai (r)</title>
+  <programme start="20260906170000 +0600" stop="20260906172500 +0600" channel="cna.sg">
+    <title lang="bn">Volcanic Odysseys S1 Ep01</title>
   </programme>
-  <programme start="20260906110000 +0600" stop="20260906113000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260906172500 +0600" stop="20260906182000 +0600" channel="cna.sg">
+    <title lang="bn">Superbeast S1 Ep01</title>
   </programme>
-  <programme start="20260906113000 +0600" stop="20260906120000 +0600" channel="cna.sg">
-    <title lang="bn">Fighting For Freedom: Bilal Fawaz (r)</title>
+  <programme start="20260906182000 +0600" stop="20260906191500 +0600" channel="cna.sg">
+    <title lang="bn">Superbeast S1 Ep02</title>
   </programme>
-  <programme start="20260906120000 +0600" stop="20260906123000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260906191500 +0600" stop="20260906201000 +0600" channel="cna.sg">
+    <title lang="bn">Evolution Earth S1 Ep03</title>
   </programme>
-  <programme start="20260906123000 +0600" stop="20260906130000 +0600" channel="cna.sg">
-    <title lang="bn">Abandoned: Searching For Soldier Dad (r)</title>
+  <programme start="20260906201000 +0600" stop="20260906210500 +0600" channel="cna.sg">
+    <title lang="bn">Big Cats, Small World S1 Ep01</title>
   </programme>
-  <programme start="20260906130000 +0600" stop="20260906133000 +0600" channel="cna.sg">
-    <title lang="bn">Newsday</title>
+  <programme start="20260906210500 +0600" stop="20260906220000 +0600" channel="cna.sg">
+    <title lang="bn">Big Cats, Small World S1 Ep02</title>
   </programme>
-  <programme start="20260906133000 +0600" stop="20260906134500 +0600" channel="cna.sg">
-    <title lang="bn">Business Today</title>
+  <programme start="20260906220000 +0600" stop="20260906225000 +0600" channel="cna.sg">
+    <title lang="bn">Tales From Zambia S2 Ep06</title>
   </programme>
-  <programme start="20260906134500 +0600" stop="20260906140000 +0600" channel="cna.sg">
-    <title lang="bn">BBC Sport</title>
+  <programme start="20260906225000 +0600" stop="20260906234000 +0600" channel="cna.sg">
+    <title lang="bn">Into the Wild Colombia S1 Ep05</title>
   </programme>
-  <programme start="20260906140000 +0600" stop="20260906143000 +0600" channel="cna.sg">
-    <title lang="bn">Newsday</title>
+  <programme start="20260906234000 +0600" stop="20260907003500 +0600" channel="cna.sg">
+    <title lang="bn">Superbeast S1 Ep01</title>
   </programme>
-  <programme start="20260906143000 +0600" stop="20260906144500 +0600" channel="cna.sg">
-    <title lang="bn">Business Today</title>
+  <programme start="20260907003500 +0600" stop="20260907013000 +0600" channel="cna.sg">
+    <title lang="bn">Superbeast S1 Ep02</title>
   </programme>
-  <programme start="20260906144500 +0600" stop="20260906150000 +0600" channel="cna.sg">
-    <title lang="bn">BBC Sport (r)</title>
+  <programme start="20260907013000 +0600" stop="20260907022500 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep01</title>
   </programme>
-  <programme start="20260906150000 +0600" stop="20260906153000 +0600" channel="cna.sg">
-    <title lang="bn">Newsday</title>
+  <programme start="20260907022500 +0600" stop="20260907032000 +0600" channel="cna.sg">
+    <title lang="bn">Big Cats, Small World S1 Ep01</title>
   </programme>
-  <programme start="20260906153000 +0600" stop="20260906154500 +0600" channel="cna.sg">
-    <title lang="bn">Business Today</title>
+  <programme start="20260907032000 +0600" stop="20260907041500 +0600" channel="cna.sg">
+    <title lang="bn">Big Cats, Small World S1 Ep02</title>
   </programme>
-  <programme start="20260906154500 +0600" stop="20260906160000 +0600" channel="cna.sg">
-    <title lang="bn">BBC Sport (r)</title>
+  <programme start="20260907041500 +0600" stop="20260907051000 +0600" channel="cna.sg">
+    <title lang="bn">Tales From Zambia S2 Ep06</title>
   </programme>
-  <programme start="20260906160000 +0600" stop="20260906163000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260907051000 +0600" stop="20260907060500 +0600" channel="cna.sg">
+    <title lang="bn">Into the Wild Colombia S1 Ep05</title>
   </programme>
-  <programme start="20260906163000 +0600" stop="20260906170000 +0600" channel="cna.sg">
-    <title lang="bn">Business Today</title>
+  <programme start="20260907060500 +0600" stop="20260907070000 +0600" channel="cna.sg">
+    <title lang="bn">Superbeast S1 Ep01</title>
   </programme>
-  <programme start="20260906170000 +0600" stop="20260906173000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260907070000 +0600" stop="20260907075500 +0600" channel="cna.sg">
+    <title lang="bn">Superbeast S1 Ep02</title>
   </programme>
-  <programme start="20260906173000 +0600" stop="20260906180000 +0600" channel="cna.sg">
-    <title lang="bn">Business Today</title>
+  <programme start="20260907075500 +0600" stop="20260907085000 +0600" channel="cna.sg">
+    <title lang="bn">Evolution Earth S1 Ep03</title>
   </programme>
-  <programme start="20260906180000 +0600" stop="20260906183000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260907085000 +0600" stop="20260907094500 +0600" channel="cna.sg">
+    <title lang="bn">Big Cats, Small World S1 Ep01</title>
   </programme>
-  <programme start="20260906183000 +0600" stop="20260906190000 +0600" channel="cna.sg">
-    <title lang="bn">Business Today</title>
+  <programme start="20260907094500 +0600" stop="20260907104000 +0600" channel="cna.sg">
+    <title lang="bn">Big Cats, Small World S1 Ep02</title>
   </programme>
-  <programme start="20260906190000 +0600" stop="20260906193000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260907104000 +0600" stop="20260907113500 +0600" channel="cna.sg">
+    <title lang="bn">Tales From Zambia S2 Ep06</title>
   </programme>
-  <programme start="20260906193000 +0600" stop="20260906200000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260907113500 +0600" stop="20260907122500 +0600" channel="cna.sg">
+    <title lang="bn">Into the Wild Colombia S1 Ep05</title>
   </programme>
-  <programme start="20260906200000 +0600" stop="20260906203000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260907122500 +0600" stop="20260907132000 +0600" channel="cna.sg">
+    <title lang="bn">Superbeast S1 Ep01</title>
   </programme>
-  <programme start="20260906203000 +0600" stop="20260906210000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260907132000 +0600" stop="20260907141500 +0600" channel="cna.sg">
+    <title lang="bn">Superbeast S1 Ep02</title>
   </programme>
-  <programme start="20260906210000 +0600" stop="20260906213000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260907141500 +0600" stop="20260907151000 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep01</title>
   </programme>
-  <programme start="20260906213000 +0600" stop="20260906220000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260907151000 +0600" stop="20260907160500 +0600" channel="cna.sg">
+    <title lang="bn">Big Cats, Small World S1 Ep01</title>
   </programme>
-  <programme start="20260906220000 +0600" stop="20260906223000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260907160500 +0600" stop="20260907170000 +0600" channel="cna.sg">
+    <title lang="bn">Big Cats, Small World S1 Ep02</title>
   </programme>
-  <programme start="20260906223000 +0600" stop="20260906224500 +0600" channel="cna.sg">
-    <title lang="bn">Business Today</title>
+  <programme start="20260907170000 +0600" stop="20260907172500 +0600" channel="cna.sg">
+    <title lang="bn">Volcanic Odysseys S1 Ep02</title>
   </programme>
-  <programme start="20260906224500 +0600" stop="20260906230000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260907172500 +0600" stop="20260907182000 +0600" channel="cna.sg">
+    <title lang="bn">Big Cats, Small World S1 Ep01</title>
   </programme>
-  <programme start="20260906230000 +0600" stop="20260906233000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20260907182000 +0600" stop="20260907191500 +0600" channel="cna.sg">
+    <title lang="bn">Big Cats, Small World S1 Ep02</title>
   </programme>
-  <programme start="20260906233000 +0600" stop="20260907000000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20260907191500 +0600" stop="20260907201000 +0600" channel="cna.sg">
+    <title lang="bn">Wild Science S1 Ep01</title>
   </programme>
-  <programme start="20260907000000 +0600" stop="20260907003000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20260907201000 +0600" stop="20260907210500 +0600" channel="cna.sg">
+    <title lang="bn">Wild Sky S1 Ep01</title>
   </programme>
-  <programme start="20260907003000 +0600" stop="20260907010000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20260907210500 +0600" stop="20260907220000 +0600" channel="cna.sg">
+    <title lang="bn">Wild Sky S1 Ep02</title>
   </programme>
-  <programme start="20260907010000 +0600" stop="20260907013000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20260907220000 +0600" stop="20260907225000 +0600" channel="cna.sg">
+    <title lang="bn">Tales From Zambia S2 Ep07</title>
   </programme>
-  <programme start="20260907013000 +0600" stop="20260907014500 +0600" channel="cna.sg">
-    <title lang="bn">Business Today</title>
+  <programme start="20260907225000 +0600" stop="20260907234000 +0600" channel="cna.sg">
+    <title lang="bn">Rooted S1 Ep01</title>
   </programme>
-  <programme start="20260907014500 +0600" stop="20260907020000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20260907234000 +0600" stop="20260908003500 +0600" channel="cna.sg">
+    <title lang="bn">Big Cats, Small World S1 Ep01</title>
   </programme>
-  <programme start="20260907020000 +0600" stop="20260907023000 +0600" channel="cna.sg">
-    <title lang="bn">Verified Live</title>
+  <programme start="20260908003500 +0600" stop="20260908013000 +0600" channel="cna.sg">
+    <title lang="bn">Big Cats, Small World S1 Ep02</title>
   </programme>
-  <programme start="20260907023000 +0600" stop="20260907030000 +0600" channel="cna.sg">
-    <title lang="bn">Verified Live</title>
+  <programme start="20260908013000 +0600" stop="20260908022500 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep02</title>
   </programme>
-  <programme start="20260907030000 +0600" stop="20260907033000 +0600" channel="cna.sg">
-    <title lang="bn">Verified Live</title>
+  <programme start="20260908022500 +0600" stop="20260908032000 +0600" channel="cna.sg">
+    <title lang="bn">Wild Sky S1 Ep01</title>
   </programme>
-  <programme start="20260907033000 +0600" stop="20260907034500 +0600" channel="cna.sg">
-    <title lang="bn">Business Today</title>
+  <programme start="20260908032000 +0600" stop="20260908041500 +0600" channel="cna.sg">
+    <title lang="bn">Wild Sky S1 Ep02</title>
   </programme>
-  <programme start="20260907034500 +0600" stop="20260907040000 +0600" channel="cna.sg">
-    <title lang="bn">Verified Live</title>
+  <programme start="20260908041500 +0600" stop="20260908051000 +0600" channel="cna.sg">
+    <title lang="bn">Tales From Zambia S2 Ep07</title>
   </programme>
-  <programme start="20260907040000 +0600" stop="20260907043000 +0600" channel="cna.sg">
-    <title lang="bn">Verified Live</title>
+  <programme start="20260908051000 +0600" stop="20260908060500 +0600" channel="cna.sg">
+    <title lang="bn">Rooted S1 Ep01</title>
   </programme>
-  <programme start="20260907043000 +0600" stop="20260907050000 +0600" channel="cna.sg">
-    <title lang="bn">Focus on Africa</title>
+  <programme start="20260908060500 +0600" stop="20260908070000 +0600" channel="cna.sg">
+    <title lang="bn">Big Cats, Small World S1 Ep01</title>
   </programme>
-  <programme start="20260907050000 +0600" stop="20260907053000 +0600" channel="cna.sg">
-    <title lang="bn">The World Today with Maryam Moshiri</title>
+  <programme start="20260908070000 +0600" stop="20260908075500 +0600" channel="cna.sg">
+    <title lang="bn">Big Cats, Small World S1 Ep02</title>
   </programme>
-  <programme start="20260907053000 +0600" stop="20260907060000 +0600" channel="cna.sg">
-    <title lang="bn">The World Today with Maryam Moshiri</title>
+  <programme start="20260908075500 +0600" stop="20260908085000 +0600" channel="cna.sg">
+    <title lang="bn">Wild Science S1 Ep01</title>
   </programme>
-  <programme start="20260907060000 +0600" stop="20260907063000 +0600" channel="cna.sg">
-    <title lang="bn">The World Today with Maryam Moshiri</title>
+  <programme start="20260908085000 +0600" stop="20260908094500 +0600" channel="cna.sg">
+    <title lang="bn">Wild Sky S1 Ep01</title>
   </programme>
-  <programme start="20260907063000 +0600" stop="20260907070000 +0600" channel="cna.sg">
-    <title lang="bn">The World Today with Maryam Moshiri</title>
+  <programme start="20260908094500 +0600" stop="20260908104000 +0600" channel="cna.sg">
+    <title lang="bn">Wild Sky S1 Ep02</title>
   </programme>
-  <programme start="20260907070000 +0600" stop="20260907073000 +0600" channel="cna.sg">
-    <title lang="bn">The Context USA</title>
+  <programme start="20260908104000 +0600" stop="20260908113500 +0600" channel="cna.sg">
+    <title lang="bn">Tales From Zambia S2 Ep07</title>
   </programme>
-  <programme start="20260907073000 +0600" stop="20260907080000 +0600" channel="cna.sg">
-    <title lang="bn">The Context USA</title>
+  <programme start="20260908113500 +0600" stop="20260908122500 +0600" channel="cna.sg">
+    <title lang="bn">Rooted S1 Ep01</title>
   </programme>
-  <programme start="20260907080000 +0600" stop="20260907083000 +0600" channel="cna.sg">
-    <title lang="bn">The Context</title>
+  <programme start="20260908122500 +0600" stop="20260908132000 +0600" channel="cna.sg">
+    <title lang="bn">Big Cats, Small World S1 Ep01</title>
   </programme>
-  <programme start="20260907083000 +0600" stop="20260907090000 +0600" channel="cna.sg">
-    <title lang="bn">The Context</title>
+  <programme start="20260908132000 +0600" stop="20260908141500 +0600" channel="cna.sg">
+    <title lang="bn">Big Cats, Small World S1 Ep02</title>
   </programme>
-  <programme start="20260907090000 +0600" stop="20260907093000 +0600" channel="cna.sg">
-    <title lang="bn">BBC World News America</title>
+  <programme start="20260908141500 +0600" stop="20260908151000 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep02</title>
   </programme>
-  <programme start="20260907093000 +0600" stop="20260907100000 +0600" channel="cna.sg">
-    <title lang="bn">Newsnight</title>
+  <programme start="20260908151000 +0600" stop="20260908160500 +0600" channel="cna.sg">
+    <title lang="bn">Wild Sky S1 Ep01</title>
   </programme>
-  <programme start="20260907100000 +0600" stop="20260907110000 +0600" channel="cna.sg">
-    <title lang="bn">BBC World News America</title>
+  <programme start="20260908160500 +0600" stop="20260908170000 +0600" channel="cna.sg">
+    <title lang="bn">Wild Sky S1 Ep02</title>
   </programme>
-  <programme start="20260907110000 +0600" stop="20260907113000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260908170000 +0600" stop="20260908172500 +0600" channel="cna.sg">
+    <title lang="bn">Volcanic Odysseys S1 Ep03</title>
   </programme>
-  <programme start="20260907113000 +0600" stop="20260907120000 +0600" channel="cna.sg">
-    <title lang="bn">Newscast</title>
+  <programme start="20260908172500 +0600" stop="20260908182000 +0600" channel="cna.sg">
+    <title lang="bn">Wild Sky S1 Ep01</title>
   </programme>
-  <programme start="20260907120000 +0600" stop="20260907123000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260908182000 +0600" stop="20260908191500 +0600" channel="cna.sg">
+    <title lang="bn">Wild Sky S1 Ep02</title>
   </programme>
-  <programme start="20260907123000 +0600" stop="20260907130000 +0600" channel="cna.sg">
-    <title lang="bn">Talking Business (r)</title>
+  <programme start="20260908191500 +0600" stop="20260908201000 +0600" channel="cna.sg">
+    <title lang="bn">Big Cat Country S1 Ep01</title>
   </programme>
-  <programme start="20260907130000 +0600" stop="20260907133000 +0600" channel="cna.sg">
-    <title lang="bn">Newsday</title>
+  <programme start="20260908201000 +0600" stop="20260908210500 +0600" channel="cna.sg">
+    <title lang="bn">A Wild Year on Earth S1 Ep05</title>
   </programme>
-  <programme start="20260907133000 +0600" stop="20260907134500 +0600" channel="cna.sg">
-    <title lang="bn">Business Today</title>
+  <programme start="20260908210500 +0600" stop="20260908220000 +0600" channel="cna.sg">
+    <title lang="bn">A Wild Year on Earth S1 Ep06</title>
   </programme>
-  <programme start="20260907134500 +0600" stop="20260907140000 +0600" channel="cna.sg">
-    <title lang="bn">BBC Sport</title>
+  <programme start="20260908220000 +0600" stop="20260908225000 +0600" channel="cna.sg">
+    <title lang="bn">Tales From Zambia S2 Ep08</title>
   </programme>
-  <programme start="20260907140000 +0600" stop="20260907143000 +0600" channel="cna.sg">
-    <title lang="bn">Newsday</title>
+  <programme start="20260908225000 +0600" stop="20260908234000 +0600" channel="cna.sg">
+    <title lang="bn">Rooted S1 Ep02</title>
   </programme>
-  <programme start="20260907143000 +0600" stop="20260907144500 +0600" channel="cna.sg">
-    <title lang="bn">Business Today</title>
+  <programme start="20260908234000 +0600" stop="20260909003500 +0600" channel="cna.sg">
+    <title lang="bn">Wild Sky S1 Ep01</title>
   </programme>
-  <programme start="20260907144500 +0600" stop="20260907150000 +0600" channel="cna.sg">
-    <title lang="bn">BBC Sport (r)</title>
+  <programme start="20260909003500 +0600" stop="20260909013000 +0600" channel="cna.sg">
+    <title lang="bn">Wild Sky S1 Ep02</title>
   </programme>
-  <programme start="20260907150000 +0600" stop="20260907153000 +0600" channel="cna.sg">
-    <title lang="bn">Newsday</title>
+  <programme start="20260909013000 +0600" stop="20260909022500 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep03</title>
   </programme>
-  <programme start="20260907153000 +0600" stop="20260907154500 +0600" channel="cna.sg">
-    <title lang="bn">Business Today</title>
+  <programme start="20260909022500 +0600" stop="20260909032000 +0600" channel="cna.sg">
+    <title lang="bn">A Wild Year on Earth S1 Ep05</title>
   </programme>
-  <programme start="20260907154500 +0600" stop="20260907160000 +0600" channel="cna.sg">
-    <title lang="bn">BBC Sport (r)</title>
+  <programme start="20260909032000 +0600" stop="20260909041500 +0600" channel="cna.sg">
+    <title lang="bn">A Wild Year on Earth S1 Ep06</title>
   </programme>
-  <programme start="20260907160000 +0600" stop="20260907163000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260909041500 +0600" stop="20260909051000 +0600" channel="cna.sg">
+    <title lang="bn">Tales From Zambia S2 Ep08</title>
   </programme>
-  <programme start="20260907163000 +0600" stop="20260907170000 +0600" channel="cna.sg">
-    <title lang="bn">Business Today</title>
+  <programme start="20260909051000 +0600" stop="20260909060500 +0600" channel="cna.sg">
+    <title lang="bn">Rooted S1 Ep02</title>
   </programme>
-  <programme start="20260907170000 +0600" stop="20260907173000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260909060500 +0600" stop="20260909070000 +0600" channel="cna.sg">
+    <title lang="bn">Wild Sky S1 Ep01</title>
   </programme>
-  <programme start="20260907173000 +0600" stop="20260907180000 +0600" channel="cna.sg">
-    <title lang="bn">Business Today</title>
+  <programme start="20260909070000 +0600" stop="20260909075500 +0600" channel="cna.sg">
+    <title lang="bn">Wild Sky S1 Ep02</title>
   </programme>
-  <programme start="20260907180000 +0600" stop="20260907183000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260909075500 +0600" stop="20260909085000 +0600" channel="cna.sg">
+    <title lang="bn">Big Cat Country S1 Ep01</title>
   </programme>
-  <programme start="20260907183000 +0600" stop="20260907190000 +0600" channel="cna.sg">
-    <title lang="bn">Business Today</title>
+  <programme start="20260909085000 +0600" stop="20260909094500 +0600" channel="cna.sg">
+    <title lang="bn">A Wild Year on Earth S1 Ep05</title>
   </programme>
-  <programme start="20260907190000 +0600" stop="20260907193000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260909094500 +0600" stop="20260909104000 +0600" channel="cna.sg">
+    <title lang="bn">A Wild Year on Earth S1 Ep06</title>
   </programme>
-  <programme start="20260907193000 +0600" stop="20260907200000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260909104000 +0600" stop="20260909113500 +0600" channel="cna.sg">
+    <title lang="bn">Tales From Zambia S2 Ep08</title>
   </programme>
-  <programme start="20260907200000 +0600" stop="20260907203000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260909113500 +0600" stop="20260909122500 +0600" channel="cna.sg">
+    <title lang="bn">Rooted S1 Ep02</title>
   </programme>
-  <programme start="20260907203000 +0600" stop="20260907210000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260909122500 +0600" stop="20260909132000 +0600" channel="cna.sg">
+    <title lang="bn">Wild Sky S1 Ep01</title>
   </programme>
-  <programme start="20260907210000 +0600" stop="20260907213000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260909132000 +0600" stop="20260909141500 +0600" channel="cna.sg">
+    <title lang="bn">Wild Sky S1 Ep02</title>
   </programme>
-  <programme start="20260907213000 +0600" stop="20260907220000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260909141500 +0600" stop="20260909151000 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep03</title>
   </programme>
-  <programme start="20260907220000 +0600" stop="20260907223000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260909151000 +0600" stop="20260909160500 +0600" channel="cna.sg">
+    <title lang="bn">A Wild Year on Earth S1 Ep05</title>
   </programme>
-  <programme start="20260907223000 +0600" stop="20260907224500 +0600" channel="cna.sg">
-    <title lang="bn">Business Today</title>
+  <programme start="20260909160500 +0600" stop="20260909170000 +0600" channel="cna.sg">
+    <title lang="bn">A Wild Year on Earth S1 Ep06</title>
   </programme>
-  <programme start="20260907224500 +0600" stop="20260907230000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News</title>
+  <programme start="20260909170000 +0600" stop="20260909172500 +0600" channel="cna.sg">
+    <title lang="bn">Volcanic Odysseys S1 Ep04</title>
   </programme>
-  <programme start="20260907230000 +0600" stop="20260907233000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20260909172500 +0600" stop="20260909182000 +0600" channel="cna.sg">
+    <title lang="bn">A Wild Year on Earth S1 Ep05</title>
   </programme>
-  <programme start="20260907233000 +0600" stop="20260908000000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20260909182000 +0600" stop="20260909191500 +0600" channel="cna.sg">
+    <title lang="bn">A Wild Year on Earth S1 Ep06</title>
   </programme>
-  <programme start="20260908000000 +0600" stop="20260908003000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20260909191500 +0600" stop="20260909201000 +0600" channel="cna.sg">
+    <title lang="bn">Big Cat Country S1 Ep02</title>
   </programme>
-  <programme start="20260908003000 +0600" stop="20260908010000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20260909201000 +0600" stop="20260909210500 +0600" channel="cna.sg">
+    <title lang="bn">Malawi Wildlife Rescue S1 Ep03</title>
   </programme>
-  <programme start="20260908010000 +0600" stop="20260908013000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20260909210500 +0600" stop="20260909220000 +0600" channel="cna.sg">
+    <title lang="bn">Malawi Wildlife Rescue S1 Ep04</title>
   </programme>
-  <programme start="20260908013000 +0600" stop="20260908014500 +0600" channel="cna.sg">
-    <title lang="bn">Business Today - NYSE Opening Bell</title>
+  <programme start="20260909220000 +0600" stop="20260909225000 +0600" channel="cna.sg">
+    <title lang="bn">Super Shark Highway S1 Ep01</title>
   </programme>
-  <programme start="20260908014500 +0600" stop="20260908020000 +0600" channel="cna.sg">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20260909225000 +0600" stop="20260909234000 +0600" channel="cna.sg">
+    <title lang="bn">Rooted S1 Ep03</title>
   </programme>
-  <programme start="20260908020000 +0600" stop="20260908023000 +0600" channel="cna.sg">
-    <title lang="bn">Verified Live</title>
+  <programme start="20260909234000 +0600" stop="20260910003500 +0600" channel="cna.sg">
+    <title lang="bn">A Wild Year on Earth S1 Ep05</title>
   </programme>
-  <programme start="20260908023000 +0600" stop="20260908030000 +0600" channel="cna.sg">
-    <title lang="bn">Verified Live</title>
+  <programme start="20260910003500 +0600" stop="20260910013000 +0600" channel="cna.sg">
+    <title lang="bn">A Wild Year on Earth S1 Ep06</title>
   </programme>
-  <programme start="20260908030000 +0600" stop="20260908033000 +0600" channel="cna.sg">
-    <title lang="bn">Verified Live</title>
+  <programme start="20260910013000 +0600" stop="20260910022500 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep04</title>
   </programme>
-  <programme start="20260908033000 +0600" stop="20260908034500 +0600" channel="cna.sg">
-    <title lang="bn">Business Today</title>
+  <programme start="20260910022500 +0600" stop="20260910032000 +0600" channel="cna.sg">
+    <title lang="bn">Malawi Wildlife Rescue S1 Ep03</title>
   </programme>
-  <programme start="20260908034500 +0600" stop="20260908040000 +0600" channel="cna.sg">
-    <title lang="bn">Verified Live</title>
+  <programme start="20260910032000 +0600" stop="20260910041500 +0600" channel="cna.sg">
+    <title lang="bn">Malawi Wildlife Rescue S1 Ep04</title>
   </programme>
-  <programme start="20260908040000 +0600" stop="20260908043000 +0600" channel="cna.sg">
-    <title lang="bn">Verified Live</title>
+  <programme start="20260910041500 +0600" stop="20260910051000 +0600" channel="cna.sg">
+    <title lang="bn">Super Shark Highway S1 Ep01</title>
   </programme>
-  <programme start="20260908043000 +0600" stop="20260908050000 +0600" channel="cna.sg">
-    <title lang="bn">Focus on Africa</title>
+  <programme start="20260910051000 +0600" stop="20260910060500 +0600" channel="cna.sg">
+    <title lang="bn">Rooted S1 Ep03</title>
   </programme>
-  <programme start="20260908050000 +0600" stop="20260908053000 +0600" channel="cna.sg">
-    <title lang="bn">The World Today with Maryam Moshiri</title>
+  <programme start="20260910060500 +0600" stop="20260910070000 +0600" channel="cna.sg">
+    <title lang="bn">A Wild Year on Earth S1 Ep05</title>
   </programme>
-  <programme start="20260908053000 +0600" stop="20260908060000 +0600" channel="cna.sg">
-    <title lang="bn">The World Today with Maryam Moshiri</title>
+  <programme start="20260910070000 +0600" stop="20260910075500 +0600" channel="cna.sg">
+    <title lang="bn">A Wild Year on Earth S1 Ep06</title>
   </programme>
-  <programme start="20260908060000 +0600" stop="20260908063000 +0600" channel="cna.sg">
-    <title lang="bn">The World Today with Maryam Moshiri</title>
+  <programme start="20260910075500 +0600" stop="20260910085000 +0600" channel="cna.sg">
+    <title lang="bn">Big Cat Country S1 Ep02</title>
   </programme>
-  <programme start="20260908063000 +0600" stop="20260908070000 +0600" channel="cna.sg">
-    <title lang="bn">The World Today with Maryam Moshiri</title>
+  <programme start="20260910085000 +0600" stop="20260910094500 +0600" channel="cna.sg">
+    <title lang="bn">Malawi Wildlife Rescue S1 Ep03</title>
   </programme>
-  <programme start="20260908070000 +0600" stop="20260908073000 +0600" channel="cna.sg">
-    <title lang="bn">The Context USA</title>
+  <programme start="20260910094500 +0600" stop="20260910104000 +0600" channel="cna.sg">
+    <title lang="bn">Malawi Wildlife Rescue S1 Ep04</title>
   </programme>
-  <programme start="20260908073000 +0600" stop="20260908080000 +0600" channel="cna.sg">
-    <title lang="bn">The Context USA</title>
+  <programme start="20260910104000 +0600" stop="20260910113500 +0600" channel="cna.sg">
+    <title lang="bn">Super Shark Highway S1 Ep01</title>
   </programme>
-  <programme start="20260908080000 +0600" stop="20260908083000 +0600" channel="cna.sg">
-    <title lang="bn">The Context</title>
+  <programme start="20260910113500 +0600" stop="20260910122500 +0600" channel="cna.sg">
+    <title lang="bn">Rooted S1 Ep03</title>
   </programme>
-  <programme start="20260908083000 +0600" stop="20260908090000 +0600" channel="cna.sg">
-    <title lang="bn">The Context</title>
+  <programme start="20260910122500 +0600" stop="20260910132000 +0600" channel="cna.sg">
+    <title lang="bn">A Wild Year on Earth S1 Ep05</title>
   </programme>
-  <programme start="20260908090000 +0600" stop="20260908093000 +0600" channel="cna.sg">
-    <title lang="bn">BBC World News America</title>
+  <programme start="20260910132000 +0600" stop="20260910141500 +0600" channel="cna.sg">
+    <title lang="bn">A Wild Year on Earth S1 Ep06</title>
   </programme>
-  <programme start="20260908093000 +0600" stop="20260908100000 +0600" channel="cna.sg">
-    <title lang="bn">Newsnight</title>
+  <programme start="20260910141500 +0600" stop="20260910151000 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep04</title>
+  </programme>
+  <programme start="20260910151000 +0600" stop="20260910160500 +0600" channel="cna.sg">
+    <title lang="bn">Malawi Wildlife Rescue S1 Ep03</title>
+  </programme>
+  <programme start="20260910160500 +0600" stop="20260910170000 +0600" channel="cna.sg">
+    <title lang="bn">Malawi Wildlife Rescue S1 Ep04</title>
+  </programme>
+  <programme start="20260910170000 +0600" stop="20260910172500 +0600" channel="cna.sg">
+    <title lang="bn">Baby Animals S1 Ep01</title>
+  </programme>
+  <programme start="20260910172500 +0600" stop="20260910182000 +0600" channel="cna.sg">
+    <title lang="bn">Malawi Wildlife Rescue S1 Ep03</title>
+  </programme>
+  <programme start="20260910182000 +0600" stop="20260910191500 +0600" channel="cna.sg">
+    <title lang="bn">Malawi Wildlife Rescue S1 Ep04</title>
+  </programme>
+  <programme start="20260910191500 +0600" stop="20260910201000 +0600" channel="cna.sg">
+    <title lang="bn">Big Cat Country S1 Ep03</title>
+  </programme>
+  <programme start="20260910201000 +0600" stop="20260910210500 +0600" channel="cna.sg">
+    <title lang="bn">Superbeast S1 Ep01</title>
+  </programme>
+  <programme start="20260910210500 +0600" stop="20260910220000 +0600" channel="cna.sg">
+    <title lang="bn">Superbeast S1 Ep02</title>
+  </programme>
+  <programme start="20260910220000 +0600" stop="20260910225000 +0600" channel="cna.sg">
+    <title lang="bn">Super Shark Highway S1 Ep02</title>
+  </programme>
+  <programme start="20260910225000 +0600" stop="20260910234000 +0600" channel="cna.sg">
+    <title lang="bn">Rooted S1 Ep04</title>
+  </programme>
+  <programme start="20260910234000 +0600" stop="20260911003500 +0600" channel="cna.sg">
+    <title lang="bn">Malawi Wildlife Rescue S1 Ep03</title>
+  </programme>
+  <programme start="20260911003500 +0600" stop="20260911013000 +0600" channel="cna.sg">
+    <title lang="bn">Malawi Wildlife Rescue S1 Ep04</title>
+  </programme>
+  <programme start="20260911013000 +0600" stop="20260911022500 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep05</title>
+  </programme>
+  <programme start="20260911022500 +0600" stop="20260911032000 +0600" channel="cna.sg">
+    <title lang="bn">Superbeast S1 Ep01</title>
+  </programme>
+  <programme start="20260911032000 +0600" stop="20260911041500 +0600" channel="cna.sg">
+    <title lang="bn">Superbeast S1 Ep02</title>
+  </programme>
+  <programme start="20260911041500 +0600" stop="20260911051000 +0600" channel="cna.sg">
+    <title lang="bn">Super Shark Highway S1 Ep02</title>
+  </programme>
+  <programme start="20260911051000 +0600" stop="20260911060500 +0600" channel="cna.sg">
+    <title lang="bn">Rooted S1 Ep04</title>
+  </programme>
+  <programme start="20260911060500 +0600" stop="20260911070000 +0600" channel="cna.sg">
+    <title lang="bn">Malawi Wildlife Rescue S1 Ep03</title>
+  </programme>
+  <programme start="20260911070000 +0600" stop="20260911075500 +0600" channel="cna.sg">
+    <title lang="bn">Malawi Wildlife Rescue S1 Ep04</title>
+  </programme>
+  <programme start="20260911075500 +0600" stop="20260911085000 +0600" channel="cna.sg">
+    <title lang="bn">Big Cat Country S1 Ep03</title>
+  </programme>
+  <programme start="20260911085000 +0600" stop="20260911094500 +0600" channel="cna.sg">
+    <title lang="bn">Superbeast S1 Ep01</title>
+  </programme>
+  <programme start="20260911094500 +0600" stop="20260911104000 +0600" channel="cna.sg">
+    <title lang="bn">Superbeast S1 Ep02</title>
+  </programme>
+  <programme start="20260911104000 +0600" stop="20260911113500 +0600" channel="cna.sg">
+    <title lang="bn">Super Shark Highway S1 Ep02</title>
+  </programme>
+  <programme start="20260911113500 +0600" stop="20260911122500 +0600" channel="cna.sg">
+    <title lang="bn">Rooted S1 Ep04</title>
+  </programme>
+  <programme start="20260911122500 +0600" stop="20260911132000 +0600" channel="cna.sg">
+    <title lang="bn">Malawi Wildlife Rescue S1 Ep03</title>
+  </programme>
+  <programme start="20260911132000 +0600" stop="20260911141500 +0600" channel="cna.sg">
+    <title lang="bn">Malawi Wildlife Rescue S1 Ep04</title>
+  </programme>
+  <programme start="20260911141500 +0600" stop="20260911151000 +0600" channel="cna.sg">
+    <title lang="bn">Jaguar Journals S1 Ep05</title>
+  </programme>
+  <programme start="20260911151000 +0600" stop="20260911160500 +0600" channel="cna.sg">
+    <title lang="bn">Superbeast S1 Ep01</title>
+  </programme>
+  <programme start="20260911160500 +0600" stop="20260911170000 +0600" channel="cna.sg">
+    <title lang="bn">Superbeast S1 Ep02</title>
+  </programme>
+  <programme start="20260911170000 +0600" stop="20260911172500 +0600" channel="cna.sg">
+    <title lang="bn">Baby Animals S1 Ep02</title>
+  </programme>
+  <programme start="20260911172500 +0600" stop="20260911182000 +0600" channel="cna.sg">
+    <title lang="bn">Amazing Animal Friends S1 Ep01</title>
+  </programme>
+  <programme start="20260911182000 +0600" stop="20260911191500 +0600" channel="cna.sg">
+    <title lang="bn">Secret Life of the Tasmanian Devil S1 Ep01</title>
+  </programme>
+  <programme start="20260911191500 +0600" stop="20260911201000 +0600" channel="cna.sg">
+    <title lang="bn">Secret Life of the Tasmanian Devil S1 Ep02</title>
+  </programme>
+  <programme start="20260911201000 +0600" stop="20260911210500 +0600" channel="cna.sg">
+    <title lang="bn">Dawn to Dusk S1 Ep05</title>
+  </programme>
+  <programme start="20260911210500 +0600" stop="20260911220000 +0600" channel="cna.sg">
+    <title lang="bn">Dawn to Dusk S1 Ep06</title>
+  </programme>
+  <programme start="20260911220000 +0600" stop="20260911225000 +0600" channel="cna.sg">
+    <title lang="bn">Dawn to Dusk S1 Ep07</title>
+  </programme>
+  <programme start="20260911225000 +0600" stop="20260911234000 +0600" channel="cna.sg">
+    <title lang="bn">Dawn to Dusk S1 Ep08</title>
+  </programme>
+  <programme start="20260911234000 +0600" stop="20260912003500 +0600" channel="cna.sg">
+    <title lang="bn">Tales From Zambia S2 Ep06</title>
+  </programme>
+  <programme start="20260912003500 +0600" stop="20260912013000 +0600" channel="cna.sg">
+    <title lang="bn">Tales From Zambia S2 Ep07</title>
+  </programme>
+  <programme start="20260912013000 +0600" stop="20260912022500 +0600" channel="cna.sg">
+    <title lang="bn">Tales From Zambia S2 Ep08</title>
+  </programme>
+  <programme start="20260912022500 +0600" stop="20260912032000 +0600" channel="cna.sg">
+    <title lang="bn">Super Shark Highway S1 Ep01</title>
+  </programme>
+  <programme start="20260912032000 +0600" stop="20260912041500 +0600" channel="cna.sg">
+    <title lang="bn">Super Shark Highway S1 Ep02</title>
+  </programme>
+  <programme start="20260912041500 +0600" stop="20260912051000 +0600" channel="cna.sg">
+    <title lang="bn">Evolution Earth S1 Ep04</title>
+  </programme>
+  <programme start="20260912051000 +0600" stop="20260912060500 +0600" channel="cna.sg">
+    <title lang="bn">Evolution Earth S1 Ep05</title>
+  </programme>
+  <programme start="20260912060500 +0600" stop="20260912070000 +0600" channel="cna.sg">
+    <title lang="bn">Wild Science S1 Ep01</title>
+  </programme>
+  <programme start="20260912070000 +0600" stop="20260912075500 +0600" channel="cna.sg">
+    <title lang="bn">Wild Science S1 Ep02</title>
+  </programme>
+  <programme start="20260912075500 +0600" stop="20260912085000 +0600" channel="cna.sg">
+    <title lang="bn">Planet Shark S1 Ep01</title>
+  </programme>
+  <programme start="20260912085000 +0600" stop="20260912094500 +0600" channel="cna.sg">
+    <title lang="bn">Planet Shark S1 Ep02</title>
+  </programme>
+  <programme start="20260912094500 +0600" stop="20260912104000 +0600" channel="cna.sg">
+    <title lang="bn">Planet Shark S1 Ep03</title>
+  </programme>
+  <programme start="20260912104000 +0600" stop="20260912111000 +0600" channel="cna.sg">
+    <title lang="bn">Evolution Earth S1 Ep04</title>
   </programme>
   <channel id="TRT World">
     <display-name>TRTWorld.tr</display-name>
@@ -2705,24 +2510,6 @@
     <display-name>YouTube</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"/>
   </channel>
-  <programme start="20260906000000 +0600" stop="20260906040000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
-  <programme start="20260906040000 +0600" stop="20260906080000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
-  <programme start="20260906080000 +0600" stop="20260906120000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
-  <programme start="20260906120000 +0600" stop="20260906160000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
-  <programme start="20260906160000 +0600" stop="20260906200000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
-  <programme start="20260906200000 +0600" stop="20260907000000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
   <programme start="20260907000000 +0600" stop="20260907040000 +0600" channel="YouTube">
     <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
   </programme>
@@ -2739,6 +2526,24 @@
     <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
   </programme>
   <programme start="20260907200000 +0600" stop="20260908000000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260908000000 +0600" stop="20260908040000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260908040000 +0600" stop="20260908080000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260908080000 +0600" stop="20260908120000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260908120000 +0600" stop="20260908160000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260908160000 +0600" stop="20260908200000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260908200000 +0600" stop="20260909000000 +0600" channel="YouTube">
     <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
   </programme>
 </tv>
