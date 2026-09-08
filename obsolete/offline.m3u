@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla",Akash Aath (5d)
 https://cdn-4.pishow.tv/live/969/master.m3u8
+#EXTINF:-1 group-title="Bangla",ATN Bangla UK (0d)
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",DD Bangla (5d)
 https://cdn-4.pishow.tv/live/37/master.m3u8
 #EXTINF:-1 group-title="Bangla",Enter10 Bangla HD (5d)
@@ -49,14 +51,14 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 https://cdn-1.pishow.tv/live/449/master.m3u8
 #EXTINF:-1 group-title="India",MU | Public Music (5d)
 https://cdn-3.pishow.tv/live/441/master.m3u8
+#EXTINF:-1 group-title="India",NEWS | News18 India (0d)
+https://amg01448-samsungin-news18india-samsungin-ad-gx.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungin-news18india-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="International",Nosey (5d)
 https://bc744a85.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9Ob3NleV9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="International News",Connecting America (0d)
-https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/ts-us-e2-n1/playlist/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
-#EXTINF:-1 group-title="International News",DW News (0d)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 group-title="International News",HLN (1d)
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="International News",Sky News Weather (0d)
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Kids",1. Hi Dost! (5d)
 https://cdn-1.pishow.tv/live/224/master.m3u8
 #EXTINF:-1 group-title="Kids",TV Sul de Minas (8d)
@@ -67,10 +69,10 @@ https://toonixhls.wns.live/hls/stream.m3u8
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 #EXTINF:-1 group-title="Religious",Channel Win (5d)
 https://cdn-4.pishow.tv/live/229/master.m3u8
-#EXTINF:-1 group-title="Religious",IBN TV Africa (0d)
-http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
 #EXTINF:-1 group-title="Sports",---Live(DD Sports)--- (5d)
 https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1 group-title="Sports",FB | Bleav Football (0d)
+https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports",FB | ORF Sport+ HD (5d)
 http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
 #EXTINF:-1 group-title="Sports",MIXER | All Women's Sports Network (1d)
