@@ -7,16 +7,12 @@ https://cdn-4.pishow.tv/live/37/master.m3u8
 https://cdn-4.pishow.tv/live/241/master.m3u8
 #EXTINF:-1 group-title="Bangla",Khushboo Bangla (7d)
 https://cdn-4.pishow.tv/live/1473/master.m3u8
-#EXTINF:-1 group-title="Bangla",Mohona TV (1d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",MU | SANGEET BANGLA (7d)
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 group-title="Bangla",Orange Bangla TV (7d)
 https://cdn-4.pishow.tv/live/1499/master.m3u8
 #EXTINF:-1 group-title="Bangla",R Plus Gold (7d)
 https://cdn-4.pishow.tv/live/1231/1231_1.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | Jago News 24 (0d)
-https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla News",IN | Calcutta News (3d)
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 group-title="Bangla News",IN | R Plus News (7d)
@@ -43,6 +39,8 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 group-title="India",MU | B4U Music India (7d)
 https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 group-title="India",MU | Joo Music (0d)
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 group-title="India",MU | MK Six (7d)
 https://cdn-3.pishow.tv/live/1253/master.m3u8
 #EXTINF:-1 group-title="India",MU | MUSIC INDIA HD (7d)
@@ -61,10 +59,10 @@ https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 https://cdn-1.pishow.tv/live/224/master.m3u8
 #EXTINF:-1 group-title="Religious",Channel Win (7d)
 https://cdn-4.pishow.tv/live/229/master.m3u8
+#EXTINF:-1 group-title="Sports",---FIFA(BEIN SPORTS 1 Turkey)--- (0d)
+https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1 group-title="Sports",---Live(DD Sports)--- (7d)
 https://cdn-6.pishow.tv/live/13/master.m3u8
-#EXTINF:-1 group-title="Sports",--Live(Euro Sport 2 HD)-- (0d)
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="Sports",FB | Bleav Football (2d)
 https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports",FB | ORF Sport+ HD (7d)
