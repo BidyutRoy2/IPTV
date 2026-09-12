@@ -977,24 +977,6 @@
     <display-name>YouTube</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"/>
   </channel>
-  <programme start="20260912000000 +0600" stop="20260912040000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
-  <programme start="20260912040000 +0600" stop="20260912080000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
-  <programme start="20260912080000 +0600" stop="20260912120000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
-  <programme start="20260912120000 +0600" stop="20260912160000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
-  <programme start="20260912160000 +0600" stop="20260912200000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
-  <programme start="20260912200000 +0600" stop="20260913000000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
   <programme start="20260913000000 +0600" stop="20260913040000 +0600" channel="YouTube">
     <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
   </programme>
@@ -1011,6 +993,24 @@
     <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
   </programme>
   <programme start="20260913200000 +0600" stop="20260914000000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260914000000 +0600" stop="20260914040000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260914040000 +0600" stop="20260914080000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260914080000 +0600" stop="20260914120000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260914120000 +0600" stop="20260914160000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260914160000 +0600" stop="20260914200000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260914200000 +0600" stop="20260915000000 +0600" channel="YouTube">
     <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
   </programme>
 </tv>
