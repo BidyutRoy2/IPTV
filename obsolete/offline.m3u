@@ -5,22 +5,16 @@ https://cdn-4.pishow.tv/live/969/master.m3u8
 https://cdn-4.pishow.tv/live/37/master.m3u8
 #EXTINF:-1 group-title="Bangla",Enter10 Bangla HD (9d)
 https://cdn-4.pishow.tv/live/241/master.m3u8
+#EXTINF:-1 group-title="Bangla",Green TV (0d)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Khushboo Bangla (9d)
 https://cdn-4.pishow.tv/live/1473/master.m3u8
-#EXTINF:-1 group-title="Bangla",MOV | ZB Cinema (0d)
-https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 group-title="Bangla",MU | SANGEET BANGLA (9d)
 https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 group-title="Bangla",MU | ZB Music (0d)
-https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",MU | ZB Music (0d)
-https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 group-title="Bangla",Orange Bangla TV (9d)
 https://cdn-4.pishow.tv/live/1499/master.m3u8
 #EXTINF:-1 group-title="Bangla",R Plus Gold (9d)
 https://cdn-4.pishow.tv/live/1231/1231_1.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | Channel 1 (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla News",IN | Calcutta News (5d)
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 group-title="Bangla News",IN | R Plus News (9d)
@@ -45,6 +39,8 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 group-title="India",MOV | Goldmines Movies 2 (9d)
 https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 group-title="India",MU | 9XM (0d)
+https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 group-title="India",MU | B4U Music India (9d)
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 group-title="India",MU | MK Six (9d)
@@ -55,33 +51,27 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 https://cdn-1.pishow.tv/live/449/master.m3u8
 #EXTINF:-1 group-title="India",MU | Public Music (9d)
 https://cdn-3.pishow.tv/live/441/master.m3u8
-#EXTINF:-1 group-title="International",EN | Blues TV (0d)
-https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 group-title="International",Nosey (9d)
 https://bc744a85.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9Ob3NleV9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="International News",HLN (5d)
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Kids",1. Afarin TV (3d)
-https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Kids",1. Cartoon Network USA (1d)
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 group-title="Kids",1. Hi Dost! (9d)
 https://cdn-1.pishow.tv/live/224/master.m3u8
 #EXTINF:-1 group-title="Kids",1. Nickelodeon (1d)
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="Kids",ZB Cartoon (0d)
-https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 group-title="Religious",Channel Win (9d)
 https://cdn-4.pishow.tv/live/229/master.m3u8
 #EXTINF:-1 group-title="Religious",Peace TV English (0d)
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 group-title="Sports",---Live(DD Sports)--- (9d)
 https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1 group-title="Sports",--Live(Euro Sport 1)-- (0d)
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 group-title="Sports",FB | Bleav Football (4d)
 https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports",FB | ORF Sport+ HD (9d)
 http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
+#EXTINF:-1 group-title="Sports",FIGHT | FIGHT NETWORK (0d)
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | All Women's Sports Network (5d)
 http://103.159.180.34:5001/live/3146.m3u8
-#EXTINF:-1 group-title="Sports",MIXER | HOOP TV (0d)
-https://amg00585-amg00585c9-sportstribal-emea-5518.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-hooptv-sportstribalemea/playlist.m3u8
