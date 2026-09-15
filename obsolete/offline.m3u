@@ -1,35 +1,41 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla",ATN Bangla UK (0d)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Ayna TV (0d)
+#EXTINF:-1 group-title="Bangla",Ayna TV (1d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",Channel S (1d)
+#EXTINF:-1 group-title="Bangla",Channel S (2d)
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Green TV (0d)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (1d)
-http://str24.l9574.com/510.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (1d)
+#EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 group-title="Bangla",GAZI TV HD (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla",Mohona TV (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla",RTV (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (2d)
 https://live20.bozztv.com/akamaissh101/ssh101/usbdjournal/chunks.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | Calcutta News (7d)
+#EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (2d)
+http://str24.l9574.com/510.stream/index.m3u8
+#EXTINF:-1 group-title="Bangla News",BD | Channel 1 (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla News",IN | Calcutta News (8d)
 https://akdnetwork.co.in/live/cnnew/index.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | Republic Bangla (5d)
+#EXTINF:-1 group-title="Bangla News",IN | Republic Bangla (6d)
 https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | Tribe TV (0d)
-https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-#EXTINF:-1 group-title="International News",HLN (7d)
+#EXTINF:-1 group-title="India",NEWWS | 22Scope News (0d)
+https://ott.livelegitpro.in/hls4/22scope/index.m3u8
+#EXTINF:-1 group-title="International News",CNN International (0d)
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="International News",HLN (8d)
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Kids",1. Biznet Kids (0d)
+#EXTINF:-1 group-title="Kids",1. Biznet Kids (1d)
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
-#EXTINF:-1 group-title="Kids",1. Nickelodeon (3d)
+#EXTINF:-1 group-title="Kids",1. Nickelodeon (4d)
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="Movies",EN | Bang Bang TV (0d)
-https://streams.sofast.tv/ptnr-yupptv/title-BANG-BANG-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
-#EXTINF:-1 group-title="Sports",---FIFA(BEIN SPORTS 1 Turkey)--- (1d)
+#EXTINF:-1 group-title="Pakistan",ENT | aur LIFE HD (0d)
+http://124.109.47.101/hls/stream1.m3u8
+#EXTINF:-1 group-title="Sports",---FIFA(BEIN SPORTS 1 Turkey)--- (2d)
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 group-title="Sports",CR | Star Sports 1 Hindi (0d)
-http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 group-title="Sports",FB | Bleav Football (6d)
+#EXTINF:-1 group-title="Sports",FB | Bleav Football (7d)
 https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Sports",MIXER | All Women's Sports Network (7d)
+#EXTINF:-1 group-title="Sports",MIXER | All Women's Sports Network (8d)
 http://103.159.180.34:5001/live/3146.m3u8
