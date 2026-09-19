@@ -1,35 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla",Bangla+ HD (0d)
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1 group-title="Bangla",Channel S (5d)
+#EXTINF:-1 group-title="Bangla",Channel S (6d)
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Green TV (2d)
+#EXTINF:-1 group-title="Bangla",Green TV (3d)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Mohona TV (3d)
+#EXTINF:-1 group-title="Bangla",Mohona TV (4d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | Republic Bangla (9d)
-https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | Tribe TV (0d)
-https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-#EXTINF:-1 group-title="India",MU | Tunes 6 (3d)
+#EXTINF:-1 group-title="India",MU | Tunes 6 (4d)
 https://stream.d6-pro.com/tunes6music/live/video.m3u8
-#EXTINF:-1 group-title="India",NEWWS | 22Scope News (3d)
+#EXTINF:-1 group-title="India",NEWWS | 22Scope News (4d)
 https://ott.livelegitpro.in/hls4/22scope/index.m3u8
-#EXTINF:-1 group-title="International",Cook & Bake (2d)
+#EXTINF:-1 group-title="International",Cook & Bake (3d)
 https://cc-swbj49v56imaw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swbj49v56imaw/OTM/OTM_Cooking-SCTE_SAMSUNG/playlist.m3u8
-#EXTINF:-1 group-title="International News",DW News (0d)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 group-title="Kids",0. Hooray Rhymes (2d)
+#EXTINF:-1 group-title="Kids",0. Hooray Rhymes (3d)
 https://cc-hqignh3tex8xc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hqignh3tex8xc/OTM/OTM_KidsToonsHindi-SCTE_SAMSUNG/playlist.m3u8
-#EXTINF:-1 group-title="Kids",1. Biznet Kids (4d)
+#EXTINF:-1 group-title="Kids",1. Biznet Kids (5d)
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
-#EXTINF:-1 group-title="Kids",1. Hooray Kids (2d)
+#EXTINF:-1 group-title="Kids",1. Hooray Kids (3d)
 https://cc-hcf2o1ghsvvdu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hcf2o1ghsvvdu/OTM/OTM_HoorayKids-SCTE_SAMSUNG/playlist.m3u8
-#EXTINF:-1 group-title="Kids",1. Nickelodeon (7d)
+#EXTINF:-1 group-title="Kids",1. Nickelodeon (8d)
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="Music",OTHER | PMC Royale (0d)
+#EXTINF:-1 group-title="Music",EN | Play TV (0d)
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+#EXTINF:-1 group-title="Music",OTHER | PMC Royale (1d)
 https://pmcrohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Sports",---FIFA(BEIN SPORTS 1 Turkey)--- (5d)
+#EXTINF:-1 group-title="Music",TR | Top TV (0d)
+http://74.208.199.212:8081/TopTV/live/chunks.m3u8
+#EXTINF:-1 group-title="Pakistan",NEWS | Dunya News (0d)
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
+#EXTINF:-1 group-title="Sports",---FIFA(BEIN SPORTS 1 Turkey)--- (6d)
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 group-title="Sports",MIXER | HOOP TV (0d)
-https://amg00585-amg00585c9-sportstribal-emea-5518.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-hooptv-sportstribalemea/playlist.m3u8
