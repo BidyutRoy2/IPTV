@@ -146,26 +146,17 @@
     <display-name>ENT | Sony Entertainment HD</display-name>
     <icon src="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png"/>
   </channel>
-  <programme start="20260920153000 +0600" stop="20260920163000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">ATN Live Gurubani</title>
+  <programme start="20260920150000 +0600" stop="20260920163000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">India&amp;#x27;s Best Dancer</title>
   </programme>
-  <programme start="20260920163000 +0600" stop="20260920170000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Mere Sai - Shraddha Aur Saburi</title>
+  <programme start="20260920163000 +0600" stop="20260920173000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Family Full House With Rohit Sharma</title>
   </programme>
-  <programme start="20260920170000 +0600" stop="20260920173000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Vighnaharta Ganesh</title>
-  </programme>
-  <programme start="20260920173000 +0600" stop="20260920180000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Vighnaharta Ganesh</title>
-  </programme>
-  <programme start="20260920180000 +0600" stop="20260920183000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Awakening Of Brahmakumari&amp;#x27;s</title>
-  </programme>
-  <programme start="20260920183000 +0600" stop="20260920190000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260920173000 +0600" stop="20260920190000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">The Kapil Sharma Show</title>
   </programme>
   <programme start="20260920190000 +0600" stop="20260920193000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">One on One With Prem Jyotish</title>
+    <title lang="bn">Pushpa Impossible</title>
   </programme>
   <programme start="20260920193000 +0600" stop="20260920200000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Asian Magazine</title>
@@ -173,120 +164,129 @@
   <programme start="20260920200000 +0600" stop="20260920203000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Asian Magazine</title>
   </programme>
-  <programme start="20260920203000 +0600" stop="20260920210000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">The Kapil Sharma Show</title>
-  </programme>
-  <programme start="20260920210000 +0600" stop="20260920220000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Family Full House With Rohit Sharma</title>
-  </programme>
-  <programme start="20260920220000 +0600" stop="20260920233000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">India&amp;#x27;s Best Dancer</title>
-  </programme>
-  <programme start="20260920233000 +0600" stop="20260921010000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Kaun Banega Crorepati</title>
-  </programme>
-  <programme start="20260921010000 +0600" stop="20260921023000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Kaun Banega Crorepati</title>
-  </programme>
-  <programme start="20260921023000 +0600" stop="20260921040000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">India&amp;#x27;s Best Dancer</title>
-  </programme>
-  <programme start="20260921040000 +0600" stop="20260921043000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">ATN&amp;#x27;s Tribute to 100 Years of Indian Cinema</title>
-  </programme>
-  <programme start="20260921043000 +0600" stop="20260921050000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">ATN&amp;#x27;s Tribute to 100 Years of Indian Cinema</title>
-  </programme>
-  <programme start="20260921050000 +0600" stop="20260921060000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Family Full House With Rohit Sharma</title>
-  </programme>
-  <programme start="20260921060000 +0600" stop="20260921073000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">India&amp;#x27;s Best Dancer</title>
-  </programme>
-  <programme start="20260921073000 +0600" stop="20260921083000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Family Full House With Rohit Sharma</title>
-  </programme>
-  <programme start="20260921083000 +0600" stop="20260921090000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Taarak Mehta Ka Ooltah Chashmah</title>
-  </programme>
-  <programme start="20260921090000 +0600" stop="20260921103000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">India&amp;#x27;s Best Dancer</title>
-  </programme>
-  <programme start="20260921103000 +0600" stop="20260921114100 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Family Full House With Rohit Sharma</title>
-  </programme>
-  <programme start="20260921114100 +0600" stop="20260921130000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">The Kapil Sharma Show</title>
-  </programme>
-  <programme start="20260921130000 +0600" stop="20260921133000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Pushpa Impossible</title>
-  </programme>
-  <programme start="20260921133000 +0600" stop="20260921140000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Asian Magazine</title>
-  </programme>
-  <programme start="20260921140000 +0600" stop="20260921143000 +0600" channel="SonyEntertainmentHD">
-    <title lang="bn">Asian Magazine</title>
-  </programme>
-  <programme start="20260921143000 +0600" stop="20260921153000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260920203000 +0600" stop="20260920213000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Crime Patrol</title>
   </programme>
-  <programme start="20260921153000 +0600" stop="20260921163000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20260920213000 +0600" stop="20260920223000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">ATN Live Gurubani</title>
+  </programme>
+  <programme start="20260920223000 +0600" stop="20260920230000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Mere Sai - Shraddha Aur Saburi</title>
+  </programme>
+  <programme start="20260920230000 +0600" stop="20260920233000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Vighnaharta Ganesh</title>
+  </programme>
+  <programme start="20260920233000 +0600" stop="20260921000000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Vighnaharta Ganesh</title>
+  </programme>
+  <programme start="20260921000000 +0600" stop="20260921003000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Awakening Of Brahmakumari&amp;#x27;s</title>
+  </programme>
+  <programme start="20260921003000 +0600" stop="20260921010000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">The Kapil Sharma Show</title>
+  </programme>
+  <programme start="20260921010000 +0600" stop="20260921013000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">One on One With Prem Jyotish</title>
+  </programme>
+  <programme start="20260921013000 +0600" stop="20260921020000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Asian Magazine</title>
+  </programme>
+  <programme start="20260921020000 +0600" stop="20260921023000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Asian Magazine</title>
+  </programme>
+  <programme start="20260921023000 +0600" stop="20260921030000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">The Kapil Sharma Show</title>
+  </programme>
+  <programme start="20260921030000 +0600" stop="20260921040000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Family Full House With Rohit Sharma</title>
+  </programme>
+  <programme start="20260921040000 +0600" stop="20260921053000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">India&amp;#x27;s Best Dancer</title>
+  </programme>
+  <programme start="20260921053000 +0600" stop="20260921070000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Kaun Banega Crorepati</title>
+  </programme>
+  <programme start="20260921070000 +0600" stop="20260921083000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Kaun Banega Crorepati</title>
+  </programme>
+  <programme start="20260921083000 +0600" stop="20260921100000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">India&amp;#x27;s Best Dancer</title>
+  </programme>
+  <programme start="20260921100000 +0600" stop="20260921103000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">ATN&amp;#x27;s Tribute to 100 Years of Indian Cinema</title>
+  </programme>
+  <programme start="20260921103000 +0600" stop="20260921110000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">ATN&amp;#x27;s Tribute to 100 Years of Indian Cinema</title>
+  </programme>
+  <programme start="20260921110000 +0600" stop="20260921120000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Family Full House With Rohit Sharma</title>
+  </programme>
+  <programme start="20260921120000 +0600" stop="20260921133000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">India&amp;#x27;s Best Dancer</title>
+  </programme>
+  <programme start="20260921133000 +0600" stop="20260921143000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Family Full House With Rohit Sharma</title>
+  </programme>
+  <programme start="20260921143000 +0600" stop="20260921150000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Taarak Mehta Ka Ooltah Chashmah</title>
+  </programme>
+  <programme start="20260921150000 +0600" stop="20260921163000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">India&amp;#x27;s Best Dancer</title>
   </programme>
   <channel id="FoxNews.us">
     <display-name>Fox News</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg"/>
   </channel>
-  <programme start="20260920160000 +0600" stop="20260920200000 +0600" channel="FoxNews.us">
-    <title lang="bn">Fox &amp;amp; Friends Weekend</title>
+  <programme start="20260920160000 +0600" stop="20260920170000 +0600" channel="FoxNews.us">
+    <title lang="bn">Life, Liberty &amp;amp; Levin</title>
+  </programme>
+  <programme start="20260920170000 +0600" stop="20260920180000 +0600" channel="FoxNews.us">
+    <title lang="bn">My View With Lara Trump</title>
+  </programme>
+  <programme start="20260920180000 +0600" stop="20260920190000 +0600" channel="FoxNews.us">
+    <title lang="bn">FOX News Saturday Night With Jimmy Failla</title>
+  </programme>
+  <programme start="20260920190000 +0600" stop="20260920200000 +0600" channel="FoxNews.us">
+    <title lang="bn">Life, Liberty &amp;amp; Levin</title>
   </programme>
   <programme start="20260920200000 +0600" stop="20260920210000 +0600" channel="FoxNews.us">
-    <title lang="bn">Sunday Morning Futures</title>
+    <title lang="bn">My View With Lara Trump</title>
   </programme>
   <programme start="20260920210000 +0600" stop="20260920220000 +0600" channel="FoxNews.us">
+    <title lang="bn">FOX News Saturday Night With Jimmy Failla</title>
+  </programme>
+  <programme start="20260920220000 +0600" stop="20260921020000 +0600" channel="FoxNews.us">
+    <title lang="bn">Fox &amp;amp; Friends Weekend</title>
+  </programme>
+  <programme start="20260921020000 +0600" stop="20260921030000 +0600" channel="FoxNews.us">
+    <title lang="bn">Sunday Morning Futures</title>
+  </programme>
+  <programme start="20260921030000 +0600" stop="20260921040000 +0600" channel="FoxNews.us">
     <title lang="bn">The Sunday Briefing</title>
   </programme>
-  <programme start="20260920220000 +0600" stop="20260921000000 +0600" channel="FoxNews.us">
+  <programme start="20260921040000 +0600" stop="20260921060000 +0600" channel="FoxNews.us">
     <title lang="bn">Fox News Live</title>
   </programme>
-  <programme start="20260921000000 +0600" stop="20260921010000 +0600" channel="FoxNews.us">
+  <programme start="20260921060000 +0600" stop="20260921070000 +0600" channel="FoxNews.us">
     <title lang="bn">FOX News Sunday</title>
   </programme>
-  <programme start="20260921010000 +0600" stop="20260921030000 +0600" channel="FoxNews.us">
+  <programme start="20260921070000 +0600" stop="20260921090000 +0600" channel="FoxNews.us">
     <title lang="bn">Fox Report With Jon Scott</title>
   </programme>
-  <programme start="20260921030000 +0600" stop="20260921060000 +0600" channel="FoxNews.us">
+  <programme start="20260921090000 +0600" stop="20260921120000 +0600" channel="FoxNews.us">
     <title lang="bn">The Big Weekend Show</title>
   </programme>
-  <programme start="20260921060000 +0600" stop="20260921070000 +0600" channel="FoxNews.us">
-    <title lang="bn">Life, Liberty &amp;amp; Levin</title>
-  </programme>
-  <programme start="20260921070000 +0600" stop="20260921080000 +0600" channel="FoxNews.us">
-    <title lang="bn">Sunday Night in America With Trey Gowdy</title>
-  </programme>
-  <programme start="20260921080000 +0600" stop="20260921090000 +0600" channel="FoxNews.us">
-    <title lang="bn">One Nation With Brian Kilmeade</title>
-  </programme>
-  <programme start="20260921090000 +0600" stop="20260921100000 +0600" channel="FoxNews.us">
-    <title lang="bn">Life, Liberty &amp;amp; Levin</title>
-  </programme>
-  <programme start="20260921100000 +0600" stop="20260921110000 +0600" channel="FoxNews.us">
-    <title lang="bn">Sunday Night in America With Trey Gowdy</title>
-  </programme>
-  <programme start="20260921110000 +0600" stop="20260921120000 +0600" channel="FoxNews.us">
-    <title lang="bn">One Nation With Brian Kilmeade</title>
-  </programme>
   <programme start="20260921120000 +0600" stop="20260921130000 +0600" channel="FoxNews.us">
-    <title lang="bn">FOX News Sunday</title>
+    <title lang="bn">Life, Liberty &amp;amp; Levin</title>
   </programme>
   <programme start="20260921130000 +0600" stop="20260921140000 +0600" channel="FoxNews.us">
-    <title lang="bn">Life, Liberty &amp;amp; Levin</title>
-  </programme>
-  <programme start="20260921140000 +0600" stop="20260921150000 +0600" channel="FoxNews.us">
     <title lang="bn">Sunday Night in America With Trey Gowdy</title>
   </programme>
+  <programme start="20260921140000 +0600" stop="20260921150000 +0600" channel="FoxNews.us">
+    <title lang="bn">One Nation With Brian Kilmeade</title>
+  </programme>
   <programme start="20260921150000 +0600" stop="20260921160000 +0600" channel="FoxNews.us">
-    <title lang="bn">FOX &amp;amp; Friends First</title>
+    <title lang="bn">Life, Liberty &amp;amp; Levin</title>
   </programme>
   <channel id="EuronewsEnglish.fr">
     <display-name>Euronews English</display-name>
@@ -316,10 +316,10 @@
   <programme start="20260920172900 +0600" stop="20260920173400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260920173400 +0600" stop="20260920174700 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260920173400 +0600" stop="20260920174800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260920174700 +0600" stop="20260920180000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260920174800 +0600" stop="20260920180000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20260920180000 +0600" stop="20260920180500 +0600" channel="EuronewsEnglish.fr">
@@ -373,8 +373,11 @@
   <programme start="20260920212900 +0600" stop="20260920213400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260920213400 +0600" stop="20260920220000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260920213400 +0600" stop="20260920215100 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The Ring</title>
+  </programme>
+  <programme start="20260920215100 +0600" stop="20260920220000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Silk Road Adventure</title>
   </programme>
   <programme start="20260920220000 +0600" stop="20260920220500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
@@ -400,8 +403,11 @@
   <programme start="20260920232900 +0600" stop="20260920233400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260920233400 +0600" stop="20260921000000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260920233400 +0600" stop="20260920234700 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The Ring</title>
+  </programme>
+  <programme start="20260920234700 +0600" stop="20260921000000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <programme start="20260921000000 +0600" stop="20260921000500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
@@ -427,11 +433,8 @@
   <programme start="20260921012900 +0600" stop="20260921013400 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260921013400 +0600" stop="20260921014800 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260921013400 +0600" stop="20260921020000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260921014800 +0600" stop="20260921020000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">News</title>
   </programme>
   <programme start="20260921020000 +0600" stop="20260921020500 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">5 Minutes</title>
@@ -461,218 +464,245 @@
     <title lang="bn">The Ring</title>
   </programme>
   <programme start="20260921040000 +0600" stop="20260921040500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
+    <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260921040500 +0600" stop="20260921042900 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260921042900 +0600" stop="20260921043400 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
-  </programme>
-  <programme start="20260921043400 +0600" stop="20260921050000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260921050000 +0600" stop="20260921050500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
-  </programme>
-  <programme start="20260921050500 +0600" stop="20260921053000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260921040500 +0600" stop="20260921043000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">12 Minutes With</title>
   </programme>
-  <programme start="20260921053000 +0600" stop="20260921053800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
+  <programme start="20260921043000 +0600" stop="20260921043800 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260921053800 +0600" stop="20260921054800 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260921043800 +0600" stop="20260921044800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Made In Europe</title>
   </programme>
-  <programme start="20260921054800 +0600" stop="20260921060000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260921044800 +0600" stop="20260921050000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
+  <programme start="20260921050000 +0600" stop="20260921050500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260921050500 +0600" stop="20260921052900 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
+  </programme>
+  <programme start="20260921052900 +0600" stop="20260921053400 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260921053400 +0600" stop="20260921060000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
+  </programme>
   <programme start="20260921060000 +0600" stop="20260921060500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
+    <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260921060500 +0600" stop="20260921062900 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260921062900 +0600" stop="20260921063400 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
-  </programme>
-  <programme start="20260921063400 +0600" stop="20260921070000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260921070000 +0600" stop="20260921070500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
-  </programme>
-  <programme start="20260921070500 +0600" stop="20260921073000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260921060500 +0600" stop="20260921063000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">12 Minutes With</title>
   </programme>
-  <programme start="20260921073000 +0600" stop="20260921073800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
+  <programme start="20260921063000 +0600" stop="20260921063800 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260921073800 +0600" stop="20260921074800 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260921063800 +0600" stop="20260921064800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Made In Europe</title>
+  </programme>
+  <programme start="20260921064800 +0600" stop="20260921070000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20260921070000 +0600" stop="20260921070500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260921070500 +0600" stop="20260921072900 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
+  </programme>
+  <programme start="20260921072900 +0600" stop="20260921073400 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
+  </programme>
+  <programme start="20260921073400 +0600" stop="20260921074800 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
   </programme>
   <programme start="20260921074800 +0600" stop="20260921080000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
   <programme start="20260921080000 +0600" stop="20260921080500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
+    <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260921080500 +0600" stop="20260921082900 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260921082900 +0600" stop="20260921083400 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
-  </programme>
-  <programme start="20260921083400 +0600" stop="20260921090000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The Ring</title>
-  </programme>
-  <programme start="20260921090000 +0600" stop="20260921090500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
-  </programme>
-  <programme start="20260921090500 +0600" stop="20260921093000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260921080500 +0600" stop="20260921083000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">12 Minutes With</title>
   </programme>
-  <programme start="20260921093000 +0600" stop="20260921093800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">The European debrief</title>
+  <programme start="20260921083000 +0600" stop="20260921083800 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260921093800 +0600" stop="20260921094800 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260921083800 +0600" stop="20260921084800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Made In Europe</title>
   </programme>
-  <programme start="20260921094800 +0600" stop="20260921100000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260921084800 +0600" stop="20260921090000 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20260921100000 +0600" stop="20260921101400 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Wake up Europe</title>
+  <programme start="20260921090000 +0600" stop="20260921090500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260921101400 +0600" stop="20260921103000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Wake up Europe</title>
+  <programme start="20260921090500 +0600" stop="20260921092900 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260921103000 +0600" stop="20260921104600 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Wake up Europe</title>
+  <programme start="20260921092900 +0600" stop="20260921093400 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">5 Minutes</title>
   </programme>
-  <programme start="20260921104600 +0600" stop="20260921110000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Wake up Europe</title>
+  <programme start="20260921093400 +0600" stop="20260921100000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260921110000 +0600" stop="20260921111500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Wake up Europe</title>
+  <programme start="20260921100000 +0600" stop="20260921100500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260921111500 +0600" stop="20260921113000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Wake up Europe</title>
+  <programme start="20260921100500 +0600" stop="20260921102900 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260921113000 +0600" stop="20260921114500 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Wake up Europe</title>
+  <programme start="20260921102900 +0600" stop="20260921103400 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260921114500 +0600" stop="20260921115100 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Wake up Europe</title>
+  <programme start="20260921103400 +0600" stop="20260921110000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260921115100 +0600" stop="20260921120000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Silk Road Adventure</title>
+  <programme start="20260921110000 +0600" stop="20260921110500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260921120000 +0600" stop="20260921123000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Europe Today</title>
+  <programme start="20260921110500 +0600" stop="20260921113000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">12 Minutes With</title>
   </programme>
-  <programme start="20260921123000 +0600" stop="20260921124800 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Wake up Europe</title>
+  <programme start="20260921113000 +0600" stop="20260921113800 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260921124800 +0600" stop="20260921130000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260921113800 +0600" stop="20260921114800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Made In Europe</title>
   </programme>
-  <programme start="20260921130000 +0600" stop="20260921133000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Europe Today</title>
+  <programme start="20260921114800 +0600" stop="20260921120000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
-  <programme start="20260921133000 +0600" stop="20260921140000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Wake up Europe</title>
+  <programme start="20260921120000 +0600" stop="20260921120500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260921140000 +0600" stop="20260921143000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Europe Today</title>
+  <programme start="20260921120500 +0600" stop="20260921122900 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260921143000 +0600" stop="20260921150000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Euronews Now</title>
+  <programme start="20260921122900 +0600" stop="20260921123400 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
   </programme>
-  <programme start="20260921150000 +0600" stop="20260921151600 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Euronews Now</title>
+  <programme start="20260921123400 +0600" stop="20260921130000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
   </programme>
-  <programme start="20260921151600 +0600" stop="20260921153000 +0600" channel="EuronewsEnglish.fr">
+  <programme start="20260921130000 +0600" stop="20260921130500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20260921130500 +0600" stop="20260921133000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">12 Minutes With</title>
+  </programme>
+  <programme start="20260921133000 +0600" stop="20260921133800 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20260921133800 +0600" stop="20260921134800 +0600" channel="EuronewsEnglish.fr">
     <title lang="bn">Made In Europe</title>
   </programme>
-  <programme start="20260921153000 +0600" stop="20260921160000 +0600" channel="EuronewsEnglish.fr">
-    <title lang="bn">Euronews Now</title>
+  <programme start="20260921134800 +0600" stop="20260921140000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20260921140000 +0600" stop="20260921140500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20260921140500 +0600" stop="20260921142900 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
+  </programme>
+  <programme start="20260921142900 +0600" stop="20260921143400 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20260921143400 +0600" stop="20260921150000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The Ring</title>
+  </programme>
+  <programme start="20260921150000 +0600" stop="20260921150500 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20260921150500 +0600" stop="20260921153000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">12 Minutes With</title>
+  </programme>
+  <programme start="20260921153000 +0600" stop="20260921153800 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">The European debrief</title>
+  </programme>
+  <programme start="20260921153800 +0600" stop="20260921154800 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">Made In Europe</title>
+  </programme>
+  <programme start="20260921154800 +0600" stop="20260921160000 +0600" channel="EuronewsEnglish.fr">
+    <title lang="bn">News</title>
   </programme>
   <channel id="CNN.us">
     <display-name>CNN</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg"/>
   </channel>
   <programme start="20260920160000 +0600" stop="20260920170000 +0600" channel="CNN.us">
-    <title lang="bn">CNN This Morning Weekend</title>
-  </programme>
-  <programme start="20260920170000 +0600" stop="20260920180000 +0600" channel="CNN.us">
-    <title lang="bn">CNN This Morning Weekend</title>
-  </programme>
-  <programme start="20260920180000 +0600" stop="20260920190000 +0600" channel="CNN.us">
-    <title lang="bn">Inside Politics With Manu Raju</title>
-  </programme>
-  <programme start="20260920190000 +0600" stop="20260920200000 +0600" channel="CNN.us">
-    <title lang="bn">State of the Union With Jake Tapper and Dana Bash</title>
-  </programme>
-  <programme start="20260920200000 +0600" stop="20260920210000 +0600" channel="CNN.us">
-    <title lang="bn">Fareed Zakaria GPS</title>
-  </programme>
-  <programme start="20260920210000 +0600" stop="20260920220000 +0600" channel="CNN.us">
-    <title lang="bn">Inside Politics With Manu Raju</title>
-  </programme>
-  <programme start="20260920220000 +0600" stop="20260920230000 +0600" channel="CNN.us">
-    <title lang="bn">State of the Union With Jake Tapper and Dana Bash</title>
-  </programme>
-  <programme start="20260920230000 +0600" stop="20260921000000 +0600" channel="CNN.us">
-    <title lang="bn">Fareed Zakaria GPS</title>
-  </programme>
-  <programme start="20260921000000 +0600" stop="20260921010000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Newsroom With Fredricka Whitfield</title>
-  </programme>
-  <programme start="20260921010000 +0600" stop="20260921020000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Newsroom With Fredricka Whitfield</title>
-  </programme>
-  <programme start="20260921020000 +0600" stop="20260921030000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Newsroom With Fredricka Whitfield</title>
-  </programme>
-  <programme start="20260921030000 +0600" stop="20260921040000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Newsroom</title>
-  </programme>
-  <programme start="20260921040000 +0600" stop="20260921050000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Newsroom</title>
-  </programme>
-  <programme start="20260921050000 +0600" stop="20260921060000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Newsroom</title>
-  </programme>
-  <programme start="20260921060000 +0600" stop="20260921070000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Newsroom</title>
-  </programme>
-  <programme start="20260921070000 +0600" stop="20260921080000 +0600" channel="CNN.us">
-    <title lang="bn">The Detour With David Chang</title>
-  </programme>
-  <programme start="20260921080000 +0600" stop="20260921090000 +0600" channel="CNN.us">
-    <title lang="bn">The Detour With David Chang</title>
-  </programme>
-  <programme start="20260921090000 +0600" stop="20260921100000 +0600" channel="CNN.us">
     <title lang="bn">Have I Got News For You</title>
   </programme>
+  <programme start="20260920170000 +0600" stop="20260920180000 +0600" channel="CNN.us">
+    <title lang="bn">Anthony Bourdain: Parts Unknown</title>
+  </programme>
+  <programme start="20260920180000 +0600" stop="20260920190000 +0600" channel="CNN.us">
+    <title lang="bn">Anthony Bourdain: Parts Unknown</title>
+  </programme>
+  <programme start="20260920190000 +0600" stop="20260920200000 +0600" channel="CNN.us">
+    <title lang="bn">Anthony Bourdain: Parts Unknown</title>
+  </programme>
+  <programme start="20260920200000 +0600" stop="20260920210000 +0600" channel="CNN.us">
+    <title lang="bn">CNN Newsroom Live</title>
+  </programme>
+  <programme start="20260920210000 +0600" stop="20260920220000 +0600" channel="CNN.us">
+    <title lang="bn">CNN Newsroom Live</title>
+  </programme>
+  <programme start="20260920220000 +0600" stop="20260920230000 +0600" channel="CNN.us">
+    <title lang="bn">CNN This Morning Weekend</title>
+  </programme>
+  <programme start="20260920230000 +0600" stop="20260921000000 +0600" channel="CNN.us">
+    <title lang="bn">CNN This Morning Weekend</title>
+  </programme>
+  <programme start="20260921000000 +0600" stop="20260921010000 +0600" channel="CNN.us">
+    <title lang="bn">Inside Politics With Manu Raju</title>
+  </programme>
+  <programme start="20260921010000 +0600" stop="20260921020000 +0600" channel="CNN.us">
+    <title lang="bn">State of the Union With Jake Tapper and Dana Bash</title>
+  </programme>
+  <programme start="20260921020000 +0600" stop="20260921030000 +0600" channel="CNN.us">
+    <title lang="bn">Fareed Zakaria GPS</title>
+  </programme>
+  <programme start="20260921030000 +0600" stop="20260921040000 +0600" channel="CNN.us">
+    <title lang="bn">Inside Politics With Manu Raju</title>
+  </programme>
+  <programme start="20260921040000 +0600" stop="20260921050000 +0600" channel="CNN.us">
+    <title lang="bn">State of the Union With Jake Tapper and Dana Bash</title>
+  </programme>
+  <programme start="20260921050000 +0600" stop="20260921060000 +0600" channel="CNN.us">
+    <title lang="bn">Fareed Zakaria GPS</title>
+  </programme>
+  <programme start="20260921060000 +0600" stop="20260921070000 +0600" channel="CNN.us">
+    <title lang="bn">CNN Newsroom With Fredricka Whitfield</title>
+  </programme>
+  <programme start="20260921070000 +0600" stop="20260921080000 +0600" channel="CNN.us">
+    <title lang="bn">CNN Newsroom With Fredricka Whitfield</title>
+  </programme>
+  <programme start="20260921080000 +0600" stop="20260921090000 +0600" channel="CNN.us">
+    <title lang="bn">CNN Newsroom With Fredricka Whitfield</title>
+  </programme>
+  <programme start="20260921090000 +0600" stop="20260921100000 +0600" channel="CNN.us">
+    <title lang="bn">CNN Newsroom</title>
+  </programme>
   <programme start="20260921100000 +0600" stop="20260921110000 +0600" channel="CNN.us">
-    <title lang="bn">The Detour With David Chang</title>
+    <title lang="bn">CNN Newsroom</title>
   </programme>
   <programme start="20260921110000 +0600" stop="20260921120000 +0600" channel="CNN.us">
-    <title lang="bn">The Detour With David Chang</title>
+    <title lang="bn">CNN Newsroom</title>
   </programme>
   <programme start="20260921120000 +0600" stop="20260921130000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Newsroom Live</title>
+    <title lang="bn">CNN Newsroom</title>
   </programme>
   <programme start="20260921130000 +0600" stop="20260921140000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Newsroom Live</title>
+    <title lang="bn">The Detour With David Chang</title>
   </programme>
   <programme start="20260921140000 +0600" stop="20260921150000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Newsroom Live</title>
+    <title lang="bn">The Detour With David Chang</title>
   </programme>
   <programme start="20260921150000 +0600" stop="20260921160000 +0600" channel="CNN.us">
-    <title lang="bn">CNN Headline Express</title>
+    <title lang="bn">Have I Got News For You</title>
   </programme>
   <channel id="TV9Bharatvarsh">
     <display-name>NEWS | TV9 Bharatvarsh</display-name>
@@ -926,325 +956,10 @@
     <display-name>Al Jazeera English</display-name>
     <icon src="https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png"/>
   </channel>
-  <programme start="20260920002500 +0600" stop="20260920015500 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Вечность между нами</title>
-  </programme>
-  <programme start="20260920015500 +0600" stop="20260920032500 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Посвященный</title>
-  </programme>
-  <programme start="20260920032500 +0600" stop="20260920044500 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Мой волк</title>
-  </programme>
-  <programme start="20260920044500 +0600" stop="20260920063000 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Вышка</title>
-  </programme>
-  <programme start="20260920063000 +0600" stop="20260920075000 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Суперхозяйка</title>
-  </programme>
-  <programme start="20260920075000 +0600" stop="20260920093500 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Астрал</title>
-  </programme>
-  <programme start="20260920093500 +0600" stop="20260920110000 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Опасное расследование</title>
-  </programme>
-  <programme start="20260920110000 +0600" stop="20260920123000 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Тревожный вызов</title>
-  </programme>
-  <programme start="20260920123000 +0600" stop="20260920141500 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Отчаянные аферистки</title>
-  </programme>
-  <programme start="20260920141500 +0600" stop="20260920160000 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Вальдо</title>
-  </programme>
-  <programme start="20260920160000 +0600" stop="20260920174000 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Банк Дэйва</title>
-  </programme>
-  <programme start="20260920174000 +0600" stop="20260920193000 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Одержимость</title>
-  </programme>
-  <programme start="20260920193000 +0600" stop="20260920205500 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Кодер</title>
-  </programme>
-  <programme start="20260920205500 +0600" stop="20260920223000 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Мармелад</title>
-  </programme>
-  <programme start="20260920223000 +0600" stop="20260920235000 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Игра с огнем</title>
-  </programme>
-  <programme start="20260920235000 +0600" stop="20260921013500 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Логово Монстра</title>
-  </programme>
-  <programme start="20260921013500 +0600" stop="20260921033000 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Маргарита – королева Севера</title>
-  </programme>
-  <programme start="20260921033000 +0600" stop="20260921034500 +0600" channel="aljazeera.com">
-    <title lang="bn">Новости Голливуда (737 с.)</title>
-  </programme>
-  <programme start="20260921034500 +0600" stop="20260921063500 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф Горизонты: ч. 1</title>
-  </programme>
-  <programme start="20260921063500 +0600" stop="20260921070500 +0600" channel="aljazeera.com">
-    <title lang="bn">х/ф 13 минут</title>
-  </programme>
   <channel id="WION.in">
     <display-name>WION</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/1d/WION_World_Is_One_News.svg"/>
   </channel>
-  <programme start="20260920000000 +0600" stop="20260920003000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260920003000 +0600" stop="20260920010000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260920010000 +0600" stop="20260920013000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260920013000 +0600" stop="20260920020000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260920020000 +0600" stop="20260920023000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260920023000 +0600" stop="20260920030000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260920030000 +0600" stop="20260920033000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260920033000 +0600" stop="20260920040000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260920040000 +0600" stop="20260920043000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260920043000 +0600" stop="20260920050000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260920050000 +0600" stop="20260920053000 +0600" channel="WION.in">
-    <title lang="bn">Teleshopping</title>
-  </programme>
-  <programme start="20260920053000 +0600" stop="20260920060000 +0600" channel="WION.in">
-    <title lang="bn">Teleshopping</title>
-  </programme>
-  <programme start="20260920060000 +0600" stop="20260920063000 +0600" channel="WION.in">
-    <title lang="bn">Teleshopping</title>
-  </programme>
-  <programme start="20260920063000 +0600" stop="20260920070000 +0600" channel="WION.in">
-    <title lang="bn">Teleshopping</title>
-  </programme>
-  <programme start="20260920070000 +0600" stop="20260920073000 +0600" channel="WION.in">
-    <title lang="bn">Teleshopping</title>
-  </programme>
-  <programme start="20260920073000 +0600" stop="20260920080000 +0600" channel="WION.in">
-    <title lang="bn">Teleshopping</title>
-  </programme>
-  <programme start="20260920080000 +0600" stop="20260920083000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260920083000 +0600" stop="20260920090000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260920090000 +0600" stop="20260920093000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260920093000 +0600" stop="20260920100000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260920100000 +0600" stop="20260920103000 +0600" channel="WION.in">
-    <title lang="bn">Man V. Food</title>
-  </programme>
-  <programme start="20260920103000 +0600" stop="20260920110000 +0600" channel="WION.in">
-    <title lang="bn">Man V. Food</title>
-  </programme>
-  <programme start="20260920110000 +0600" stop="20260920113000 +0600" channel="WION.in">
-    <title lang="bn">Man V. Food</title>
-  </programme>
-  <programme start="20260920113000 +0600" stop="20260920120000 +0600" channel="WION.in">
-    <title lang="bn">Man V. Food</title>
-  </programme>
-  <programme start="20260920120000 +0600" stop="20260920123000 +0600" channel="WION.in">
-    <title lang="bn">Man V. Food</title>
-  </programme>
-  <programme start="20260920123000 +0600" stop="20260920130000 +0600" channel="WION.in">
-    <title lang="bn">Man V. Food</title>
-  </programme>
-  <programme start="20260920130000 +0600" stop="20260920133000 +0600" channel="WION.in">
-    <title lang="bn">Man V. Food</title>
-  </programme>
-  <programme start="20260920133000 +0600" stop="20260920140000 +0600" channel="WION.in">
-    <title lang="bn">Man V. Food</title>
-  </programme>
-  <programme start="20260920140000 +0600" stop="20260920143000 +0600" channel="WION.in">
-    <title lang="bn">Man V. Food</title>
-  </programme>
-  <programme start="20260920143000 +0600" stop="20260920150000 +0600" channel="WION.in">
-    <title lang="bn">Man V. Food</title>
-  </programme>
-  <programme start="20260920150000 +0600" stop="20260920153000 +0600" channel="WION.in">
-    <title lang="bn">James Martin: Deli-Cious</title>
-  </programme>
-  <programme start="20260920153000 +0600" stop="20260920160000 +0600" channel="WION.in">
-    <title lang="bn">James Martin: Sweet</title>
-  </programme>
-  <programme start="20260920160000 +0600" stop="20260920163000 +0600" channel="WION.in">
-    <title lang="bn">James Martin: Sweet</title>
-  </programme>
-  <programme start="20260920163000 +0600" stop="20260920170000 +0600" channel="WION.in">
-    <title lang="bn">James Martin: Sweet</title>
-  </programme>
-  <programme start="20260920170000 +0600" stop="20260920180000 +0600" channel="WION.in">
-    <title lang="bn">The Great British Bake-Off</title>
-  </programme>
-  <programme start="20260920180000 +0600" stop="20260920190000 +0600" channel="WION.in">
-    <title lang="bn">The Great British Bake-Off</title>
-  </programme>
-  <programme start="20260920190000 +0600" stop="20260920200000 +0600" channel="WION.in">
-    <title lang="bn">The Great British Bake-Off</title>
-  </programme>
-  <programme start="20260920200000 +0600" stop="20260920210000 +0600" channel="WION.in">
-    <title lang="bn">The Great British Bake-Off</title>
-  </programme>
-  <programme start="20260920210000 +0600" stop="20260920220000 +0600" channel="WION.in">
-    <title lang="bn">The Great British Bake-Off</title>
-  </programme>
-  <programme start="20260920220000 +0600" stop="20260920230000 +0600" channel="WION.in">
-    <title lang="bn">The Great British Bake-Off</title>
-  </programme>
-  <programme start="20260920230000 +0600" stop="20260920233000 +0600" channel="WION.in">
-    <title lang="bn">Man V. Food</title>
-  </programme>
-  <programme start="20260920233000 +0600" stop="20260921000000 +0600" channel="WION.in">
-    <title lang="bn">Man V. Food</title>
-  </programme>
-  <programme start="20260921000000 +0600" stop="20260921003000 +0600" channel="WION.in">
-    <title lang="bn">Man V. Food</title>
-  </programme>
-  <programme start="20260921003000 +0600" stop="20260921010000 +0600" channel="WION.in">
-    <title lang="bn">Man V. Food</title>
-  </programme>
-  <programme start="20260921010000 +0600" stop="20260921020000 +0600" channel="WION.in">
-    <title lang="bn">Michel Roux&amp;#x27;s French Country Cooking</title>
-  </programme>
-  <programme start="20260921020000 +0600" stop="20260921030000 +0600" channel="WION.in">
-    <title lang="bn">Prue Leith&amp;#x27;s Cotswold Kitchen</title>
-  </programme>
-  <programme start="20260921030000 +0600" stop="20260921033000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260921033000 +0600" stop="20260921040000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260921040000 +0600" stop="20260921043000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260921043000 +0600" stop="20260921050000 +0600" channel="WION.in">
-    <title lang="bn">Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260921050000 +0600" stop="20260921053000 +0600" channel="WION.in">
-    <title lang="bn">Teleshopping</title>
-  </programme>
-  <programme start="20260921053000 +0600" stop="20260921060000 +0600" channel="WION.in">
-    <title lang="bn">Teleshopping</title>
-  </programme>
-  <programme start="20260921060000 +0600" stop="20260921063000 +0600" channel="WION.in">
-    <title lang="bn">Teleshopping</title>
-  </programme>
-  <programme start="20260921063000 +0600" stop="20260921070000 +0600" channel="WION.in">
-    <title lang="bn">Teleshopping</title>
-  </programme>
-  <programme start="20260921070000 +0600" stop="20260921073000 +0600" channel="WION.in">
-    <title lang="bn">Teleshopping</title>
-  </programme>
-  <programme start="20260921073000 +0600" stop="20260921080000 +0600" channel="WION.in">
-    <title lang="bn">Teleshopping</title>
-  </programme>
-  <programme start="20260921080000 +0600" stop="20260921083000 +0600" channel="WION.in">
-    <title lang="bn">Marcus In The Med: Mallorca</title>
-  </programme>
-  <programme start="20260921083000 +0600" stop="20260921090000 +0600" channel="WION.in">
-    <title lang="bn">Marcus In The Med: Mallorca</title>
-  </programme>
-  <programme start="20260921090000 +0600" stop="20260921100000 +0600" channel="WION.in">
-    <title lang="bn">Hairy Bikers Comfort Food</title>
-  </programme>
-  <programme start="20260921100000 +0600" stop="20260921103000 +0600" channel="WION.in">
-    <title lang="bn">Delicious Miss Brown</title>
-  </programme>
-  <programme start="20260921103000 +0600" stop="20260921110000 +0600" channel="WION.in">
-    <title lang="bn">Delicious Miss Brown</title>
-  </programme>
-  <programme start="20260921110000 +0600" stop="20260921113000 +0600" channel="WION.in">
-    <title lang="bn">Jamie&amp;#x27;s 15 Minute Meals</title>
-  </programme>
-  <programme start="20260921113000 +0600" stop="20260921120000 +0600" channel="WION.in">
-    <title lang="bn">Jamie&amp;#x27;s 15 Minute Meals</title>
-  </programme>
-  <programme start="20260921120000 +0600" stop="20260921123000 +0600" channel="WION.in">
-    <title lang="bn">Barefoot Contessa: Back To Basics</title>
-  </programme>
-  <programme start="20260921123000 +0600" stop="20260921130000 +0600" channel="WION.in">
-    <title lang="bn">Barefoot Contessa: Back To Basics</title>
-  </programme>
-  <programme start="20260921130000 +0600" stop="20260921143000 +0600" channel="WION.in">
-    <title lang="bn">The Great British Bake-Off</title>
-  </programme>
-  <programme start="20260921143000 +0600" stop="20260921150000 +0600" channel="WION.in">
-    <title lang="bn">Mary Berry&amp;#x27;s Quick Cooking</title>
-  </programme>
-  <programme start="20260921150000 +0600" stop="20260921153000 +0600" channel="WION.in">
-    <title lang="bn">James Martin&amp;#x27;s French Road Trip</title>
-  </programme>
-  <programme start="20260921153000 +0600" stop="20260921160000 +0600" channel="WION.in">
-    <title lang="bn">James Martin&amp;#x27;s French Road Trip</title>
-  </programme>
-  <programme start="20260921160000 +0600" stop="20260921163000 +0600" channel="WION.in">
-    <title lang="bn">James Martin&amp;#x27;s French Road Trip</title>
-  </programme>
-  <programme start="20260921163000 +0600" stop="20260921170000 +0600" channel="WION.in">
-    <title lang="bn">James Martin&amp;#x27;s French Road Trip</title>
-  </programme>
-  <programme start="20260921170000 +0600" stop="20260921180000 +0600" channel="WION.in">
-    <title lang="bn">Hairy Bikers Comfort Food</title>
-  </programme>
-  <programme start="20260921180000 +0600" stop="20260921183000 +0600" channel="WION.in">
-    <title lang="bn">Jamie&amp;#x27;s 15 Minute Meals</title>
-  </programme>
-  <programme start="20260921183000 +0600" stop="20260921190000 +0600" channel="WION.in">
-    <title lang="bn">Jamie&amp;#x27;s 15 Minute Meals</title>
-  </programme>
-  <programme start="20260921190000 +0600" stop="20260921193000 +0600" channel="WION.in">
-    <title lang="bn">The Pioneer Woman</title>
-  </programme>
-  <programme start="20260921193000 +0600" stop="20260921200000 +0600" channel="WION.in">
-    <title lang="bn">The Pioneer Woman</title>
-  </programme>
-  <programme start="20260921200000 +0600" stop="20260921203000 +0600" channel="WION.in">
-    <title lang="bn">James Martin&amp;#x27;s French Road Trip</title>
-  </programme>
-  <programme start="20260921203000 +0600" stop="20260921210000 +0600" channel="WION.in">
-    <title lang="bn">James Martin&amp;#x27;s French Road Trip</title>
-  </programme>
-  <programme start="20260921210000 +0600" stop="20260921223000 +0600" channel="WION.in">
-    <title lang="bn">The Great British Bake-Off</title>
-  </programme>
-  <programme start="20260921223000 +0600" stop="20260921230000 +0600" channel="WION.in">
-    <title lang="bn">Mary Berry&amp;#x27;s Quick Cooking</title>
-  </programme>
-  <programme start="20260921230000 +0600" stop="20260922000000 +0600" channel="WION.in">
-    <title lang="bn">Rick Stein&amp;#x27;s French Odyssey Cabin Fever</title>
-  </programme>
-  <programme start="20260922000000 +0600" stop="20260922003000 +0600" channel="WION.in">
-    <title lang="bn">Rick Stein&amp;#x27;s Food Heroes</title>
-  </programme>
-  <programme start="20260922003000 +0600" stop="20260922010000 +0600" channel="WION.in">
-    <title lang="bn">Rick Stein&amp;#x27;s Food Heroes</title>
-  </programme>
-  <programme start="20260922010000 +0600" stop="20260922013000 +0600" channel="WION.in">
-    <title lang="bn">New: Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
-  <programme start="20260922013000 +0600" stop="20260922020000 +0600" channel="WION.in">
-    <title lang="bn">New: Diners, Drive-Ins And Dives: Triple D Nation</title>
-  </programme>
   <channel id="CGTN.cn">
     <display-name>CGTN</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/>
@@ -1925,784 +1640,10 @@
     <display-name>Channel News Asia</display-name>
     <icon src="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg"/>
   </channel>
-  <programme start="20260920001100 +0600" stop="20260920003400 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260920003400 +0600" stop="20260920005600 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260920005600 +0600" stop="20260920012000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260920012000 +0600" stop="20260920014400 +0600" channel="cna.sg">
-    <title lang="bn">Wylde Pak</title>
-  </programme>
-  <programme start="20260920014400 +0600" stop="20260920020700 +0600" channel="cna.sg">
-    <title lang="bn">Wylde Pak</title>
-  </programme>
-  <programme start="20260920020700 +0600" stop="20260920023100 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260920023100 +0600" stop="20260920025500 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260920025500 +0600" stop="20260920031800 +0600" channel="cna.sg">
-    <title lang="bn">Patrick Super Star</title>
-  </programme>
-  <programme start="20260920031800 +0600" stop="20260920034200 +0600" channel="cna.sg">
-    <title lang="bn">Patrick Super Star</title>
-  </programme>
-  <programme start="20260920034200 +0600" stop="20260920040400 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260920040400 +0600" stop="20260920042700 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260920042700 +0600" stop="20260920045000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260920045000 +0600" stop="20260920051300 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260920051300 +0600" stop="20260920053700 +0600" channel="cna.sg">
-    <title lang="bn">Les Thunderman : Incognito</title>
-  </programme>
-  <programme start="20260920053700 +0600" stop="20260920055900 +0600" channel="cna.sg">
-    <title lang="bn">Les Thunderman</title>
-  </programme>
-  <programme start="20260920055900 +0600" stop="20260920062500 +0600" channel="cna.sg">
-    <title lang="bn">Danger Force</title>
-  </programme>
-  <programme start="20260920062500 +0600" stop="20260920064800 +0600" channel="cna.sg">
-    <title lang="bn">Danger Force</title>
-  </programme>
-  <programme start="20260920064800 +0600" stop="20260920071200 +0600" channel="cna.sg">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20260920071200 +0600" stop="20260920073400 +0600" channel="cna.sg">
-    <title lang="bn">Lay Lay dans la place</title>
-  </programme>
-  <programme start="20260920073400 +0600" stop="20260920075500 +0600" channel="cna.sg">
-    <title lang="bn">Légendes des Tortues Ninja</title>
-  </programme>
-  <programme start="20260920075500 +0600" stop="20260920081900 +0600" channel="cna.sg">
-    <title lang="bn">Légendes des Tortues Ninja</title>
-  </programme>
-  <programme start="20260920081900 +0600" stop="20260920084300 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260920084300 +0600" stop="20260920090500 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260920090500 +0600" stop="20260920091800 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260920091800 +0600" stop="20260920094100 +0600" channel="cna.sg">
-    <title lang="bn">Sonic Prime</title>
-  </programme>
-  <programme start="20260920094100 +0600" stop="20260920100300 +0600" channel="cna.sg">
-    <title lang="bn">Patrick Super Star</title>
-  </programme>
-  <programme start="20260920100300 +0600" stop="20260920102700 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260920102700 +0600" stop="20260920105100 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260920105100 +0600" stop="20260920111500 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260920111500 +0600" stop="20260920113900 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260920113900 +0600" stop="20260920120200 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260920120200 +0600" stop="20260920122500 +0600" channel="cna.sg">
-    <title lang="bn">Lay Lay dans la place</title>
-  </programme>
-  <programme start="20260920122500 +0600" stop="20260920125000 +0600" channel="cna.sg">
-    <title lang="bn">Les Thunderman : Incognito</title>
-  </programme>
-  <programme start="20260920125000 +0600" stop="20260920131300 +0600" channel="cna.sg">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20260920131300 +0600" stop="20260920133700 +0600" channel="cna.sg">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20260920133700 +0600" stop="20260920135900 +0600" channel="cna.sg">
-    <title lang="bn">Danger Force</title>
-  </programme>
-  <programme start="20260920135900 +0600" stop="20260920142400 +0600" channel="cna.sg">
-    <title lang="bn">iCarly</title>
-  </programme>
-  <programme start="20260920142400 +0600" stop="20260920144900 +0600" channel="cna.sg">
-    <title lang="bn">iCarly</title>
-  </programme>
-  <programme start="20260920144900 +0600" stop="20260920151300 +0600" channel="cna.sg">
-    <title lang="bn">Victorious</title>
-  </programme>
-  <programme start="20260920151300 +0600" stop="20260920153700 +0600" channel="cna.sg">
-    <title lang="bn">Sam &amp;amp; Cat</title>
-  </programme>
-  <programme start="20260920153700 +0600" stop="20260920155900 +0600" channel="cna.sg">
-    <title lang="bn">Légendes des Tortues Ninja</title>
-  </programme>
-  <programme start="20260920155900 +0600" stop="20260920162200 +0600" channel="cna.sg">
-    <title lang="bn">Légendes des Tortues Ninja</title>
-  </programme>
-  <programme start="20260920162200 +0600" stop="20260920164700 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260920164700 +0600" stop="20260920171100 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260920171100 +0600" stop="20260920173400 +0600" channel="cna.sg">
-    <title lang="bn">Best &amp;amp; Bester</title>
-  </programme>
-  <programme start="20260920173400 +0600" stop="20260920175600 +0600" channel="cna.sg">
-    <title lang="bn">Best &amp;amp; Bester</title>
-  </programme>
-  <programme start="20260920175600 +0600" stop="20260920181900 +0600" channel="cna.sg">
-    <title lang="bn">Best &amp;amp; Bester</title>
-  </programme>
-  <programme start="20260920181900 +0600" stop="20260920184300 +0600" channel="cna.sg">
-    <title lang="bn">Deer Squad : Les Super-cerfs</title>
-  </programme>
-  <programme start="20260920184300 +0600" stop="20260920190700 +0600" channel="cna.sg">
-    <title lang="bn">Patrick Super Star</title>
-  </programme>
-  <programme start="20260920190700 +0600" stop="20260920191900 +0600" channel="cna.sg">
-    <title lang="bn">Patrick Super Star</title>
-  </programme>
-  <programme start="20260920191900 +0600" stop="20260920194400 +0600" channel="cna.sg">
-    <title lang="bn">Sonic Prime</title>
-  </programme>
-  <programme start="20260920194400 +0600" stop="20260920200800 +0600" channel="cna.sg">
-    <title lang="bn">Les Thunderman : Incognito</title>
-  </programme>
-  <programme start="20260920200800 +0600" stop="20260920203200 +0600" channel="cna.sg">
-    <title lang="bn">Danger Force</title>
-  </programme>
-  <programme start="20260920203200 +0600" stop="20260920205500 +0600" channel="cna.sg">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20260920205500 +0600" stop="20260920211900 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260920211900 +0600" stop="20260920214200 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260920214200 +0600" stop="20260920220000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260920220000 +0600" stop="20260920222500 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260920222500 +0600" stop="20260920224500 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260920224500 +0600" stop="20260920230000 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260920230000 +0600" stop="20260920232000 +0600" channel="cna.sg">
-    <title lang="bn">Patrick Super Star</title>
-  </programme>
-  <programme start="20260920232000 +0600" stop="20260920234500 +0600" channel="cna.sg">
-    <title lang="bn">Patrick Super Star</title>
-  </programme>
-  <programme start="20260920234500 +0600" stop="20260921000000 +0600" channel="cna.sg">
-    <title lang="bn">Patrick Super Star</title>
-  </programme>
-  <programme start="20260921000000 +0600" stop="20260921002000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921002000 +0600" stop="20260921004500 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921004500 +0600" stop="20260921011000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921011000 +0600" stop="20260921013000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921013000 +0600" stop="20260921015000 +0600" channel="cna.sg">
-    <title lang="bn">Wylde Pak</title>
-  </programme>
-  <programme start="20260921015000 +0600" stop="20260921020000 +0600" channel="cna.sg">
-    <title lang="bn">Patrick Super Star</title>
-  </programme>
-  <programme start="20260921020000 +0600" stop="20260921023000 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260921023000 +0600" stop="20260921024500 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260921024500 +0600" stop="20260921030500 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260921030500 +0600" stop="20260921033000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921033000 +0600" stop="20260921035000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921035000 +0600" stop="20260921040000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921040000 +0600" stop="20260921043000 +0600" channel="cna.sg">
-    <title lang="bn">Sonic Prime</title>
-  </programme>
-  <programme start="20260921043000 +0600" stop="20260921045000 +0600" channel="cna.sg">
-    <title lang="bn">Les Thunderman</title>
-  </programme>
-  <programme start="20260921045000 +0600" stop="20260921051500 +0600" channel="cna.sg">
-    <title lang="bn">Danger Force</title>
-  </programme>
-  <programme start="20260921051500 +0600" stop="20260921053500 +0600" channel="cna.sg">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20260921053500 +0600" stop="20260921060000 +0600" channel="cna.sg">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20260921060000 +0600" stop="20260921062000 +0600" channel="cna.sg">
-    <title lang="bn">Lay Lay dans la place</title>
-  </programme>
-  <programme start="20260921062000 +0600" stop="20260921064500 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921064500 +0600" stop="20260921071000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921071000 +0600" stop="20260921073000 +0600" channel="cna.sg">
-    <title lang="bn">Wylde Pak</title>
-  </programme>
-  <programme start="20260921073000 +0600" stop="20260921075500 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260921075500 +0600" stop="20260921081500 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260921081500 +0600" stop="20260921084000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921084000 +0600" stop="20260921085500 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921085500 +0600" stop="20260921091500 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921091500 +0600" stop="20260921094000 +0600" channel="cna.sg">
-    <title lang="bn">Sonic Prime</title>
-  </programme>
-  <programme start="20260921094000 +0600" stop="20260921100000 +0600" channel="cna.sg">
-    <title lang="bn">Patrick Super Star</title>
-  </programme>
-  <programme start="20260921100000 +0600" stop="20260921103000 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260921103000 +0600" stop="20260921105000 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260921105000 +0600" stop="20260921110000 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260921110000 +0600" stop="20260921112500 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921112500 +0600" stop="20260921115000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921115000 +0600" stop="20260921120000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921120000 +0600" stop="20260921122500 +0600" channel="cna.sg">
-    <title lang="bn">Lay Lay dans la place</title>
-  </programme>
-  <programme start="20260921122500 +0600" stop="20260921125000 +0600" channel="cna.sg">
-    <title lang="bn">Les Thunderman : Incognito</title>
-  </programme>
-  <programme start="20260921125000 +0600" stop="20260921131500 +0600" channel="cna.sg">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20260921131500 +0600" stop="20260921133500 +0600" channel="cna.sg">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20260921133500 +0600" stop="20260921140000 +0600" channel="cna.sg">
-    <title lang="bn">Danger Force</title>
-  </programme>
-  <programme start="20260921140000 +0600" stop="20260921142500 +0600" channel="cna.sg">
-    <title lang="bn">iCarly</title>
-  </programme>
-  <programme start="20260921142500 +0600" stop="20260921145000 +0600" channel="cna.sg">
-    <title lang="bn">iCarly</title>
-  </programme>
-  <programme start="20260921145000 +0600" stop="20260921151500 +0600" channel="cna.sg">
-    <title lang="bn">Victorious</title>
-  </programme>
-  <programme start="20260921151500 +0600" stop="20260921153500 +0600" channel="cna.sg">
-    <title lang="bn">Sam &amp;amp; Cat</title>
-  </programme>
-  <programme start="20260921153500 +0600" stop="20260921160000 +0600" channel="cna.sg">
-    <title lang="bn">Légendes des Tortues Ninja</title>
-  </programme>
-  <programme start="20260921160000 +0600" stop="20260921162000 +0600" channel="cna.sg">
-    <title lang="bn">Légendes des Tortues Ninja</title>
-  </programme>
-  <programme start="20260921162000 +0600" stop="20260921164500 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260921164500 +0600" stop="20260921171000 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260921171000 +0600" stop="20260921173500 +0600" channel="cna.sg">
-    <title lang="bn">Best &amp;amp; Bester</title>
-  </programme>
-  <programme start="20260921173500 +0600" stop="20260921175500 +0600" channel="cna.sg">
-    <title lang="bn">Best &amp;amp; Bester</title>
-  </programme>
-  <programme start="20260921175500 +0600" stop="20260921182000 +0600" channel="cna.sg">
-    <title lang="bn">Best &amp;amp; Bester</title>
-  </programme>
-  <programme start="20260921182000 +0600" stop="20260921184000 +0600" channel="cna.sg">
-    <title lang="bn">Deer Squad : Les Super-cerfs</title>
-  </programme>
-  <programme start="20260921184000 +0600" stop="20260921190500 +0600" channel="cna.sg">
-    <title lang="bn">Patrick Super Star</title>
-  </programme>
-  <programme start="20260921190500 +0600" stop="20260921192000 +0600" channel="cna.sg">
-    <title lang="bn">Patrick Super Star</title>
-  </programme>
-  <programme start="20260921192000 +0600" stop="20260921194500 +0600" channel="cna.sg">
-    <title lang="bn">Sonic Prime</title>
-  </programme>
-  <programme start="20260921194500 +0600" stop="20260921200500 +0600" channel="cna.sg">
-    <title lang="bn">Les Thunderman : Incognito</title>
-  </programme>
-  <programme start="20260921200500 +0600" stop="20260921203000 +0600" channel="cna.sg">
-    <title lang="bn">Danger Force</title>
-  </programme>
-  <programme start="20260921203000 +0600" stop="20260921205500 +0600" channel="cna.sg">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20260921205500 +0600" stop="20260921212000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921212000 +0600" stop="20260921214000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921214000 +0600" stop="20260921220000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260921220000 +0600" stop="20260921222500 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260921222500 +0600" stop="20260921224500 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260921224500 +0600" stop="20260921230000 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260921230000 +0600" stop="20260921232000 +0600" channel="cna.sg">
-    <title lang="bn">Patrick Super Star</title>
-  </programme>
-  <programme start="20260921232000 +0600" stop="20260921234500 +0600" channel="cna.sg">
-    <title lang="bn">Patrick Super Star</title>
-  </programme>
-  <programme start="20260921234500 +0600" stop="20260922000000 +0600" channel="cna.sg">
-    <title lang="bn">Patrick Super Star</title>
-  </programme>
-  <programme start="20260922000000 +0600" stop="20260922002000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260922002000 +0600" stop="20260922004500 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260922004500 +0600" stop="20260922011000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260922011000 +0600" stop="20260922013000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260922013000 +0600" stop="20260922015000 +0600" channel="cna.sg">
-    <title lang="bn">Wylde Pak</title>
-  </programme>
-  <programme start="20260922015000 +0600" stop="20260922020000 +0600" channel="cna.sg">
-    <title lang="bn">Patrick Super Star</title>
-  </programme>
-  <programme start="20260922020000 +0600" stop="20260922023000 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260922023000 +0600" stop="20260922024500 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260922024500 +0600" stop="20260922030500 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260922030500 +0600" stop="20260922033000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260922033000 +0600" stop="20260922035000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260922035000 +0600" stop="20260922040000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260922040000 +0600" stop="20260922043000 +0600" channel="cna.sg">
-    <title lang="bn">Sonic Prime</title>
-  </programme>
-  <programme start="20260922043000 +0600" stop="20260922045000 +0600" channel="cna.sg">
-    <title lang="bn">Les Thunderman</title>
-  </programme>
-  <programme start="20260922045000 +0600" stop="20260922051500 +0600" channel="cna.sg">
-    <title lang="bn">Danger Force</title>
-  </programme>
-  <programme start="20260922051500 +0600" stop="20260922053500 +0600" channel="cna.sg">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20260922053500 +0600" stop="20260922060000 +0600" channel="cna.sg">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20260922060000 +0600" stop="20260922062000 +0600" channel="cna.sg">
-    <title lang="bn">Lay Lay dans la place</title>
-  </programme>
-  <programme start="20260922062000 +0600" stop="20260922064500 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260922064500 +0600" stop="20260922071000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260922071000 +0600" stop="20260922073000 +0600" channel="cna.sg">
-    <title lang="bn">Wylde Pak</title>
-  </programme>
-  <programme start="20260922073000 +0600" stop="20260922075500 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260922075500 +0600" stop="20260922081500 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260922081500 +0600" stop="20260922084000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260922084000 +0600" stop="20260922085500 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260922085500 +0600" stop="20260922091500 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260922091500 +0600" stop="20260922094000 +0600" channel="cna.sg">
-    <title lang="bn">Sonic Prime</title>
-  </programme>
-  <programme start="20260922094000 +0600" stop="20260922100000 +0600" channel="cna.sg">
-    <title lang="bn">Patrick Super Star</title>
-  </programme>
-  <programme start="20260922100000 +0600" stop="20260922103000 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260922103000 +0600" stop="20260922105000 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260922105000 +0600" stop="20260922110000 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
-  <programme start="20260922110000 +0600" stop="20260922112500 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260922112500 +0600" stop="20260922115000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260922115000 +0600" stop="20260922120000 +0600" channel="cna.sg">
-    <title lang="bn">Bienvenue chez les Loud</title>
-  </programme>
-  <programme start="20260922120000 +0600" stop="20260922122500 +0600" channel="cna.sg">
-    <title lang="bn">Lay Lay dans la place</title>
-  </programme>
-  <programme start="20260922122500 +0600" stop="20260922125000 +0600" channel="cna.sg">
-    <title lang="bn">Les Thunderman : Incognito</title>
-  </programme>
-  <programme start="20260922125000 +0600" stop="20260922131500 +0600" channel="cna.sg">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20260922131500 +0600" stop="20260922133500 +0600" channel="cna.sg">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20260922133500 +0600" stop="20260922140000 +0600" channel="cna.sg">
-    <title lang="bn">Danger Force</title>
-  </programme>
-  <programme start="20260922140000 +0600" stop="20260922142500 +0600" channel="cna.sg">
-    <title lang="bn">iCarly</title>
-  </programme>
-  <programme start="20260922142500 +0600" stop="20260922145000 +0600" channel="cna.sg">
-    <title lang="bn">iCarly</title>
-  </programme>
-  <programme start="20260922145000 +0600" stop="20260922151500 +0600" channel="cna.sg">
-    <title lang="bn">Victorious</title>
-  </programme>
-  <programme start="20260922151500 +0600" stop="20260922153500 +0600" channel="cna.sg">
-    <title lang="bn">Sam &amp;amp; Cat</title>
-  </programme>
-  <programme start="20260922153500 +0600" stop="20260922160000 +0600" channel="cna.sg">
-    <title lang="bn">Légendes des Tortues Ninja</title>
-  </programme>
-  <programme start="20260922160000 +0600" stop="20260922162000 +0600" channel="cna.sg">
-    <title lang="bn">Légendes des Tortues Ninja</title>
-  </programme>
-  <programme start="20260922162000 +0600" stop="20260922165000 +0600" channel="cna.sg">
-    <title lang="bn">Bob l&amp;#x27;éponge</title>
-  </programme>
   <channel id="TRT World">
     <display-name>TRTWorld.tr</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/6/6e/TRT_World_logo.svg"/>
   </channel>
-  <programme start="20260920000000 +0600" stop="20260920003000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920003000 +0600" stop="20260920010000 +0600" channel="TRT World">
-    <title lang="bn">Markets Of The World</title>
-  </programme>
-  <programme start="20260920010000 +0600" stop="20260920013000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920013000 +0600" stop="20260920020000 +0600" channel="TRT World">
-    <title lang="bn">Money Talks</title>
-  </programme>
-  <programme start="20260920020000 +0600" stop="20260920023000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920023000 +0600" stop="20260920030000 +0600" channel="TRT World">
-    <title lang="bn">Africa Matters</title>
-  </programme>
-  <programme start="20260920030000 +0600" stop="20260920033000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920033000 +0600" stop="20260920040000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260920040000 +0600" stop="20260920043000 +0600" channel="TRT World">
-    <title lang="bn">Nexus</title>
-  </programme>
-  <programme start="20260920043000 +0600" stop="20260920050000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20260920050000 +0600" stop="20260920053000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920053000 +0600" stop="20260920060000 +0600" channel="TRT World">
-    <title lang="bn">My America</title>
-  </programme>
-  <programme start="20260920060000 +0600" stop="20260920063000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920063000 +0600" stop="20260920070000 +0600" channel="TRT World">
-    <title lang="bn">Inside America</title>
-  </programme>
-  <programme start="20260920070000 +0600" stop="20260920073000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920073000 +0600" stop="20260920074500 +0600" channel="TRT World">
-    <title lang="bn">Debrief</title>
-  </programme>
-  <programme start="20260920074500 +0600" stop="20260920080000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20260920080000 +0600" stop="20260920083000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920083000 +0600" stop="20260920090000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260920090000 +0600" stop="20260920093000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920093000 +0600" stop="20260920100000 +0600" channel="TRT World">
-    <title lang="bn">Just 2 Degrees</title>
-  </programme>
-  <programme start="20260920100000 +0600" stop="20260920110000 +0600" channel="TRT World">
-    <title lang="bn">Storyteller</title>
-  </programme>
-  <programme start="20260920110000 +0600" stop="20260920113000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920113000 +0600" stop="20260920120000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
-  </programme>
-  <programme start="20260920120000 +0600" stop="20260920123000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920123000 +0600" stop="20260920130000 +0600" channel="TRT World">
-    <title lang="bn">Money Talks</title>
-  </programme>
-  <programme start="20260920130000 +0600" stop="20260920133000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920133000 +0600" stop="20260920140000 +0600" channel="TRT World">
-    <title lang="bn">Across The Balkans</title>
-  </programme>
-  <programme start="20260920140000 +0600" stop="20260920143000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920143000 +0600" stop="20260920144500 +0600" channel="TRT World">
-    <title lang="bn">Scoreline</title>
-  </programme>
-  <programme start="20260920144500 +0600" stop="20260920150000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20260920150000 +0600" stop="20260920153000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920153000 +0600" stop="20260920160000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260920160000 +0600" stop="20260920163000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920163000 +0600" stop="20260920170000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20260920170000 +0600" stop="20260920173000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920173000 +0600" stop="20260920180000 +0600" channel="TRT World">
-    <title lang="bn">Markets Of The World</title>
-  </programme>
-  <programme start="20260920180000 +0600" stop="20260920183000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920183000 +0600" stop="20260920184500 +0600" channel="TRT World">
-    <title lang="bn">Scoreline</title>
-  </programme>
-  <programme start="20260920184500 +0600" stop="20260920190000 +0600" channel="TRT World">
-    <title lang="bn">Debrief</title>
-  </programme>
-  <programme start="20260920190000 +0600" stop="20260920193000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920193000 +0600" stop="20260920200000 +0600" channel="TRT World">
-    <title lang="bn">Across The Balkans</title>
-  </programme>
-  <programme start="20260920200000 +0600" stop="20260920201500 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920201500 +0600" stop="20260920203000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20260920203000 +0600" stop="20260920210000 +0600" channel="TRT World">
-    <title lang="bn">Beyond Borders</title>
-  </programme>
-  <programme start="20260920210000 +0600" stop="20260920213000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920213000 +0600" stop="20260920220000 +0600" channel="TRT World">
-    <title lang="bn">Money Talks</title>
-  </programme>
-  <programme start="20260920220000 +0600" stop="20260920223000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20260920223000 +0600" stop="20260920230000 +0600" channel="TRT World">
-    <title lang="bn">Africa Matters</title>
-  </programme>
-  <programme start="20260920230000 +0600" stop="20260920233000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260920233000 +0600" stop="20260921000000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
-  </programme>
-  <programme start="20260921000000 +0600" stop="20260921003000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260921003000 +0600" stop="20260921010000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260921010000 +0600" stop="20260921013000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260921013000 +0600" stop="20260921020000 +0600" channel="TRT World">
-    <title lang="bn">Bigger Than Five</title>
-  </programme>
-  <programme start="20260921020000 +0600" stop="20260921023000 +0600" channel="TRT World">
-    <title lang="bn">Business News</title>
-  </programme>
-  <programme start="20260921023000 +0600" stop="20260921030000 +0600" channel="TRT World">
-    <title lang="bn">Nexus</title>
-  </programme>
-  <programme start="20260921030000 +0600" stop="20260921040000 +0600" channel="TRT World">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260921040000 +0600" stop="20260921050000 +0600" channel="TRT World">
-    <title lang="bn">Storyteller</title>
-  </programme>
-  <programme start="20260921050000 +0600" stop="20260921053000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260921053000 +0600" stop="20260921060000 +0600" channel="TRT World">
-    <title lang="bn">Business News</title>
-  </programme>
-  <programme start="20260921060000 +0600" stop="20260921063000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260921063000 +0600" stop="20260921070000 +0600" channel="TRT World">
-    <title lang="bn">Across The Balkans</title>
-  </programme>
-  <programme start="20260921070000 +0600" stop="20260921080000 +0600" channel="TRT World">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260921080000 +0600" stop="20260921083000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260921083000 +0600" stop="20260921090000 +0600" channel="TRT World">
-    <title lang="bn">Africa Matters</title>
-  </programme>
-  <programme start="20260921090000 +0600" stop="20260921093000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260921093000 +0600" stop="20260921100000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
-  </programme>
-  <programme start="20260921100000 +0600" stop="20260921103000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260921103000 +0600" stop="20260921110000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20260921110000 +0600" stop="20260921120000 +0600" channel="TRT World">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20260921120000 +0600" stop="20260921123000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20260921123000 +0600" stop="20260921130000 +0600" channel="TRT World">
-    <title lang="bn">Just 2 Degrees</title>
-  </programme>
-  <programme start="20260921130000 +0600" stop="20260921131500 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20260921131500 +0600" stop="20260921133000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20260921133000 +0600" stop="20260921140000 +0600" channel="TRT World">
-    <title lang="bn">Raising Expectations: The Truth About Ai</title>
-  </programme>
-  <programme start="20260921140000 +0600" stop="20260921150000 +0600" channel="TRT World">
-    <title lang="bn">Newshour - London</title>
-  </programme>
-  <programme start="20260921150000 +0600" stop="20260921153000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20260921153000 +0600" stop="20260921160000 +0600" channel="TRT World">
-    <title lang="bn">My America</title>
-  </programme>
-  <programme start="20260921160000 +0600" stop="20260921163000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20260921163000 +0600" stop="20260921170000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260921170000 +0600" stop="20260921173000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260921173000 +0600" stop="20260921180000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
   <channel id="Bloomberg TV">
     <display-name>BloombergTV.us</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/9/93/Bloomberg_tv_2016.svg"/>
@@ -2930,24 +1871,6 @@
     <display-name>YouTube</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"/>
   </channel>
-  <programme start="20260920000000 +0600" stop="20260920040000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
-  <programme start="20260920040000 +0600" stop="20260920080000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
-  <programme start="20260920080000 +0600" stop="20260920120000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
-  <programme start="20260920120000 +0600" stop="20260920160000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
-  <programme start="20260920160000 +0600" stop="20260920200000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
-  <programme start="20260920200000 +0600" stop="20260921000000 +0600" channel="YouTube">
-    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
-  </programme>
   <programme start="20260921000000 +0600" stop="20260921040000 +0600" channel="YouTube">
     <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
   </programme>
@@ -2964,6 +1887,24 @@
     <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
   </programme>
   <programme start="20260921200000 +0600" stop="20260922000000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260922000000 +0600" stop="20260922040000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260922040000 +0600" stop="20260922080000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260922080000 +0600" stop="20260922120000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260922120000 +0600" stop="20260922160000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260922160000 +0600" stop="20260922200000 +0600" channel="YouTube">
+    <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
+  </programme>
+  <programme start="20260922200000 +0600" stop="20260923000000 +0600" channel="YouTube">
     <title lang="bn">YouTube channel. Make sure you update playlist every 4 hours</title>
   </programme>
 </tv>
