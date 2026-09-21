@@ -1,37 +1,35 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla",Green TV (4d)
+#EXTINF:-1 group-title="Bangla",Green TV (5d)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Mohona TV (5d)
+#EXTINF:-1 group-title="Bangla",Mohona TV (6d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | Ananda Barta (0d)
-https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
-#EXTINF:-1 group-title="Educational",Popular Science (0d)
-https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8
-#EXTINF:-1 group-title="Educational",Safari TV Tamil (0d)
+#EXTINF:-1 group-title="Bangla News",IN | ABP Ananda (0d)
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Educational",Safari TV Tamil (1d)
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1 group-title="India",MU | 7X Music (0d)
+#EXTINF:-1 group-title="India",MU | 7X Music (1d)
 https://cdn2.in/7xPunjabihls/live.m3u8
-#EXTINF:-1 group-title="India",MU | Steelbird Music (0d)
+#EXTINF:-1 group-title="India",MU | Steelbird Music (1d)
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
-#EXTINF:-1 group-title="India",MU | Tunes 6 (5d)
+#EXTINF:-1 group-title="India",MU | Tunes 6 (6d)
 https://stream.d6-pro.com/tunes6music/live/video.m3u8
-#EXTINF:-1 group-title="India",NEWS | K News India (1d)
+#EXTINF:-1 group-title="India",NEWS | Amar Ujala (0d)
+https://amarujala.ottlive.co.in/amarujala/index.m3u8
+#EXTINF:-1 group-title="India",NEWS | Awaaz India TV (0d)
+http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+#EXTINF:-1 group-title="India",NEWS | K News India (2d)
 https://legitpro.co.in/knews/index.m3u8
-#EXTINF:-1 group-title="India",NEWWS | 22Scope News (5d)
+#EXTINF:-1 group-title="India",NEWS | News18 India (0d)
+https://amg01448-samsungin-news18india-samsungin-ad-gx.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungin-news18india-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="India",NEWWS | 22Scope News (6d)
 https://ott.livelegitpro.in/hls4/22scope/index.m3u8
-#EXTINF:-1 group-title="International",Cook & Bake (4d)
+#EXTINF:-1 group-title="International",Cook & Bake (5d)
 https://cc-swbj49v56imaw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swbj49v56imaw/OTM/OTM_Cooking-SCTE_SAMSUNG/playlist.m3u8
-#EXTINF:-1 group-title="International News",CNN International (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Kids",0. Hooray Rhymes (4d)
+#EXTINF:-1 group-title="Kids",0. Hooray Rhymes (5d)
 https://cc-hqignh3tex8xc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hqignh3tex8xc/OTM/OTM_KidsToonsHindi-SCTE_SAMSUNG/playlist.m3u8
-#EXTINF:-1 group-title="Kids",1. Biznet Kids (6d)
+#EXTINF:-1 group-title="Kids",1. Biznet Kids (7d)
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
-#EXTINF:-1 group-title="Kids",1. Hooray Kids (4d)
+#EXTINF:-1 group-title="Kids",1. Hooray Kids (5d)
 https://cc-hcf2o1ghsvvdu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hcf2o1ghsvvdu/OTM/OTM_HoorayKids-SCTE_SAMSUNG/playlist.m3u8
-#EXTINF:-1 group-title="Kids",1. Nickelodeon (9d)
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="Sports",---FIFA(BEIN SPORTS 1 Turkey)--- (7d)
+#EXTINF:-1 group-title="Sports",---FIFA(BEIN SPORTS 1 Turkey)--- (8d)
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 group-title="Sports",CR | Cricket Gold (0d)
-https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
