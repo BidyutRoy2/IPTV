@@ -1,18 +1,14 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla",Ayna TV (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",GAZI TV HD (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",Mohona TV (8d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",RTV (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (1d)
 https://live20.bozztv.com/akamaissh101/ssh101/usbdjournal/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (1d)
 http://str24.l9574.com/510.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | Channel 1 (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="India",MO | Hindi Movies (0d)
+https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="India",MU | NH BollyRaga (0d)
+https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8
 #EXTINF:-1 group-title="India",MU | Tunes 6 (8d)
 https://stream.d6-pro.com/tunes6music/live/video.m3u8
 #EXTINF:-1 group-title="India",NEWS | K News India (4d)
@@ -21,10 +17,6 @@ https://legitpro.co.in/knews/index.m3u8
 https://ott.livelegitpro.in/hls4/22scope/index.m3u8
 #EXTINF:-1 group-title="International",Cook & Bake (1d)
 https://cc-swbj49v56imaw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swbj49v56imaw/OTM/OTM_Cooking-SCTE_SAMSUNG/playlist.m3u8
-#EXTINF:-1 group-title="International News",CNN International (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="International News",CNN International (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1 group-title="Kids",0. Hooray Rhymes (0d)
 https://cc-hqignh3tex8xc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hqignh3tex8xc/OTM/OTM_KidsToonsHindi-SCTE_SAMSUNG/playlist.m3u8
 #EXTINF:-1 group-title="Kids",1. Biznet Kids (9d)
@@ -33,15 +25,9 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
 https://cc-hcf2o1ghsvvdu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hcf2o1ghsvvdu/OTM/OTM_HoorayKids-SCTE_SAMSUNG/playlist.m3u8
 #EXTINF:-1 group-title="Movies",EN | SRK TV (0d)
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Music",AR | AFN TV (0d)
-https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-#EXTINF:-1 group-title="Pakistan",NEWS | Dunya News (0d)
-http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
 #EXTINF:-1 group-title="Religious",QURAN (2d)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Sunnah TV (2d)
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
-#EXTINF:-1 group-title="Sports",MIXER | Sports Fishing (0d)
-https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
-#EXTINF:-1 group-title="Sports",MIXER | World of Freesports (0d)
-https://amg01866-mainstreammedia-freesportsinc-sportstribal-b3zdo.amagi.tv/ts-eu-w1-n2/playlist/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8
+#EXTINF:-1 group-title="Sports",--Live(Euro Sport 1)-- (0d)
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
