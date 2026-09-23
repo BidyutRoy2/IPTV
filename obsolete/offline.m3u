@@ -1,35 +1,39 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla",Green TV (6d)
+#EXTINF:-1 group-title="Bangla",Green TV (7d)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Mohona TV (7d)
+#EXTINF:-1 group-title="Bangla",Mohona TV (8d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (0d)
+#EXTINF:-1 group-title="Bangla",MU | ATN MUSIC (0d)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (1d)
 https://live20.bozztv.com/akamaissh101/ssh101/usbdjournal/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (0d)
+#EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (1d)
 http://str24.l9574.com/510.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | Calcutta News (0d)
-https://legitpro.co.in/cnnnews/index.m3u8
-#EXTINF:-1 group-title="Educational",Safari TV Tamil (1d)
+#EXTINF:-1 group-title="Educational",Safari TV Tamil (2d)
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1 group-title="India",MU | Tunes 6 (7d)
+#EXTINF:-1 group-title="India",MU | Tunes 6 (8d)
 https://stream.d6-pro.com/tunes6music/live/video.m3u8
-#EXTINF:-1 group-title="India",NEWS | K News India (3d)
+#EXTINF:-1 group-title="India",NEWS | K News India (4d)
 https://legitpro.co.in/knews/index.m3u8
-#EXTINF:-1 group-title="India",NEWWS | 22Scope News (7d)
+#EXTINF:-1 group-title="India",NEWWS | 22Scope News (8d)
 https://ott.livelegitpro.in/hls4/22scope/index.m3u8
-#EXTINF:-1 group-title="International",Cook & Bake (0d)
+#EXTINF:-1 group-title="International",Cook & Bake (1d)
 https://cc-swbj49v56imaw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swbj49v56imaw/OTM/OTM_Cooking-SCTE_SAMSUNG/playlist.m3u8
-#EXTINF:-1 group-title="Kids",0. Hooray Rhymes (0d)
+#EXTINF:-1 group-title="Kids",0. Hooray Rhymes (1d)
 https://cc-hqignh3tex8xc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hqignh3tex8xc/OTM/OTM_KidsToonsHindi-SCTE_SAMSUNG/playlist.m3u8
-#EXTINF:-1 group-title="Kids",1. Biznet Kids (8d)
+#EXTINF:-1 group-title="Kids",1. Biznet Kids (9d)
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
-#EXTINF:-1 group-title="Kids",1. Hooray Kids (0d)
+#EXTINF:-1 group-title="Kids",1. Hooray Kids (1d)
 https://cc-hcf2o1ghsvvdu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hcf2o1ghsvvdu/OTM/OTM_HoorayKids-SCTE_SAMSUNG/playlist.m3u8
-#EXTINF:-1 group-title="Music",EN | Play TV (0d)
+#EXTINF:-1 group-title="Kids",1. Nickelodeon (0d)
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+#EXTINF:-1 group-title="Kids",ZB Cartoon (0d)
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 group-title="Music",EN | Play TV (1d)
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
-#EXTINF:-1 group-title="Religious",QURAN (1d)
+#EXTINF:-1 group-title="Religious",Dua Channel (0d)
+https://newyork.zeuscdn724.com:443/H9/index.m3u8
+#EXTINF:-1 group-title="Religious",QURAN (2d)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 group-title="Religious",Sunnah TV (1d)
+#EXTINF:-1 group-title="Religious",Sunnah TV (2d)
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
-#EXTINF:-1 group-title="Sports",---FIFA(BEIN SPORTS 1 Turkey)--- (9d)
-https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
