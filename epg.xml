@@ -848,2803 +848,505 @@
     <display-name>Al Jazeera English</display-name>
     <icon src="https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png"/>
   </channel>
-  <programme start="20260927014500 +0600" stop="20260927032000 +0600" channel="aljazeera.com">
-    <title lang="bn">Captain Underpants – Der supertolle erste Film</title>
-  </programme>
-  <programme start="20260927032000 +0600" stop="20260927051000 +0600" channel="aljazeera.com">
-    <title lang="bn">Lassie – Eine abenteuerliche Reise</title>
-  </programme>
-  <programme start="20260927051000 +0600" stop="20260927071500 +0600" channel="aljazeera.com">
-    <title lang="bn">Liftoff – Mit dir zum Mars</title>
-  </programme>
-  <programme start="20260927071500 +0600" stop="20260927085000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bereit für einen Prinzen</title>
-  </programme>
-  <programme start="20260927085000 +0600" stop="20260927104500 +0600" channel="aljazeera.com">
-    <title lang="bn">Der Wind weht in Richtung Liebe</title>
-  </programme>
-  <programme start="20260927104500 +0600" stop="20260927111500 +0600" channel="aljazeera.com">
-    <title lang="bn">Heinzl und die VIPs – Weekend</title>
-  </programme>
-  <programme start="20260927111500 +0600" stop="20260927132000 +0600" channel="aljazeera.com">
-    <title lang="bn">Little Italy – Ein Rezept für die Liebe</title>
-  </programme>
-  <programme start="20260927132000 +0600" stop="20260927153500 +0600" channel="aljazeera.com">
-    <title lang="bn">Als du mich sahst</title>
-  </programme>
-  <programme start="20260927153500 +0600" stop="20260927171000 +0600" channel="aljazeera.com">
-    <title lang="bn">Der Wind weht in Richtung Liebe</title>
-  </programme>
-  <programme start="20260927171000 +0600" stop="20260927182500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bereit für einen Prinzen</title>
-  </programme>
-  <programme start="20260927182500 +0600" stop="20260927195500 +0600" channel="aljazeera.com">
-    <title lang="bn">Lassie – Eine abenteuerliche Reise</title>
-  </programme>
-  <programme start="20260927195500 +0600" stop="20260927205000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bull</title>
-  </programme>
-  <programme start="20260927205000 +0600" stop="20260927213000 +0600" channel="aljazeera.com">
-    <title lang="bn">Danni Lowinski</title>
-  </programme>
-  <programme start="20260927213000 +0600" stop="20260927221500 +0600" channel="aljazeera.com">
-    <title lang="bn">Der letzte Bulle</title>
-  </programme>
-  <programme start="20260927221500 +0600" stop="20260927231000 +0600" channel="aljazeera.com">
-    <title lang="bn">Der letzte Bulle</title>
-  </programme>
-  <programme start="20260927231000 +0600" stop="20260928000000 +0600" channel="aljazeera.com">
-    <title lang="bn">Der letzte Bulle</title>
-  </programme>
-  <programme start="20260928000000 +0600" stop="20260928020500 +0600" channel="aljazeera.com">
-    <title lang="bn">Mediashop – Weil es besser geht</title>
-  </programme>
-  <programme start="20260928020500 +0600" stop="20260928030000 +0600" channel="aljazeera.com">
-    <title lang="bn">Der letzte Bulle</title>
-  </programme>
-  <programme start="20260928030000 +0600" stop="20260928040500 +0600" channel="aljazeera.com">
-    <title lang="bn">Treffpunkt Österreich zu Mittag</title>
-  </programme>
-  <programme start="20260928040500 +0600" stop="20260928041500 +0600" channel="aljazeera.com">
-    <title lang="bn">Hausweltskost Theresa kocht und Christina backt (2)</title>
-  </programme>
-  <programme start="20260928041500 +0600" stop="20260928042000 +0600" channel="aljazeera.com">
-    <title lang="bn">Heinzl und die VIPs</title>
-  </programme>
-  <programme start="20260928042000 +0600" stop="20260928051500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bull</title>
-  </programme>
-  <programme start="20260928051500 +0600" stop="20260928061000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Mentalist</title>
-  </programme>
-  <programme start="20260928061000 +0600" stop="20260928070000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Mentalist</title>
-  </programme>
-  <programme start="20260928070000 +0600" stop="20260928075000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hawaii Five-0</title>
-  </programme>
-  <programme start="20260928075000 +0600" stop="20260928075500 +0600" channel="aljazeera.com">
-    <title lang="bn">ATV Aktuell</title>
-  </programme>
-  <programme start="20260928075500 +0600" stop="20260928085000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hawaii Five-0</title>
-  </programme>
-  <programme start="20260928085000 +0600" stop="20260928085500 +0600" channel="aljazeera.com">
-    <title lang="bn">ATV Aktuell</title>
-  </programme>
-  <programme start="20260928085500 +0600" stop="20260928095000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Mentalist</title>
-  </programme>
-  <programme start="20260928095000 +0600" stop="20260928105000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Mentalist</title>
-  </programme>
-  <programme start="20260928105000 +0600" stop="20260928111000 +0600" channel="aljazeera.com">
-    <title lang="bn">Treffpunkt Österreich</title>
-  </programme>
-  <programme start="20260928111000 +0600" stop="20260928111500 +0600" channel="aljazeera.com">
-    <title lang="bn">Heinzl und die VIPs</title>
-  </programme>
-  <programme start="20260928111500 +0600" stop="20260928122000 +0600" channel="aljazeera.com">
-    <title lang="bn">Mucho Gas auf Malle</title>
-  </programme>
-  <programme start="20260928122000 +0600" stop="20260928135500 +0600" channel="aljazeera.com">
-    <title lang="bn">Ausnahmezustand in Lignano – Tutto Gas</title>
-  </programme>
-  <programme start="20260928135500 +0600" stop="20260928145500 +0600" channel="aljazeera.com">
-    <title lang="bn">Mucho Gas auf Malle</title>
-  </programme>
-  <programme start="20260928145500 +0600" stop="20260928162500 +0600" channel="aljazeera.com">
-    <title lang="bn">Ausnahmezustand in Lignano – Tutto Gas</title>
-  </programme>
-  <programme start="20260928162500 +0600" stop="20260928171500 +0600" channel="aljazeera.com">
-    <title lang="bn">Österreich unzensiert – Kurioser Alltag</title>
-  </programme>
-  <programme start="20260928171500 +0600" stop="20260928180500 +0600" channel="aljazeera.com">
-    <title lang="bn">Puffgeschichten</title>
-  </programme>
-  <programme start="20260928180500 +0600" stop="20260928185500 +0600" channel="aljazeera.com">
-    <title lang="bn">ATV – Die Reportage intim</title>
-  </programme>
-  <programme start="20260928185500 +0600" stop="20260928192500 +0600" channel="aljazeera.com">
-    <title lang="bn">ATV – Die Reportage intim</title>
-  </programme>
-  <programme start="20260928192500 +0600" stop="20260928200500 +0600" channel="aljazeera.com">
-    <title lang="bn">The Passage – Das Erwachen</title>
-  </programme>
-  <programme start="20260928200500 +0600" stop="20260928205000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Passage – Das Erwachen</title>
-  </programme>
-  <programme start="20260928205000 +0600" stop="20260928213000 +0600" channel="aljazeera.com">
-    <title lang="bn">Danni Lowinski</title>
-  </programme>
-  <programme start="20260928213000 +0600" stop="20260928221500 +0600" channel="aljazeera.com">
-    <title lang="bn">Der letzte Bulle</title>
-  </programme>
-  <programme start="20260928221500 +0600" stop="20260928231000 +0600" channel="aljazeera.com">
-    <title lang="bn">Der letzte Bulle</title>
-  </programme>
-  <programme start="20260928231000 +0600" stop="20260929000500 +0600" channel="aljazeera.com">
-    <title lang="bn">Der letzte Bulle</title>
-  </programme>
-  <programme start="20260929000500 +0600" stop="20260929020500 +0600" channel="aljazeera.com">
-    <title lang="bn">Mediashop – Weil es besser geht</title>
-  </programme>
-  <programme start="20260929020500 +0600" stop="20260929030000 +0600" channel="aljazeera.com">
-    <title lang="bn">Der letzte Bulle</title>
-  </programme>
-  <programme start="20260929030000 +0600" stop="20260929040500 +0600" channel="aljazeera.com">
-    <title lang="bn">Treffpunkt Österreich zu Mittag</title>
-  </programme>
-  <programme start="20260929040500 +0600" stop="20260929041500 +0600" channel="aljazeera.com">
-    <title lang="bn">Hausweltskost mit Theresa und den Baessler Twins</title>
-  </programme>
-  <programme start="20260929041500 +0600" stop="20260929042000 +0600" channel="aljazeera.com">
-    <title lang="bn">Heinzl und die VIPs</title>
-  </programme>
-  <programme start="20260929042000 +0600" stop="20260929051500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bull</title>
-  </programme>
-  <programme start="20260929051500 +0600" stop="20260929060500 +0600" channel="aljazeera.com">
-    <title lang="bn">The Mentalist</title>
-  </programme>
-  <programme start="20260929060500 +0600" stop="20260929070000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Mentalist</title>
-  </programme>
-  <programme start="20260929070000 +0600" stop="20260929075000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hawaii Five-0</title>
-  </programme>
-  <programme start="20260929075000 +0600" stop="20260929075500 +0600" channel="aljazeera.com">
-    <title lang="bn">ATV Aktuell</title>
-  </programme>
-  <programme start="20260929075500 +0600" stop="20260929085000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hawaii Five-0</title>
-  </programme>
-  <programme start="20260929085000 +0600" stop="20260929085500 +0600" channel="aljazeera.com">
-    <title lang="bn">ATV Aktuell</title>
-  </programme>
-  <programme start="20260929085500 +0600" stop="20260929095000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Mentalist</title>
-  </programme>
-  <programme start="20260929095000 +0600" stop="20260929105000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Mentalist</title>
-  </programme>
-  <programme start="20260929105000 +0600" stop="20260929111000 +0600" channel="aljazeera.com">
-    <title lang="bn">Treffpunkt Österreich</title>
-  </programme>
-  <programme start="20260929111000 +0600" stop="20260929111500 +0600" channel="aljazeera.com">
-    <title lang="bn">Heinzl und die VIPs</title>
-  </programme>
-  <programme start="20260929111500 +0600" stop="20260929133000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hitch – Der Date Doktor</title>
-  </programme>
-  <programme start="20260929133000 +0600" stop="20260929154500 +0600" channel="aljazeera.com">
-    <title lang="bn">Dickste Freunde</title>
-  </programme>
-  <programme start="20260929154500 +0600" stop="20260929181500 +0600" channel="aljazeera.com">
-    <title lang="bn">Departed – Unter Feinden</title>
-  </programme>
-  <programme start="20260929181500 +0600" stop="20260929185500 +0600" channel="aljazeera.com">
-    <title lang="bn">The Passage – Das Erwachen</title>
-  </programme>
-  <programme start="20260929185500 +0600" stop="20260929193500 +0600" channel="aljazeera.com">
-    <title lang="bn">The Passage – Das Erwachen</title>
-  </programme>
-  <programme start="20260929193500 +0600" stop="20260929202000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Passage – Das Erwachen</title>
-  </programme>
-  <programme start="20260929202000 +0600" stop="20260929205000 +0600" channel="aljazeera.com">
-    <title lang="bn">Reingelegt!</title>
-  </programme>
-  <programme start="20260929205000 +0600" stop="20260929213000 +0600" channel="aljazeera.com">
-    <title lang="bn">Danni Lowinski</title>
-  </programme>
-  <programme start="20260929213000 +0600" stop="20260929221500 +0600" channel="aljazeera.com">
-    <title lang="bn">Der letzte Bulle</title>
-  </programme>
-  <programme start="20260929221500 +0600" stop="20260929231000 +0600" channel="aljazeera.com">
-    <title lang="bn">Der letzte Bulle</title>
-  </programme>
-  <programme start="20260929231000 +0600" stop="20260930000000 +0600" channel="aljazeera.com">
-    <title lang="bn">Der letzte Bulle</title>
-  </programme>
-  <programme start="20260930000000 +0600" stop="20260930020500 +0600" channel="aljazeera.com">
-    <title lang="bn">Mediashop – Weil es besser geht</title>
-  </programme>
-  <programme start="20260930020500 +0600" stop="20260930030000 +0600" channel="aljazeera.com">
-    <title lang="bn">Der letzte Bulle</title>
-  </programme>
-  <programme start="20260930030000 +0600" stop="20260930040500 +0600" channel="aljazeera.com">
-    <title lang="bn">Treffpunkt Österreich zu Mittag</title>
-  </programme>
-  <programme start="20260930040500 +0600" stop="20260930041500 +0600" channel="aljazeera.com">
-    <title lang="bn">Hausweltskost mit Theresa und Anna Posch</title>
-  </programme>
-  <programme start="20260930041500 +0600" stop="20260930042000 +0600" channel="aljazeera.com">
-    <title lang="bn">Heinzl und die VIPs</title>
-  </programme>
-  <programme start="20260930042000 +0600" stop="20260930051500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bull</title>
-  </programme>
-  <programme start="20260930051500 +0600" stop="20260930061000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Mentalist</title>
-  </programme>
-  <programme start="20260930061000 +0600" stop="20260930070000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Mentalist</title>
-  </programme>
-  <programme start="20260930070000 +0600" stop="20260930075000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hawaii Five-0</title>
-  </programme>
-  <programme start="20260930075000 +0600" stop="20260930075500 +0600" channel="aljazeera.com">
-    <title lang="bn">ATV Aktuell</title>
-  </programme>
-  <programme start="20260930075500 +0600" stop="20260930085000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hawaii Five-0</title>
-  </programme>
-  <programme start="20260930085000 +0600" stop="20260930085500 +0600" channel="aljazeera.com">
-    <title lang="bn">ATV Aktuell</title>
-  </programme>
-  <programme start="20260930085500 +0600" stop="20260930095000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Mentalist</title>
-  </programme>
-  <programme start="20260930095000 +0600" stop="20260930105000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Mentalist</title>
-  </programme>
-  <programme start="20260930105000 +0600" stop="20260930111000 +0600" channel="aljazeera.com">
-    <title lang="bn">Treffpunkt Österreich</title>
-  </programme>
-  <programme start="20260930111000 +0600" stop="20260930111500 +0600" channel="aljazeera.com">
-    <title lang="bn">Heinzl und die VIPs</title>
-  </programme>
-  <programme start="20260930111500 +0600" stop="20260930132500 +0600" channel="aljazeera.com">
-    <title lang="bn">Bauer sucht Frau</title>
-  </programme>
-  <programme start="20260930132500 +0600" stop="20260930142500 +0600" channel="aljazeera.com">
-    <title lang="bn">Wild Umstritten</title>
-  </programme>
-  <programme start="20260930142500 +0600" stop="20260930163000 +0600" channel="aljazeera.com">
-    <title lang="bn">Bauer sucht Frau</title>
-  </programme>
-  <programme start="20260930163000 +0600" stop="20260930170000 +0600" channel="aljazeera.com">
-    <title lang="bn">Mucho Gas auf Malle</title>
-  </programme>
   <channel id="WION.in">
     <display-name>WION</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/1d/WION_World_Is_One_News.svg"/>
   </channel>
-  <programme start="20260927002000 +0600" stop="20260927005500 +0600" channel="WION.in">
-    <title lang="bn">甜心先生[粵]</title>
+  <programme start="20260928003000 +0600" stop="20260928021000 +0600" channel="WION.in">
+    <title lang="bn">Faruk</title>
   </programme>
-  <programme start="20260927005500 +0600" stop="20260927010000 +0600" channel="WION.in">
-    <title lang="bn">勁歌推介[粵]</title>
+  <programme start="20260928021000 +0600" stop="20260928034000 +0600" channel="WION.in">
+    <title lang="bn">Tatuśkowie</title>
   </programme>
-  <programme start="20260927010000 +0600" stop="20260927013000 +0600" channel="WION.in">
-    <title lang="bn">魔神創造傳[粵/日]</title>
+  <programme start="20260928034000 +0600" stop="20260928053500 +0600" channel="WION.in">
+    <title lang="bn">Kika</title>
   </programme>
-  <programme start="20260927013000 +0600" stop="20260927020000 +0600" channel="WION.in">
-    <title lang="bn">Hands Up[粵]</title>
+  <programme start="20260928053500 +0600" stop="20260928072500 +0600" channel="WION.in">
+    <title lang="bn">Pocałunek</title>
   </programme>
-  <programme start="20260927020000 +0600" stop="20260927023000 +0600" channel="WION.in">
-    <title lang="bn">屁屁偵探[粵/日]</title>
-  </programme>
-  <programme start="20260927023000 +0600" stop="20260927025500 +0600" channel="WION.in">
-    <title lang="bn">櫻桃小丸子[粵/日]</title>
-  </programme>
-  <programme start="20260927025500 +0600" stop="20260927030000 +0600" channel="WION.in">
-    <title lang="bn">好嘢港多啲[粵]</title>
-  </programme>
-  <programme start="20260927030000 +0600" stop="20260927033000 +0600" channel="WION.in">
-    <title lang="bn">財經透視[粵]</title>
-  </programme>
-  <programme start="20260927033000 +0600" stop="20260927035500 +0600" channel="WION.in">
-    <title lang="bn">六點半新聞報道[粵]</title>
-  </programme>
-  <programme start="20260927035500 +0600" stop="20260927040000 +0600" channel="WION.in">
-    <title lang="bn">農本方參苓白朮散呈獻:天氣報告[粵]</title>
-  </programme>
-  <programme start="20260927040000 +0600" stop="20260927043000 +0600" channel="WION.in">
-    <title lang="bn">星期日檔案[粵]</title>
-  </programme>
-  <programme start="20260927043000 +0600" stop="20260927050000 +0600" channel="WION.in">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20260927050000 +0600" stop="20260927053000 +0600" channel="WION.in">
-    <title lang="bn">中信銀行(國際)Motion$呈獻：試真D唷[粵]</title>
-  </programme>
-  <programme start="20260927053000 +0600" stop="20260927053300 +0600" channel="WION.in">
-    <title lang="bn">試真D唷 SUPER 3 分鐘 [粵]</title>
-  </programme>
-  <programme start="20260927053300 +0600" stop="20260927063000 +0600" channel="WION.in">
-    <title lang="bn">Funki Finance 呈獻：女神配對計劃2[粵]</title>
-  </programme>
-  <programme start="20260927063000 +0600" stop="20260927070500 +0600" channel="WION.in">
-    <title lang="bn">玩轉澳門勁滿Fun[粵]</title>
-  </programme>
-  <programme start="20260927070500 +0600" stop="20260927074500 +0600" channel="WION.in">
-    <title lang="bn">一周星星[粵]</title>
-  </programme>
-  <programme start="20260927074500 +0600" stop="20260927081500 +0600" channel="WION.in">
-    <title lang="bn">美食新聞周報[粵]</title>
-  </programme>
-  <programme start="20260927081500 +0600" stop="20260927083000 +0600" channel="WION.in">
-    <title lang="bn">晚間新聞[粵]</title>
-  </programme>
-  <programme start="20260927083000 +0600" stop="20260927083500 +0600" channel="WION.in">
-    <title lang="bn">農本方參苓白朮散呈獻:天氣報告[粵]</title>
-  </programme>
-  <programme start="20260927083500 +0600" stop="20260927093500 +0600" channel="WION.in">
-    <title lang="bn">飛虎3壯志英雄#8[粵][PG]</title>
-  </programme>
-  <programme start="20260927093500 +0600" stop="20260927101000 +0600" channel="WION.in">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20260927101000 +0600" stop="20260927121000 +0600" channel="WION.in">
-    <title lang="bn">初入職場·中醫季[粵/普]</title>
-  </programme>
-  <programme start="20260927121000 +0600" stop="20260927124000 +0600" channel="WION.in">
-    <title lang="bn">甜心先生[粵]</title>
-  </programme>
-  <programme start="20260927124000 +0600" stop="20260927130500 +0600" channel="WION.in">
-    <title lang="bn">盲盒鐵路遊[粵]</title>
-  </programme>
-  <programme start="20260927130500 +0600" stop="20260927133500 +0600" channel="WION.in">
-    <title lang="bn">飲茶[粵]</title>
-  </programme>
-  <programme start="20260927133500 +0600" stop="20260927140000 +0600" channel="WION.in">
-    <title lang="bn">飲茶[粵]</title>
-  </programme>
-  <programme start="20260927140000 +0600" stop="20260927143000 +0600" channel="WION.in">
-    <title lang="bn">香港情．香港味[粵]</title>
-  </programme>
-  <programme start="20260927143000 +0600" stop="20260927150000 +0600" channel="WION.in">
-    <title lang="bn">香港情．香港味[粵]</title>
-  </programme>
-  <programme start="20260927150000 +0600" stop="20260927164000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20260927164000 +0600" stop="20260927171000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20260927171000 +0600" stop="20260927174000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20260927174000 +0600" stop="20260927180000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵]</title>
-  </programme>
-  <programme start="20260927180000 +0600" stop="20260927190000 +0600" channel="WION.in">
-    <title lang="bn">方德證券獨家呈現:交易現場[粵]</title>
-  </programme>
-  <programme start="20260927190000 +0600" stop="20260927190500 +0600" channel="WION.in">
-    <title lang="bn">勁歌推介[粵]</title>
-  </programme>
-  <programme start="20260927190500 +0600" stop="20260927193500 +0600" channel="WION.in">
-    <title lang="bn">高朋滿座#194[粵]</title>
-  </programme>
-  <programme start="20260927193500 +0600" stop="20260927204000 +0600" channel="WION.in">
-    <title lang="bn">玉樓春#8[粵/普]</title>
-  </programme>
-  <programme start="20260927204000 +0600" stop="20260927211500 +0600" channel="WION.in">
-    <title lang="bn">方德證券獨家呈現:交易現場[粵] 及 退休Chill級歎世界[粵]</title>
-  </programme>
-  <programme start="20260927211500 +0600" stop="20260927220000 +0600" channel="WION.in">
-    <title lang="bn">今個夏天食平D[粵]</title>
-  </programme>
-  <programme start="20260927220000 +0600" stop="20260927222000 +0600" channel="WION.in">
-    <title lang="bn">午間新聞[粵]</title>
-  </programme>
-  <programme start="20260927222000 +0600" stop="20260927231000 +0600" channel="WION.in">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20260927231000 +0600" stop="20260927235000 +0600" channel="WION.in">
-    <title lang="bn">懿想得到[粵]</title>
-  </programme>
-  <programme start="20260927235000 +0600" stop="20260928005000 +0600" channel="WION.in">
-    <title lang="bn">天梯</title>
-  </programme>
-  <programme start="20260928005000 +0600" stop="20260928012000 +0600" channel="WION.in">
-    <title lang="bn">方德證券獨家呈現:交易現場[粵]</title>
-  </programme>
-  <programme start="20260928012000 +0600" stop="20260928015000 +0600" channel="WION.in">
-    <title lang="bn">櫻桃小丸子[粵/日]</title>
-  </programme>
-  <programme start="20260928015000 +0600" stop="20260928022000 +0600" channel="WION.in">
-    <title lang="bn">Hands Up[粵]</title>
-  </programme>
-  <programme start="20260928022000 +0600" stop="20260928025000 +0600" channel="WION.in">
-    <title lang="bn">多啦A夢[粵]</title>
-  </programme>
-  <programme start="20260928025000 +0600" stop="20260928030000 +0600" channel="WION.in">
-    <title lang="bn">財經新聞[粵]</title>
-  </programme>
-  <programme start="20260928030000 +0600" stop="20260928032500 +0600" channel="WION.in">
-    <title lang="bn">利嘉閣地產45 周年真盤源特約：今日有樓睇[粵] 及 退休Chill級歎世界[粵]</title>
-  </programme>
-  <programme start="20260928032500 +0600" stop="20260928033000 +0600" channel="WION.in">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20260928033000 +0600" stop="20260928041500 +0600" channel="WION.in">
-    <title lang="bn">六點半新聞報道[粵]</title>
-  </programme>
-  <programme start="20260928041500 +0600" stop="20260928042500 +0600" channel="WION.in">
-    <title lang="bn">世界觀[粵] 及 農本方參苓白朮散呈獻:天氣報告[粵]</title>
-  </programme>
-  <programme start="20260928042500 +0600" stop="20260928043000 +0600" channel="WION.in">
-    <title lang="bn">有理說得清[粵]</title>
-  </programme>
-  <programme start="20260928043000 +0600" stop="20260928050000 +0600" channel="WION.in">
-    <title lang="bn">東張西望[粵] 及 富途證券特約:富途講美股[粵]</title>
-  </programme>
-  <programme start="20260928050000 +0600" stop="20260928053000 +0600" channel="WION.in">
-    <title lang="bn">黃道益活絡油呈獻：愛．回家之三代同糖#36[粵]</title>
-  </programme>
-  <programme start="20260928053000 +0600" stop="20260928063000 +0600" channel="WION.in">
-    <title lang="bn">死有對証#16[粵][PG]</title>
-  </programme>
-  <programme start="20260928063000 +0600" stop="20260928073000 +0600" channel="WION.in">
-    <title lang="bn">百花殺#18[粵/普]</title>
-  </programme>
-  <programme start="20260928073000 +0600" stop="20260928080000 +0600" channel="WION.in">
-    <title lang="bn">藍朋友‧旅朋友 溫哥華篇[粵]</title>
-  </programme>
-  <programme start="20260928080000 +0600" stop="20260928081500 +0600" channel="WION.in">
-    <title lang="bn">娛樂頭條[粵] 及 環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20260928081500 +0600" stop="20260928084500 +0600" channel="WION.in">
-    <title lang="bn">晚間新聞[粵]</title>
-  </programme>
-  <programme start="20260928084500 +0600" stop="20260928085000 +0600" channel="WION.in">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20260928085000 +0600" stop="20260928085500 +0600" channel="WION.in">
-    <title lang="bn">農本方參苓白朮散呈獻:天氣報告[粵] 及 退休Chill級歎世界[粵]</title>
-  </programme>
-  <programme start="20260928085500 +0600" stop="20260928100000 +0600" channel="WION.in">
-    <title lang="bn">澳娛綜合呈獻：十月初五的月光#16[粵][PG]</title>
-  </programme>
-  <programme start="20260928100000 +0600" stop="20260928103500 +0600" channel="WION.in">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20260928103500 +0600" stop="20260928112000 +0600" channel="WION.in">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20260928112000 +0600" stop="20260928115000 +0600" channel="WION.in">
-    <title lang="bn">懿想得到[粵]</title>
-  </programme>
-  <programme start="20260928115000 +0600" stop="20260928124500 +0600" channel="WION.in">
-    <title lang="bn">天梯#23[粵]</title>
-  </programme>
-  <programme start="20260928124500 +0600" stop="20260928131000 +0600" channel="WION.in">
-    <title lang="bn">高朋滿座#194[粵]</title>
-  </programme>
-  <programme start="20260928131000 +0600" stop="20260928140000 +0600" channel="WION.in">
-    <title lang="bn">玉樓春#8[粵/普]</title>
-  </programme>
-  <programme start="20260928140000 +0600" stop="20260928150000 +0600" channel="WION.in">
-    <title lang="bn">是日播映完畢</title>
-  </programme>
-  <programme start="20260928150000 +0600" stop="20260928164000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20260928164000 +0600" stop="20260928164500 +0600" channel="WION.in">
-    <title lang="bn">環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20260928164500 +0600" stop="20260928171000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20260928171000 +0600" stop="20260928174000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20260928174000 +0600" stop="20260928180000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵]</title>
-  </programme>
-  <programme start="20260928180000 +0600" stop="20260928190000 +0600" channel="WION.in">
-    <title lang="bn">方德證券獨家呈現:交易現場[粵]</title>
-  </programme>
-  <programme start="20260928190000 +0600" stop="20260928190500 +0600" channel="WION.in">
-    <title lang="bn">勁歌推介[粵]</title>
-  </programme>
-  <programme start="20260928190500 +0600" stop="20260928193500 +0600" channel="WION.in">
-    <title lang="bn">高朋滿座#195[粵]</title>
-  </programme>
-  <programme start="20260928193500 +0600" stop="20260928204000 +0600" channel="WION.in">
-    <title lang="bn">玉樓春#9[粵/普]</title>
-  </programme>
-  <programme start="20260928204000 +0600" stop="20260928211500 +0600" channel="WION.in">
-    <title lang="bn">方德證券獨家呈現:交易現場[粵] 及 潮流生活誌之格倫菲爾護齒大滿足[粵]</title>
-  </programme>
-  <programme start="20260928211500 +0600" stop="20260928220000 +0600" channel="WION.in">
-    <title lang="bn">今個夏天食平D[粵]</title>
-  </programme>
-  <programme start="20260928220000 +0600" stop="20260928222000 +0600" channel="WION.in">
-    <title lang="bn">午間新聞[粵]</title>
-  </programme>
-  <programme start="20260928222000 +0600" stop="20260928231000 +0600" channel="WION.in">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20260928231000 +0600" stop="20260928235000 +0600" channel="WION.in">
-    <title lang="bn">懿想得到[粵]</title>
-  </programme>
-  <programme start="20260928235000 +0600" stop="20260929005000 +0600" channel="WION.in">
-    <title lang="bn">天梯</title>
-  </programme>
-  <programme start="20260929005000 +0600" stop="20260929012000 +0600" channel="WION.in">
-    <title lang="bn">方德證券獨家呈現:交易現場[粵]</title>
-  </programme>
-  <programme start="20260929012000 +0600" stop="20260929015000 +0600" channel="WION.in">
-    <title lang="bn">櫻桃小丸子[粵/日]</title>
-  </programme>
-  <programme start="20260929015000 +0600" stop="20260929022000 +0600" channel="WION.in">
-    <title lang="bn">Hands Up[粵]</title>
-  </programme>
-  <programme start="20260929022000 +0600" stop="20260929025000 +0600" channel="WION.in">
-    <title lang="bn">麵包超人[粵/日]</title>
-  </programme>
-  <programme start="20260929025000 +0600" stop="20260929030000 +0600" channel="WION.in">
-    <title lang="bn">財經新聞[粵]</title>
-  </programme>
-  <programme start="20260929030000 +0600" stop="20260929032500 +0600" channel="WION.in">
-    <title lang="bn">馬百良六寶靈芝呈獻:最強生命線[粵] 及 潮流生活誌之格倫菲爾護齒大滿足[粵]</title>
-  </programme>
-  <programme start="20260929032500 +0600" stop="20260929033000 +0600" channel="WION.in">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20260929033000 +0600" stop="20260929041500 +0600" channel="WION.in">
-    <title lang="bn">六點半新聞報道[粵]</title>
-  </programme>
-  <programme start="20260929041500 +0600" stop="20260929042500 +0600" channel="WION.in">
-    <title lang="bn">世界觀[粵] 及 農本方參苓白朮散呈獻:天氣報告[粵]</title>
-  </programme>
-  <programme start="20260929042500 +0600" stop="20260929043000 +0600" channel="WION.in">
-    <title lang="bn">宏利保險呈獻：灣區零距離[粵]</title>
-  </programme>
-  <programme start="20260929043000 +0600" stop="20260929043500 +0600" channel="WION.in">
-    <title lang="bn">AXA 安盛呈獻 :歲歲無憂[粵]</title>
-  </programme>
-  <programme start="20260929043500 +0600" stop="20260929050000 +0600" channel="WION.in">
-    <title lang="bn">東張西望[粵] 及 富途證券特約:富途講美股[粵]</title>
-  </programme>
-  <programme start="20260929050000 +0600" stop="20260929053000 +0600" channel="WION.in">
-    <title lang="bn">黃道益活絡油呈獻：愛．回家之三代同糖#37[粵]</title>
-  </programme>
-  <programme start="20260929053000 +0600" stop="20260929063000 +0600" channel="WION.in">
-    <title lang="bn">死有對証#17[粵][PG]</title>
-  </programme>
-  <programme start="20260929063000 +0600" stop="20260929073000 +0600" channel="WION.in">
-    <title lang="bn">百花殺#19[粵/普]</title>
-  </programme>
-  <programme start="20260929073000 +0600" stop="20260929080000 +0600" channel="WION.in">
-    <title lang="bn">藍朋友‧旅朋友 溫哥華篇[粵]</title>
-  </programme>
-  <programme start="20260929080000 +0600" stop="20260929081500 +0600" channel="WION.in">
-    <title lang="bn">娛樂頭條[粵] 及 環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20260929081500 +0600" stop="20260929084500 +0600" channel="WION.in">
-    <title lang="bn">晚間新聞[粵]</title>
-  </programme>
-  <programme start="20260929084500 +0600" stop="20260929085000 +0600" channel="WION.in">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20260929085000 +0600" stop="20260929085500 +0600" channel="WION.in">
-    <title lang="bn">農本方參苓白朮散呈獻:天氣報告[粵] 及 潮流生活誌之格倫菲爾護齒大滿足[粵]</title>
-  </programme>
-  <programme start="20260929085500 +0600" stop="20260929100000 +0600" channel="WION.in">
-    <title lang="bn">澳娛綜合呈獻：十月初五的月光#17[粵][PG]</title>
-  </programme>
-  <programme start="20260929100000 +0600" stop="20260929103500 +0600" channel="WION.in">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20260929103500 +0600" stop="20260929112000 +0600" channel="WION.in">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20260929112000 +0600" stop="20260929115000 +0600" channel="WION.in">
-    <title lang="bn">今個夏天食平D[粵]</title>
-  </programme>
-  <programme start="20260929115000 +0600" stop="20260929124500 +0600" channel="WION.in">
-    <title lang="bn">天梯#24[粵][PG]</title>
-  </programme>
-  <programme start="20260929124500 +0600" stop="20260929131000 +0600" channel="WION.in">
-    <title lang="bn">高朋滿座#195[粵]</title>
-  </programme>
-  <programme start="20260929131000 +0600" stop="20260929140500 +0600" channel="WION.in">
-    <title lang="bn">玉樓春#9[粵/普]</title>
-  </programme>
-  <programme start="20260929140500 +0600" stop="20260929150000 +0600" channel="WION.in">
-    <title lang="bn">美女廚房[粵][PG]</title>
-  </programme>
-  <programme start="20260929150000 +0600" stop="20260929164000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20260929164000 +0600" stop="20260929164500 +0600" channel="WION.in">
-    <title lang="bn">環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20260929164500 +0600" stop="20260929171000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20260929171000 +0600" stop="20260929174000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20260929174000 +0600" stop="20260929180000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵]</title>
-  </programme>
-  <programme start="20260929180000 +0600" stop="20260929190000 +0600" channel="WION.in">
-    <title lang="bn">方德證券獨家呈現:交易現場[粵]</title>
-  </programme>
-  <programme start="20260929190000 +0600" stop="20260929190500 +0600" channel="WION.in">
-    <title lang="bn">勁歌推介[粵]</title>
-  </programme>
-  <programme start="20260929190500 +0600" stop="20260929193500 +0600" channel="WION.in">
-    <title lang="bn">高朋滿座#196[粵]</title>
-  </programme>
-  <programme start="20260929193500 +0600" stop="20260929204000 +0600" channel="WION.in">
-    <title lang="bn">玉樓春#10[粵/普]</title>
-  </programme>
-  <programme start="20260929204000 +0600" stop="20260929211500 +0600" channel="WION.in">
-    <title lang="bn">方德證券獨家呈現:交易現場[粵] 及 退休Chill級歎世界[粵]</title>
-  </programme>
-  <programme start="20260929211500 +0600" stop="20260929215500 +0600" channel="WION.in">
-    <title lang="bn">今個夏天食平D[粵]</title>
-  </programme>
-  <programme start="20260929215500 +0600" stop="20260929220000 +0600" channel="WION.in">
-    <title lang="bn">AXA 安盛呈獻 :歲歲無憂[粵]</title>
-  </programme>
-  <programme start="20260929220000 +0600" stop="20260929222000 +0600" channel="WION.in">
-    <title lang="bn">午間新聞[粵]</title>
-  </programme>
-  <programme start="20260929222000 +0600" stop="20260929231000 +0600" channel="WION.in">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20260929231000 +0600" stop="20260930005000 +0600" channel="WION.in">
-    <title lang="bn">天梯#25[粵]</title>
-  </programme>
-  <programme start="20260930005000 +0600" stop="20260930012000 +0600" channel="WION.in">
-    <title lang="bn">方德證券獨家呈現:交易現場[粵]</title>
-  </programme>
-  <programme start="20260930012000 +0600" stop="20260930015000 +0600" channel="WION.in">
-    <title lang="bn">櫻桃小丸子[粵/日]</title>
-  </programme>
-  <programme start="20260930015000 +0600" stop="20260930022000 +0600" channel="WION.in">
-    <title lang="bn">Hands Up[粵]</title>
-  </programme>
-  <programme start="20260930022000 +0600" stop="20260930025000 +0600" channel="WION.in">
-    <title lang="bn">麵包超人[粵/日]</title>
-  </programme>
-  <programme start="20260930025000 +0600" stop="20260930030000 +0600" channel="WION.in">
-    <title lang="bn">財經新聞[粵]</title>
-  </programme>
-  <programme start="20260930030000 +0600" stop="20260930032500 +0600" channel="WION.in">
-    <title lang="bn">利嘉閣地產45 周年真盤源特約：今日有樓睇[粵] 及 退休Chill級歎世界[粵]</title>
-  </programme>
-  <programme start="20260930032500 +0600" stop="20260930033000 +0600" channel="WION.in">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20260930033000 +0600" stop="20260930041500 +0600" channel="WION.in">
-    <title lang="bn">六點半新聞報道[粵]</title>
-  </programme>
-  <programme start="20260930041500 +0600" stop="20260930042500 +0600" channel="WION.in">
-    <title lang="bn">世界觀[粵] 及 農本方參苓白朮散呈獻:天氣報告[粵]</title>
-  </programme>
-  <programme start="20260930042500 +0600" stop="20260930043000 +0600" channel="WION.in">
-    <title lang="bn">有理說得清[粵]</title>
-  </programme>
-  <programme start="20260930043000 +0600" stop="20260930050000 +0600" channel="WION.in">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20260930050000 +0600" stop="20260930053000 +0600" channel="WION.in">
-    <title lang="bn">黃道益活絡油呈獻：愛．回家之三代同糖#38[粵]</title>
-  </programme>
-  <programme start="20260930053000 +0600" stop="20260930063000 +0600" channel="WION.in">
-    <title lang="bn">死有對証#18[粵][PG]</title>
-  </programme>
-  <programme start="20260930063000 +0600" stop="20260930073000 +0600" channel="WION.in">
-    <title lang="bn">百花殺#20[粵/普][PG]</title>
-  </programme>
-  <programme start="20260930073000 +0600" stop="20260930080000 +0600" channel="WION.in">
-    <title lang="bn">藍朋友‧旅朋友 溫哥華篇[粵]</title>
-  </programme>
-  <programme start="20260930080000 +0600" stop="20260930081500 +0600" channel="WION.in">
-    <title lang="bn">娛樂頭條[粵] 及 環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20260930081500 +0600" stop="20260930084500 +0600" channel="WION.in">
-    <title lang="bn">晚間新聞[粵]</title>
-  </programme>
-  <programme start="20260930084500 +0600" stop="20260930085000 +0600" channel="WION.in">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20260930085000 +0600" stop="20260930085500 +0600" channel="WION.in">
-    <title lang="bn">農本方參苓白朮散呈獻:天氣報告[粵] 及 退休Chill級歎世界[粵]</title>
-  </programme>
-  <programme start="20260930085500 +0600" stop="20260930100000 +0600" channel="WION.in">
-    <title lang="bn">澳娛綜合呈獻：十月初五的月光#18[粵][PG]</title>
-  </programme>
-  <programme start="20260930100000 +0600" stop="20260930103500 +0600" channel="WION.in">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20260930103500 +0600" stop="20260930112000 +0600" channel="WION.in">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20260930112000 +0600" stop="20260930124500 +0600" channel="WION.in">
-    <title lang="bn">天梯#25[粵]</title>
-  </programme>
-  <programme start="20260930124500 +0600" stop="20260930131000 +0600" channel="WION.in">
-    <title lang="bn">高朋滿座#196[粵]</title>
-  </programme>
-  <programme start="20260930131000 +0600" stop="20260930140500 +0600" channel="WION.in">
-    <title lang="bn">玉樓春#10[粵/普]</title>
-  </programme>
-  <programme start="20260930140500 +0600" stop="20260930150000 +0600" channel="WION.in">
-    <title lang="bn">Sunday好戲王[粵][PG]</title>
-  </programme>
-  <programme start="20260930150000 +0600" stop="20260930164000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵]</title>
-  </programme>
-  <programme start="20260930164000 +0600" stop="20260930164500 +0600" channel="WION.in">
-    <title lang="bn">環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20260930164500 +0600" stop="20260930180000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵]</title>
-  </programme>
-  <programme start="20260930180000 +0600" stop="20260930183000 +0600" channel="WION.in">
-    <title lang="bn">搭上高鐵愛旅遊[粵]</title>
-  </programme>
-  <programme start="20260930183000 +0600" stop="20260930190000 +0600" channel="WION.in">
-    <title lang="bn">搭上高鐵愛旅遊[粵]</title>
-  </programme>
-  <programme start="20260930190000 +0600" stop="20260930190500 +0600" channel="WION.in">
-    <title lang="bn">勁歌推介[粵]</title>
-  </programme>
-  <programme start="20260930190500 +0600" stop="20260930193500 +0600" channel="WION.in">
-    <title lang="bn">高朋滿座#197[粵]</title>
-  </programme>
-  <programme start="20260930193500 +0600" stop="20260930204000 +0600" channel="WION.in">
-    <title lang="bn">玉樓春#11[粵/普]</title>
-  </programme>
-  <programme start="20260930204000 +0600" stop="20260930211500 +0600" channel="WION.in">
-    <title lang="bn">滿足的味道[粵] 及 潮流生活誌之格倫菲爾護齒大滿足[粵]</title>
-  </programme>
-  <programme start="20260930211500 +0600" stop="20260930220000 +0600" channel="WION.in">
-    <title lang="bn">今個夏天食平D[粵]</title>
-  </programme>
-  <programme start="20260930220000 +0600" stop="20260930222000 +0600" channel="WION.in">
-    <title lang="bn">午間新聞[粵]</title>
-  </programme>
-  <programme start="20260930222000 +0600" stop="20260930231000 +0600" channel="WION.in">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20260930231000 +0600" stop="20260930234000 +0600" channel="WION.in">
-    <title lang="bn">不老傳說[粵]</title>
-  </programme>
-  <programme start="20260930234000 +0600" stop="20260930235000 +0600" channel="WION.in">
-    <title lang="bn">AXA 安盛呈獻 :歲歲無憂[粵]</title>
-  </programme>
-  <programme start="20260930235000 +0600" stop="20261001005000 +0600" channel="WION.in">
-    <title lang="bn">老表，你好hea！#1[粵]</title>
-  </programme>
-  <programme start="20261001005000 +0600" stop="20261001012000 +0600" channel="WION.in">
-    <title lang="bn">櫻桃小丸子[粵/日]</title>
-  </programme>
-  <programme start="20261001012000 +0600" stop="20261001015000 +0600" channel="WION.in">
-    <title lang="bn">櫻桃小丸子[粵/日]</title>
-  </programme>
-  <programme start="20261001015000 +0600" stop="20261001022000 +0600" channel="WION.in">
-    <title lang="bn">Hands Up[粵]</title>
-  </programme>
-  <programme start="20261001022000 +0600" stop="20261001025000 +0600" channel="WION.in">
-    <title lang="bn">皇家少女樂團[粵/日]</title>
-  </programme>
-  <programme start="20261001025000 +0600" stop="20261001030000 +0600" channel="WION.in">
-    <title lang="bn">財經新聞[粵]</title>
-  </programme>
-  <programme start="20261001030000 +0600" stop="20261001032500 +0600" channel="WION.in">
-    <title lang="bn">新聞掏寶[粵] 及 潮流生活誌之格倫菲爾護齒大滿足[粵]</title>
-  </programme>
-  <programme start="20261001032500 +0600" stop="20261001033000 +0600" channel="WION.in">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20261001033000 +0600" stop="20261001041500 +0600" channel="WION.in">
-    <title lang="bn">六點半新聞報道[粵] 及 香港高昇基金呈獻：港好五年規劃[粵]</title>
-  </programme>
-  <programme start="20261001041500 +0600" stop="20261001042500 +0600" channel="WION.in">
-    <title lang="bn">世界觀[粵] 及 農本方參苓白朮散呈獻:天氣報告[粵]</title>
-  </programme>
-  <programme start="20261001042500 +0600" stop="20261001043000 +0600" channel="WION.in">
-    <title lang="bn">宏利保險呈獻：灣區零距離[粵]</title>
-  </programme>
-  <programme start="20261001043000 +0600" stop="20261001043500 +0600" channel="WION.in">
-    <title lang="bn">滙豐Premier Elite呈獻：《滙豐Premier Elite財富滙談》[粵]</title>
-  </programme>
-  <programme start="20261001043500 +0600" stop="20261001045000 +0600" channel="WION.in">
-    <title lang="bn">東張西望[粵] 及 Sun Life 永明《邁向135周年》故事特輯[粵]</title>
-  </programme>
-  <programme start="20261001045000 +0600" stop="20261001053000 +0600" channel="WION.in">
-    <title lang="bn">Sun Life永明呈獻:2026年國慶煙花匯演「永明煙花 綻放中華」[粵]</title>
-  </programme>
-  <programme start="20261001053000 +0600" stop="20261001063000 +0600" channel="WION.in">
-    <title lang="bn">死有對証#19[粵][PG]</title>
-  </programme>
-  <programme start="20261001063000 +0600" stop="20261001073000 +0600" channel="WION.in">
-    <title lang="bn">百花殺#21[粵/普][PG]</title>
-  </programme>
-  <programme start="20261001073000 +0600" stop="20261001080000 +0600" channel="WION.in">
-    <title lang="bn">藍朋友‧旅朋友 溫哥華篇[粵]</title>
-  </programme>
-  <programme start="20261001080000 +0600" stop="20261001081500 +0600" channel="WION.in">
-    <title lang="bn">娛樂頭條[粵] 及 環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20261001081500 +0600" stop="20261001084500 +0600" channel="WION.in">
-    <title lang="bn">晚間新聞[粵]</title>
-  </programme>
-  <programme start="20261001084500 +0600" stop="20261001085000 +0600" channel="WION.in">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20261001085000 +0600" stop="20261001085500 +0600" channel="WION.in">
-    <title lang="bn">農本方參苓白朮散呈獻:天氣報告[粵] 及 潮流生活誌之格倫菲爾護齒大滿足[粵]</title>
-  </programme>
-  <programme start="20261001085500 +0600" stop="20261001100000 +0600" channel="WION.in">
-    <title lang="bn">澳娛綜合呈獻：十月初五的月光#19[粵][PG]</title>
-  </programme>
-  <programme start="20261001100000 +0600" stop="20261001102000 +0600" channel="WION.in">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20261001102000 +0600" stop="20261001103500 +0600" channel="WION.in">
-    <title lang="bn">香港原味道[粵]</title>
-  </programme>
-  <programme start="20261001103500 +0600" stop="20261001112000 +0600" channel="WION.in">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20261001112000 +0600" stop="20261001115000 +0600" channel="WION.in">
-    <title lang="bn">不老傳說[粵]</title>
-  </programme>
-  <programme start="20261001115000 +0600" stop="20261001124500 +0600" channel="WION.in">
-    <title lang="bn">老表，你好hea！#1[粵]</title>
-  </programme>
-  <programme start="20261001124500 +0600" stop="20261001131000 +0600" channel="WION.in">
-    <title lang="bn">高朋滿座#197[粵]</title>
-  </programme>
-  <programme start="20261001131000 +0600" stop="20261001140500 +0600" channel="WION.in">
-    <title lang="bn">玉樓春#11[粵/普]</title>
-  </programme>
-  <programme start="20261001140500 +0600" stop="20261001150000 +0600" channel="WION.in">
-    <title lang="bn">Do姐有問題[粵]</title>
-  </programme>
-  <programme start="20261001150000 +0600" stop="20261001164000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20261001164000 +0600" stop="20261001164500 +0600" channel="WION.in">
-    <title lang="bn">環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20261001164500 +0600" stop="20261001171000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20261001171000 +0600" stop="20261001174000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵] 及 交通消息[粵]</title>
-  </programme>
-  <programme start="20261001174000 +0600" stop="20261001180000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵]</title>
-  </programme>
-  <programme start="20261001180000 +0600" stop="20261001190000 +0600" channel="WION.in">
-    <title lang="bn">方德證券獨家呈現:交易現場[粵]</title>
-  </programme>
-  <programme start="20261001190000 +0600" stop="20261001190500 +0600" channel="WION.in">
-    <title lang="bn">勁歌推介[粵]</title>
-  </programme>
-  <programme start="20261001190500 +0600" stop="20261001193500 +0600" channel="WION.in">
-    <title lang="bn">高朋滿座#198[粵]</title>
-  </programme>
-  <programme start="20261001193500 +0600" stop="20261001204000 +0600" channel="WION.in">
-    <title lang="bn">玉樓春#12[粵/普]</title>
-  </programme>
-  <programme start="20261001204000 +0600" stop="20261001211500 +0600" channel="WION.in">
-    <title lang="bn">方德證券獨家呈現:交易現場[粵] 及 退休Chill級歎世界[粵]</title>
-  </programme>
-  <programme start="20261001211500 +0600" stop="20261001220000 +0600" channel="WION.in">
-    <title lang="bn">今個夏天食平D[粵]</title>
-  </programme>
-  <programme start="20261001220000 +0600" stop="20261001222000 +0600" channel="WION.in">
-    <title lang="bn">午間新聞[粵]</title>
-  </programme>
-  <programme start="20261001222000 +0600" stop="20261001222500 +0600" channel="WION.in">
-    <title lang="bn">滙豐Premier Elite呈獻：《滙豐Premier Elite財富滙談》[粵]</title>
-  </programme>
-  <programme start="20261001222500 +0600" stop="20261001231000 +0600" channel="WION.in">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20261001231000 +0600" stop="20261001235000 +0600" channel="WION.in">
-    <title lang="bn">不老傳說[粵]</title>
-  </programme>
-  <programme start="20261001235000 +0600" stop="20261002005000 +0600" channel="WION.in">
-    <title lang="bn">老表，你好hea！#2[粵]</title>
-  </programme>
-  <programme start="20261002005000 +0600" stop="20261002012000 +0600" channel="WION.in">
-    <title lang="bn">方德證券獨家呈現:交易現場[粵]</title>
-  </programme>
-  <programme start="20261002012000 +0600" stop="20261002015000 +0600" channel="WION.in">
-    <title lang="bn">櫻桃小丸子[粵/日]</title>
-  </programme>
-  <programme start="20261002015000 +0600" stop="20261002022000 +0600" channel="WION.in">
-    <title lang="bn">Hands Up[粵]</title>
-  </programme>
-  <programme start="20261002022000 +0600" stop="20261002025000 +0600" channel="WION.in">
-    <title lang="bn">皇家少女樂團[粵/日]</title>
-  </programme>
-  <programme start="20261002025000 +0600" stop="20261002030000 +0600" channel="WION.in">
-    <title lang="bn">財經新聞[粵]</title>
-  </programme>
-  <programme start="20261002030000 +0600" stop="20261002032500 +0600" channel="WION.in">
-    <title lang="bn">利嘉閣地產45 周年真盤源特約：今日有樓睇[粵] 及 退休Chill級歎世界[粵]</title>
-  </programme>
-  <programme start="20261002032500 +0600" stop="20261002033000 +0600" channel="WION.in">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20261002033000 +0600" stop="20261002041500 +0600" channel="WION.in">
-    <title lang="bn">六點半新聞報道[粵] 及 香港高昇基金呈獻：港好五年規劃[粵]</title>
-  </programme>
-  <programme start="20261002041500 +0600" stop="20261002042500 +0600" channel="WION.in">
-    <title lang="bn">世界觀[粵] 及 農本方參苓白朮散呈獻:天氣報告[粵]</title>
-  </programme>
-  <programme start="20261002042500 +0600" stop="20261002043000 +0600" channel="WION.in">
-    <title lang="bn">有理說得清[粵]</title>
-  </programme>
-  <programme start="20261002043000 +0600" stop="20261002050000 +0600" channel="WION.in">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20261002050000 +0600" stop="20261002053000 +0600" channel="WION.in">
-    <title lang="bn">黃道益活絡油呈獻：愛．回家之三代同糖#39[粵]</title>
-  </programme>
-  <programme start="20261002053000 +0600" stop="20261002063000 +0600" channel="WION.in">
-    <title lang="bn">死有對証#20[粵][PG]</title>
-  </programme>
-  <programme start="20261002063000 +0600" stop="20261002073000 +0600" channel="WION.in">
-    <title lang="bn">百花殺#22[粵/普][PG]</title>
-  </programme>
-  <programme start="20261002073000 +0600" stop="20261002080000 +0600" channel="WION.in">
-    <title lang="bn">藍朋友‧旅朋友 溫哥華篇[粵]</title>
-  </programme>
-  <programme start="20261002080000 +0600" stop="20261002081500 +0600" channel="WION.in">
-    <title lang="bn">娛樂頭條[粵] 及 環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20261002081500 +0600" stop="20261002084500 +0600" channel="WION.in">
-    <title lang="bn">晚間新聞[粵]</title>
-  </programme>
-  <programme start="20261002084500 +0600" stop="20261002085000 +0600" channel="WION.in">
-    <title lang="bn">新聞檔案[粵]</title>
-  </programme>
-  <programme start="20261002085000 +0600" stop="20261002085500 +0600" channel="WION.in">
-    <title lang="bn">農本方參苓白朮散呈獻:天氣報告[粵] 及 退休Chill級歎世界[粵]</title>
-  </programme>
-  <programme start="20261002085500 +0600" stop="20261002100000 +0600" channel="WION.in">
-    <title lang="bn">澳娛綜合呈獻：十月初五的月光#20[粵][PG]</title>
-  </programme>
-  <programme start="20261002100000 +0600" stop="20261002103500 +0600" channel="WION.in">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20261002103500 +0600" stop="20261002112000 +0600" channel="WION.in">
-    <title lang="bn">流行都市[粵]</title>
-  </programme>
-  <programme start="20261002112000 +0600" stop="20261002115000 +0600" channel="WION.in">
-    <title lang="bn">不老傳說[粵]</title>
-  </programme>
-  <programme start="20261002115000 +0600" stop="20261002124500 +0600" channel="WION.in">
-    <title lang="bn">老表，你好hea！#2[粵]</title>
-  </programme>
-  <programme start="20261002124500 +0600" stop="20261002131000 +0600" channel="WION.in">
-    <title lang="bn">高朋滿座#198[粵]</title>
-  </programme>
-  <programme start="20261002131000 +0600" stop="20261002140500 +0600" channel="WION.in">
-    <title lang="bn">玉樓春#12[粵/普]</title>
-  </programme>
-  <programme start="20261002140500 +0600" stop="20261002143500 +0600" channel="WION.in">
-    <title lang="bn">瘋狂歷史補習社[粵]</title>
-  </programme>
-  <programme start="20261002143500 +0600" stop="20261002150000 +0600" channel="WION.in">
-    <title lang="bn">瘋狂歷史補習社[粵]</title>
-  </programme>
-  <programme start="20261002150000 +0600" stop="20261002164500 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵] 及 環球新聞檔案[粵]</title>
-  </programme>
-  <programme start="20261002164500 +0600" stop="20261002180000 +0600" channel="WION.in">
-    <title lang="bn">香港早晨[粵]</title>
-  </programme>
-  <programme start="20261002180000 +0600" stop="20261002190000 +0600" channel="WION.in">
-    <title lang="bn">細味文明[粵/英]</title>
-  </programme>
-  <programme start="20261002190000 +0600" stop="20261002193000 +0600" channel="WION.in">
-    <title lang="bn">手匠傳承[粵/韓]</title>
-  </programme>
-  <programme start="20261002193000 +0600" stop="20261002203000 +0600" channel="WION.in">
-    <title lang="bn">排檔尋情味[粵/英]</title>
-  </programme>
-  <programme start="20261002203000 +0600" stop="20261002210000 +0600" channel="WION.in">
-    <title lang="bn">胡說八道真情假期[粵] 及 潮流生活誌之格倫菲爾護齒大滿足[粵]</title>
-  </programme>
-  <programme start="20261002210000 +0600" stop="20261002212500 +0600" channel="WION.in">
-    <title lang="bn">兩個小生去Camping[粵]</title>
-  </programme>
-  <programme start="20261002212500 +0600" stop="20261002215500 +0600" channel="WION.in">
-    <title lang="bn">周六聊Teen谷[粵]</title>
-  </programme>
-  <programme start="20261002215500 +0600" stop="20261002220000 +0600" channel="WION.in">
-    <title lang="bn">滙豐Premier Elite呈獻：《滙豐Premier Elite財富滙談》[粵]</title>
-  </programme>
-  <programme start="20261002220000 +0600" stop="20261002221500 +0600" channel="WION.in">
-    <title lang="bn">午間新聞[粵]</title>
-  </programme>
-  <programme start="20261002221500 +0600" stop="20261002232000 +0600" channel="WION.in">
-    <title lang="bn">聲夢1+2[粵]</title>
-  </programme>
-  <programme start="20261002232000 +0600" stop="20261002235500 +0600" channel="WION.in">
-    <title lang="bn">世界養生組織[粵]</title>
-  </programme>
-  <programme start="20261002235500 +0600" stop="20261003002000 +0600" channel="WION.in">
-    <title lang="bn">雙祥見[粵] 及 語你同行三十載[粵]</title>
-  </programme>
-  <programme start="20261003002000 +0600" stop="20261003005500 +0600" channel="WION.in">
-    <title lang="bn">地球大神秘[粵]</title>
-  </programme>
-  <programme start="20261003005500 +0600" stop="20261003010000 +0600" channel="WION.in">
-    <title lang="bn">勁歌推介[粵]</title>
-  </programme>
-  <programme start="20261003010000 +0600" stop="20261003013000 +0600" channel="WION.in">
-    <title lang="bn">魔神創造傳[粵/日]</title>
-  </programme>
-  <programme start="20261003013000 +0600" stop="20261003020000 +0600" channel="WION.in">
-    <title lang="bn">Hands Up[粵]</title>
-  </programme>
-  <programme start="20261003020000 +0600" stop="20261003021500 +0600" channel="WION.in">
-    <title lang="bn">查查林部隊[粵/英]</title>
-  </programme>
-  <programme start="20261003021500 +0600" stop="20261003023000 +0600" channel="WION.in">
-    <title lang="bn">查查林部隊[粵/英]</title>
-  </programme>
-  <programme start="20261003023000 +0600" stop="20261003030000 +0600" channel="WION.in">
-    <title lang="bn">安妮的童話[粵/日]</title>
-  </programme>
-  <programme start="20261003030000 +0600" stop="20261003032500 +0600" channel="WION.in">
-    <title lang="bn">大敦煌[粵]</title>
-  </programme>
-  <programme start="20261003032500 +0600" stop="20261003033000 +0600" channel="WION.in">
-    <title lang="bn">潮流生活誌之格倫菲爾護齒大滿足[粵]</title>
-  </programme>
-  <programme start="20261003033000 +0600" stop="20261003035500 +0600" channel="WION.in">
-    <title lang="bn">六點半新聞報道[粵]</title>
-  </programme>
-  <programme start="20261003035500 +0600" stop="20261003040000 +0600" channel="WION.in">
-    <title lang="bn">農本方參苓白朮散呈獻:天氣報告[粵]</title>
-  </programme>
-  <programme start="20261003040000 +0600" stop="20261003043000 +0600" channel="WION.in">
-    <title lang="bn">新聞透視[粵] 及 語你同行三十載[粵]</title>
-  </programme>
-  <programme start="20261003043000 +0600" stop="20261003043500 +0600" channel="WION.in">
-    <title lang="bn">好嘢港多啲[粵]</title>
-  </programme>
-  <programme start="20261003043500 +0600" stop="20261003050000 +0600" channel="WION.in">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20261003050000 +0600" stop="20261003053000 +0600" channel="WION.in">
-    <title lang="bn">香港系列之細間始終你好[粵]</title>
-  </programme>
-  <programme start="20261003053000 +0600" stop="20261003074500 +0600" channel="WION.in">
-    <title lang="bn">G風暴[粵][PG]</title>
-  </programme>
-  <programme start="20261003074500 +0600" stop="20261003081500 +0600" channel="WION.in">
-    <title lang="bn">伯樂音樂學院20週年呈獻：J Music[粵]</title>
-  </programme>
-  <programme start="20261003081500 +0600" stop="20261003083000 +0600" channel="WION.in">
-    <title lang="bn">晚間新聞[粵]</title>
-  </programme>
-  <programme start="20261003083000 +0600" stop="20261003083500 +0600" channel="WION.in">
-    <title lang="bn">農本方參苓白朮散呈獻:天氣報告[粵]</title>
-  </programme>
-  <programme start="20261003083500 +0600" stop="20261003090500 +0600" channel="WION.in">
-    <title lang="bn">香港賽馬會特約：J Sport[粵] 及 潮流生活誌之格倫菲爾護齒大滿足[粵]</title>
-  </programme>
-  <programme start="20261003090500 +0600" stop="20261003100500 +0600" channel="WION.in">
-    <title lang="bn">飛虎3壯志英雄#9[粵][PG]</title>
-  </programme>
-  <programme start="20261003100500 +0600" stop="20261003103500 +0600" channel="WION.in">
-    <title lang="bn">東張西望[粵]</title>
-  </programme>
-  <programme start="20261003103500 +0600" stop="20261003110500 +0600" channel="WION.in">
-    <title lang="bn">兩個小生去Camping[粵]</title>
-  </programme>
-  <programme start="20261003110500 +0600" stop="20261003113500 +0600" channel="WION.in">
-    <title lang="bn">胡說八道真情假期[粵]</title>
-  </programme>
-  <programme start="20261003113500 +0600" stop="20261003121000 +0600" channel="WION.in">
-    <title lang="bn">世界養生組織[粵]</title>
-  </programme>
-  <programme start="20261003121000 +0600" stop="20261003123500 +0600" channel="WION.in">
-    <title lang="bn">雙祥見[粵]</title>
-  </programme>
-  <programme start="20261003123500 +0600" stop="20261003130500 +0600" channel="WION.in">
-    <title lang="bn">手匠傳承[粵/韓]</title>
-  </programme>
-  <programme start="20261003130500 +0600" stop="20261003140000 +0600" channel="WION.in">
-    <title lang="bn">排檔尋情味[粵/英]</title>
-  </programme>
-  <programme start="20261003140000 +0600" stop="20261003150000 +0600" channel="WION.in">
-    <title lang="bn">細味文明[粵/英]</title>
-  </programme>
-  <programme start="20261003150000 +0600" stop="20261003153000 +0600" channel="WION.in">
-    <title lang="bn">瘋狂歷史補習社[粵]</title>
-  </programme>
-  <programme start="20261003153000 +0600" stop="20261003160000 +0600" channel="WION.in">
-    <title lang="bn">瘋狂歷史補習社[粵]</title>
-  </programme>
-  <programme start="20261003160000 +0600" stop="20261003170000 +0600" channel="WION.in">
-    <title lang="bn">Do姐有問題[粵]</title>
-  </programme>
-  <programme start="20261003170000 +0600" stop="20261003173000 +0600" channel="WION.in">
-    <title lang="bn">香港情．香港味[粵]</title>
-  </programme>
-  <programme start="20261003173000 +0600" stop="20261003180000 +0600" channel="WION.in">
-    <title lang="bn">藝遊巷弄[粵/普]</title>
-  </programme>
-  <programme start="20261003180000 +0600" stop="20261003183000 +0600" channel="WION.in">
-    <title lang="bn">星夢頻道[粵/日]</title>
-  </programme>
-  <programme start="20261003183000 +0600" stop="20261003184500 +0600" channel="WION.in">
-    <title lang="bn">喜羊羊與灰太狼之羊羊趣冒險2[粵/普]</title>
-  </programme>
-  <programme start="20261003184500 +0600" stop="20261003190000 +0600" channel="WION.in">
-    <title lang="bn">喜羊羊與灰太狼之羊羊趣冒險2[粵/普]</title>
-  </programme>
-  <programme start="20261003190000 +0600" stop="20261003193000 +0600" channel="WION.in">
-    <title lang="bn">多啦A夢[粵]</title>
-  </programme>
-  <programme start="20261003193000 +0600" stop="20261003200000 +0600" channel="WION.in">
-    <title lang="bn">LET&amp;#x27;S CAMP! 露營少女[粵/日]</title>
-  </programme>
-  <programme start="20261003200000 +0600" stop="20261003203000 +0600" channel="WION.in">
-    <title lang="bn">講清講楚[粵]</title>
-  </programme>
-  <programme start="20261003203000 +0600" stop="20261003210000 +0600" channel="WION.in">
-    <title lang="bn">盲盒鐵路遊[粵] 及 無煙新進程[粵]</title>
-  </programme>
-  <programme start="20261003210000 +0600" stop="20261003213000 +0600" channel="WION.in">
-    <title lang="bn">飲茶[粵]</title>
-  </programme>
-  <programme start="20261003213000 +0600" stop="20261003220000 +0600" channel="WION.in">
-    <title lang="bn">飲茶[粵]</title>
-  </programme>
-  <programme start="20261003220000 +0600" stop="20261003221500 +0600" channel="WION.in">
-    <title lang="bn">午間新聞[粵]</title>
-  </programme>
-  <programme start="20261003221500 +0600" stop="20261003235000 +0600" channel="WION.in">
-    <title lang="bn">初入職場·中醫季[粵/普]</title>
-  </programme>
-  <programme start="20261003235000 +0600" stop="20261004002000 +0600" channel="WION.in">
-    <title lang="bn">澳洲潮什麼[粵]</title>
+  <programme start="20260928072500 +0600" stop="20260928075500 +0600" channel="WION.in">
+    <title lang="bn">Trudny zakład</title>
   </programme>
   <channel id="CGTN.cn">
     <display-name>CGTN</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/>
   </channel>
-  <programme start="20260927000000 +0600" stop="20260927003000 +0600" channel="CGTN.cn">
-    <title lang="bn">Wind Breaker-防風少年- 第1季第11集</title>
+  <programme start="20260928000000 +0600" stop="20260928010000 +0600" channel="CGTN.cn">
+    <title lang="bn">River Of No Return</title>
   </programme>
-  <programme start="20260927003000 +0600" stop="20260927010000 +0600" channel="CGTN.cn">
-    <title lang="bn">Wind Breaker-防風少年- 第1季第12集</title>
+  <programme start="20260928010000 +0600" stop="20260928020000 +0600" channel="CGTN.cn">
+    <title lang="bn">Saved By The Barn</title>
   </programme>
-  <programme start="20260927010000 +0600" stop="20260927013000 +0600" channel="CGTN.cn">
-    <title lang="bn">Wind Breaker-防風少年- 第1季第13集</title>
-  </programme>
-  <programme start="20260927013000 +0600" stop="20260927020000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第506集</title>
-  </programme>
-  <programme start="20260927020000 +0600" stop="20260927023000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第507集</title>
-  </programme>
-  <programme start="20260927023000 +0600" stop="20260927030000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第508集</title>
-  </programme>
-  <programme start="20260927030000 +0600" stop="20260927033000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第509集 -Encounter! The Great Swordsman Mihawk! Zoro&amp;#x27;s Self</title>
-  </programme>
-  <programme start="20260927033000 +0600" stop="20260927040000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第43集</title>
-  </programme>
-  <programme start="20260927040000 +0600" stop="20260927043000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第44集</title>
-  </programme>
-  <programme start="20260927043000 +0600" stop="20260927050000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第45集</title>
-  </programme>
-  <programme start="20260927050000 +0600" stop="20260927053000 +0600" channel="CGTN.cn">
-    <title lang="bn">家裡蹲吸血姬的鬱悶 第1季第10集</title>
-  </programme>
-  <programme start="20260927053000 +0600" stop="20260927060000 +0600" channel="CGTN.cn">
-    <title lang="bn">家裡蹲吸血姬的鬱悶 第1季第11集</title>
-  </programme>
-  <programme start="20260927060000 +0600" stop="20260927063000 +0600" channel="CGTN.cn">
-    <title lang="bn">家裡蹲吸血姬的鬱悶 第1季第12集</title>
-  </programme>
-  <programme start="20260927063000 +0600" stop="20260927070000 +0600" channel="CGTN.cn">
-    <title lang="bn">為美好的世界獻上祝福! 第2季第9集</title>
-  </programme>
-  <programme start="20260927070000 +0600" stop="20260927073000 +0600" channel="CGTN.cn">
-    <title lang="bn">為美好的世界獻上祝福! 第2季第10集</title>
-  </programme>
-  <programme start="20260927073000 +0600" stop="20260927080000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第1集</title>
-  </programme>
-  <programme start="20260927080000 +0600" stop="20260927083000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第506集</title>
-  </programme>
-  <programme start="20260927083000 +0600" stop="20260927090000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第507集</title>
-  </programme>
-  <programme start="20260927090000 +0600" stop="20260927093000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第508集</title>
-  </programme>
-  <programme start="20260927093000 +0600" stop="20260927100000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第509集 -Encounter! The Great Swordsman Mihawk! Zoro&amp;#x27;s Self</title>
-  </programme>
-  <programme start="20260927100000 +0600" stop="20260927103000 +0600" channel="CGTN.cn">
-    <title lang="bn">家裡蹲吸血姬的鬱悶 第1季第10集</title>
-  </programme>
-  <programme start="20260927103000 +0600" stop="20260927110000 +0600" channel="CGTN.cn">
-    <title lang="bn">家裡蹲吸血姬的鬱悶 第1季第11集</title>
-  </programme>
-  <programme start="20260927110000 +0600" stop="20260927113000 +0600" channel="CGTN.cn">
-    <title lang="bn">家裡蹲吸血姬的鬱悶 第1季第12集</title>
-  </programme>
-  <programme start="20260927113000 +0600" stop="20260927120000 +0600" channel="CGTN.cn">
-    <title lang="bn">為美好的世界獻上祝福! 第2季第9集</title>
-  </programme>
-  <programme start="20260927120000 +0600" stop="20260927123000 +0600" channel="CGTN.cn">
-    <title lang="bn">為美好的世界獻上祝福! 第2季第10集</title>
-  </programme>
-  <programme start="20260927123000 +0600" stop="20260927130000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第1集</title>
-  </programme>
-  <programme start="20260927130000 +0600" stop="20260927133000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第506集</title>
-  </programme>
-  <programme start="20260927133000 +0600" stop="20260927140000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第507集</title>
-  </programme>
-  <programme start="20260927140000 +0600" stop="20260927143000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第508集</title>
-  </programme>
-  <programme start="20260927143000 +0600" stop="20260927150000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第509集 -Encounter! The Great Swordsman Mihawk! Zoro&amp;#x27;s Self</title>
-  </programme>
-  <programme start="20260927150000 +0600" stop="20260927153000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第89集</title>
-  </programme>
-  <programme start="20260927153000 +0600" stop="20260927160000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第90集</title>
-  </programme>
-  <programme start="20260927160000 +0600" stop="20260927163000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第1集</title>
-  </programme>
-  <programme start="20260927163000 +0600" stop="20260927170000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第2集</title>
-  </programme>
-  <programme start="20260927170000 +0600" stop="20260927173000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第508集</title>
-  </programme>
-  <programme start="20260927173000 +0600" stop="20260927180000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第509集 -Encounter! The Great Swordsman Mihawk! Zoro&amp;#x27;s Self</title>
-  </programme>
-  <programme start="20260927180000 +0600" stop="20260927183000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第89集</title>
-  </programme>
-  <programme start="20260927183000 +0600" stop="20260927190000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第90集</title>
-  </programme>
-  <programme start="20260927190000 +0600" stop="20260927193000 +0600" channel="CGTN.cn">
-    <title lang="bn">異世界藥局 第1季第12集</title>
-  </programme>
-  <programme start="20260927193000 +0600" stop="20260927200000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第1集</title>
-  </programme>
-  <programme start="20260927200000 +0600" stop="20260927203000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第1集</title>
-  </programme>
-  <programme start="20260927203000 +0600" stop="20260927210000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第2集</title>
-  </programme>
-  <programme start="20260927210000 +0600" stop="20260927213000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第508集</title>
-  </programme>
-  <programme start="20260927213000 +0600" stop="20260927220000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第509集 -Encounter! The Great Swordsman Mihawk! Zoro&amp;#x27;s Self</title>
-  </programme>
-  <programme start="20260927220000 +0600" stop="20260927223000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第3季第43集</title>
-  </programme>
-  <programme start="20260927223000 +0600" stop="20260927230000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第3季第44集</title>
-  </programme>
-  <programme start="20260927230000 +0600" stop="20260927233000 +0600" channel="CGTN.cn">
-    <title lang="bn">異世界藥局 第1季第12集</title>
-  </programme>
-  <programme start="20260927233000 +0600" stop="20260928000000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第1集</title>
-  </programme>
-  <programme start="20260928000000 +0600" stop="20260928003000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第1集</title>
-  </programme>
-  <programme start="20260928003000 +0600" stop="20260928010000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第2集</title>
-  </programme>
-  <programme start="20260928010000 +0600" stop="20260928013000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第89集</title>
-  </programme>
-  <programme start="20260928013000 +0600" stop="20260928020000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第90集</title>
-  </programme>
-  <programme start="20260928020000 +0600" stop="20260928023000 +0600" channel="CGTN.cn">
-    <title lang="bn">排球少年!! 第3季第1集</title>
-  </programme>
-  <programme start="20260928023000 +0600" stop="20260928030000 +0600" channel="CGTN.cn">
-    <title lang="bn">排球少年!! 第3季第2集</title>
+  <programme start="20260928020000 +0600" stop="20260928030000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Haunted</title>
   </programme>
   <programme start="20260928030000 +0600" stop="20260928033000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第90集</title>
+    <title lang="bn">Little Giants</title>
   </programme>
   <programme start="20260928033000 +0600" stop="20260928040000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第91集</title>
+    <title lang="bn">Little Giants</title>
   </programme>
-  <programme start="20260928040000 +0600" stop="20260928043000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第45集</title>
-  </programme>
-  <programme start="20260928043000 +0600" stop="20260928050000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第46集</title>
+  <programme start="20260928040000 +0600" stop="20260928050000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Zoo</title>
   </programme>
   <programme start="20260928050000 +0600" stop="20260928053000 +0600" channel="CGTN.cn">
-    <title lang="bn">愚蠢天使與惡魔共舞 第1季第12集</title>
+    <title lang="bn">Teleshopping</title>
   </programme>
   <programme start="20260928053000 +0600" stop="20260928060000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第1集</title>
+    <title lang="bn">Teleshopping</title>
   </programme>
   <programme start="20260928060000 +0600" stop="20260928063000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第45集</title>
+    <title lang="bn">Teleshopping</title>
   </programme>
   <programme start="20260928063000 +0600" stop="20260928070000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第46集</title>
+    <title lang="bn">Teleshopping</title>
   </programme>
   <programme start="20260928070000 +0600" stop="20260928073000 +0600" channel="CGTN.cn">
-    <title lang="bn">月光下的異世界之旅 第2季第24集</title>
+    <title lang="bn">Teleshopping</title>
   </programme>
   <programme start="20260928073000 +0600" stop="20260928080000 +0600" channel="CGTN.cn">
-    <title lang="bn">月光下的異世界之旅 第2季第25集</title>
+    <title lang="bn">Teleshopping</title>
   </programme>
-  <programme start="20260928080000 +0600" stop="20260928083000 +0600" channel="CGTN.cn">
-    <title lang="bn">愚蠢天使與惡魔共舞 第1季第12集</title>
+  <programme start="20260928080000 +0600" stop="20260928090000 +0600" channel="CGTN.cn">
+    <title lang="bn">My Cat From Hell</title>
   </programme>
-  <programme start="20260928083000 +0600" stop="20260928090000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第1集</title>
+  <programme start="20260928090000 +0600" stop="20260928100000 +0600" channel="CGTN.cn">
+    <title lang="bn">We Love Puppies</title>
   </programme>
-  <programme start="20260928090000 +0600" stop="20260928093000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第45集</title>
+  <programme start="20260928100000 +0600" stop="20260928110000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tanked</title>
   </programme>
-  <programme start="20260928093000 +0600" stop="20260928100000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第46集</title>
+  <programme start="20260928110000 +0600" stop="20260928120000 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Cops Phoenix</title>
   </programme>
-  <programme start="20260928100000 +0600" stop="20260928103000 +0600" channel="CGTN.cn">
-    <title lang="bn">月光下的異世界之旅 第2季第24集</title>
+  <programme start="20260928120000 +0600" stop="20260928130000 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Cops Phoenix</title>
   </programme>
-  <programme start="20260928103000 +0600" stop="20260928110000 +0600" channel="CGTN.cn">
-    <title lang="bn">月光下的異世界之旅 第2季第25集</title>
+  <programme start="20260928130000 +0600" stop="20260928140000 +0600" channel="CGTN.cn">
+    <title lang="bn">Crikey! It&amp;#x27;s the Irwins</title>
   </programme>
-  <programme start="20260928110000 +0600" stop="20260928113000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第90集</title>
+  <programme start="20260928140000 +0600" stop="20260928150000 +0600" channel="CGTN.cn">
+    <title lang="bn">Pit Bulls &amp;amp; Parolees</title>
   </programme>
-  <programme start="20260928113000 +0600" stop="20260928120000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第91集</title>
+  <programme start="20260928150000 +0600" stop="20260928160000 +0600" channel="CGTN.cn">
+    <title lang="bn">My Cat From Hell</title>
   </programme>
-  <programme start="20260928120000 +0600" stop="20260928123000 +0600" channel="CGTN.cn">
-    <title lang="bn">愚蠢天使與惡魔共舞 第1季第12集</title>
+  <programme start="20260928160000 +0600" stop="20260928170000 +0600" channel="CGTN.cn">
+    <title lang="bn">My Cat From Hell</title>
   </programme>
-  <programme start="20260928123000 +0600" stop="20260928130000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第1集</title>
+  <programme start="20260928170000 +0600" stop="20260928180000 +0600" channel="CGTN.cn">
+    <title lang="bn">Lone Star Law</title>
   </programme>
-  <programme start="20260928130000 +0600" stop="20260928133000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第45集</title>
+  <programme start="20260928180000 +0600" stop="20260928190000 +0600" channel="CGTN.cn">
+    <title lang="bn">Dr. Jeff: Rocky Mountain Vet</title>
   </programme>
-  <programme start="20260928133000 +0600" stop="20260928140000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第46集</title>
+  <programme start="20260928190000 +0600" stop="20260928200000 +0600" channel="CGTN.cn">
+    <title lang="bn">Treehouse Masters</title>
   </programme>
-  <programme start="20260928140000 +0600" stop="20260928143000 +0600" channel="CGTN.cn">
-    <title lang="bn">月光下的異世界之旅 第2季第24集</title>
+  <programme start="20260928200000 +0600" stop="20260928210000 +0600" channel="CGTN.cn">
+    <title lang="bn">Mountain Monsters</title>
   </programme>
-  <programme start="20260928143000 +0600" stop="20260928150000 +0600" channel="CGTN.cn">
-    <title lang="bn">月光下的異世界之旅 第2季第25集</title>
+  <programme start="20260928210000 +0600" stop="20260928220000 +0600" channel="CGTN.cn">
+    <title lang="bn">Alaska: The Last Frontier</title>
   </programme>
-  <programme start="20260928150000 +0600" stop="20260928153000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第90集</title>
+  <programme start="20260928220000 +0600" stop="20260928230000 +0600" channel="CGTN.cn">
+    <title lang="bn">Alaskan Bush People</title>
   </programme>
-  <programme start="20260928153000 +0600" stop="20260928160000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第91集</title>
+  <programme start="20260928230000 +0600" stop="20260929000000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Haunted</title>
   </programme>
-  <programme start="20260928160000 +0600" stop="20260928163000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第45集</title>
+  <programme start="20260929000000 +0600" stop="20260929010000 +0600" channel="CGTN.cn">
+    <title lang="bn">Crikey! It&amp;#x27;s the Irwins</title>
   </programme>
-  <programme start="20260928163000 +0600" stop="20260928170000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第46集</title>
+  <programme start="20260929010000 +0600" stop="20260929020000 +0600" channel="CGTN.cn">
+    <title lang="bn">River Of No Return</title>
   </programme>
-  <programme start="20260928170000 +0600" stop="20260928173000 +0600" channel="CGTN.cn">
-    <title lang="bn">愚蠢天使與惡魔共舞 第1季第12集</title>
+  <programme start="20260929020000 +0600" stop="20260929030000 +0600" channel="CGTN.cn">
+    <title lang="bn">Treehouse Masters</title>
   </programme>
-  <programme start="20260928173000 +0600" stop="20260928180000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第1集</title>
+  <programme start="20260929030000 +0600" stop="20260929040000 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Cops Phoenix</title>
   </programme>
-  <programme start="20260928180000 +0600" stop="20260928183000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第90集</title>
-  </programme>
-  <programme start="20260928183000 +0600" stop="20260928190000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第91集</title>
-  </programme>
-  <programme start="20260928190000 +0600" stop="20260928193000 +0600" channel="CGTN.cn">
-    <title lang="bn">月光下的異世界之旅 第2季第24集</title>
-  </programme>
-  <programme start="20260928193000 +0600" stop="20260928200000 +0600" channel="CGTN.cn">
-    <title lang="bn">月光下的異世界之旅 第2季第25集</title>
-  </programme>
-  <programme start="20260928200000 +0600" stop="20260928203000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第45集</title>
-  </programme>
-  <programme start="20260928203000 +0600" stop="20260928210000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第46集</title>
-  </programme>
-  <programme start="20260928210000 +0600" stop="20260928213000 +0600" channel="CGTN.cn">
-    <title lang="bn">愚蠢天使與惡魔共舞 第1季第12集</title>
-  </programme>
-  <programme start="20260928213000 +0600" stop="20260928220000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第1集</title>
-  </programme>
-  <programme start="20260928220000 +0600" stop="20260928223000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第3季第45集</title>
-  </programme>
-  <programme start="20260928223000 +0600" stop="20260928230000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第3季第46集</title>
-  </programme>
-  <programme start="20260928230000 +0600" stop="20260928233000 +0600" channel="CGTN.cn">
-    <title lang="bn">月光下的異世界之旅 第2季第24集</title>
-  </programme>
-  <programme start="20260928233000 +0600" stop="20260929000000 +0600" channel="CGTN.cn">
-    <title lang="bn">月光下的異世界之旅 第2季第25集</title>
-  </programme>
-  <programme start="20260929000000 +0600" stop="20260929003000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第45集</title>
-  </programme>
-  <programme start="20260929003000 +0600" stop="20260929010000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第46集</title>
-  </programme>
-  <programme start="20260929010000 +0600" stop="20260929013000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第90集</title>
-  </programme>
-  <programme start="20260929013000 +0600" stop="20260929020000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第91集</title>
-  </programme>
-  <programme start="20260929020000 +0600" stop="20260929023000 +0600" channel="CGTN.cn">
-    <title lang="bn">排球少年!! 第3季第3集</title>
-  </programme>
-  <programme start="20260929023000 +0600" stop="20260929030000 +0600" channel="CGTN.cn">
-    <title lang="bn">排球少年!! 第3季第4集</title>
-  </programme>
-  <programme start="20260929030000 +0600" stop="20260929033000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第91集</title>
-  </programme>
-  <programme start="20260929033000 +0600" stop="20260929040000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第92集</title>
-  </programme>
-  <programme start="20260929040000 +0600" stop="20260929043000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第46集</title>
-  </programme>
-  <programme start="20260929043000 +0600" stop="20260929050000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第47集</title>
+  <programme start="20260929040000 +0600" stop="20260929050000 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Cops Phoenix</title>
   </programme>
   <programme start="20260929050000 +0600" stop="20260929053000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第1集</title>
+    <title lang="bn">Teleshopping</title>
   </programme>
   <programme start="20260929053000 +0600" stop="20260929060000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第2集</title>
+    <title lang="bn">Teleshopping</title>
   </programme>
   <programme start="20260929060000 +0600" stop="20260929063000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第46集</title>
+    <title lang="bn">Teleshopping</title>
   </programme>
   <programme start="20260929063000 +0600" stop="20260929070000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第47集</title>
+    <title lang="bn">Teleshopping</title>
   </programme>
   <programme start="20260929070000 +0600" stop="20260929073000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nyaight Of The Living Cat 活屍貓之夜 第1季第1集</title>
+    <title lang="bn">Teleshopping</title>
   </programme>
   <programme start="20260929073000 +0600" stop="20260929080000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nyaight Of The Living Cat 活屍貓之夜 第1季第2集</title>
+    <title lang="bn">Teleshopping</title>
   </programme>
-  <programme start="20260929080000 +0600" stop="20260929083000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第1集</title>
+  <programme start="20260929080000 +0600" stop="20260929090000 +0600" channel="CGTN.cn">
+    <title lang="bn">My Cat From Hell</title>
   </programme>
-  <programme start="20260929083000 +0600" stop="20260929090000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第2集</title>
+  <programme start="20260929090000 +0600" stop="20260929100000 +0600" channel="CGTN.cn">
+    <title lang="bn">Edge of Alaska</title>
   </programme>
-  <programme start="20260929090000 +0600" stop="20260929093000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第46集</title>
+  <programme start="20260929100000 +0600" stop="20260929110000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tanked</title>
   </programme>
-  <programme start="20260929093000 +0600" stop="20260929100000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第47集</title>
+  <programme start="20260929110000 +0600" stop="20260929120000 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Cops Phoenix</title>
   </programme>
-  <programme start="20260929100000 +0600" stop="20260929103000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nyaight Of The Living Cat 活屍貓之夜 第1季第1集</title>
+  <programme start="20260929120000 +0600" stop="20260929130000 +0600" channel="CGTN.cn">
+    <title lang="bn">Animal Cops Phoenix</title>
   </programme>
-  <programme start="20260929103000 +0600" stop="20260929110000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nyaight Of The Living Cat 活屍貓之夜 第1季第2集</title>
+  <programme start="20260929130000 +0600" stop="20260929140000 +0600" channel="CGTN.cn">
+    <title lang="bn">Crikey! It&amp;#x27;s the Irwins</title>
   </programme>
-  <programme start="20260929110000 +0600" stop="20260929113000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第91集</title>
+  <programme start="20260929140000 +0600" stop="20260929150000 +0600" channel="CGTN.cn">
+    <title lang="bn">Pit Bulls &amp;amp; Parolees</title>
   </programme>
-  <programme start="20260929113000 +0600" stop="20260929120000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第92集</title>
+  <programme start="20260929150000 +0600" stop="20260929160000 +0600" channel="CGTN.cn">
+    <title lang="bn">My Cat From Hell</title>
   </programme>
-  <programme start="20260929120000 +0600" stop="20260929123000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第1集</title>
+  <programme start="20260929160000 +0600" stop="20260929170000 +0600" channel="CGTN.cn">
+    <title lang="bn">My Cat From Hell</title>
   </programme>
-  <programme start="20260929123000 +0600" stop="20260929130000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第2集</title>
+  <programme start="20260929170000 +0600" stop="20260929180000 +0600" channel="CGTN.cn">
+    <title lang="bn">Lone Star Law</title>
   </programme>
-  <programme start="20260929130000 +0600" stop="20260929133000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第46集</title>
+  <programme start="20260929180000 +0600" stop="20260929190000 +0600" channel="CGTN.cn">
+    <title lang="bn">Dr. Jeff: Rocky Mountain Vet</title>
   </programme>
-  <programme start="20260929133000 +0600" stop="20260929140000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第47集</title>
+  <programme start="20260929190000 +0600" stop="20260929200000 +0600" channel="CGTN.cn">
+    <title lang="bn">Treehouse Masters</title>
   </programme>
-  <programme start="20260929140000 +0600" stop="20260929143000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nyaight Of The Living Cat 活屍貓之夜 第1季第1集</title>
+  <programme start="20260929200000 +0600" stop="20260929210000 +0600" channel="CGTN.cn">
+    <title lang="bn">Guardians Of The Glades</title>
   </programme>
-  <programme start="20260929143000 +0600" stop="20260929150000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nyaight Of The Living Cat 活屍貓之夜 第1季第2集</title>
+  <programme start="20260929210000 +0600" stop="20260929220000 +0600" channel="CGTN.cn">
+    <title lang="bn">Alaska: The Last Frontier</title>
   </programme>
-  <programme start="20260929150000 +0600" stop="20260929153000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第91集</title>
-  </programme>
-  <programme start="20260929153000 +0600" stop="20260929160000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第92集</title>
-  </programme>
-  <programme start="20260929160000 +0600" stop="20260929163000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第46集</title>
-  </programme>
-  <programme start="20260929163000 +0600" stop="20260929170000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第47集</title>
-  </programme>
-  <programme start="20260929170000 +0600" stop="20260929173000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第1集</title>
-  </programme>
-  <programme start="20260929173000 +0600" stop="20260929180000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第2集</title>
-  </programme>
-  <programme start="20260929180000 +0600" stop="20260929183000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第91集</title>
-  </programme>
-  <programme start="20260929183000 +0600" stop="20260929190000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第92集</title>
-  </programme>
-  <programme start="20260929190000 +0600" stop="20260929193000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nyaight Of The Living Cat 活屍貓之夜 第1季第1集</title>
-  </programme>
-  <programme start="20260929193000 +0600" stop="20260929200000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nyaight Of The Living Cat 活屍貓之夜 第1季第2集</title>
-  </programme>
-  <programme start="20260929200000 +0600" stop="20260929203000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第46集</title>
-  </programme>
-  <programme start="20260929203000 +0600" stop="20260929210000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第47集</title>
-  </programme>
-  <programme start="20260929210000 +0600" stop="20260929213000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第1集</title>
-  </programme>
-  <programme start="20260929213000 +0600" stop="20260929220000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第2集</title>
-  </programme>
-  <programme start="20260929220000 +0600" stop="20260929223000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第3季第47集</title>
-  </programme>
-  <programme start="20260929223000 +0600" stop="20260929230000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第3季第48集</title>
+  <programme start="20260929220000 +0600" stop="20260929230000 +0600" channel="CGTN.cn">
+    <title lang="bn">Alaskan Bush People</title>
   </programme>
   <programme start="20260929230000 +0600" stop="20260929233000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nyaight Of The Living Cat 活屍貓之夜 第1季第1集</title>
-  </programme>
-  <programme start="20260929233000 +0600" stop="20260930000000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nyaight Of The Living Cat 活屍貓之夜 第1季第2集</title>
-  </programme>
-  <programme start="20260930000000 +0600" stop="20260930003000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第46集</title>
-  </programme>
-  <programme start="20260930003000 +0600" stop="20260930010000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第47集</title>
-  </programme>
-  <programme start="20260930010000 +0600" stop="20260930013000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第91集</title>
-  </programme>
-  <programme start="20260930013000 +0600" stop="20260930020000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第92集</title>
-  </programme>
-  <programme start="20260930020000 +0600" stop="20260930023000 +0600" channel="CGTN.cn">
-    <title lang="bn">排球少年!! 第3季第5集</title>
-  </programme>
-  <programme start="20260930023000 +0600" stop="20260930030000 +0600" channel="CGTN.cn">
-    <title lang="bn">排球少年!! 第3季第6集</title>
-  </programme>
-  <programme start="20260930030000 +0600" stop="20260930033000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第92集</title>
-  </programme>
-  <programme start="20260930033000 +0600" stop="20260930040000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第93集</title>
-  </programme>
-  <programme start="20260930040000 +0600" stop="20260930043000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第47集</title>
-  </programme>
-  <programme start="20260930043000 +0600" stop="20260930050000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第48集</title>
-  </programme>
-  <programme start="20260930050000 +0600" stop="20260930053000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第2集</title>
-  </programme>
-  <programme start="20260930053000 +0600" stop="20260930060000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第3集</title>
-  </programme>
-  <programme start="20260930060000 +0600" stop="20260930063000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第47集</title>
-  </programme>
-  <programme start="20260930063000 +0600" stop="20260930070000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第48集</title>
-  </programme>
-  <programme start="20260930070000 +0600" stop="20260930073000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第1集</title>
-  </programme>
-  <programme start="20260930073000 +0600" stop="20260930080000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第2集</title>
-  </programme>
-  <programme start="20260930080000 +0600" stop="20260930083000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第2集</title>
-  </programme>
-  <programme start="20260930083000 +0600" stop="20260930090000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第3集</title>
-  </programme>
-  <programme start="20260930090000 +0600" stop="20260930093000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第47集</title>
-  </programme>
-  <programme start="20260930093000 +0600" stop="20260930100000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第48集</title>
-  </programme>
-  <programme start="20260930100000 +0600" stop="20260930103000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第1集</title>
-  </programme>
-  <programme start="20260930103000 +0600" stop="20260930110000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第2集</title>
-  </programme>
-  <programme start="20260930110000 +0600" stop="20260930113000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第92集</title>
-  </programme>
-  <programme start="20260930113000 +0600" stop="20260930120000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第93集</title>
-  </programme>
-  <programme start="20260930120000 +0600" stop="20260930123000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第2集</title>
-  </programme>
-  <programme start="20260930123000 +0600" stop="20260930130000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第3集</title>
-  </programme>
-  <programme start="20260930130000 +0600" stop="20260930133000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第47集</title>
-  </programme>
-  <programme start="20260930133000 +0600" stop="20260930140000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第48集</title>
-  </programme>
-  <programme start="20260930140000 +0600" stop="20260930143000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第1集</title>
-  </programme>
-  <programme start="20260930143000 +0600" stop="20260930150000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第2集</title>
-  </programme>
-  <programme start="20260930150000 +0600" stop="20260930153000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第92集</title>
-  </programme>
-  <programme start="20260930153000 +0600" stop="20260930160000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第93集</title>
-  </programme>
-  <programme start="20260930160000 +0600" stop="20260930163000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第47集</title>
-  </programme>
-  <programme start="20260930163000 +0600" stop="20260930170000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第48集</title>
-  </programme>
-  <programme start="20260930170000 +0600" stop="20260930173000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第2集</title>
-  </programme>
-  <programme start="20260930173000 +0600" stop="20260930180000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第3集</title>
-  </programme>
-  <programme start="20260930180000 +0600" stop="20260930183000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第92集</title>
-  </programme>
-  <programme start="20260930183000 +0600" stop="20260930190000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第93集</title>
-  </programme>
-  <programme start="20260930190000 +0600" stop="20260930193000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第1集</title>
-  </programme>
-  <programme start="20260930193000 +0600" stop="20260930200000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第2集</title>
-  </programme>
-  <programme start="20260930200000 +0600" stop="20260930203000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第47集</title>
-  </programme>
-  <programme start="20260930203000 +0600" stop="20260930210000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第48集</title>
-  </programme>
-  <programme start="20260930210000 +0600" stop="20260930213000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第2集</title>
-  </programme>
-  <programme start="20260930213000 +0600" stop="20260930220000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第3集</title>
-  </programme>
-  <programme start="20260930220000 +0600" stop="20260930223000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第3季第49集</title>
-  </programme>
-  <programme start="20260930223000 +0600" stop="20260930230000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第3季第50集</title>
-  </programme>
-  <programme start="20260930230000 +0600" stop="20260930233000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第1集</title>
-  </programme>
-  <programme start="20260930233000 +0600" stop="20261001000000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第2集</title>
-  </programme>
-  <programme start="20261001000000 +0600" stop="20261001003000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第47集</title>
-  </programme>
-  <programme start="20261001003000 +0600" stop="20261001010000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第48集</title>
-  </programme>
-  <programme start="20261001010000 +0600" stop="20261001013000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第92集</title>
-  </programme>
-  <programme start="20261001013000 +0600" stop="20261001020000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第93集</title>
-  </programme>
-  <programme start="20261001020000 +0600" stop="20261001023000 +0600" channel="CGTN.cn">
-    <title lang="bn">排球少年!! 第3季第7集</title>
-  </programme>
-  <programme start="20261001023000 +0600" stop="20261001030000 +0600" channel="CGTN.cn">
-    <title lang="bn">排球少年!! 第3季第8集</title>
-  </programme>
-  <programme start="20261001030000 +0600" stop="20261001033000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第93集</title>
-  </programme>
-  <programme start="20261001033000 +0600" stop="20261001040000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第94集</title>
-  </programme>
-  <programme start="20261001040000 +0600" stop="20261001043000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第2集</title>
-  </programme>
-  <programme start="20261001043000 +0600" stop="20261001050000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第3集</title>
-  </programme>
-  <programme start="20261001050000 +0600" stop="20261001053000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第510集</title>
-  </programme>
-  <programme start="20261001053000 +0600" stop="20261001060000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第511集</title>
-  </programme>
-  <programme start="20261001060000 +0600" stop="20261001063000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第2集</title>
-  </programme>
-  <programme start="20261001063000 +0600" stop="20261001070000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第3集</title>
-  </programme>
-  <programme start="20261001070000 +0600" stop="20261001073000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第2集</title>
-  </programme>
-  <programme start="20261001073000 +0600" stop="20261001080000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第3集</title>
-  </programme>
-  <programme start="20261001080000 +0600" stop="20261001083000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第510集</title>
-  </programme>
-  <programme start="20261001083000 +0600" stop="20261001090000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第511集</title>
-  </programme>
-  <programme start="20261001090000 +0600" stop="20261001093000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第2集</title>
-  </programme>
-  <programme start="20261001093000 +0600" stop="20261001100000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第3集</title>
-  </programme>
-  <programme start="20261001100000 +0600" stop="20261001103000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第2集</title>
-  </programme>
-  <programme start="20261001103000 +0600" stop="20261001110000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第3集</title>
-  </programme>
-  <programme start="20261001110000 +0600" stop="20261001113000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第93集</title>
-  </programme>
-  <programme start="20261001113000 +0600" stop="20261001120000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第94集</title>
-  </programme>
-  <programme start="20261001120000 +0600" stop="20261001123000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第510集</title>
-  </programme>
-  <programme start="20261001123000 +0600" stop="20261001130000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第511集</title>
-  </programme>
-  <programme start="20261001130000 +0600" stop="20261001133000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第2集</title>
-  </programme>
-  <programme start="20261001133000 +0600" stop="20261001140000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第3集</title>
-  </programme>
-  <programme start="20261001140000 +0600" stop="20261001143000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第2集</title>
-  </programme>
-  <programme start="20261001143000 +0600" stop="20261001150000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第3集</title>
-  </programme>
-  <programme start="20261001150000 +0600" stop="20261001153000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第93集</title>
-  </programme>
-  <programme start="20261001153000 +0600" stop="20261001160000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第94集</title>
-  </programme>
-  <programme start="20261001160000 +0600" stop="20261001163000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第2集</title>
-  </programme>
-  <programme start="20261001163000 +0600" stop="20261001170000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第3集</title>
-  </programme>
-  <programme start="20261001170000 +0600" stop="20261001173000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第510集</title>
-  </programme>
-  <programme start="20261001173000 +0600" stop="20261001180000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第511集</title>
-  </programme>
-  <programme start="20261001180000 +0600" stop="20261001183000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第93集</title>
-  </programme>
-  <programme start="20261001183000 +0600" stop="20261001190000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第94集</title>
-  </programme>
-  <programme start="20261001190000 +0600" stop="20261001193000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第2集</title>
-  </programme>
-  <programme start="20261001193000 +0600" stop="20261001200000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第3集</title>
-  </programme>
-  <programme start="20261001200000 +0600" stop="20261001203000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第2集</title>
-  </programme>
-  <programme start="20261001203000 +0600" stop="20261001210000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第3集</title>
-  </programme>
-  <programme start="20261001210000 +0600" stop="20261001213000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第510集</title>
-  </programme>
-  <programme start="20261001213000 +0600" stop="20261001220000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第511集</title>
-  </programme>
-  <programme start="20261001220000 +0600" stop="20261001223000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第3季第51集</title>
-  </programme>
-  <programme start="20261001223000 +0600" stop="20261001230000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第3季第52集 -VICE</title>
-  </programme>
-  <programme start="20261001230000 +0600" stop="20261001233000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第2集</title>
-  </programme>
-  <programme start="20261001233000 +0600" stop="20261002000000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第3集</title>
-  </programme>
-  <programme start="20261002000000 +0600" stop="20261002003000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第2集</title>
-  </programme>
-  <programme start="20261002003000 +0600" stop="20261002010000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第3集</title>
-  </programme>
-  <programme start="20261002010000 +0600" stop="20261002013000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第93集</title>
-  </programme>
-  <programme start="20261002013000 +0600" stop="20261002020000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第94集</title>
-  </programme>
-  <programme start="20261002020000 +0600" stop="20261002023000 +0600" channel="CGTN.cn">
-    <title lang="bn">排球少年!! 第3季第9集</title>
-  </programme>
-  <programme start="20261002023000 +0600" stop="20261002030000 +0600" channel="CGTN.cn">
-    <title lang="bn">排球少年!! 第3季第10集</title>
-  </programme>
-  <programme start="20261002030000 +0600" stop="20261002033000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第94集</title>
-  </programme>
-  <programme start="20261002033000 +0600" stop="20261002040000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第95集</title>
-  </programme>
-  <programme start="20261002040000 +0600" stop="20261002043000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第3集</title>
-  </programme>
-  <programme start="20261002043000 +0600" stop="20261002050000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第4集</title>
-  </programme>
-  <programme start="20261002050000 +0600" stop="20261002053000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第512集</title>
-  </programme>
-  <programme start="20261002053000 +0600" stop="20261002060000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第513集</title>
-  </programme>
-  <programme start="20261002060000 +0600" stop="20261002063000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第3集</title>
-  </programme>
-  <programme start="20261002063000 +0600" stop="20261002070000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第4集</title>
-  </programme>
-  <programme start="20261002070000 +0600" stop="20261002073000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第3集</title>
-  </programme>
-  <programme start="20261002073000 +0600" stop="20261002080000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第4集</title>
-  </programme>
-  <programme start="20261002080000 +0600" stop="20261002083000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第512集</title>
-  </programme>
-  <programme start="20261002083000 +0600" stop="20261002090000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第513集</title>
-  </programme>
-  <programme start="20261002090000 +0600" stop="20261002093000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第3集</title>
-  </programme>
-  <programme start="20261002093000 +0600" stop="20261002100000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第4集</title>
-  </programme>
-  <programme start="20261002100000 +0600" stop="20261002103000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第3集</title>
-  </programme>
-  <programme start="20261002103000 +0600" stop="20261002110000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第4集</title>
-  </programme>
-  <programme start="20261002110000 +0600" stop="20261002113000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第94集</title>
-  </programme>
-  <programme start="20261002113000 +0600" stop="20261002120000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第95集</title>
-  </programme>
-  <programme start="20261002120000 +0600" stop="20261002123000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第512集</title>
-  </programme>
-  <programme start="20261002123000 +0600" stop="20261002130000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第513集</title>
-  </programme>
-  <programme start="20261002130000 +0600" stop="20261002133000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第3集</title>
-  </programme>
-  <programme start="20261002133000 +0600" stop="20261002140000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第4集</title>
-  </programme>
-  <programme start="20261002140000 +0600" stop="20261002143000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第3集</title>
-  </programme>
-  <programme start="20261002143000 +0600" stop="20261002150000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第4集</title>
-  </programme>
-  <programme start="20261002150000 +0600" stop="20261002153000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第91集</title>
-  </programme>
-  <programme start="20261002153000 +0600" stop="20261002160000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第92集</title>
-  </programme>
-  <programme start="20261002160000 +0600" stop="20261002163000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第93集</title>
-  </programme>
-  <programme start="20261002163000 +0600" stop="20261002170000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第94集</title>
-  </programme>
-  <programme start="20261002170000 +0600" stop="20261002173000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第95集</title>
-  </programme>
-  <programme start="20261002173000 +0600" stop="20261002180000 +0600" channel="CGTN.cn">
-    <title lang="bn">月光下的異世界之旅 第2季第24集</title>
-  </programme>
-  <programme start="20261002180000 +0600" stop="20261002183000 +0600" channel="CGTN.cn">
-    <title lang="bn">月光下的異世界之旅 第2季第25集</title>
-  </programme>
-  <programme start="20261002183000 +0600" stop="20261002190000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nyaight Of The Living Cat 活屍貓之夜 第1季第1集</title>
-  </programme>
-  <programme start="20261002190000 +0600" stop="20261002193000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nyaight Of The Living Cat 活屍貓之夜 第1季第2集</title>
-  </programme>
-  <programme start="20261002193000 +0600" stop="20261002200000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第1集</title>
-  </programme>
-  <programme start="20261002200000 +0600" stop="20261002203000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第2集</title>
-  </programme>
-  <programme start="20261002203000 +0600" stop="20261002210000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第3集</title>
-  </programme>
-  <programme start="20261002210000 +0600" stop="20261002213000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第3集</title>
-  </programme>
-  <programme start="20261002213000 +0600" stop="20261002220000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第4集</title>
-  </programme>
-  <programme start="20261002220000 +0600" stop="20261002223000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第91集</title>
-  </programme>
-  <programme start="20261002223000 +0600" stop="20261002230000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第92集</title>
-  </programme>
-  <programme start="20261002230000 +0600" stop="20261002233000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第93集</title>
-  </programme>
-  <programme start="20261002233000 +0600" stop="20261003000000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第94集</title>
-  </programme>
-  <programme start="20261003000000 +0600" stop="20261003003000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第95集</title>
-  </programme>
-  <programme start="20261003003000 +0600" stop="20261003010000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第1集</title>
-  </programme>
-  <programme start="20261003010000 +0600" stop="20261003013000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第2集</title>
-  </programme>
-  <programme start="20261003013000 +0600" stop="20261003020000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第3集</title>
-  </programme>
-  <programme start="20261003020000 +0600" stop="20261003023000 +0600" channel="CGTN.cn">
-    <title lang="bn">月光下的異世界之旅 第2季第24集</title>
-  </programme>
-  <programme start="20261003023000 +0600" stop="20261003030000 +0600" channel="CGTN.cn">
-    <title lang="bn">月光下的異世界之旅 第2季第25集</title>
-  </programme>
-  <programme start="20261003030000 +0600" stop="20261003033000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nyaight Of The Living Cat 活屍貓之夜 第1季第1集</title>
-  </programme>
-  <programme start="20261003033000 +0600" stop="20261003040000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nyaight Of The Living Cat 活屍貓之夜 第1季第2集</title>
-  </programme>
-  <programme start="20261003040000 +0600" stop="20261003043000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第1集</title>
-  </programme>
-  <programme start="20261003043000 +0600" stop="20261003050000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第2集</title>
-  </programme>
-  <programme start="20261003050000 +0600" stop="20261003053000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第3集</title>
-  </programme>
-  <programme start="20261003053000 +0600" stop="20261003060000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第3集</title>
-  </programme>
-  <programme start="20261003060000 +0600" stop="20261003063000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第4集</title>
-  </programme>
-  <programme start="20261003063000 +0600" stop="20261003070000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第91集</title>
-  </programme>
-  <programme start="20261003070000 +0600" stop="20261003073000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第92集</title>
-  </programme>
-  <programme start="20261003073000 +0600" stop="20261003080000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第93集</title>
-  </programme>
-  <programme start="20261003080000 +0600" stop="20261003083000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第94集</title>
-  </programme>
-  <programme start="20261003083000 +0600" stop="20261003090000 +0600" channel="CGTN.cn">
-    <title lang="bn">驅魔少年 第1季第95集</title>
-  </programme>
-  <programme start="20261003090000 +0600" stop="20261003093000 +0600" channel="CGTN.cn">
-    <title lang="bn">月光下的異世界之旅 第2季第24集</title>
-  </programme>
-  <programme start="20261003093000 +0600" stop="20261003100000 +0600" channel="CGTN.cn">
-    <title lang="bn">月光下的異世界之旅 第2季第25集</title>
-  </programme>
-  <programme start="20261003100000 +0600" stop="20261003103000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nyaight Of The Living Cat 活屍貓之夜 第1季第1集</title>
-  </programme>
-  <programme start="20261003103000 +0600" stop="20261003110000 +0600" channel="CGTN.cn">
-    <title lang="bn">Nyaight Of The Living Cat 活屍貓之夜 第1季第2集</title>
-  </programme>
-  <programme start="20261003110000 +0600" stop="20261003113000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第1集</title>
-  </programme>
-  <programme start="20261003113000 +0600" stop="20261003120000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第2集</title>
-  </programme>
-  <programme start="20261003120000 +0600" stop="20261003123000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第3集</title>
-  </programme>
-  <programme start="20261003123000 +0600" stop="20261003130000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第3集</title>
-  </programme>
-  <programme start="20261003130000 +0600" stop="20261003133000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第4集</title>
-  </programme>
-  <programme start="20261003133000 +0600" stop="20261003140000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第2集</title>
-  </programme>
-  <programme start="20261003140000 +0600" stop="20261003143000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第3集</title>
-  </programme>
-  <programme start="20261003143000 +0600" stop="20261003150000 +0600" channel="CGTN.cn">
-    <title lang="bn">Buddy Daddies 殺手奶爸 第1季第4集</title>
-  </programme>
-  <programme start="20261003150000 +0600" stop="20261003153000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第1集</title>
-  </programme>
-  <programme start="20261003153000 +0600" stop="20261003160000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第2集</title>
-  </programme>
-  <programme start="20261003160000 +0600" stop="20261003163000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第3集</title>
-  </programme>
-  <programme start="20261003163000 +0600" stop="20261003170000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第1集</title>
-  </programme>
-  <programme start="20261003170000 +0600" stop="20261003173000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第2集</title>
-  </programme>
-  <programme start="20261003173000 +0600" stop="20261003180000 +0600" channel="CGTN.cn">
-    <title lang="bn">魔法製造者~異世界魔法的製作方法~ 第3集</title>
-  </programme>
-  <programme start="20261003180000 +0600" stop="20261003183000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第510集</title>
-  </programme>
-  <programme start="20261003183000 +0600" stop="20261003190000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第511集</title>
-  </programme>
-  <programme start="20261003190000 +0600" stop="20261003193000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第512集</title>
-  </programme>
-  <programme start="20261003193000 +0600" stop="20261003200000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第513集</title>
-  </programme>
-  <programme start="20261003200000 +0600" stop="20261003203000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第3集</title>
-  </programme>
-  <programme start="20261003203000 +0600" stop="20261003210000 +0600" channel="CGTN.cn">
-    <title lang="bn">成為名留歷史的壞女人吧 第4集</title>
-  </programme>
-  <programme start="20261003210000 +0600" stop="20261003213000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第46集</title>
-  </programme>
-  <programme start="20261003213000 +0600" stop="20261003220000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第47集</title>
-  </programme>
-  <programme start="20261003220000 +0600" stop="20261003223000 +0600" channel="CGTN.cn">
-    <title lang="bn">黑色五葉草 第1季第48集</title>
-  </programme>
-  <programme start="20261003223000 +0600" stop="20261003230000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第1集</title>
-  </programme>
-  <programme start="20261003230000 +0600" stop="20261003233000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第2集</title>
-  </programme>
-  <programme start="20261003233000 +0600" stop="20261004000000 +0600" channel="CGTN.cn">
-    <title lang="bn">久保同學不放過我 第1季第3集</title>
-  </programme>
-  <programme start="20261004000000 +0600" stop="20261004003000 +0600" channel="CGTN.cn">
-    <title lang="bn">海賊王 第1季第510集</title>
+    <title lang="bn">The Haunted</title>
   </programme>
   <channel id="cna.sg">
     <display-name>Channel News Asia</display-name>
     <icon src="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg"/>
   </channel>
-  <programme start="20260927000000 +0600" stop="20260927003000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927003000 +0600" stop="20260927010000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927010000 +0600" stop="20260927013000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927013000 +0600" stop="20260927020000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927020000 +0600" stop="20260927023000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927023000 +0600" stop="20260927030000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927030000 +0600" stop="20260927033000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927033000 +0600" stop="20260927040000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927040000 +0600" stop="20260927043000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927043000 +0600" stop="20260927050000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927050000 +0600" stop="20260927053000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927053000 +0600" stop="20260927060000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927060000 +0600" stop="20260927063000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927063000 +0600" stop="20260927070000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927070000 +0600" stop="20260927073000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927073000 +0600" stop="20260927080000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927080000 +0600" stop="20260927083000 +0600" channel="cna.sg">
-    <title lang="bn">Shatak Aajtak</title>
-  </programme>
-  <programme start="20260927083000 +0600" stop="20260927090000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927090000 +0600" stop="20260927093000 +0600" channel="cna.sg">
-    <title lang="bn">War Room</title>
-  </programme>
-  <programme start="20260927093000 +0600" stop="20260927100000 +0600" channel="cna.sg">
-    <title lang="bn">War Room</title>
-  </programme>
-  <programme start="20260927100000 +0600" stop="20260927103000 +0600" channel="cna.sg">
-    <title lang="bn">Adbhut Avishwasniya Akalpniya</title>
-  </programme>
-  <programme start="20260927103000 +0600" stop="20260927110000 +0600" channel="cna.sg">
-    <title lang="bn">Adbhut Avishwasniya Akalpniya</title>
-  </programme>
-  <programme start="20260927110000 +0600" stop="20260927113000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927113000 +0600" stop="20260927120000 +0600" channel="cna.sg">
-    <title lang="bn">Duniya Aajtak</title>
-  </programme>
-  <programme start="20260927120000 +0600" stop="20260927123000 +0600" channel="cna.sg">
-    <title lang="bn">Mera Gaon Mera Desh</title>
-  </programme>
-  <programme start="20260927123000 +0600" stop="20260927130000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927130000 +0600" stop="20260927133000 +0600" channel="cna.sg">
-    <title lang="bn">Ranbhoomi</title>
-  </programme>
-  <programme start="20260927133000 +0600" stop="20260927140000 +0600" channel="cna.sg">
-    <title lang="bn">Ranbhoomi</title>
-  </programme>
-  <programme start="20260927140000 +0600" stop="20260927143000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927143000 +0600" stop="20260927150000 +0600" channel="cna.sg">
-    <title lang="bn">Saas Bahu Betiyan</title>
-  </programme>
-  <programme start="20260927150000 +0600" stop="20260927153000 +0600" channel="cna.sg">
-    <title lang="bn">Saas Bahu Betiyan</title>
-  </programme>
-  <programme start="20260927153000 +0600" stop="20260927160000 +0600" channel="cna.sg">
-    <title lang="bn">Saas Bahu Betiyan</title>
-  </programme>
-  <programme start="20260927160000 +0600" stop="20260927163000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927163000 +0600" stop="20260927170000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
-  </programme>
-  <programme start="20260927170000 +0600" stop="20260927173000 +0600" channel="cna.sg">
-    <title lang="bn">Dangal</title>
-  </programme>
-  <programme start="20260927173000 +0600" stop="20260927180000 +0600" channel="cna.sg">
-    <title lang="bn">Dangal</title>
-  </programme>
-  <programme start="20260927180000 +0600" stop="20260927183000 +0600" channel="cna.sg">
-    <title lang="bn">Behas Baazigar</title>
-  </programme>
-  <programme start="20260927183000 +0600" stop="20260927190000 +0600" channel="cna.sg">
-    <title lang="bn">Behas Baazigar</title>
-  </programme>
-  <programme start="20260927190000 +0600" stop="20260927193000 +0600" channel="cna.sg">
-    <title lang="bn">AAJTAK 7 BAJE</title>
-  </programme>
-  <programme start="20260927193000 +0600" stop="20260927200000 +0600" channel="cna.sg">
-    <title lang="bn">Vishesh</title>
-  </programme>
-  <programme start="20260927200000 +0600" stop="20260927203000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak Special Show</title>
-  </programme>
-  <programme start="20260927203000 +0600" stop="20260927210000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak Special Show</title>
-  </programme>
-  <programme start="20260927210000 +0600" stop="20260927213000 +0600" channel="cna.sg">
-    <title lang="bn">Black And White</title>
-  </programme>
-  <programme start="20260927213000 +0600" stop="20260927220000 +0600" channel="cna.sg">
-    <title lang="bn">Black And White</title>
-  </programme>
-  <programme start="20260927220000 +0600" stop="20260927223000 +0600" channel="cna.sg">
-    <title lang="bn">Frontline</title>
-  </programme>
-  <programme start="20260927223000 +0600" stop="20260927230000 +0600" channel="cna.sg">
-    <title lang="bn">Frontline</title>
-  </programme>
-  <programme start="20260927230000 +0600" stop="20260927233000 +0600" channel="cna.sg">
-    <title lang="bn">Adbhut Avishwasniya Akalpniya</title>
-  </programme>
-  <programme start="20260927233000 +0600" stop="20260928000000 +0600" channel="cna.sg">
-    <title lang="bn">Adbhut Avishwasniya Akalpniya</title>
-  </programme>
   <programme start="20260928000000 +0600" stop="20260928003000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+    <title lang="bn">Sam &amp;amp; Cat</title>
   </programme>
   <programme start="20260928003000 +0600" stop="20260928010000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+    <title lang="bn">Sam &amp;amp; Cat</title>
   </programme>
-  <programme start="20260928010000 +0600" stop="20260928013000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260928010000 +0600" stop="20260928012500 +0600" channel="cna.sg">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260928013000 +0600" stop="20260928020000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260928012500 +0600" stop="20260928015000 +0600" channel="cna.sg">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260928020000 +0600" stop="20260928023000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260928015000 +0600" stop="20260928021500 +0600" channel="cna.sg">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260928023000 +0600" stop="20260928030000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260928021500 +0600" stop="20260928024000 +0600" channel="cna.sg">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260928030000 +0600" stop="20260928033000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260928024000 +0600" stop="20260928030500 +0600" channel="cna.sg">
+    <title lang="bn">iCarly</title>
+  </programme>
+  <programme start="20260928030500 +0600" stop="20260928033000 +0600" channel="cna.sg">
+    <title lang="bn">The Marsupilamis</title>
   </programme>
   <programme start="20260928033000 +0600" stop="20260928040000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+    <title lang="bn">The Marsupilamis</title>
   </programme>
-  <programme start="20260928040000 +0600" stop="20260928043000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260928040000 +0600" stop="20260928041000 +0600" channel="cna.sg">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260928043000 +0600" stop="20260928050000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260928041000 +0600" stop="20260928043000 +0600" channel="cna.sg">
+    <title lang="bn">The Smurfs</title>
+  </programme>
+  <programme start="20260928043000 +0600" stop="20260928044000 +0600" channel="cna.sg">
+    <title lang="bn">The Smurfs</title>
+  </programme>
+  <programme start="20260928044000 +0600" stop="20260928050000 +0600" channel="cna.sg">
+    <title lang="bn">The Smurfs</title>
   </programme>
   <programme start="20260928050000 +0600" stop="20260928053000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
   <programme start="20260928053000 +0600" stop="20260928060000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260928060000 +0600" stop="20260928063000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260928060000 +0600" stop="20260928063100 +0600" channel="cna.sg">
+    <title lang="bn">Rock, Paper, Scissors</title>
   </programme>
-  <programme start="20260928063000 +0600" stop="20260928070000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260928063100 +0600" stop="20260928070000 +0600" channel="cna.sg">
+    <title lang="bn">The Loud House</title>
   </programme>
-  <programme start="20260928070000 +0600" stop="20260928073000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260928070000 +0600" stop="20260928073100 +0600" channel="cna.sg">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260928073000 +0600" stop="20260928080000 +0600" channel="cna.sg">
-    <title lang="bn">Shatak Aajtak</title>
+  <programme start="20260928073100 +0600" stop="20260928080000 +0600" channel="cna.sg">
+    <title lang="bn">The Patrick Star Show</title>
   </programme>
-  <programme start="20260928080000 +0600" stop="20260928083000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260928080000 +0600" stop="20260928083100 +0600" channel="cna.sg">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260928083000 +0600" stop="20260928090000 +0600" channel="cna.sg">
-    <title lang="bn">Breaking News</title>
+  <programme start="20260928083100 +0600" stop="20260928090000 +0600" channel="cna.sg">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260928090000 +0600" stop="20260928093000 +0600" channel="cna.sg">
-    <title lang="bn">Yogi Ka Chunavi Yagya</title>
+  <programme start="20260928090000 +0600" stop="20260928093100 +0600" channel="cna.sg">
+    <title lang="bn">The Creature Cases</title>
   </programme>
-  <programme start="20260928093000 +0600" stop="20260928100000 +0600" channel="cna.sg">
-    <title lang="bn">Subh Samchar</title>
+  <programme start="20260928093100 +0600" stop="20260928100000 +0600" channel="cna.sg">
+    <title lang="bn">Deer Squad</title>
   </programme>
-  <programme start="20260928100000 +0600" stop="20260928103000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260928100000 +0600" stop="20260928103100 +0600" channel="cna.sg">
+    <title lang="bn">Gabby&amp;#x27;s Dollhouse</title>
   </programme>
-  <programme start="20260928103000 +0600" stop="20260928110000 +0600" channel="cna.sg">
-    <title lang="bn">Newsroom</title>
+  <programme start="20260928103100 +0600" stop="20260928110000 +0600" channel="cna.sg">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260928110000 +0600" stop="20260928113000 +0600" channel="cna.sg">
-    <title lang="bn">Newsroom</title>
+  <programme start="20260928110000 +0600" stop="20260928113100 +0600" channel="cna.sg">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260928113000 +0600" stop="20260928120000 +0600" channel="cna.sg">
-    <title lang="bn">Duniya Aajtak</title>
+  <programme start="20260928113100 +0600" stop="20260928120000 +0600" channel="cna.sg">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260928120000 +0600" stop="20260928123000 +0600" channel="cna.sg">
-    <title lang="bn">Mera Gaon Mera Desh</title>
+  <programme start="20260928120000 +0600" stop="20260928123100 +0600" channel="cna.sg">
+    <title lang="bn">The Patrick Star Show</title>
   </programme>
-  <programme start="20260928123000 +0600" stop="20260928130000 +0600" channel="cna.sg">
-    <title lang="bn">Khabrein Asardaar</title>
+  <programme start="20260928123100 +0600" stop="20260928130000 +0600" channel="cna.sg">
+    <title lang="bn">The Patrick Star Show</title>
   </programme>
-  <programme start="20260928130000 +0600" stop="20260928133000 +0600" channel="cna.sg">
-    <title lang="bn">Ranbhoomi</title>
+  <programme start="20260928130000 +0600" stop="20260928133100 +0600" channel="cna.sg">
+    <title lang="bn">Wylde Pak</title>
   </programme>
-  <programme start="20260928133000 +0600" stop="20260928140000 +0600" channel="cna.sg">
-    <title lang="bn">Ranbhoomi</title>
+  <programme start="20260928133100 +0600" stop="20260928140000 +0600" channel="cna.sg">
+    <title lang="bn">Sonic Prime</title>
   </programme>
-  <programme start="20260928140000 +0600" stop="20260928143000 +0600" channel="cna.sg">
-    <title lang="bn">Business Aajtak</title>
+  <programme start="20260928140000 +0600" stop="20260928143100 +0600" channel="cna.sg">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260928143000 +0600" stop="20260928150000 +0600" channel="cna.sg">
-    <title lang="bn">Saas Bahu Betiyan</title>
+  <programme start="20260928143100 +0600" stop="20260928150000 +0600" channel="cna.sg">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260928150000 +0600" stop="20260928153000 +0600" channel="cna.sg">
-    <title lang="bn">Saas Bahu Betiyan</title>
+  <programme start="20260928150000 +0600" stop="20260928152900 +0600" channel="cna.sg">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260928153000 +0600" stop="20260928160000 +0600" channel="cna.sg">
-    <title lang="bn">Saas Bahu Betiyan</title>
+  <programme start="20260928152900 +0600" stop="20260928160000 +0600" channel="cna.sg">
+    <title lang="bn">Max &amp;amp; the Midknights</title>
   </programme>
-  <programme start="20260928160000 +0600" stop="20260928163000 +0600" channel="cna.sg">
-    <title lang="bn">Movie Masala</title>
+  <programme start="20260928160000 +0600" stop="20260928163100 +0600" channel="cna.sg">
+    <title lang="bn">Sonic Prime</title>
   </programme>
-  <programme start="20260928163000 +0600" stop="20260928170000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak Gujarat</title>
+  <programme start="20260928163100 +0600" stop="20260928170000 +0600" channel="cna.sg">
+    <title lang="bn">The Patrick Star Show</title>
   </programme>
-  <programme start="20260928170000 +0600" stop="20260928173000 +0600" channel="cna.sg">
-    <title lang="bn">Dangal</title>
+  <programme start="20260928170000 +0600" stop="20260928173100 +0600" channel="cna.sg">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260928173000 +0600" stop="20260928180000 +0600" channel="cna.sg">
-    <title lang="bn">Dangal</title>
+  <programme start="20260928173100 +0600" stop="20260928180000 +0600" channel="cna.sg">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260928180000 +0600" stop="20260928183000 +0600" channel="cna.sg">
-    <title lang="bn">Halla Bol</title>
+  <programme start="20260928180000 +0600" stop="20260928190000 +0600" channel="cna.sg">
+    <title lang="bn">The Thundermans: Undercover</title>
   </programme>
-  <programme start="20260928183000 +0600" stop="20260928190000 +0600" channel="cna.sg">
-    <title lang="bn">Halla Bol</title>
+  <programme start="20260928190000 +0600" stop="20260928193100 +0600" channel="cna.sg">
+    <title lang="bn">iCarly</title>
   </programme>
-  <programme start="20260928190000 +0600" stop="20260928193000 +0600" channel="cna.sg">
-    <title lang="bn">Aaj Tak Punjab</title>
+  <programme start="20260928193100 +0600" stop="20260928200000 +0600" channel="cna.sg">
+    <title lang="bn">iCarly</title>
   </programme>
-  <programme start="20260928193000 +0600" stop="20260928200000 +0600" channel="cna.sg">
-    <title lang="bn">Subh Samchar</title>
+  <programme start="20260928200000 +0600" stop="20260928203100 +0600" channel="cna.sg">
+    <title lang="bn">Sam &amp;amp; Cat</title>
   </programme>
-  <programme start="20260928200000 +0600" stop="20260928203000 +0600" channel="cna.sg">
-    <title lang="bn">Khabardar</title>
+  <programme start="20260928203100 +0600" stop="20260928210000 +0600" channel="cna.sg">
+    <title lang="bn">Sam &amp;amp; Cat</title>
   </programme>
-  <programme start="20260928203000 +0600" stop="20260928210000 +0600" channel="cna.sg">
-    <title lang="bn">Khabardar</title>
+  <programme start="20260928210000 +0600" stop="20260928213100 +0600" channel="cna.sg">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260928210000 +0600" stop="20260928213000 +0600" channel="cna.sg">
-    <title lang="bn">Black And White</title>
+  <programme start="20260928213100 +0600" stop="20260928220000 +0600" channel="cna.sg">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260928213000 +0600" stop="20260928220000 +0600" channel="cna.sg">
-    <title lang="bn">Black And White</title>
+  <programme start="20260928220000 +0600" stop="20260928223100 +0600" channel="cna.sg">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260928220000 +0600" stop="20260928223000 +0600" channel="cna.sg">
-    <title lang="bn">Dastak</title>
+  <programme start="20260928223100 +0600" stop="20260928230000 +0600" channel="cna.sg">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260928223000 +0600" stop="20260928230000 +0600" channel="cna.sg">
-    <title lang="bn">Dastak</title>
+  <programme start="20260928230000 +0600" stop="20260928233100 +0600" channel="cna.sg">
+    <title lang="bn">iCarly</title>
   </programme>
-  <programme start="20260928230000 +0600" stop="20260928233000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak Gujarat</title>
-  </programme>
-  <programme start="20260928233000 +0600" stop="20260929000000 +0600" channel="cna.sg">
-    <title lang="bn">Movie Masala</title>
+  <programme start="20260928233100 +0600" stop="20260929000000 +0600" channel="cna.sg">
+    <title lang="bn">iCarly</title>
   </programme>
   <programme start="20260929000000 +0600" stop="20260929003000 +0600" channel="cna.sg">
-    <title lang="bn">Khabardar</title>
+    <title lang="bn">Sam &amp;amp; Cat</title>
   </programme>
   <programme start="20260929003000 +0600" stop="20260929010000 +0600" channel="cna.sg">
-    <title lang="bn">Khabardar</title>
+    <title lang="bn">Sam &amp;amp; Cat</title>
   </programme>
-  <programme start="20260929010000 +0600" stop="20260929013000 +0600" channel="cna.sg">
-    <title lang="bn">Black And White</title>
+  <programme start="20260929010000 +0600" stop="20260929012500 +0600" channel="cna.sg">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260929013000 +0600" stop="20260929020000 +0600" channel="cna.sg">
-    <title lang="bn">Black And White</title>
+  <programme start="20260929012500 +0600" stop="20260929015000 +0600" channel="cna.sg">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260929020000 +0600" stop="20260929023000 +0600" channel="cna.sg">
-    <title lang="bn">Movie Masala</title>
+  <programme start="20260929015000 +0600" stop="20260929021500 +0600" channel="cna.sg">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260929023000 +0600" stop="20260929030000 +0600" channel="cna.sg">
-    <title lang="bn">Dastak</title>
+  <programme start="20260929021500 +0600" stop="20260929024000 +0600" channel="cna.sg">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260929030000 +0600" stop="20260929033000 +0600" channel="cna.sg">
-    <title lang="bn">Dastak</title>
+  <programme start="20260929024000 +0600" stop="20260929030500 +0600" channel="cna.sg">
+    <title lang="bn">iCarly</title>
+  </programme>
+  <programme start="20260929030500 +0600" stop="20260929033000 +0600" channel="cna.sg">
+    <title lang="bn">iCarly</title>
   </programme>
   <programme start="20260929033000 +0600" stop="20260929040000 +0600" channel="cna.sg">
-    <title lang="bn">Black And White</title>
+    <title lang="bn">The Marsupilamis</title>
   </programme>
-  <programme start="20260929040000 +0600" stop="20260929043000 +0600" channel="cna.sg">
-    <title lang="bn">Black And White</title>
+  <programme start="20260929040000 +0600" stop="20260929041000 +0600" channel="cna.sg">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260929043000 +0600" stop="20260929050000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260929041000 +0600" stop="20260929043000 +0600" channel="cna.sg">
+    <title lang="bn">The Smurfs</title>
+  </programme>
+  <programme start="20260929043000 +0600" stop="20260929044000 +0600" channel="cna.sg">
+    <title lang="bn">The Smurfs</title>
+  </programme>
+  <programme start="20260929044000 +0600" stop="20260929050000 +0600" channel="cna.sg">
+    <title lang="bn">The Smurfs</title>
   </programme>
   <programme start="20260929050000 +0600" stop="20260929053000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
   <programme start="20260929053000 +0600" stop="20260929060000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260929060000 +0600" stop="20260929063000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260929060000 +0600" stop="20260929063100 +0600" channel="cna.sg">
+    <title lang="bn">Rock, Paper, Scissors</title>
   </programme>
-  <programme start="20260929063000 +0600" stop="20260929070000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260929063100 +0600" stop="20260929070000 +0600" channel="cna.sg">
+    <title lang="bn">The Loud House</title>
   </programme>
-  <programme start="20260929070000 +0600" stop="20260929073000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260929070000 +0600" stop="20260929073100 +0600" channel="cna.sg">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260929073000 +0600" stop="20260929080000 +0600" channel="cna.sg">
-    <title lang="bn">Shatak Aajtak</title>
+  <programme start="20260929073100 +0600" stop="20260929080000 +0600" channel="cna.sg">
+    <title lang="bn">The Patrick Star Show</title>
   </programme>
-  <programme start="20260929080000 +0600" stop="20260929083000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260929080000 +0600" stop="20260929083100 +0600" channel="cna.sg">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260929083000 +0600" stop="20260929090000 +0600" channel="cna.sg">
-    <title lang="bn">Breaking News</title>
+  <programme start="20260929083100 +0600" stop="20260929090000 +0600" channel="cna.sg">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260929090000 +0600" stop="20260929093000 +0600" channel="cna.sg">
-    <title lang="bn">Yogi Ka Chunavi Yagya</title>
+  <programme start="20260929090000 +0600" stop="20260929093100 +0600" channel="cna.sg">
+    <title lang="bn">The Creature Cases</title>
   </programme>
-  <programme start="20260929093000 +0600" stop="20260929100000 +0600" channel="cna.sg">
-    <title lang="bn">Subh Samchar</title>
+  <programme start="20260929093100 +0600" stop="20260929100000 +0600" channel="cna.sg">
+    <title lang="bn">Deer Squad</title>
   </programme>
-  <programme start="20260929100000 +0600" stop="20260929103000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak News</title>
+  <programme start="20260929100000 +0600" stop="20260929103100 +0600" channel="cna.sg">
+    <title lang="bn">Gabby&amp;#x27;s Dollhouse</title>
   </programme>
-  <programme start="20260929103000 +0600" stop="20260929110000 +0600" channel="cna.sg">
-    <title lang="bn">Newsroom</title>
+  <programme start="20260929103100 +0600" stop="20260929110000 +0600" channel="cna.sg">
+    <title lang="bn">The Smurfs</title>
   </programme>
-  <programme start="20260929110000 +0600" stop="20260929113000 +0600" channel="cna.sg">
-    <title lang="bn">Newsroom</title>
+  <programme start="20260929110000 +0600" stop="20260929113100 +0600" channel="cna.sg">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260929113000 +0600" stop="20260929120000 +0600" channel="cna.sg">
-    <title lang="bn">Duniya Aajtak</title>
+  <programme start="20260929113100 +0600" stop="20260929120000 +0600" channel="cna.sg">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260929120000 +0600" stop="20260929123000 +0600" channel="cna.sg">
-    <title lang="bn">Mera Gaon Mera Desh</title>
+  <programme start="20260929120000 +0600" stop="20260929123100 +0600" channel="cna.sg">
+    <title lang="bn">The Patrick Star Show</title>
   </programme>
-  <programme start="20260929123000 +0600" stop="20260929130000 +0600" channel="cna.sg">
-    <title lang="bn">Khabrein Asardaar</title>
+  <programme start="20260929123100 +0600" stop="20260929130000 +0600" channel="cna.sg">
+    <title lang="bn">The Patrick Star Show</title>
   </programme>
-  <programme start="20260929130000 +0600" stop="20260929133000 +0600" channel="cna.sg">
-    <title lang="bn">Ranbhoomi</title>
+  <programme start="20260929130000 +0600" stop="20260929133100 +0600" channel="cna.sg">
+    <title lang="bn">Wylde Pak</title>
   </programme>
-  <programme start="20260929133000 +0600" stop="20260929140000 +0600" channel="cna.sg">
-    <title lang="bn">Ranbhoomi</title>
+  <programme start="20260929133100 +0600" stop="20260929140000 +0600" channel="cna.sg">
+    <title lang="bn">Sonic Prime</title>
   </programme>
-  <programme start="20260929140000 +0600" stop="20260929143000 +0600" channel="cna.sg">
-    <title lang="bn">Business Aajtak</title>
+  <programme start="20260929140000 +0600" stop="20260929143100 +0600" channel="cna.sg">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260929143000 +0600" stop="20260929150000 +0600" channel="cna.sg">
-    <title lang="bn">Saas Bahu Betiyan</title>
+  <programme start="20260929143100 +0600" stop="20260929150000 +0600" channel="cna.sg">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260929150000 +0600" stop="20260929153000 +0600" channel="cna.sg">
-    <title lang="bn">Saas Bahu Betiyan</title>
+  <programme start="20260929150000 +0600" stop="20260929152900 +0600" channel="cna.sg">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260929153000 +0600" stop="20260929160000 +0600" channel="cna.sg">
-    <title lang="bn">Saas Bahu Betiyan</title>
+  <programme start="20260929152900 +0600" stop="20260929160000 +0600" channel="cna.sg">
+    <title lang="bn">Max &amp;amp; the Midknights</title>
   </programme>
-  <programme start="20260929160000 +0600" stop="20260929163000 +0600" channel="cna.sg">
-    <title lang="bn">Movie Masala</title>
+  <programme start="20260929160000 +0600" stop="20260929163100 +0600" channel="cna.sg">
+    <title lang="bn">Sonic Prime</title>
   </programme>
-  <programme start="20260929163000 +0600" stop="20260929170000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak Gujarat</title>
+  <programme start="20260929163100 +0600" stop="20260929170000 +0600" channel="cna.sg">
+    <title lang="bn">The Patrick Star Show</title>
   </programme>
-  <programme start="20260929170000 +0600" stop="20260929173000 +0600" channel="cna.sg">
-    <title lang="bn">Dangal</title>
+  <programme start="20260929170000 +0600" stop="20260929173100 +0600" channel="cna.sg">
+    <title lang="bn">SpongeBob SquarePants</title>
   </programme>
-  <programme start="20260929173000 +0600" stop="20260929180000 +0600" channel="cna.sg">
-    <title lang="bn">Dangal</title>
+  <programme start="20260929173100 +0600" stop="20260929180000 +0600" channel="cna.sg">
+    <title lang="bn">The Boss Baby: Back in Business</title>
   </programme>
-  <programme start="20260929180000 +0600" stop="20260929183000 +0600" channel="cna.sg">
-    <title lang="bn">Halla Bol</title>
+  <programme start="20260929180000 +0600" stop="20260929183100 +0600" channel="cna.sg">
+    <title lang="bn">The Thundermans: Undercover</title>
   </programme>
-  <programme start="20260929183000 +0600" stop="20260929190000 +0600" channel="cna.sg">
-    <title lang="bn">Halla Bol</title>
+  <programme start="20260929183100 +0600" stop="20260929190000 +0600" channel="cna.sg">
+    <title lang="bn">The Thundermans: Undercover</title>
   </programme>
-  <programme start="20260929190000 +0600" stop="20260929193000 +0600" channel="cna.sg">
-    <title lang="bn">Aaj Tak Punjab</title>
+  <programme start="20260929190000 +0600" stop="20260929193100 +0600" channel="cna.sg">
+    <title lang="bn">iCarly</title>
   </programme>
-  <programme start="20260929193000 +0600" stop="20260929200000 +0600" channel="cna.sg">
-    <title lang="bn">Subh Samchar</title>
+  <programme start="20260929193100 +0600" stop="20260929200000 +0600" channel="cna.sg">
+    <title lang="bn">iCarly</title>
   </programme>
-  <programme start="20260929200000 +0600" stop="20260929203000 +0600" channel="cna.sg">
-    <title lang="bn">Khabardar</title>
+  <programme start="20260929200000 +0600" stop="20260929203100 +0600" channel="cna.sg">
+    <title lang="bn">Sam &amp;amp; Cat</title>
   </programme>
-  <programme start="20260929203000 +0600" stop="20260929210000 +0600" channel="cna.sg">
-    <title lang="bn">Khabardar</title>
+  <programme start="20260929203100 +0600" stop="20260929210000 +0600" channel="cna.sg">
+    <title lang="bn">Sam &amp;amp; Cat</title>
   </programme>
-  <programme start="20260929210000 +0600" stop="20260929213000 +0600" channel="cna.sg">
-    <title lang="bn">Black And White</title>
+  <programme start="20260929210000 +0600" stop="20260929213100 +0600" channel="cna.sg">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260929213000 +0600" stop="20260929220000 +0600" channel="cna.sg">
-    <title lang="bn">Black And White</title>
+  <programme start="20260929213100 +0600" stop="20260929220000 +0600" channel="cna.sg">
+    <title lang="bn">Henry Danger</title>
   </programme>
-  <programme start="20260929220000 +0600" stop="20260929223000 +0600" channel="cna.sg">
-    <title lang="bn">Dastak</title>
+  <programme start="20260929220000 +0600" stop="20260929223100 +0600" channel="cna.sg">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260929223000 +0600" stop="20260929230000 +0600" channel="cna.sg">
-    <title lang="bn">Dastak</title>
+  <programme start="20260929223100 +0600" stop="20260929230000 +0600" channel="cna.sg">
+    <title lang="bn">The Thundermans</title>
   </programme>
-  <programme start="20260929230000 +0600" stop="20260929233000 +0600" channel="cna.sg">
-    <title lang="bn">Aajtak Gujarat</title>
+  <programme start="20260929230000 +0600" stop="20260929233100 +0600" channel="cna.sg">
+    <title lang="bn">iCarly</title>
   </programme>
-  <programme start="20260929233000 +0600" stop="20260930000000 +0600" channel="cna.sg">
-    <title lang="bn">Movie Masala</title>
+  <programme start="20260929233100 +0600" stop="20260930000100 +0600" channel="cna.sg">
+    <title lang="bn">iCarly</title>
   </programme>
   <channel id="TRT World">
     <display-name>TRTWorld.tr</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/6/6e/TRT_World_logo.svg"/>
   </channel>
-  <programme start="20260927000000 +0600" stop="20260927003000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927003000 +0600" stop="20260927010000 +0600" channel="TRT World">
-    <title lang="bn">Africa Matters</title>
-  </programme>
-  <programme start="20260927010000 +0600" stop="20260927013000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927013000 +0600" stop="20260927020000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260927020000 +0600" stop="20260927023000 +0600" channel="TRT World">
-    <title lang="bn">Nexus</title>
-  </programme>
-  <programme start="20260927023000 +0600" stop="20260927030000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20260927030000 +0600" stop="20260927033000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927033000 +0600" stop="20260927040000 +0600" channel="TRT World">
-    <title lang="bn">My America</title>
-  </programme>
-  <programme start="20260927040000 +0600" stop="20260927043000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927043000 +0600" stop="20260927050000 +0600" channel="TRT World">
-    <title lang="bn">Inside America</title>
-  </programme>
-  <programme start="20260927050000 +0600" stop="20260927053000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927053000 +0600" stop="20260927054500 +0600" channel="TRT World">
-    <title lang="bn">Debrief</title>
-  </programme>
-  <programme start="20260927054500 +0600" stop="20260927060000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20260927060000 +0600" stop="20260927063000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927063000 +0600" stop="20260927070000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260927070000 +0600" stop="20260927073000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927073000 +0600" stop="20260927080000 +0600" channel="TRT World">
-    <title lang="bn">Just 2 Degrees</title>
-  </programme>
-  <programme start="20260927080000 +0600" stop="20260927090000 +0600" channel="TRT World">
-    <title lang="bn">Storyteller</title>
-  </programme>
-  <programme start="20260927090000 +0600" stop="20260927093000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927093000 +0600" stop="20260927100000 +0600" channel="TRT World">
-    <title lang="bn">Bigger Than Five</title>
-  </programme>
-  <programme start="20260927100000 +0600" stop="20260927103000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927103000 +0600" stop="20260927104500 +0600" channel="TRT World">
-    <title lang="bn">A Sole Survivor</title>
-  </programme>
-  <programme start="20260927104500 +0600" stop="20260927110000 +0600" channel="TRT World">
-    <title lang="bn">Displaced Melodies</title>
-  </programme>
-  <programme start="20260927110000 +0600" stop="20260927113000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927113000 +0600" stop="20260927120000 +0600" channel="TRT World">
-    <title lang="bn">Across The Balkans</title>
-  </programme>
-  <programme start="20260927120000 +0600" stop="20260927123000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927123000 +0600" stop="20260927124500 +0600" channel="TRT World">
-    <title lang="bn">Scoreline</title>
-  </programme>
-  <programme start="20260927124500 +0600" stop="20260927130000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20260927130000 +0600" stop="20260927133000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927133000 +0600" stop="20260927140000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260927140000 +0600" stop="20260927143000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927143000 +0600" stop="20260927150000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20260927150000 +0600" stop="20260927153000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927153000 +0600" stop="20260927160000 +0600" channel="TRT World">
-    <title lang="bn">Raising Expectations</title>
-  </programme>
-  <programme start="20260927160000 +0600" stop="20260927163000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927163000 +0600" stop="20260927164500 +0600" channel="TRT World">
-    <title lang="bn">Scoreline</title>
-  </programme>
-  <programme start="20260927164500 +0600" stop="20260927170000 +0600" channel="TRT World">
-    <title lang="bn">Debrief</title>
-  </programme>
-  <programme start="20260927170000 +0600" stop="20260927173000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927173000 +0600" stop="20260927180000 +0600" channel="TRT World">
-    <title lang="bn">Across The Balkans</title>
-  </programme>
-  <programme start="20260927180000 +0600" stop="20260927181500 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927181500 +0600" stop="20260927183000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20260927183000 +0600" stop="20260927190000 +0600" channel="TRT World">
-    <title lang="bn">Beyond Borders</title>
-  </programme>
-  <programme start="20260927190000 +0600" stop="20260927193000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927193000 +0600" stop="20260927200000 +0600" channel="TRT World">
-    <title lang="bn">Money Talks</title>
-  </programme>
-  <programme start="20260927200000 +0600" stop="20260927203000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20260927203000 +0600" stop="20260927210000 +0600" channel="TRT World">
-    <title lang="bn">Africa Matters</title>
-  </programme>
-  <programme start="20260927210000 +0600" stop="20260927213000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927213000 +0600" stop="20260927220000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
-  </programme>
-  <programme start="20260927220000 +0600" stop="20260927223000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927223000 +0600" stop="20260927230000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20260927230000 +0600" stop="20260927233000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20260927233000 +0600" stop="20260928000000 +0600" channel="TRT World">
-    <title lang="bn">Bigger Than Five</title>
-  </programme>
   <programme start="20260928000000 +0600" stop="20260928003000 +0600" channel="TRT World">
     <title lang="bn">Business News</title>
   </programme>
@@ -3868,301 +1570,226 @@
     <display-name>BloombergTV.us</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/9/93/Bloomberg_tv_2016.svg"/>
   </channel>
-  <programme start="20260927000000 +0600" stop="20260927003000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Leaders with Francine Lacqua: The Pod...</title>
-  </programme>
-  <programme start="20260927003000 +0600" stop="20260927010000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Best of the Bloomberg Women Money &amp;amp; P...</title>
-  </programme>
-  <programme start="20260927010000 +0600" stop="20260927020000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Wall Street Week</title>
-  </programme>
-  <programme start="20260927020000 +0600" stop="20260927023000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Originals</title>
-  </programme>
-  <programme start="20260927023000 +0600" stop="20260927030000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Circuit</title>
-  </programme>
-  <programme start="20260927030000 +0600" stop="20260927040000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Wall Street Week</title>
-  </programme>
-  <programme start="20260927040000 +0600" stop="20260927070000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg This Weekend</title>
-  </programme>
-  <programme start="20260927070000 +0600" stop="20260927073000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Mishal Husain Show</title>
-  </programme>
-  <programme start="20260927073000 +0600" stop="20260927080000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The David Rubenstein Show</title>
-  </programme>
-  <programme start="20260927080000 +0600" stop="20260927090000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Circuit</title>
-  </programme>
-  <programme start="20260927090000 +0600" stop="20260927100000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Wall Street Week</title>
-  </programme>
-  <programme start="20260927100000 +0600" stop="20260927103000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The David Rubenstein Show</title>
-  </programme>
-  <programme start="20260927103000 +0600" stop="20260927110000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Best of the Bloomberg Women Money &amp;amp; P...</title>
-  </programme>
-  <programme start="20260927110000 +0600" stop="20260927113000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Investigates</title>
-  </programme>
-  <programme start="20260927113000 +0600" stop="20260927120000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Posthuman</title>
-  </programme>
-  <programme start="20260927120000 +0600" stop="20260927123000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Leaders with Francine Lacqua: The Pod...</title>
-  </programme>
-  <programme start="20260927123000 +0600" stop="20260927130000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Mishal Husain Show</title>
-  </programme>
-  <programme start="20260927130000 +0600" stop="20260927133000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Mishal Husain Show</title>
-  </programme>
-  <programme start="20260927133000 +0600" stop="20260927140000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg New Economy: Thriving in an...</title>
-  </programme>
-  <programme start="20260927140000 +0600" stop="20260927143000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Circuit</title>
-  </programme>
-  <programme start="20260927143000 +0600" stop="20260927150000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Originals</title>
-  </programme>
-  <programme start="20260927150000 +0600" stop="20260927160000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Wall Street Week</title>
-  </programme>
-  <programme start="20260927160000 +0600" stop="20260927180000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg The Asia Trade</title>
-  </programme>
-  <programme start="20260927180000 +0600" stop="20260927200000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg: The China Show</title>
-  </programme>
-  <programme start="20260927200000 +0600" stop="20260927210000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Insight with Haslinda Amin</title>
-  </programme>
-  <programme start="20260927210000 +0600" stop="20260927220000 +0600" channel="Bloomberg TV">
+  <programme start="20260928000000 +0600" stop="20260928010000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Horizons Middle East &amp;amp; Africa</title>
-  </programme>
-  <programme start="20260927220000 +0600" stop="20260927230000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Daybreak: Europe</title>
-  </programme>
-  <programme start="20260927230000 +0600" stop="20260928010000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg: The Opening Trade</title>
   </programme>
   <programme start="20260928010000 +0600" stop="20260928020000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Daybreak: Europe</title>
+  </programme>
+  <programme start="20260928020000 +0600" stop="20260928040000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg: The Opening Trade</title>
+  </programme>
+  <programme start="20260928040000 +0600" stop="20260928050000 +0600" channel="Bloomberg TV">
     <title lang="bn">The Pulse with Francine Lacqua</title>
   </programme>
-  <programme start="20260928020000 +0600" stop="20260928030000 +0600" channel="Bloomberg TV">
+  <programme start="20260928050000 +0600" stop="20260928060000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Brief</title>
   </programme>
-  <programme start="20260928030000 +0600" stop="20260928060000 +0600" channel="Bloomberg TV">
+  <programme start="20260928060000 +0600" stop="20260928090000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Surveillance</title>
   </programme>
-  <programme start="20260928060000 +0600" stop="20260928080000 +0600" channel="Bloomberg TV">
+  <programme start="20260928090000 +0600" stop="20260928110000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Open Interest</title>
-  </programme>
-  <programme start="20260928080000 +0600" stop="20260928090000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Tech</title>
-  </programme>
-  <programme start="20260928090000 +0600" stop="20260928100000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg ETF IQ</title>
-  </programme>
-  <programme start="20260928100000 +0600" stop="20260928110000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg: Balance of Power</title>
   </programme>
   <programme start="20260928110000 +0600" stop="20260928120000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Businessweek Daily</title>
+    <title lang="bn">Bloomberg Tech</title>
   </programme>
-  <programme start="20260928120000 +0600" stop="20260928140000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg The Close</title>
+  <programme start="20260928120000 +0600" stop="20260928130000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg ETF IQ</title>
+  </programme>
+  <programme start="20260928130000 +0600" stop="20260928140000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg: Balance of Power</title>
   </programme>
   <programme start="20260928140000 +0600" stop="20260928150000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Businessweek Daily</title>
+  </programme>
+  <programme start="20260928150000 +0600" stop="20260928170000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg The Close</title>
+  </programme>
+  <programme start="20260928170000 +0600" stop="20260928180000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg: Balance of Power</title>
   </programme>
-  <programme start="20260928150000 +0600" stop="20260928153000 +0600" channel="Bloomberg TV">
+  <programme start="20260928180000 +0600" stop="20260928183000 +0600" channel="Bloomberg TV">
     <title lang="bn">Leaders with Francine Lacqua: The Pod...</title>
   </programme>
-  <programme start="20260928153000 +0600" stop="20260928160000 +0600" channel="Bloomberg TV">
+  <programme start="20260928183000 +0600" stop="20260928190000 +0600" channel="Bloomberg TV">
     <title lang="bn">Leaders with Francine Lacqua: The Pod...</title>
   </programme>
-  <programme start="20260928160000 +0600" stop="20260928180000 +0600" channel="Bloomberg TV">
+  <programme start="20260928190000 +0600" stop="20260928210000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg The Asia Trade</title>
   </programme>
-  <programme start="20260928180000 +0600" stop="20260928200000 +0600" channel="Bloomberg TV">
+  <programme start="20260928210000 +0600" stop="20260928230000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg: The China Show</title>
   </programme>
-  <programme start="20260928200000 +0600" stop="20260928210000 +0600" channel="Bloomberg TV">
+  <programme start="20260928230000 +0600" stop="20260929000000 +0600" channel="Bloomberg TV">
     <title lang="bn">Insight with Haslinda Amin</title>
   </programme>
-  <programme start="20260928210000 +0600" stop="20260928220000 +0600" channel="Bloomberg TV">
+  <programme start="20260929000000 +0600" stop="20260929010000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Horizons Middle East &amp;amp; Africa</title>
-  </programme>
-  <programme start="20260928220000 +0600" stop="20260928230000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Daybreak: Europe</title>
-  </programme>
-  <programme start="20260928230000 +0600" stop="20260929010000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg: The Opening Trade</title>
   </programme>
   <programme start="20260929010000 +0600" stop="20260929020000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Daybreak: Europe</title>
+  </programme>
+  <programme start="20260929020000 +0600" stop="20260929040000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg: The Opening Trade</title>
+  </programme>
+  <programme start="20260929040000 +0600" stop="20260929050000 +0600" channel="Bloomberg TV">
     <title lang="bn">The Pulse with Francine Lacqua</title>
   </programme>
-  <programme start="20260929020000 +0600" stop="20260929030000 +0600" channel="Bloomberg TV">
+  <programme start="20260929050000 +0600" stop="20260929060000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Brief</title>
   </programme>
-  <programme start="20260929030000 +0600" stop="20260929060000 +0600" channel="Bloomberg TV">
+  <programme start="20260929060000 +0600" stop="20260929090000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Surveillance</title>
   </programme>
-  <programme start="20260929060000 +0600" stop="20260929080000 +0600" channel="Bloomberg TV">
+  <programme start="20260929090000 +0600" stop="20260929110000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Open Interest</title>
-  </programme>
-  <programme start="20260929080000 +0600" stop="20260929090000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Tech</title>
-  </programme>
-  <programme start="20260929090000 +0600" stop="20260929100000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Crypto</title>
-  </programme>
-  <programme start="20260929100000 +0600" stop="20260929110000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg: Balance of Power</title>
   </programme>
   <programme start="20260929110000 +0600" stop="20260929120000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Businessweek Daily</title>
+    <title lang="bn">Bloomberg Tech</title>
   </programme>
-  <programme start="20260929120000 +0600" stop="20260929140000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg The Close</title>
+  <programme start="20260929120000 +0600" stop="20260929130000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Crypto</title>
+  </programme>
+  <programme start="20260929130000 +0600" stop="20260929140000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg: Balance of Power</title>
   </programme>
   <programme start="20260929140000 +0600" stop="20260929150000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Businessweek Daily</title>
+  </programme>
+  <programme start="20260929150000 +0600" stop="20260929170000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg The Close</title>
+  </programme>
+  <programme start="20260929170000 +0600" stop="20260929180000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg: Balance of Power</title>
   </programme>
-  <programme start="20260929150000 +0600" stop="20260929153000 +0600" channel="Bloomberg TV">
+  <programme start="20260929180000 +0600" stop="20260929183000 +0600" channel="Bloomberg TV">
     <title lang="bn">The Deal with Alex Rodriguez and Jaso...</title>
   </programme>
-  <programme start="20260929153000 +0600" stop="20260929160000 +0600" channel="Bloomberg TV">
+  <programme start="20260929183000 +0600" stop="20260929190000 +0600" channel="Bloomberg TV">
     <title lang="bn">The Deal with Alex Rodriguez and Jaso...</title>
   </programme>
-  <programme start="20260929160000 +0600" stop="20260929180000 +0600" channel="Bloomberg TV">
+  <programme start="20260929190000 +0600" stop="20260929210000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg The Asia Trade</title>
   </programme>
-  <programme start="20260929180000 +0600" stop="20260929200000 +0600" channel="Bloomberg TV">
+  <programme start="20260929210000 +0600" stop="20260929230000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg: The China Show</title>
   </programme>
-  <programme start="20260929200000 +0600" stop="20260929210000 +0600" channel="Bloomberg TV">
+  <programme start="20260929230000 +0600" stop="20260930000000 +0600" channel="Bloomberg TV">
     <title lang="bn">Insight with Haslinda Amin</title>
   </programme>
-  <programme start="20260929210000 +0600" stop="20260929220000 +0600" channel="Bloomberg TV">
+  <programme start="20260930000000 +0600" stop="20260930010000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Horizons Middle East &amp;amp; Africa</title>
-  </programme>
-  <programme start="20260929220000 +0600" stop="20260929230000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Daybreak: Europe</title>
-  </programme>
-  <programme start="20260929230000 +0600" stop="20260930010000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg: The Opening Trade</title>
   </programme>
   <programme start="20260930010000 +0600" stop="20260930020000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Pulse with Francine Lacqua</title>
-  </programme>
-  <programme start="20260930020000 +0600" stop="20260930030000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Brief</title>
-  </programme>
-  <programme start="20260930030000 +0600" stop="20260930060000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Surveillance</title>
-  </programme>
-  <programme start="20260930060000 +0600" stop="20260930070000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Open Interest</title>
-  </programme>
-  <programme start="20260930070000 +0600" stop="20260930080000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Open Interest</title>
-  </programme>
-  <programme start="20260930080000 +0600" stop="20260930090000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Tech</title>
-  </programme>
-  <programme start="20260930090000 +0600" stop="20260930100000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Deals</title>
-  </programme>
-  <programme start="20260930100000 +0600" stop="20260930110000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg: Balance of Power</title>
-  </programme>
-  <programme start="20260930110000 +0600" stop="20260930120000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Businessweek Daily</title>
-  </programme>
-  <programme start="20260930120000 +0600" stop="20260930140000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg The Close</title>
-  </programme>
-  <programme start="20260930140000 +0600" stop="20260930150000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg: Balance of Power</title>
-  </programme>
-  <programme start="20260930150000 +0600" stop="20260930153000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Quantum Marketing</title>
-  </programme>
-  <programme start="20260930153000 +0600" stop="20260930160000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Quantum Marketing</title>
-  </programme>
-  <programme start="20260930160000 +0600" stop="20260930180000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg The Asia Trade</title>
-  </programme>
-  <programme start="20260930180000 +0600" stop="20260930200000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg: The China Show</title>
-  </programme>
-  <programme start="20260930200000 +0600" stop="20260930210000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Insight with Haslinda Amin</title>
-  </programme>
-  <programme start="20260930210000 +0600" stop="20260930220000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Horizons Middle East &amp;amp; Africa</title>
-  </programme>
-  <programme start="20260930220000 +0600" stop="20260930230000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Daybreak: Europe</title>
   </programme>
-  <programme start="20260930230000 +0600" stop="20261001010000 +0600" channel="Bloomberg TV">
+  <programme start="20260930020000 +0600" stop="20260930040000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg: The Opening Trade</title>
   </programme>
-  <programme start="20261001010000 +0600" stop="20261001020000 +0600" channel="Bloomberg TV">
+  <programme start="20260930040000 +0600" stop="20260930050000 +0600" channel="Bloomberg TV">
     <title lang="bn">The Pulse with Francine Lacqua</title>
   </programme>
-  <programme start="20261001020000 +0600" stop="20261001030000 +0600" channel="Bloomberg TV">
+  <programme start="20260930050000 +0600" stop="20260930060000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Brief</title>
   </programme>
-  <programme start="20261001030000 +0600" stop="20261001040000 +0600" channel="Bloomberg TV">
+  <programme start="20260930060000 +0600" stop="20260930090000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Surveillance</title>
   </programme>
-  <programme start="20261001040000 +0600" stop="20261001043000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The David Rubenstein Show</title>
-  </programme>
-  <programme start="20261001043000 +0600" stop="20261001050000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Next Africa</title>
-  </programme>
-  <programme start="20261001050000 +0600" stop="20261001060000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Surveillance</title>
-  </programme>
-  <programme start="20261001060000 +0600" stop="20261001070000 +0600" channel="Bloomberg TV">
+  <programme start="20260930090000 +0600" stop="20260930100000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Open Interest</title>
   </programme>
-  <programme start="20261001070000 +0600" stop="20261001080000 +0600" channel="Bloomberg TV">
+  <programme start="20260930100000 +0600" stop="20260930110000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Open Interest</title>
   </programme>
-  <programme start="20261001080000 +0600" stop="20261001090000 +0600" channel="Bloomberg TV">
+  <programme start="20260930110000 +0600" stop="20260930120000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Tech</title>
   </programme>
-  <programme start="20261001090000 +0600" stop="20261001100000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Real Yield</title>
+  <programme start="20260930120000 +0600" stop="20260930130000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Deals</title>
   </programme>
-  <programme start="20261001100000 +0600" stop="20261001120000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Businessweek Daily</title>
-  </programme>
-  <programme start="20261001120000 +0600" stop="20261001140000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg The Close</title>
-  </programme>
-  <programme start="20261001140000 +0600" stop="20261001150000 +0600" channel="Bloomberg TV">
+  <programme start="20260930130000 +0600" stop="20260930140000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg: Balance of Power</title>
   </programme>
-  <programme start="20261001150000 +0600" stop="20261001160000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Circuit</title>
+  <programme start="20260930140000 +0600" stop="20260930150000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Businessweek Daily</title>
   </programme>
-  <programme start="20261001160000 +0600" stop="20261001180000 +0600" channel="Bloomberg TV">
+  <programme start="20260930150000 +0600" stop="20260930170000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg The Close</title>
+  </programme>
+  <programme start="20260930170000 +0600" stop="20260930180000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg: Balance of Power</title>
+  </programme>
+  <programme start="20260930180000 +0600" stop="20260930183000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Quantum Marketing</title>
+  </programme>
+  <programme start="20260930183000 +0600" stop="20260930190000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Quantum Marketing</title>
+  </programme>
+  <programme start="20260930190000 +0600" stop="20260930210000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg The Asia Trade</title>
   </programme>
-  <programme start="20261001180000 +0600" stop="20261001183000 +0600" channel="Bloomberg TV">
+  <programme start="20260930210000 +0600" stop="20260930230000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg: The China Show</title>
+  </programme>
+  <programme start="20260930230000 +0600" stop="20261001000000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Insight with Haslinda Amin</title>
+  </programme>
+  <programme start="20261001000000 +0600" stop="20261001010000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Horizons Middle East &amp;amp; Africa</title>
+  </programme>
+  <programme start="20261001010000 +0600" stop="20261001020000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Daybreak: Europe</title>
+  </programme>
+  <programme start="20261001020000 +0600" stop="20261001040000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg: The Opening Trade</title>
+  </programme>
+  <programme start="20261001040000 +0600" stop="20261001050000 +0600" channel="Bloomberg TV">
+    <title lang="bn">The Pulse with Francine Lacqua</title>
+  </programme>
+  <programme start="20261001050000 +0600" stop="20261001060000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Brief</title>
+  </programme>
+  <programme start="20261001060000 +0600" stop="20261001070000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Surveillance</title>
+  </programme>
+  <programme start="20261001070000 +0600" stop="20261001073000 +0600" channel="Bloomberg TV">
+    <title lang="bn">The David Rubenstein Show</title>
+  </programme>
+  <programme start="20261001073000 +0600" stop="20261001080000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Next Africa</title>
+  </programme>
+  <programme start="20261001080000 +0600" stop="20261001090000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Surveillance</title>
+  </programme>
+  <programme start="20261001090000 +0600" stop="20261001100000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Open Interest</title>
+  </programme>
+  <programme start="20261001100000 +0600" stop="20261001110000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Open Interest</title>
+  </programme>
+  <programme start="20261001110000 +0600" stop="20261001120000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Tech</title>
+  </programme>
+  <programme start="20261001120000 +0600" stop="20261001130000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Real Yield</title>
+  </programme>
+  <programme start="20261001130000 +0600" stop="20261001150000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg Businessweek Daily</title>
+  </programme>
+  <programme start="20261001150000 +0600" stop="20261001170000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg The Close</title>
+  </programme>
+  <programme start="20261001170000 +0600" stop="20261001180000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg: Balance of Power</title>
+  </programme>
+  <programme start="20261001180000 +0600" stop="20261001190000 +0600" channel="Bloomberg TV">
+    <title lang="bn">The Circuit</title>
+  </programme>
+  <programme start="20261001190000 +0600" stop="20261001210000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Bloomberg The Asia Trade</title>
+  </programme>
+  <programme start="20261001210000 +0600" stop="20261001213000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg: The China Show</title>
   </programme>
   <channel id="YouTube">
