@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (7d)
 https://live20.bozztv.com/akamaissh101/ssh101/usbdjournal/chunks.m3u8
+#EXTINF:-1 group-title="India",MU | Sana Plus (0d)
+https://galaxyott.live/hls/sanaplus.m3u8
 #EXTINF:-1 group-title="International",Cook & Bake (7d)
 https://cc-swbj49v56imaw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swbj49v56imaw/OTM/OTM_Cooking-SCTE_SAMSUNG/playlist.m3u8
-#EXTINF:-1 group-title="International",EN | Blues TV (0d)
-https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1 group-title="International",TVRI World (0d)
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="International News",Sky News Weather (5d)
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Kids",0. Hooray Rhymes (6d)
@@ -13,12 +15,8 @@ https://cc-hqignh3tex8xc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 group-title="Kids",1. Hooray Kids (7d)
 https://cc-hcf2o1ghsvvdu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hcf2o1ghsvvdu/OTM/OTM_HoorayKids-SCTE_SAMSUNG/playlist.m3u8
-#EXTINF:-1 group-title="Music",EN | M20 Music (0d)
-https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
 #EXTINF:-1 group-title="Music",OTHER | 4 Fun TV (0d)
 https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
-#EXTINF:-1 group-title="Pakistan",NEWS | Dunya News (0d)
-http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
 #EXTINF:-1 group-title="Religious",QURAN (8d)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Sunnah TV (8d)
