@@ -1,39 +1,45 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla",Ayna TV (0d)
+#EXTINF:-1 group-title="Bangla",Ayna TV (1d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",Channel S (1d)
+#EXTINF:-1 group-title="Bangla",Channel S (2d)
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Discovery Bangla (4d)
+#EXTINF:-1 group-title="Bangla",Discovery Bangla (5d)
 http://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="Bangla",Green TV (1d)
+#EXTINF:-1 group-title="Bangla",Green TV (2d)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | Jago News 24 (1d)
+#EXTINF:-1 group-title="Bangla",R Plus Gold (0d)
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla News",BD | Jago News 24 (2d)
 https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | Jago News 24 (1d)
+#EXTINF:-1 group-title="Bangla News",BD | Jago News 24 (2d)
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
-#EXTINF:-1 group-title="Educational",BBC Earth (5d)
+#EXTINF:-1 group-title="Educational",BBC Earth (6d)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
-#EXTINF:-1 group-title="Educational",NAT GEO HD Hindi (4d)
+#EXTINF:-1 group-title="Educational",NAT GEO HD Hindi (5d)
 http://202.70.146.135:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="Educational",WaterBear (0d)
-https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/ts-eu-w1-n2/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="India",ENT | Epic TV (3d)
+#EXTINF:-1 group-title="India",ENT | Epic TV (4d)
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
-#EXTINF:-1 group-title="India",ENT | Nazara (3d)
+#EXTINF:-1 group-title="India",ENT | Nazara (4d)
 https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
-#EXTINF:-1 group-title="India",MU | 9XM (1d)
+#EXTINF:-1 group-title="India",MU | 9XM (2d)
 https://9xjio.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1 group-title="Kids",1. 4 Fun Kids (7d)
+#EXTINF:-1 group-title="International News",CNN International (0d)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 group-title="International News",CNN International (0d)
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="International News",Connecting America (0d)
+https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/ts-us-e2-n1/playlist/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:-1 group-title="Kids",1. 4 Fun Kids (8d)
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
-#EXTINF:-1 group-title="Movies",EN | HBO Movies (1d)
+#EXTINF:-1 group-title="Movies",EN | HBO Movies (2d)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="Movies",EN | LoL TV (0d)
-https://streams2.sofast.tv/ptnr-yupptv/title-LOL-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8
-#EXTINF:-1 group-title="Music",OTHER | 4 Fun TV (7d)
+#EXTINF:-1 group-title="Music",OTHER | 4 Fun TV (8d)
 https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
-#EXTINF:-1 group-title="Religious",Azan TV (0d)
+#EXTINF:-1 group-title="Pakistan",NEWS | Dunya News (0d)
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
+#EXTINF:-1 group-title="Religious",Azan TV (1d)
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
-#EXTINF:-1 group-title="Religious",Zainabia Channel (0d)
+#EXTINF:-1 group-title="Religious",Zainabia Channel (1d)
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
-#EXTINF:-1 group-title="Sports",--Live(Euro Sport 1)-- (0d)
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="Sports",MIXER | Xtrem Sports (0d)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
