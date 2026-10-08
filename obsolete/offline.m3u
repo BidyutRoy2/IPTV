@@ -1,49 +1,35 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla",Amar Bangla (0d)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Discovery Bangla (5d)
+#EXTINF:-1 group-title="Bangla",Ayna TV (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla",Discovery Bangla (6d)
 http://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="Bangla",MU | ATN MUSIC (0d)
+#EXTINF:-1 group-title="Bangla",MU | ATN MUSIC (1d)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",NTV TV UK (0d)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | Bangla Jago TV (0d)
-https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | Bangla Jago TV (0d)
-http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | Tribe TV (0d)
-https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-#EXTINF:-1 group-title="Educational",Amazing Discoveries TV (0d)
+#EXTINF:-1 group-title="Bangla",R Plus Gold (0d)
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla",Thikana (0d)
+https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
+#EXTINF:-1 group-title="Educational",Amazing Discoveries TV (1d)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 group-title="Educational",BBC Earth (6d)
+#EXTINF:-1 group-title="Educational",BBC Earth (7d)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
-#EXTINF:-1 group-title="Educational",BBC Earth US (0d)
-https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1 group-title="Educational",NAT GEO HD Hindi (5d)
+#EXTINF:-1 group-title="Educational",NAT GEO HD Hindi (6d)
 http://202.70.146.135:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="India",ENT | Epic TV (4d)
+#EXTINF:-1 group-title="India",ENT | Epic TV (5d)
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
-#EXTINF:-1 group-title="India",ENT | Nazara (4d)
+#EXTINF:-1 group-title="India",ENT | Nazara (5d)
 https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
-#EXTINF:-1 group-title="India",MU | 9XM (2d)
+#EXTINF:-1 group-title="India",ENT | Pardesi TV (0d)
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="India",MU | 9XM (3d)
 https://9xjio.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1 group-title="India",MU | Pitaara TV (0d)
-https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
-#EXTINF:-1 group-title="India",NEWS | Zee Hindustan (0d)
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
-#EXTINF:-1 group-title="International News",CNN International (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="International News",CNN International (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 group-title="International News",CNN International (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Kids",1. 4 Fun Kids (8d)
+#EXTINF:-1 group-title="India",NEWS | Amar Ujala (0d)
+https://amarujala.ottlive.co.in/amarujala/index.m3u8
+#EXTINF:-1 group-title="Kids",1. 4 Fun Kids (9d)
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
-#EXTINF:-1 group-title="Movies",EN | HBO Movies (2d)
+#EXTINF:-1 group-title="Movies",EN | HBO Movies (3d)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="Music",OTHER | 4 Fun TV (8d)
+#EXTINF:-1 group-title="Music",OTHER | 4 Fun TV (9d)
 https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
-#EXTINF:-1 group-title="Religious",Azan TV (1d)
+#EXTINF:-1 group-title="Religious",Azan TV (2d)
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
-#EXTINF:-1 group-title="Religious",BAHRAIN QURAN (0d)
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
