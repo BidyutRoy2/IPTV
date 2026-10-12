@@ -851,843 +851,1041 @@
     <display-name>Al Jazeera English</display-name>
     <icon src="https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png"/>
   </channel>
-  <programme start="20261011003100 +0600" stop="20261011010000 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock, Paper, Scissors</title>
+  <programme start="20261012000000 +0600" stop="20261012003000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261011010000 +0600" stop="20261011013100 +0600" channel="aljazeera.com">
-    <title lang="bn">Sonic Prime</title>
+  <programme start="20261012003000 +0600" stop="20261012010000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261011013100 +0600" stop="20261011020000 +0600" channel="aljazeera.com">
-    <title lang="bn">Sonic Prime</title>
+  <programme start="20261012010000 +0600" stop="20261012013000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261011020000 +0600" stop="20261011023100 +0600" channel="aljazeera.com">
-    <title lang="bn">SpongeBob SquarePants</title>
+  <programme start="20261012013000 +0600" stop="20261012020000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261011023100 +0600" stop="20261011030000 +0600" channel="aljazeera.com">
-    <title lang="bn">SpongeBob SquarePants</title>
+  <programme start="20261012020000 +0600" stop="20261012023000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261011030000 +0600" stop="20261011033100 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock Island Mysteries</title>
+  <programme start="20261012023000 +0600" stop="20261012030000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261011033100 +0600" stop="20261011040000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hunter Street</title>
+  <programme start="20261012030000 +0600" stop="20261012033000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261011040000 +0600" stop="20261011043100 +0600" channel="aljazeera.com">
-    <title lang="bn">Hunter Street</title>
+  <programme start="20261012033000 +0600" stop="20261012040000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261011043100 +0600" stop="20261011044600 +0600" channel="aljazeera.com">
-    <title lang="bn">House of Anubis</title>
+  <programme start="20261012040000 +0600" stop="20261012043000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261011044600 +0600" stop="20261011050000 +0600" channel="aljazeera.com">
-    <title lang="bn">House of Anubis</title>
+  <programme start="20261012043000 +0600" stop="20261012050000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261011050000 +0600" stop="20261011053100 +0600" channel="aljazeera.com">
-    <title lang="bn">House of Anubis</title>
+  <programme start="20261012050000 +0600" stop="20261012053000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261011053100 +0600" stop="20261011060000 +0600" channel="aljazeera.com">
-    <title lang="bn">Henry Danger</title>
+  <programme start="20261012053000 +0600" stop="20261012060000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261011060000 +0600" stop="20261011063100 +0600" channel="aljazeera.com">
-    <title lang="bn">Henry Danger</title>
+  <programme start="20261012060000 +0600" stop="20261012063000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261011063100 +0600" stop="20261011070000 +0600" channel="aljazeera.com">
-    <title lang="bn">Popularity Papers</title>
+  <programme start="20261012063000 +0600" stop="20261012070000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261011070000 +0600" stop="20261011073100 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock Island Mysteries</title>
+  <programme start="20261012070000 +0600" stop="20261012073000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261011073100 +0600" stop="20261011080000 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock Island Mysteries</title>
-  </programme>
-  <programme start="20261011080000 +0600" stop="20261011083000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hunter Street</title>
-  </programme>
-  <programme start="20261011083000 +0600" stop="20261011090000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hunter Street</title>
-  </programme>
-  <programme start="20261011090000 +0600" stop="20261011091300 +0600" channel="aljazeera.com">
-    <title lang="bn">House of Anubis</title>
-  </programme>
-  <programme start="20261011091300 +0600" stop="20261011092500 +0600" channel="aljazeera.com">
-    <title lang="bn">House of Anubis</title>
-  </programme>
-  <programme start="20261011092500 +0600" stop="20261011093800 +0600" channel="aljazeera.com">
-    <title lang="bn">House of Anubis</title>
-  </programme>
-  <programme start="20261011093800 +0600" stop="20261011095000 +0600" channel="aljazeera.com">
-    <title lang="bn">House of Anubis</title>
-  </programme>
-  <programme start="20261011095000 +0600" stop="20261011101500 +0600" channel="aljazeera.com">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20261011101500 +0600" stop="20261011104000 +0600" channel="aljazeera.com">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20261011104000 +0600" stop="20261011110500 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock Island Mysteries</title>
-  </programme>
-  <programme start="20261011110500 +0600" stop="20261011113000 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock Island Mysteries</title>
-  </programme>
-  <programme start="20261011113000 +0600" stop="20261011115500 +0600" channel="aljazeera.com">
-    <title lang="bn">The Marsupilamis</title>
-  </programme>
-  <programme start="20261011115500 +0600" stop="20261011122000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Marsupilamis</title>
-  </programme>
-  <programme start="20261011122000 +0600" stop="20261011123000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Smurfs</title>
-  </programme>
-  <programme start="20261011123000 +0600" stop="20261011124000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Smurfs</title>
-  </programme>
-  <programme start="20261011124000 +0600" stop="20261011130000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Smurfs</title>
-  </programme>
-  <programme start="20261011130000 +0600" stop="20261011133000 +0600" channel="aljazeera.com">
-    <title lang="bn">SpongeBob SquarePants</title>
-  </programme>
-  <programme start="20261011133000 +0600" stop="20261011140000 +0600" channel="aljazeera.com">
-    <title lang="bn">SpongeBob SquarePants</title>
-  </programme>
-  <programme start="20261011140000 +0600" stop="20261011143100 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock, Paper, Scissors</title>
-  </programme>
-  <programme start="20261011143100 +0600" stop="20261011150000 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock, Paper, Scissors</title>
-  </programme>
-  <programme start="20261011150000 +0600" stop="20261011153100 +0600" channel="aljazeera.com">
-    <title lang="bn">Sonic Prime</title>
-  </programme>
-  <programme start="20261011153100 +0600" stop="20261011160000 +0600" channel="aljazeera.com">
-    <title lang="bn">Sonic Prime</title>
-  </programme>
-  <programme start="20261011160000 +0600" stop="20261011170000 +0600" channel="aljazeera.com">
-    <title lang="bn">SpongeBob SquarePants</title>
-  </programme>
-  <programme start="20261011170000 +0600" stop="20261011173100 +0600" channel="aljazeera.com">
-    <title lang="bn">The Boss Baby: Back in Business</title>
-  </programme>
-  <programme start="20261011173100 +0600" stop="20261011180000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Boss Baby: Back in Business</title>
-  </programme>
-  <programme start="20261011180000 +0600" stop="20261011183100 +0600" channel="aljazeera.com">
-    <title lang="bn">The Thundermans: Undercover</title>
-  </programme>
-  <programme start="20261011183100 +0600" stop="20261011190000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Thundermans: Undercover</title>
-  </programme>
-  <programme start="20261011190000 +0600" stop="20261011193100 +0600" channel="aljazeera.com">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20261011193100 +0600" stop="20261011212000 +0600" channel="aljazeera.com">
-    <title lang="bn">My Weird School</title>
-  </programme>
-  <programme start="20261011212000 +0600" stop="20261011213100 +0600" channel="aljazeera.com">
-    <title lang="bn">SpongeBob SquarePants</title>
-  </programme>
-  <programme start="20261011213100 +0600" stop="20261011220000 +0600" channel="aljazeera.com">
-    <title lang="bn">Wylde Pak</title>
-  </programme>
-  <programme start="20261011220000 +0600" stop="20261011223100 +0600" channel="aljazeera.com">
-    <title lang="bn">Wylde Pak</title>
-  </programme>
-  <programme start="20261011223100 +0600" stop="20261011230000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Boss Baby: Back in Business</title>
-  </programme>
-  <programme start="20261011230000 +0600" stop="20261011233100 +0600" channel="aljazeera.com">
-    <title lang="bn">The Boss Baby: Back in Business</title>
-  </programme>
-  <programme start="20261011233100 +0600" stop="20261012000000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Thundermans: Undercover</title>
-  </programme>
-  <programme start="20261012000000 +0600" stop="20261012003100 +0600" channel="aljazeera.com">
-    <title lang="bn">The Thundermans: Undercover</title>
-  </programme>
-  <programme start="20261012003100 +0600" stop="20261012022600 +0600" channel="aljazeera.com">
-    <title lang="bn">The Boy Who Cried Werewolf</title>
-  </programme>
-  <programme start="20261012022600 +0600" stop="20261012023100 +0600" channel="aljazeera.com">
-    <title lang="bn">Play Like a Sponge</title>
-  </programme>
-  <programme start="20261012023100 +0600" stop="20261012030000 +0600" channel="aljazeera.com">
-    <title lang="bn">SpongeBob SquarePants</title>
-  </programme>
-  <programme start="20261012030000 +0600" stop="20261012033100 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock Island Mysteries</title>
-  </programme>
-  <programme start="20261012033100 +0600" stop="20261012040000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hunter Street</title>
-  </programme>
-  <programme start="20261012040000 +0600" stop="20261012043100 +0600" channel="aljazeera.com">
-    <title lang="bn">Hunter Street</title>
-  </programme>
-  <programme start="20261012043100 +0600" stop="20261012050000 +0600" channel="aljazeera.com">
-    <title lang="bn">House of Anubis</title>
-  </programme>
-  <programme start="20261012050000 +0600" stop="20261012053100 +0600" channel="aljazeera.com">
-    <title lang="bn">House of Anubis</title>
-  </programme>
-  <programme start="20261012053100 +0600" stop="20261012060000 +0600" channel="aljazeera.com">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20261012060000 +0600" stop="20261012063100 +0600" channel="aljazeera.com">
-    <title lang="bn">Henry Danger</title>
-  </programme>
-  <programme start="20261012063100 +0600" stop="20261012070000 +0600" channel="aljazeera.com">
-    <title lang="bn">Popularity Papers</title>
-  </programme>
-  <programme start="20261012070000 +0600" stop="20261012073100 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock Island Mysteries</title>
-  </programme>
-  <programme start="20261012073100 +0600" stop="20261012080000 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock Island Mysteries</title>
+  <programme start="20261012073000 +0600" stop="20261012080000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
   <programme start="20261012080000 +0600" stop="20261012083000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hunter Street</title>
+    <title lang="bn">Shatak Aajtak</title>
   </programme>
   <programme start="20261012083000 +0600" stop="20261012090000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hunter Street</title>
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261012090000 +0600" stop="20261012101500 +0600" channel="aljazeera.com">
-    <title lang="bn">A Really Haunted Loud House</title>
+  <programme start="20261012090000 +0600" stop="20261012093000 +0600" channel="aljazeera.com">
+    <title lang="bn">Vande Matram</title>
   </programme>
-  <programme start="20261012101500 +0600" stop="20261012104000 +0600" channel="aljazeera.com">
-    <title lang="bn">Henry Danger</title>
+  <programme start="20261012093000 +0600" stop="20261012100000 +0600" channel="aljazeera.com">
+    <title lang="bn">Vande Matram</title>
   </programme>
-  <programme start="20261012104000 +0600" stop="20261012110500 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock Island Mysteries</title>
+  <programme start="20261012100000 +0600" stop="20261012103000 +0600" channel="aljazeera.com">
+    <title lang="bn">Adbhut Avishwasniya Akalpniya</title>
   </programme>
-  <programme start="20261012110500 +0600" stop="20261012113000 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock Island Mysteries</title>
+  <programme start="20261012103000 +0600" stop="20261012110000 +0600" channel="aljazeera.com">
+    <title lang="bn">Adbhut Avishwasniya Akalpniya</title>
   </programme>
-  <programme start="20261012113000 +0600" stop="20261012115500 +0600" channel="aljazeera.com">
-    <title lang="bn">The Marsupilamis</title>
+  <programme start="20261012110000 +0600" stop="20261012113000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261012115500 +0600" stop="20261012122000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Marsupilamis</title>
+  <programme start="20261012113000 +0600" stop="20261012120000 +0600" channel="aljazeera.com">
+    <title lang="bn">Duniya Aajtak</title>
   </programme>
-  <programme start="20261012122000 +0600" stop="20261012123000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Smurfs</title>
+  <programme start="20261012120000 +0600" stop="20261012123000 +0600" channel="aljazeera.com">
+    <title lang="bn">Mera Gaon Mera Desh</title>
   </programme>
-  <programme start="20261012123000 +0600" stop="20261012124000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Smurfs</title>
-  </programme>
-  <programme start="20261012124000 +0600" stop="20261012130000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Smurfs</title>
+  <programme start="20261012123000 +0600" stop="20261012130000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
   <programme start="20261012130000 +0600" stop="20261012133000 +0600" channel="aljazeera.com">
-    <title lang="bn">SpongeBob SquarePants</title>
+    <title lang="bn">Ranbhoomi</title>
   </programme>
   <programme start="20261012133000 +0600" stop="20261012140000 +0600" channel="aljazeera.com">
-    <title lang="bn">SpongeBob SquarePants</title>
+    <title lang="bn">Power Play</title>
   </programme>
-  <programme start="20261012140000 +0600" stop="20261012142900 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock, Paper, Scissors</title>
+  <programme start="20261012140000 +0600" stop="20261012143000 +0600" channel="aljazeera.com">
+    <title lang="bn">Health Wealth</title>
   </programme>
-  <programme start="20261012142900 +0600" stop="20261012150000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Loud House</title>
+  <programme start="20261012143000 +0600" stop="20261012150000 +0600" channel="aljazeera.com">
+    <title lang="bn">Saas Bahu Betiyan</title>
   </programme>
-  <programme start="20261012150000 +0600" stop="20261012153100 +0600" channel="aljazeera.com">
-    <title lang="bn">The Boss Baby: Back in Business</title>
+  <programme start="20261012150000 +0600" stop="20261012153000 +0600" channel="aljazeera.com">
+    <title lang="bn">Saas Bahu Betiyan</title>
   </programme>
-  <programme start="20261012153100 +0600" stop="20261012160000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Patrick Star Show</title>
+  <programme start="20261012153000 +0600" stop="20261012160000 +0600" channel="aljazeera.com">
+    <title lang="bn">Saas Bahu Betiyan</title>
   </programme>
-  <programme start="20261012160000 +0600" stop="20261012163100 +0600" channel="aljazeera.com">
-    <title lang="bn">SpongeBob SquarePants</title>
+  <programme start="20261012160000 +0600" stop="20261012163000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261012163100 +0600" stop="20261012170000 +0600" channel="aljazeera.com">
-    <title lang="bn">SpongeBob SquarePants</title>
+  <programme start="20261012163000 +0600" stop="20261012170000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261012170000 +0600" stop="20261012173100 +0600" channel="aljazeera.com">
-    <title lang="bn">The Creature Cases</title>
+  <programme start="20261012170000 +0600" stop="20261012173000 +0600" channel="aljazeera.com">
+    <title lang="bn">Dangal</title>
   </programme>
-  <programme start="20261012173100 +0600" stop="20261012180000 +0600" channel="aljazeera.com">
-    <title lang="bn">Deer Squad</title>
+  <programme start="20261012173000 +0600" stop="20261012180000 +0600" channel="aljazeera.com">
+    <title lang="bn">Dangal</title>
   </programme>
-  <programme start="20261012180000 +0600" stop="20261012183100 +0600" channel="aljazeera.com">
-    <title lang="bn">Gabby&amp;#x27;s Dollhouse</title>
+  <programme start="20261012180000 +0600" stop="20261012183000 +0600" channel="aljazeera.com">
+    <title lang="bn">Behas Baazigar</title>
   </programme>
-  <programme start="20261012183100 +0600" stop="20261012190000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Smurfs</title>
+  <programme start="20261012183000 +0600" stop="20261012190000 +0600" channel="aljazeera.com">
+    <title lang="bn">Behas Baazigar</title>
   </programme>
-  <programme start="20261012190000 +0600" stop="20261012193100 +0600" channel="aljazeera.com">
-    <title lang="bn">SpongeBob SquarePants</title>
+  <programme start="20261012190000 +0600" stop="20261012193000 +0600" channel="aljazeera.com">
+    <title lang="bn">AAJTAK 7 BAJE</title>
   </programme>
-  <programme start="20261012193100 +0600" stop="20261012200000 +0600" channel="aljazeera.com">
-    <title lang="bn">SpongeBob SquarePants</title>
+  <programme start="20261012193000 +0600" stop="20261012200000 +0600" channel="aljazeera.com">
+    <title lang="bn">Vishesh</title>
   </programme>
-  <programme start="20261012200000 +0600" stop="20261012203100 +0600" channel="aljazeera.com">
-    <title lang="bn">The Patrick Star Show</title>
+  <programme start="20261012200000 +0600" stop="20261012203000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak Special Show</title>
   </programme>
-  <programme start="20261012203100 +0600" stop="20261012210000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Patrick Star Show</title>
+  <programme start="20261012203000 +0600" stop="20261012210000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak Special Show</title>
   </programme>
-  <programme start="20261012210000 +0600" stop="20261012213100 +0600" channel="aljazeera.com">
-    <title lang="bn">Wylde Pak</title>
+  <programme start="20261012210000 +0600" stop="20261012213000 +0600" channel="aljazeera.com">
+    <title lang="bn">Black And White</title>
   </programme>
-  <programme start="20261012213100 +0600" stop="20261012220000 +0600" channel="aljazeera.com">
-    <title lang="bn">Sonic Prime</title>
+  <programme start="20261012213000 +0600" stop="20261012220000 +0600" channel="aljazeera.com">
+    <title lang="bn">Black And White</title>
   </programme>
-  <programme start="20261012220000 +0600" stop="20261012223100 +0600" channel="aljazeera.com">
-    <title lang="bn">The Boss Baby: Back in Business</title>
+  <programme start="20261012220000 +0600" stop="20261012223000 +0600" channel="aljazeera.com">
+    <title lang="bn">Frontline</title>
   </programme>
-  <programme start="20261012223100 +0600" stop="20261012230000 +0600" channel="aljazeera.com">
-    <title lang="bn">SpongeBob SquarePants</title>
+  <programme start="20261012223000 +0600" stop="20261012230000 +0600" channel="aljazeera.com">
+    <title lang="bn">Frontline</title>
   </programme>
-  <programme start="20261012230000 +0600" stop="20261012232900 +0600" channel="aljazeera.com">
-    <title lang="bn">SpongeBob SquarePants</title>
+  <programme start="20261012230000 +0600" stop="20261012233000 +0600" channel="aljazeera.com">
+    <title lang="bn">Adbhut Avishwasniya Akalpniya</title>
   </programme>
-  <programme start="20261012232900 +0600" stop="20261013000000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Loud House</title>
+  <programme start="20261012233000 +0600" stop="20261013000000 +0600" channel="aljazeera.com">
+    <title lang="bn">Adbhut Avishwasniya Akalpniya</title>
   </programme>
-  <programme start="20261013000000 +0600" stop="20261013003100 +0600" channel="aljazeera.com">
-    <title lang="bn">Sonic Prime</title>
+  <programme start="20261013000000 +0600" stop="20261013003000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261013003100 +0600" stop="20261013010000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Patrick Star Show</title>
+  <programme start="20261013003000 +0600" stop="20261013010000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261013010000 +0600" stop="20261013013100 +0600" channel="aljazeera.com">
-    <title lang="bn">SpongeBob SquarePants</title>
+  <programme start="20261013010000 +0600" stop="20261013013000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261013013100 +0600" stop="20261013020000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Boss Baby: Back in Business</title>
+  <programme start="20261013013000 +0600" stop="20261013020000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261013020000 +0600" stop="20261013023100 +0600" channel="aljazeera.com">
-    <title lang="bn">Popularity Papers</title>
+  <programme start="20261013020000 +0600" stop="20261013023000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261013023100 +0600" stop="20261013030000 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock Island Mysteries</title>
+  <programme start="20261013023000 +0600" stop="20261013030000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261013030000 +0600" stop="20261013033100 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock Island Mysteries</title>
+  <programme start="20261013030000 +0600" stop="20261013033000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261013033100 +0600" stop="20261013040000 +0600" channel="aljazeera.com">
-    <title lang="bn">Hunter Street</title>
+  <programme start="20261013033000 +0600" stop="20261013040000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261013040000 +0600" stop="20261013043100 +0600" channel="aljazeera.com">
-    <title lang="bn">Hunter Street</title>
+  <programme start="20261013040000 +0600" stop="20261013043000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261013043100 +0600" stop="20261013050000 +0600" channel="aljazeera.com">
-    <title lang="bn">House of Anubis</title>
+  <programme start="20261013043000 +0600" stop="20261013050000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
   <programme start="20261013050000 +0600" stop="20261013053000 +0600" channel="aljazeera.com">
-    <title lang="bn">House of Anubis</title>
+    <title lang="bn">Aajtak News</title>
   </programme>
   <programme start="20261013053000 +0600" stop="20261013060000 +0600" channel="aljazeera.com">
-    <title lang="bn">Henry Danger</title>
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261013060000 +0600" stop="20261013063100 +0600" channel="aljazeera.com">
-    <title lang="bn">Henry Danger</title>
+  <programme start="20261013060000 +0600" stop="20261013063000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261013063100 +0600" stop="20261013070000 +0600" channel="aljazeera.com">
-    <title lang="bn">Popularity Papers</title>
+  <programme start="20261013063000 +0600" stop="20261013070000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261013070000 +0600" stop="20261013073100 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock Island Mysteries</title>
+  <programme start="20261013070000 +0600" stop="20261013073000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
   </programme>
-  <programme start="20261013073100 +0600" stop="20261013080100 +0600" channel="aljazeera.com">
-    <title lang="bn">Rock Island Mysteries</title>
+  <programme start="20261013073000 +0600" stop="20261013080000 +0600" channel="aljazeera.com">
+    <title lang="bn">Shatak Aajtak</title>
+  </programme>
+  <programme start="20261013080000 +0600" stop="20261013083000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
+  </programme>
+  <programme start="20261013083000 +0600" stop="20261013090000 +0600" channel="aljazeera.com">
+    <title lang="bn">Breaking News</title>
+  </programme>
+  <programme start="20261013090000 +0600" stop="20261013093000 +0600" channel="aljazeera.com">
+    <title lang="bn">Yogi Ka Chunavi Yagya</title>
+  </programme>
+  <programme start="20261013093000 +0600" stop="20261013100000 +0600" channel="aljazeera.com">
+    <title lang="bn">Subh Samchar</title>
+  </programme>
+  <programme start="20261013100000 +0600" stop="20261013103000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak News</title>
+  </programme>
+  <programme start="20261013103000 +0600" stop="20261013110000 +0600" channel="aljazeera.com">
+    <title lang="bn">Newsroom</title>
+  </programme>
+  <programme start="20261013110000 +0600" stop="20261013113000 +0600" channel="aljazeera.com">
+    <title lang="bn">Newsroom</title>
+  </programme>
+  <programme start="20261013113000 +0600" stop="20261013120000 +0600" channel="aljazeera.com">
+    <title lang="bn">Duniya Aajtak</title>
+  </programme>
+  <programme start="20261013120000 +0600" stop="20261013123000 +0600" channel="aljazeera.com">
+    <title lang="bn">Mera Gaon Mera Desh</title>
+  </programme>
+  <programme start="20261013123000 +0600" stop="20261013130000 +0600" channel="aljazeera.com">
+    <title lang="bn">Khabrein Asardaar</title>
+  </programme>
+  <programme start="20261013130000 +0600" stop="20261013133000 +0600" channel="aljazeera.com">
+    <title lang="bn">Ranbhoomi</title>
+  </programme>
+  <programme start="20261013133000 +0600" stop="20261013140000 +0600" channel="aljazeera.com">
+    <title lang="bn">Ranbhoomi</title>
+  </programme>
+  <programme start="20261013140000 +0600" stop="20261013143000 +0600" channel="aljazeera.com">
+    <title lang="bn">Business Aajtak</title>
+  </programme>
+  <programme start="20261013143000 +0600" stop="20261013150000 +0600" channel="aljazeera.com">
+    <title lang="bn">Saas Bahu Betiyan</title>
+  </programme>
+  <programme start="20261013150000 +0600" stop="20261013153000 +0600" channel="aljazeera.com">
+    <title lang="bn">Saas Bahu Betiyan</title>
+  </programme>
+  <programme start="20261013153000 +0600" stop="20261013160000 +0600" channel="aljazeera.com">
+    <title lang="bn">Saas Bahu Betiyan</title>
+  </programme>
+  <programme start="20261013160000 +0600" stop="20261013163000 +0600" channel="aljazeera.com">
+    <title lang="bn">Movie Masala</title>
+  </programme>
+  <programme start="20261013163000 +0600" stop="20261013170000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak Gujarat</title>
+  </programme>
+  <programme start="20261013170000 +0600" stop="20261013173000 +0600" channel="aljazeera.com">
+    <title lang="bn">Dangal</title>
+  </programme>
+  <programme start="20261013173000 +0600" stop="20261013180000 +0600" channel="aljazeera.com">
+    <title lang="bn">Dangal</title>
+  </programme>
+  <programme start="20261013180000 +0600" stop="20261013183000 +0600" channel="aljazeera.com">
+    <title lang="bn">Halla Bol</title>
+  </programme>
+  <programme start="20261013183000 +0600" stop="20261013190000 +0600" channel="aljazeera.com">
+    <title lang="bn">Halla Bol</title>
+  </programme>
+  <programme start="20261013190000 +0600" stop="20261013193000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aaj Tak Punjab</title>
+  </programme>
+  <programme start="20261013193000 +0600" stop="20261013200000 +0600" channel="aljazeera.com">
+    <title lang="bn">Subh Samchar</title>
+  </programme>
+  <programme start="20261013200000 +0600" stop="20261013203000 +0600" channel="aljazeera.com">
+    <title lang="bn">Khabardar</title>
+  </programme>
+  <programme start="20261013203000 +0600" stop="20261013210000 +0600" channel="aljazeera.com">
+    <title lang="bn">Khabardar</title>
+  </programme>
+  <programme start="20261013210000 +0600" stop="20261013213000 +0600" channel="aljazeera.com">
+    <title lang="bn">Black And White</title>
+  </programme>
+  <programme start="20261013213000 +0600" stop="20261013220000 +0600" channel="aljazeera.com">
+    <title lang="bn">Black And White</title>
+  </programme>
+  <programme start="20261013220000 +0600" stop="20261013223000 +0600" channel="aljazeera.com">
+    <title lang="bn">Dastak</title>
+  </programme>
+  <programme start="20261013223000 +0600" stop="20261013230000 +0600" channel="aljazeera.com">
+    <title lang="bn">Dastak</title>
+  </programme>
+  <programme start="20261013230000 +0600" stop="20261013233000 +0600" channel="aljazeera.com">
+    <title lang="bn">Aajtak Gujarat</title>
+  </programme>
+  <programme start="20261013233000 +0600" stop="20261014000000 +0600" channel="aljazeera.com">
+    <title lang="bn">Movie Masala</title>
   </programme>
   <channel id="WION.in">
     <display-name>WION</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/1d/WION_World_Is_One_News.svg"/>
   </channel>
+  <programme start="20261012003000 +0600" stop="20261012012500 +0600" channel="WION.in">
+    <title lang="bn">The World&amp;#x27;s Deadliest Weather S5 Ep04</title>
+  </programme>
+  <programme start="20261012012500 +0600" stop="20261012021500 +0600" channel="WION.in">
+    <title lang="bn">Running Wild With Bear Grylls S4 Ep06</title>
+  </programme>
+  <programme start="20261012021500 +0600" stop="20261012031500 +0600" channel="WION.in">
+    <title lang="bn">China&amp;#x27;s Wild Guangdong S1 Ep01</title>
+  </programme>
+  <programme start="20261012031500 +0600" stop="20261012042000 +0600" channel="WION.in">
+    <title lang="bn">Wilderness With Simon Reeve S1 Ep04</title>
+  </programme>
+  <programme start="20261012042000 +0600" stop="20261012051000 +0600" channel="WION.in">
+    <title lang="bn">Running Wild With Bear Grylls S4 Ep07</title>
+  </programme>
+  <programme start="20261012051000 +0600" stop="20261012061000 +0600" channel="WION.in">
+    <title lang="bn">Gordon Buchanan: My Epic Camel Adventure</title>
+  </programme>
+  <programme start="20261012061000 +0600" stop="20261012071000 +0600" channel="WION.in">
+    <title lang="bn">Griff&amp;#x27;s Great Kiwi Road Trip S1 Ep03</title>
+  </programme>
+  <programme start="20261012071000 +0600" stop="20261012080000 +0600" channel="WION.in">
+    <title lang="bn">Where the Wild Men Are With Ben Fogle S11 Ep16</title>
+  </programme>
+  <programme start="20261012080000 +0600" stop="20261012085000 +0600" channel="WION.in">
+    <title lang="bn">Running Wild With Bear Grylls S4 Ep07</title>
+  </programme>
+  <programme start="20261012085000 +0600" stop="20261012095000 +0600" channel="WION.in">
+    <title lang="bn">Gordon Buchanan: My Epic Camel Adventure</title>
+  </programme>
+  <programme start="20261012095000 +0600" stop="20261012104500 +0600" channel="WION.in">
+    <title lang="bn">Griff&amp;#x27;s Great Kiwi Road Trip S1 Ep03</title>
+  </programme>
+  <programme start="20261012104500 +0600" stop="20261012113500 +0600" channel="WION.in">
+    <title lang="bn">Where the Wild Men Are With Ben Fogle S11 Ep16</title>
+  </programme>
+  <programme start="20261012113500 +0600" stop="20261012122000 +0600" channel="WION.in">
+    <title lang="bn">Running Wild With Bear Grylls S4 Ep07</title>
+  </programme>
+  <programme start="20261012122000 +0600" stop="20261012132000 +0600" channel="WION.in">
+    <title lang="bn">Gordon Buchanan: My Epic Camel Adventure</title>
+  </programme>
+  <programme start="20261012132000 +0600" stop="20261012141500 +0600" channel="WION.in">
+    <title lang="bn">Griff&amp;#x27;s Great Kiwi Road Trip S1 Ep03</title>
+  </programme>
+  <programme start="20261012141500 +0600" stop="20261012151000 +0600" channel="WION.in">
+    <title lang="bn">Where the Wild Men Are With Ben Fogle S11 Ep16</title>
+  </programme>
+  <programme start="20261012151000 +0600" stop="20261012161000 +0600" channel="WION.in">
+    <title lang="bn">China&amp;#x27;s Wild Guangdong S1 Ep01</title>
+  </programme>
+  <programme start="20261012161000 +0600" stop="20261012170500 +0600" channel="WION.in">
+    <title lang="bn">Griff&amp;#x27;s Great Kiwi Road Trip S1 Ep03</title>
+  </programme>
+  <programme start="20261012170500 +0600" stop="20261012175500 +0600" channel="WION.in">
+    <title lang="bn">Running Wild With Bear Grylls S4 Ep07</title>
+  </programme>
+  <programme start="20261012175500 +0600" stop="20261012185000 +0600" channel="WION.in">
+    <title lang="bn">Where the Wild Men Are With Ben Fogle S11 Ep16</title>
+  </programme>
+  <programme start="20261012185000 +0600" stop="20261012195000 +0600" channel="WION.in">
+    <title lang="bn">Gordon Buchanan: My Epic Camel Adventure</title>
+  </programme>
+  <programme start="20261012195000 +0600" stop="20261012204500 +0600" channel="WION.in">
+    <title lang="bn">China&amp;#x27;s Wild Guangdong S1 Ep01</title>
+  </programme>
+  <programme start="20261012204500 +0600" stop="20261012214000 +0600" channel="WION.in">
+    <title lang="bn">Griff&amp;#x27;s Great Kiwi Road Trip S1 Ep03</title>
+  </programme>
+  <programme start="20261012214000 +0600" stop="20261012224000 +0600" channel="WION.in">
+    <title lang="bn">The Green Planet S1 Ep03</title>
+  </programme>
+  <programme start="20261012224000 +0600" stop="20261012234000 +0600" channel="WION.in">
+    <title lang="bn">Gordon Buchanan: My Epic Camel Adventure</title>
+  </programme>
+  <programme start="20261012234000 +0600" stop="20261013003500 +0600" channel="WION.in">
+    <title lang="bn">Where the Wild Men Are With Ben Fogle S11 Ep16</title>
+  </programme>
+  <programme start="20261013003500 +0600" stop="20261013013500 +0600" channel="WION.in">
+    <title lang="bn">China&amp;#x27;s Wild Guangdong S1 Ep01</title>
+  </programme>
+  <programme start="20261013013500 +0600" stop="20261013022500 +0600" channel="WION.in">
+    <title lang="bn">Running Wild With Bear Grylls S4 Ep07</title>
+  </programme>
+  <programme start="20261013022500 +0600" stop="20261013032500 +0600" channel="WION.in">
+    <title lang="bn">Gordon Buchanan: My Epic Camel Adventure</title>
+  </programme>
+  <programme start="20261013032500 +0600" stop="20261013042000 +0600" channel="WION.in">
+    <title lang="bn">Griff&amp;#x27;s Great Kiwi Road Trip S1 Ep03</title>
+  </programme>
+  <programme start="20261013042000 +0600" stop="20261013051000 +0600" channel="WION.in">
+    <title lang="bn">Running Wild With Bear Grylls S4 Ep08</title>
+  </programme>
+  <programme start="20261013051000 +0600" stop="20261013054000 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep09</title>
+  </programme>
+  <programme start="20261013054000 +0600" stop="20261013061500 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep10</title>
+  </programme>
+  <programme start="20261013061500 +0600" stop="20261013070500 +0600" channel="WION.in">
+    <title lang="bn">World&amp;#x27;s Most Amazing Walks With Robson Green S1 Ep01</title>
+  </programme>
+  <programme start="20261013070500 +0600" stop="20261013080000 +0600" channel="WION.in">
+    <title lang="bn">Engineering Repurposed S1 Ep08</title>
+  </programme>
+  <programme start="20261013080000 +0600" stop="20261013085500 +0600" channel="WION.in">
+    <title lang="bn">Running Wild With Bear Grylls S4 Ep08</title>
+  </programme>
+  <programme start="20261013085500 +0600" stop="20261013093500 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep09</title>
+  </programme>
+  <programme start="20261013093500 +0600" stop="20261013101500 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep10</title>
+  </programme>
+  <programme start="20261013101500 +0600" stop="20261013110500 +0600" channel="WION.in">
+    <title lang="bn">World&amp;#x27;s Most Amazing Walks With Robson Green S1 Ep01</title>
+  </programme>
+  <programme start="20261013110500 +0600" stop="20261013115500 +0600" channel="WION.in">
+    <title lang="bn">Running Wild With Bear Grylls S4 Ep08</title>
+  </programme>
+  <programme start="20261013115500 +0600" stop="20261013125000 +0600" channel="WION.in">
+    <title lang="bn">Griff&amp;#x27;s Great Kiwi Road Trip S1 Ep03</title>
+  </programme>
+  <programme start="20261013125000 +0600" stop="20261013135000 +0600" channel="WION.in">
+    <title lang="bn">Gordon Buchanan: My Epic Camel Adventure</title>
+  </programme>
+  <programme start="20261013135000 +0600" stop="20261013143000 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep09</title>
+  </programme>
+  <programme start="20261013143000 +0600" stop="20261013151000 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep10</title>
+  </programme>
+  <programme start="20261013151000 +0600" stop="20261013160000 +0600" channel="WION.in">
+    <title lang="bn">World&amp;#x27;s Most Amazing Walks With Robson Green S1 Ep01</title>
+  </programme>
+  <programme start="20261013160000 +0600" stop="20261013165500 +0600" channel="WION.in">
+    <title lang="bn">Griff&amp;#x27;s Great Kiwi Road Trip S1 Ep03</title>
+  </programme>
+  <programme start="20261013165500 +0600" stop="20261013174500 +0600" channel="WION.in">
+    <title lang="bn">Running Wild With Bear Grylls S4 Ep08</title>
+  </programme>
+  <programme start="20261013174500 +0600" stop="20261013182000 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep09</title>
+  </programme>
+  <programme start="20261013182000 +0600" stop="20261013190000 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep10</title>
+  </programme>
+  <programme start="20261013190000 +0600" stop="20261013195000 +0600" channel="WION.in">
+    <title lang="bn">World&amp;#x27;s Most Amazing Walks With Robson Green S1 Ep01</title>
+  </programme>
+  <programme start="20261013195000 +0600" stop="20261013204500 +0600" channel="WION.in">
+    <title lang="bn">Griff&amp;#x27;s Great Kiwi Road Trip S1 Ep03</title>
+  </programme>
+  <programme start="20261013204500 +0600" stop="20261013213500 +0600" channel="WION.in">
+    <title lang="bn">Engineering Repurposed S1 Ep08</title>
+  </programme>
+  <programme start="20261013213500 +0600" stop="20261013223500 +0600" channel="WION.in">
+    <title lang="bn">The Green Planet S1 Ep04</title>
+  </programme>
+  <programme start="20261013223500 +0600" stop="20261013230500 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep09</title>
+  </programme>
+  <programme start="20261013230500 +0600" stop="20261013234500 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep10</title>
+  </programme>
+  <programme start="20261013234500 +0600" stop="20261014004000 +0600" channel="WION.in">
+    <title lang="bn">Griff&amp;#x27;s Great Kiwi Road Trip S1 Ep03</title>
+  </programme>
+  <programme start="20261014004000 +0600" stop="20261014013000 +0600" channel="WION.in">
+    <title lang="bn">World&amp;#x27;s Most Amazing Walks With Robson Green S1 Ep01</title>
+  </programme>
+  <programme start="20261014013000 +0600" stop="20261014022000 +0600" channel="WION.in">
+    <title lang="bn">Running Wild With Bear Grylls S4 Ep08</title>
+  </programme>
+  <programme start="20261014022000 +0600" stop="20261014025500 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep09</title>
+  </programme>
+  <programme start="20261014025500 +0600" stop="20261014033000 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep10</title>
+  </programme>
+  <programme start="20261014033000 +0600" stop="20261014042000 +0600" channel="WION.in">
+    <title lang="bn">Engineering Repurposed S1 Ep08</title>
+  </programme>
+  <programme start="20261014042000 +0600" stop="20261014051000 +0600" channel="WION.in">
+    <title lang="bn">Extreme Fishing With Robson Green S3 Ep01</title>
+  </programme>
+  <programme start="20261014051000 +0600" stop="20261014061000 +0600" channel="WION.in">
+    <title lang="bn">Evolution S1 Ep03</title>
+  </programme>
+  <programme start="20261014061000 +0600" stop="20261014070500 +0600" channel="WION.in">
+    <title lang="bn">Extreme Treks S4 Ep05</title>
+  </programme>
+  <programme start="20261014070500 +0600" stop="20261014080000 +0600" channel="WION.in">
+    <title lang="bn">Civilisations: Rise and Fall S1 Ep02</title>
+  </programme>
+  <programme start="20261014080000 +0600" stop="20261014085000 +0600" channel="WION.in">
+    <title lang="bn">Extreme Fishing With Robson Green S3 Ep01</title>
+  </programme>
+  <programme start="20261014085000 +0600" stop="20261014095000 +0600" channel="WION.in">
+    <title lang="bn">Evolution S1 Ep03</title>
+  </programme>
+  <programme start="20261014095000 +0600" stop="20261014104000 +0600" channel="WION.in">
+    <title lang="bn">Extreme Treks S4 Ep05</title>
+  </programme>
+  <programme start="20261014104000 +0600" stop="20261014113500 +0600" channel="WION.in">
+    <title lang="bn">Civilisations: Rise and Fall S1 Ep02</title>
+  </programme>
+  <programme start="20261014113500 +0600" stop="20261014122500 +0600" channel="WION.in">
+    <title lang="bn">Extreme Fishing With Robson Green S3 Ep01</title>
+  </programme>
+  <programme start="20261014122500 +0600" stop="20261014132500 +0600" channel="WION.in">
+    <title lang="bn">Evolution S1 Ep03</title>
+  </programme>
+  <programme start="20261014132500 +0600" stop="20261014141000 +0600" channel="WION.in">
+    <title lang="bn">World&amp;#x27;s Most Amazing Walks With Robson Green S1 Ep01</title>
+  </programme>
+  <programme start="20261014141000 +0600" stop="20261014151000 +0600" channel="WION.in">
+    <title lang="bn">Extreme Treks S4 Ep05</title>
+  </programme>
+  <programme start="20261014151000 +0600" stop="20261014154000 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep09</title>
+  </programme>
+  <programme start="20261014154000 +0600" stop="20261014161500 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep10</title>
+  </programme>
+  <programme start="20261014161500 +0600" stop="20261014171500 +0600" channel="WION.in">
+    <title lang="bn">Evolution S1 Ep03</title>
+  </programme>
+  <programme start="20261014171500 +0600" stop="20261014180500 +0600" channel="WION.in">
+    <title lang="bn">Extreme Fishing With Robson Green S3 Ep01</title>
+  </programme>
+  <programme start="20261014180500 +0600" stop="20261014185500 +0600" channel="WION.in">
+    <title lang="bn">Engineering Repurposed S1 Ep08</title>
+  </programme>
+  <programme start="20261014185500 +0600" stop="20261014195000 +0600" channel="WION.in">
+    <title lang="bn">China&amp;#x27;s Wild Guangdong S1 Ep01</title>
+  </programme>
+  <programme start="20261014195000 +0600" stop="20261014202500 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep09</title>
+  </programme>
+  <programme start="20261014202500 +0600" stop="20261014210000 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep10</title>
+  </programme>
+  <programme start="20261014210000 +0600" stop="20261014215000 +0600" channel="WION.in">
+    <title lang="bn">Extreme Treks S4 Ep05</title>
+  </programme>
+  <programme start="20261014215000 +0600" stop="20261014224500 +0600" channel="WION.in">
+    <title lang="bn">The Green Planet S1 Ep05</title>
+  </programme>
+  <programme start="20261014224500 +0600" stop="20261014234500 +0600" channel="WION.in">
+    <title lang="bn">Evolution S1 Ep03</title>
+  </programme>
+  <programme start="20261014234500 +0600" stop="20261015004000 +0600" channel="WION.in">
+    <title lang="bn">China&amp;#x27;s Wild Guangdong S1 Ep01</title>
+  </programme>
+  <programme start="20261015004000 +0600" stop="20261015013000 +0600" channel="WION.in">
+    <title lang="bn">Engineering Repurposed S1 Ep08</title>
+  </programme>
+  <programme start="20261015013000 +0600" stop="20261015022000 +0600" channel="WION.in">
+    <title lang="bn">Extreme Fishing With Robson Green S3 Ep01</title>
+  </programme>
+  <programme start="20261015022000 +0600" stop="20261015025000 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep09</title>
+  </programme>
+  <programme start="20261015025000 +0600" stop="20261015032500 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep10</title>
+  </programme>
+  <programme start="20261015032500 +0600" stop="20261015042000 +0600" channel="WION.in">
+    <title lang="bn">Extreme Treks S4 Ep05</title>
+  </programme>
+  <programme start="20261015042000 +0600" stop="20261015051000 +0600" channel="WION.in">
+    <title lang="bn">Extreme Fishing With Robson Green S3 Ep02</title>
+  </programme>
+  <programme start="20261015051000 +0600" stop="20261015061000 +0600" channel="WION.in">
+    <title lang="bn">Tiger Island S1 Ep01</title>
+  </programme>
+  <programme start="20261015061000 +0600" stop="20261015070000 +0600" channel="WION.in">
+    <title lang="bn">Joanna Lumley&amp;#x27;s Spice Trail Adventure S1 Ep03</title>
+  </programme>
+  <programme start="20261015070000 +0600" stop="20261015075500 +0600" channel="WION.in">
+    <title lang="bn">Hidden Frontiers: Arabia With Reza Pakravan S1 Ep06</title>
+  </programme>
+  <programme start="20261015075500 +0600" stop="20261015084500 +0600" channel="WION.in">
+    <title lang="bn">Extreme Fishing With Robson Green S3 Ep02</title>
+  </programme>
+  <programme start="20261015084500 +0600" stop="20261015094500 +0600" channel="WION.in">
+    <title lang="bn">Tiger Island S1 Ep01</title>
+  </programme>
+  <programme start="20261015094500 +0600" stop="20261015103500 +0600" channel="WION.in">
+    <title lang="bn">Joanna Lumley&amp;#x27;s Spice Trail Adventure S1 Ep03</title>
+  </programme>
+  <programme start="20261015103500 +0600" stop="20261015113000 +0600" channel="WION.in">
+    <title lang="bn">Hidden Frontiers: Arabia With Reza Pakravan S1 Ep06</title>
+  </programme>
+  <programme start="20261015113000 +0600" stop="20261015122000 +0600" channel="WION.in">
+    <title lang="bn">Extreme Fishing With Robson Green S3 Ep02</title>
+  </programme>
+  <programme start="20261015122000 +0600" stop="20261015132000 +0600" channel="WION.in">
+    <title lang="bn">Tiger Island S1 Ep01</title>
+  </programme>
+  <programme start="20261015132000 +0600" stop="20261015141500 +0600" channel="WION.in">
+    <title lang="bn">Extreme Treks S4 Ep05</title>
+  </programme>
+  <programme start="20261015141500 +0600" stop="20261015151000 +0600" channel="WION.in">
+    <title lang="bn">Hidden Frontiers: Arabia With Reza Pakravan S1 Ep06</title>
+  </programme>
+  <programme start="20261015151000 +0600" stop="20261015160500 +0600" channel="WION.in">
+    <title lang="bn">World&amp;#x27;s Most Amazing Walks With Robson Green S1 Ep01</title>
+  </programme>
+  <programme start="20261015160500 +0600" stop="20261015170000 +0600" channel="WION.in">
+    <title lang="bn">Engineering Repurposed S1 Ep08</title>
+  </programme>
+  <programme start="20261015170000 +0600" stop="20261015175500 +0600" channel="WION.in">
+    <title lang="bn">Extreme Fishing With Robson Green S3 Ep02</title>
+  </programme>
+  <programme start="20261015175500 +0600" stop="20261015185000 +0600" channel="WION.in">
+    <title lang="bn">Joanna Lumley&amp;#x27;s Spice Trail Adventure S1 Ep03</title>
+  </programme>
+  <programme start="20261015185000 +0600" stop="20261015194500 +0600" channel="WION.in">
+    <title lang="bn">World&amp;#x27;s Most Amazing Walks With Robson Green S1 Ep01</title>
+  </programme>
+  <programme start="20261015194500 +0600" stop="20261015204000 +0600" channel="WION.in">
+    <title lang="bn">Griff&amp;#x27;s Great Kiwi Road Trip S1 Ep03</title>
+  </programme>
+  <programme start="20261015204000 +0600" stop="20261015213500 +0600" channel="WION.in">
+    <title lang="bn">Engineering Repurposed S1 Ep08</title>
+  </programme>
+  <programme start="20261015213500 +0600" stop="20261015223500 +0600" channel="WION.in">
+    <title lang="bn">Frozen Planet S1 Ep01</title>
+  </programme>
+  <programme start="20261015223500 +0600" stop="20261015233000 +0600" channel="WION.in">
+    <title lang="bn">Joanna Lumley&amp;#x27;s Spice Trail Adventure S1 Ep03</title>
+  </programme>
+  <programme start="20261015233000 +0600" stop="20261016003500 +0600" channel="WION.in">
+    <title lang="bn">Tiger Island S1 Ep01</title>
+  </programme>
+  <programme start="20261016003500 +0600" stop="20261016013000 +0600" channel="WION.in">
+    <title lang="bn">Engineering Repurposed S1 Ep08</title>
+  </programme>
+  <programme start="20261016013000 +0600" stop="20261016022500 +0600" channel="WION.in">
+    <title lang="bn">Extreme Fishing With Robson Green S3 Ep02</title>
+  </programme>
+  <programme start="20261016022500 +0600" stop="20261016032500 +0600" channel="WION.in">
+    <title lang="bn">Griff&amp;#x27;s Great Kiwi Road Trip S1 Ep03</title>
+  </programme>
+  <programme start="20261016032500 +0600" stop="20261016042000 +0600" channel="WION.in">
+    <title lang="bn">Joanna Lumley&amp;#x27;s Spice Trail Adventure S1 Ep03</title>
+  </programme>
+  <programme start="20261016042000 +0600" stop="20261016051000 +0600" channel="WION.in">
+    <title lang="bn">Extreme Fishing With Robson Green S3 Ep03</title>
+  </programme>
+  <programme start="20261016051000 +0600" stop="20261016061500 +0600" channel="WION.in">
+    <title lang="bn">Wilderness With Simon Reeve S2 Ep01</title>
+  </programme>
+  <programme start="20261016061500 +0600" stop="20261016070500 +0600" channel="WION.in">
+    <title lang="bn">Portillo&amp;#x27;s Andalucia S1 Ep06</title>
+  </programme>
+  <programme start="20261016070500 +0600" stop="20261016080000 +0600" channel="WION.in">
+    <title lang="bn">The World&amp;#x27;s Deadliest Weather S5 Ep05</title>
+  </programme>
+  <programme start="20261016080000 +0600" stop="20261016084500 +0600" channel="WION.in">
+    <title lang="bn">Extreme Fishing With Robson Green S3 Ep03</title>
+  </programme>
+  <programme start="20261016084500 +0600" stop="20261016095000 +0600" channel="WION.in">
+    <title lang="bn">Wilderness With Simon Reeve S2 Ep01</title>
+  </programme>
+  <programme start="20261016095000 +0600" stop="20261016104000 +0600" channel="WION.in">
+    <title lang="bn">Portillo&amp;#x27;s Andalucia S1 Ep06</title>
+  </programme>
+  <programme start="20261016104000 +0600" stop="20261016113500 +0600" channel="WION.in">
+    <title lang="bn">The World&amp;#x27;s Deadliest Weather S5 Ep05</title>
+  </programme>
+  <programme start="20261016113500 +0600" stop="20261016122000 +0600" channel="WION.in">
+    <title lang="bn">Extreme Fishing With Robson Green S3 Ep03</title>
+  </programme>
+  <programme start="20261016122000 +0600" stop="20261016132500 +0600" channel="WION.in">
+    <title lang="bn">Wilderness With Simon Reeve S2 Ep01</title>
+  </programme>
+  <programme start="20261016132500 +0600" stop="20261016141500 +0600" channel="WION.in">
+    <title lang="bn">Portillo&amp;#x27;s Andalucia S1 Ep06</title>
+  </programme>
+  <programme start="20261016141500 +0600" stop="20261016151000 +0600" channel="WION.in">
+    <title lang="bn">The World&amp;#x27;s Deadliest Weather S5 Ep05</title>
+  </programme>
+  <programme start="20261016151000 +0600" stop="20261016161000 +0600" channel="WION.in">
+    <title lang="bn">China&amp;#x27;s Wild Guangdong S1 Ep01</title>
+  </programme>
+  <programme start="20261016161000 +0600" stop="20261016171500 +0600" channel="WION.in">
+    <title lang="bn">Wilderness With Simon Reeve S2 Ep01</title>
+  </programme>
+  <programme start="20261016171500 +0600" stop="20261016181500 +0600" channel="WION.in">
+    <title lang="bn">Tiger Island S1 Ep01</title>
+  </programme>
+  <programme start="20261016181500 +0600" stop="20261016191000 +0600" channel="WION.in">
+    <title lang="bn">Joanna Lumley&amp;#x27;s Spice Trail Adventure S1 Ep03</title>
+  </programme>
+  <programme start="20261016191000 +0600" stop="20261016200500 +0600" channel="WION.in">
+    <title lang="bn">Extreme Treks S4 Ep05</title>
+  </programme>
+  <programme start="20261016200500 +0600" stop="20261016211000 +0600" channel="WION.in">
+    <title lang="bn">Wilderness With Simon Reeve S2 Ep01</title>
+  </programme>
+  <programme start="20261016211000 +0600" stop="20261016220000 +0600" channel="WION.in">
+    <title lang="bn">Where the Wild Men Are With Ben Fogle S11 Ep16</title>
+  </programme>
+  <programme start="20261016220000 +0600" stop="20261016230000 +0600" channel="WION.in">
+    <title lang="bn">Tiger Island S1 Ep01</title>
+  </programme>
+  <programme start="20261016230000 +0600" stop="20261016235000 +0600" channel="WION.in">
+    <title lang="bn">Joanna Lumley&amp;#x27;s Spice Trail Adventure S1 Ep03</title>
+  </programme>
+  <programme start="20261016235000 +0600" stop="20261017004000 +0600" channel="WION.in">
+    <title lang="bn">Portillo&amp;#x27;s Andalucia S1 Ep06</title>
+  </programme>
+  <programme start="20261017004000 +0600" stop="20261017013000 +0600" channel="WION.in">
+    <title lang="bn">Where the Wild Men Are With Ben Fogle S11 Ep16</title>
+  </programme>
+  <programme start="20261017013000 +0600" stop="20261017023500 +0600" channel="WION.in">
+    <title lang="bn">Wilderness With Simon Reeve S2 Ep01</title>
+  </programme>
+  <programme start="20261017023500 +0600" stop="20261017030500 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep09</title>
+  </programme>
+  <programme start="20261017030500 +0600" stop="20261017034000 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep10</title>
+  </programme>
+  <programme start="20261017034000 +0600" stop="20261017043000 +0600" channel="WION.in">
+    <title lang="bn">Where the Wild Men Are With Ben Fogle S11 Ep16</title>
+  </programme>
+  <programme start="20261017043000 +0600" stop="20261017053500 +0600" channel="WION.in">
+    <title lang="bn">Wilderness With Simon Reeve S2 Ep01</title>
+  </programme>
+  <programme start="20261017053500 +0600" stop="20261017063000 +0600" channel="WION.in">
+    <title lang="bn">Portillo&amp;#x27;s Andalucia S1 Ep06</title>
+  </programme>
+  <programme start="20261017063000 +0600" stop="20261017073000 +0600" channel="WION.in">
+    <title lang="bn">Civilisations: Rise and Fall S1 Ep02</title>
+  </programme>
+  <programme start="20261017073000 +0600" stop="20261017082500 +0600" channel="WION.in">
+    <title lang="bn">Where the Wild Men Are With Ben Fogle S11 Ep16</title>
+  </programme>
+  <programme start="20261017082500 +0600" stop="20261017093500 +0600" channel="WION.in">
+    <title lang="bn">Wilderness With Simon Reeve S2 Ep01</title>
+  </programme>
+  <programme start="20261017093500 +0600" stop="20261017103000 +0600" channel="WION.in">
+    <title lang="bn">Portillo&amp;#x27;s Andalucia S1 Ep06</title>
+  </programme>
+  <programme start="20261017103000 +0600" stop="20261017113000 +0600" channel="WION.in">
+    <title lang="bn">Civilisations: Rise and Fall S1 Ep02</title>
+  </programme>
+  <programme start="20261017113000 +0600" stop="20261017122500 +0600" channel="WION.in">
+    <title lang="bn">Joanna Lumley&amp;#x27;s Spice Trail Adventure S1 Ep03</title>
+  </programme>
+  <programme start="20261017122500 +0600" stop="20261017132000 +0600" channel="WION.in">
+    <title lang="bn">Where the Wild Men Are With Ben Fogle S11 Ep16</title>
+  </programme>
+  <programme start="20261017132000 +0600" stop="20261017141000 +0600" channel="WION.in">
+    <title lang="bn">Portillo&amp;#x27;s Andalucia S1 Ep06</title>
+  </programme>
+  <programme start="20261017141000 +0600" stop="20261017151000 +0600" channel="WION.in">
+    <title lang="bn">Civilisations: Rise and Fall S1 Ep02</title>
+  </programme>
+  <programme start="20261017151000 +0600" stop="20261017160500 +0600" channel="WION.in">
+    <title lang="bn">Joanna Lumley&amp;#x27;s Spice Trail Adventure S1 Ep03</title>
+  </programme>
+  <programme start="20261017160500 +0600" stop="20261017170000 +0600" channel="WION.in">
+    <title lang="bn">China&amp;#x27;s Wild Guangdong S1 Ep01</title>
+  </programme>
+  <programme start="20261017170000 +0600" stop="20261017175500 +0600" channel="WION.in">
+    <title lang="bn">Griff&amp;#x27;s Great Kiwi Road Trip S1 Ep03</title>
+  </programme>
+  <programme start="20261017175500 +0600" stop="20261017184500 +0600" channel="WION.in">
+    <title lang="bn">Extreme Treks S4 Ep05</title>
+  </programme>
+  <programme start="20261017184500 +0600" stop="20261017191500 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep09</title>
+  </programme>
+  <programme start="20261017191500 +0600" stop="20261017195000 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep10</title>
+  </programme>
+  <programme start="20261017195000 +0600" stop="20261017204000 +0600" channel="WION.in">
+    <title lang="bn">Portillo&amp;#x27;s Andalucia S1 Ep06</title>
+  </programme>
+  <programme start="20261017204000 +0600" stop="20261017213500 +0600" channel="WION.in">
+    <title lang="bn">Joanna Lumley&amp;#x27;s Spice Trail Adventure S1 Ep03</title>
+  </programme>
+  <programme start="20261017213500 +0600" stop="20261017223000 +0600" channel="WION.in">
+    <title lang="bn">Extreme Treks S4 Ep05</title>
+  </programme>
+  <programme start="20261017223000 +0600" stop="20261017232500 +0600" channel="WION.in">
+    <title lang="bn">Griff&amp;#x27;s Great Kiwi Road Trip S1 Ep03</title>
+  </programme>
+  <programme start="20261017232500 +0600" stop="20261018002500 +0600" channel="WION.in">
+    <title lang="bn">China&amp;#x27;s Wild Guangdong S1 Ep01</title>
+  </programme>
+  <programme start="20261018002500 +0600" stop="20261018011500 +0600" channel="WION.in">
+    <title lang="bn">Joanna Lumley&amp;#x27;s Spice Trail Adventure S1 Ep03</title>
+  </programme>
+  <programme start="20261018011500 +0600" stop="20261018020500 +0600" channel="WION.in">
+    <title lang="bn">Portillo&amp;#x27;s Andalucia S1 Ep06</title>
+  </programme>
+  <programme start="20261018020500 +0600" stop="20261018030000 +0600" channel="WION.in">
+    <title lang="bn">Griff&amp;#x27;s Great Kiwi Road Trip S1 Ep03</title>
+  </programme>
+  <programme start="20261018030000 +0600" stop="20261018034000 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep09</title>
+  </programme>
+  <programme start="20261018034000 +0600" stop="20261018042000 +0600" channel="WION.in">
+    <title lang="bn">Deadly 60 S7 Ep10</title>
+  </programme>
+  <programme start="20261018042000 +0600" stop="20261018051000 +0600" channel="WION.in">
+    <title lang="bn">Joanna Lumley&amp;#x27;s Spice Trail Adventure S1 Ep03</title>
+  </programme>
+  <programme start="20261018051000 +0600" stop="20261018061000 +0600" channel="WION.in">
+    <title lang="bn">Tiger Island S1 Ep01</title>
+  </programme>
+  <programme start="20261018061000 +0600" stop="20261018071000 +0600" channel="WION.in">
+    <title lang="bn">China&amp;#x27;s Wild Guangdong S1 Ep02</title>
+  </programme>
+  <programme start="20261018071000 +0600" stop="20261018080000 +0600" channel="WION.in">
+    <title lang="bn">Portillo&amp;#x27;s Andalucia S1 Ep06</title>
+  </programme>
+  <programme start="20261018080000 +0600" stop="20261018085500 +0600" channel="WION.in">
+    <title lang="bn">Extreme Treks S4 Ep05</title>
+  </programme>
+  <programme start="20261018085500 +0600" stop="20261018092500 +0600" channel="WION.in">
+    <title lang="bn">Engineering Repurposed S1 Ep08</title>
+  </programme>
   <channel id="CGTN.cn">
     <display-name>CGTN</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/>
   </channel>
-  <programme start="20261011001000 +0600" stop="20261011010000 +0600" channel="CGTN.cn">
-    <title lang="bn">Несекретные материалы (Загадка Мамонтовой пещеры)</title>
+  <programme start="20261012000000 +0600" stop="20261012010000 +0600" channel="CGTN.cn">
+    <title lang="bn">China&amp;#x27;s Public Opinion Field</title>
   </programme>
-  <programme start="20261011010000 +0600" stop="20261011014800 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с «Как устроена Вселенная» с Федором Бондарчуком. 10 с.</title>
+  <programme start="20261012010000 +0600" stop="20261012013000 +0600" channel="CGTN.cn">
+    <title lang="bn">China News</title>
   </programme>
-  <programme start="20261011014800 +0600" stop="20261011023600 +0600" channel="CGTN.cn">
-    <title lang="bn">Несекретные материалы (НЛО у вулкана Адамс)</title>
+  <programme start="20261012013000 +0600" stop="20261012021500 +0600" channel="CGTN.cn">
+    <title lang="bn">х/ф TV Drama</title>
   </programme>
-  <programme start="20261011023600 +0600" stop="20261011032400 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Паранормальное: рассекречено (Зомби-апокалипсис)</title>
+  <programme start="20261012021500 +0600" stop="20261012030000 +0600" channel="CGTN.cn">
+    <title lang="bn">х/ф TV Drama</title>
   </programme>
-  <programme start="20261011032400 +0600" stop="20261011034800 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это сделано. 2 с.</title>
+  <programme start="20261012030000 +0600" stop="20261012033000 +0600" channel="CGTN.cn">
+    <title lang="bn">China News</title>
   </programme>
-  <programme start="20261011034800 +0600" stop="20261011041200 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это сделано. 3 с.</title>
+  <programme start="20261012033000 +0600" stop="20261012040000 +0600" channel="CGTN.cn">
+    <title lang="bn">Across the Strait</title>
   </programme>
-  <programme start="20261011041200 +0600" stop="20261011043600 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это сделано. 4 с.</title>
+  <programme start="20261012040000 +0600" stop="20261012043000 +0600" channel="CGTN.cn">
+    <title lang="bn">China News</title>
   </programme>
-  <programme start="20261011043600 +0600" stop="20261011050000 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это сделано</title>
+  <programme start="20261012043000 +0600" stop="20261012050000 +0600" channel="CGTN.cn">
+    <title lang="bn">Asia Today</title>
   </programme>
-  <programme start="20261011050000 +0600" stop="20261011052400 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это сделано</title>
+  <programme start="20261012050000 +0600" stop="20261012054500 +0600" channel="CGTN.cn">
+    <title lang="bn">Voice</title>
   </programme>
-  <programme start="20261011052400 +0600" stop="20261011061200 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Загадки высадки на Луну. 5 с.</title>
+  <programme start="20261012054500 +0600" stop="20261012060000 +0600" channel="CGTN.cn">
+    <title lang="bn">Nostalgia</title>
   </programme>
-  <programme start="20261011061200 +0600" stop="20261011070000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Загадки высадки на Луну. 6 с.</title>
+  <programme start="20261012060000 +0600" stop="20261012063000 +0600" channel="CGTN.cn">
+    <title lang="bn">China News</title>
   </programme>
-  <programme start="20261011070000 +0600" stop="20261011074800 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Взрывая историю (Призраки Дикого Запада)</title>
+  <programme start="20261012063000 +0600" stop="20261012070000 +0600" channel="CGTN.cn">
+    <title lang="bn">Focus Today</title>
   </programme>
-  <programme start="20261011074800 +0600" stop="20261011083600 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Взрывая историю (Вавилонская башня)</title>
+  <programme start="20261012070000 +0600" stop="20261012074500 +0600" channel="CGTN.cn">
+    <title lang="bn">х/ф TV Drama</title>
   </programme>
-  <programme start="20261011083600 +0600" stop="20261011090000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Резиновые шарики, передвижные стулья)</title>
-  </programme>
-  <programme start="20261011090000 +0600" stop="20261011092400 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Аэрокосмические ремни)</title>
-  </programme>
-  <programme start="20261011092400 +0600" stop="20261011094800 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Настенные кровати, десертные вазочки)</title>
-  </programme>
-  <programme start="20261011094800 +0600" stop="20261011101200 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это устроено? 1 с.</title>
-  </programme>
-  <programme start="20261011101200 +0600" stop="20261011103600 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это устроено? (Сезон 14 2 серия)</title>
-  </programme>
-  <programme start="20261011103600 +0600" stop="20261011110000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Корзины-пароварки, трехколесные самокаты)</title>
-  </programme>
-  <programme start="20261011110000 +0600" stop="20261011112400 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это сделано</title>
-  </programme>
-  <programme start="20261011112400 +0600" stop="20261011115000 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это сделано? 9 с.</title>
-  </programme>
-  <programme start="20261011115000 +0600" stop="20261011121400 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это сделано? 10 с.</title>
-  </programme>
-  <programme start="20261011121400 +0600" stop="20261011123800 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это сделано? 11 с.</title>
-  </programme>
-  <programme start="20261011123800 +0600" stop="20261011130200 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это сделано? 12 с.</title>
-  </programme>
-  <programme start="20261011130200 +0600" stop="20261011132600 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это сделано? 13 с.</title>
-  </programme>
-  <programme start="20261011132600 +0600" stop="20261011141400 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Дикие эксперименты Адама Сэвиджа (Смертоносные хот-доги)</title>
-  </programme>
-  <programme start="20261011141400 +0600" stop="20261011150200 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Дикие эксперименты Адама Сэвиджа (Воздушный бой)</title>
-  </programme>
-  <programme start="20261011150200 +0600" stop="20261011155000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с «Как устроена Вселенная» с Федором Бондарчуком. 5 с.</title>
-  </programme>
-  <programme start="20261011155000 +0600" stop="20261011164000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с «Как устроена Вселенная» с Федором Бондарчуком. 6 с.</title>
-  </programme>
-  <programme start="20261011164000 +0600" stop="20261011170500 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Мебель из бистро, типографская печать)</title>
-  </programme>
-  <programme start="20261011170500 +0600" stop="20261011173000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Шары для петанка, биологические лекарства)</title>
-  </programme>
-  <programme start="20261011173000 +0600" stop="20261011175500 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Кожаные мячи для бейсбола, шлюзовые ворота и шнурки для обуви)</title>
-  </programme>
-  <programme start="20261011175500 +0600" stop="20261011182000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Насосы гидроусилителя руля)</title>
-  </programme>
-  <programme start="20261011182000 +0600" stop="20261011184500 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? 16 с.</title>
-  </programme>
-  <programme start="20261011184500 +0600" stop="20261011191000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Образцы-свидетели и установки для мытья под давлением)</title>
-  </programme>
-  <programme start="20261011191000 +0600" stop="20261011200000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Джереми Уэйд: тайны океана. 4 с.</title>
-  </programme>
-  <programme start="20261011200000 +0600" stop="20261011205000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Джереми Уэйд: тайны океана. 9 с.</title>
-  </programme>
-  <programme start="20261011205000 +0600" stop="20261011214000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Секреты Гудини (Побег из камеры пыток)</title>
-  </programme>
-  <programme start="20261011214000 +0600" stop="20261011223000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Секреты Гудини. 2 с.</title>
-  </programme>
-  <programme start="20261011223000 +0600" stop="20261011232000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с «Как устроена Вселенная» с Федором Бондарчуком. 1 с.</title>
-  </programme>
-  <programme start="20261011232000 +0600" stop="20261012001000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с «Как устроена Вселенная» с Федором Бондарчуком. 2 с.</title>
-  </programme>
-  <programme start="20261012001000 +0600" stop="20261012010000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с НАСА: необъяснимые материалы (Проклятье красной планеты)</title>
-  </programme>
-  <programme start="20261012010000 +0600" stop="20261012014800 +0600" channel="CGTN.cn">
-    <title lang="bn">Телескоп</title>
-  </programme>
-  <programme start="20261012014800 +0600" stop="20261012023600 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Джереми Уэйд: тайны океана. 4 с.</title>
-  </programme>
-  <programme start="20261012023600 +0600" stop="20261012032400 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Джереми Уэйд: тайны океана. 9 с.</title>
-  </programme>
-  <programme start="20261012032400 +0600" stop="20261012034800 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это сделано</title>
-  </programme>
-  <programme start="20261012034800 +0600" stop="20261012041200 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это сделано? 9 с.</title>
-  </programme>
-  <programme start="20261012041200 +0600" stop="20261012043600 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это сделано? 10 с.</title>
-  </programme>
-  <programme start="20261012043600 +0600" stop="20261012050000 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это сделано? 11 с.</title>
-  </programme>
-  <programme start="20261012050000 +0600" stop="20261012052400 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Керамические грили, промышленные дыроколы, фонтаны, доски для серфинга)</title>
-  </programme>
-  <programme start="20261012052400 +0600" stop="20261012054800 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Грохота, «черная луна» или «большое толстое орео», деревянные столбы и рольга</title>
-  </programme>
-  <programme start="20261012054800 +0600" stop="20261012061200 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Велотренажеры, Корнуэльские пирожки, Машинки для макарон, Шифер)</title>
-  </programme>
-  <programme start="20261012061200 +0600" stop="20261012063600 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Вывески, гидрокостюмы и алюминиевые летательные аппараты)</title>
-  </programme>
-  <programme start="20261012063600 +0600" stop="20261012070000 +0600" channel="CGTN.cn">
-    <title lang="bn">Как это устроено? 1 с.</title>
-  </programme>
-  <programme start="20261012070000 +0600" stop="20261012074800 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с «Как устроена Вселенная» с Федором Бондарчуком. 4 с.</title>
-  </programme>
-  <programme start="20261012074800 +0600" stop="20261012083600 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как устроена Вселенная (Загадка других планет)</title>
-  </programme>
-  <programme start="20261012083600 +0600" stop="20261012092400 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с «Как устроена Вселенная» с Федором Бондарчуком. 7 с.</title>
-  </programme>
-  <programme start="20261012092400 +0600" stop="20261012101200 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Гигантские стройки (Электросеть Рио де Жанейро)</title>
-  </programme>
-  <programme start="20261012101200 +0600" stop="20261012110000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Гигантские стройки (Южноафриканские золотые копи)</title>
-  </programme>
-  <programme start="20261012110000 +0600" stop="20261012112400 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Плазменные камни и снег для спецэффектов)</title>
-  </programme>
-  <programme start="20261012112400 +0600" stop="20261012115000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Трехколесные электробайки и крем для кожи)</title>
-  </programme>
-  <programme start="20261012115000 +0600" stop="20261012121400 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Кобура эпохи Дикого Запада/ кофр для подводной видеосъемки)</title>
-  </programme>
-  <programme start="20261012121400 +0600" stop="20261012123800 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Деревянные двери для гаража/двигающиеся динозавры для музеев и парков)</title>
-  </programme>
-  <programme start="20261012123800 +0600" stop="20261012130200 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Грэмми, велосипедные фары, наземные бассейны, складные солнечные батареи)</title>
-  </programme>
-  <programme start="20261012130200 +0600" stop="20261012132600 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Как это устроено? (Светодиодные лампы, яблочный сидр, емкости для реагентов и каменные полы)</title>
-  </programme>
-  <programme start="20261012132600 +0600" stop="20261012141400 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Секреты и заговоры (Экспериментальные солдаты)</title>
-  </programme>
-  <programme start="20261012141400 +0600" stop="20261012150200 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Взрывая историю (Загадка инопланетной пустыни)</title>
-  </programme>
-  <programme start="20261012150200 +0600" stop="20261012155000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Загадки высадки на Луну. 1 с.</title>
-  </programme>
-  <programme start="20261012155000 +0600" stop="20261012162000 +0600" channel="CGTN.cn">
-    <title lang="bn">д/с Загадки высадки на Луну. 3 с.</title>
+  <programme start="20261012074500 +0600" stop="20261012081500 +0600" channel="CGTN.cn">
+    <title lang="bn">х/ф TV Drama</title>
   </programme>
   <channel id="cna.sg">
     <display-name>Channel News Asia</display-name>
     <icon src="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg"/>
   </channel>
+  <programme start="20261012003600 +0600" stop="20261012012400 +0600" channel="cna.sg">
+    <title lang="bn">д/с «Как устроена Вселенная» с Федором Бондарчуком. 7 с.</title>
+  </programme>
+  <programme start="20261012012400 +0600" stop="20261012021200 +0600" channel="cna.sg">
+    <title lang="bn">д/с Гигантские стройки (Электросеть Рио де Жанейро)</title>
+  </programme>
+  <programme start="20261012021200 +0600" stop="20261012030000 +0600" channel="cna.sg">
+    <title lang="bn">д/с Гигантские стройки (Южноафриканские золотые копи)</title>
+  </programme>
+  <programme start="20261012030000 +0600" stop="20261012032400 +0600" channel="cna.sg">
+    <title lang="bn">д/с Как это устроено? (Плазменные камни и снег для спецэффектов)</title>
+  </programme>
+  <programme start="20261012032400 +0600" stop="20261012035000 +0600" channel="cna.sg">
+    <title lang="bn">д/с Как это устроено? (Трехколесные электробайки и крем для кожи)</title>
+  </programme>
+  <programme start="20261012035000 +0600" stop="20261012041400 +0600" channel="cna.sg">
+    <title lang="bn">д/с Как это устроено? (Кобура эпохи Дикого Запада/ кофр для подводной видеосъемки)</title>
+  </programme>
+  <programme start="20261012041400 +0600" stop="20261012043800 +0600" channel="cna.sg">
+    <title lang="bn">д/с Как это устроено? (Деревянные двери для гаража/двигающиеся динозавры для музеев и парков)</title>
+  </programme>
+  <programme start="20261012043800 +0600" stop="20261012050200 +0600" channel="cna.sg">
+    <title lang="bn">д/с Как это устроено? (Грэмми, велосипедные фары, наземные бассейны, складные солнечные батареи)</title>
+  </programme>
+  <programme start="20261012050200 +0600" stop="20261012052600 +0600" channel="cna.sg">
+    <title lang="bn">д/с Как это устроено? (Светодиодные лампы, яблочный сидр, емкости для реагентов и каменные полы)</title>
+  </programme>
+  <programme start="20261012052600 +0600" stop="20261012061400 +0600" channel="cna.sg">
+    <title lang="bn">д/с Секреты и заговоры (Экспериментальные солдаты)</title>
+  </programme>
+  <programme start="20261012061400 +0600" stop="20261012070200 +0600" channel="cna.sg">
+    <title lang="bn">д/с Взрывая историю (Загадка инопланетной пустыни)</title>
+  </programme>
+  <programme start="20261012070200 +0600" stop="20261012075000 +0600" channel="cna.sg">
+    <title lang="bn">д/с Загадки высадки на Луну. 1 с.</title>
+  </programme>
+  <programme start="20261012075000 +0600" stop="20261012082000 +0600" channel="cna.sg">
+    <title lang="bn">д/с Загадки высадки на Луну. 3 с.</title>
+  </programme>
   <channel id="TRT World">
     <display-name>TRTWorld.tr</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/6/6e/TRT_World_logo.svg"/>
   </channel>
-  <programme start="20261011000000 +0600" stop="20261011003000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
+  <programme start="20261012000000 +0600" stop="20261012003000 +0600" channel="TRT World">
+    <title lang="bn">Business News</title>
   </programme>
-  <programme start="20261011003000 +0600" stop="20261011004500 +0600" channel="TRT World">
-    <title lang="bn">Scoreline</title>
-  </programme>
-  <programme start="20261011004500 +0600" stop="20261011010000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20261011010000 +0600" stop="20261011013000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011013000 +0600" stop="20261011020000 +0600" channel="TRT World">
-    <title lang="bn">Just 2 Degrees</title>
-  </programme>
-  <programme start="20261011020000 +0600" stop="20261011021500 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011021500 +0600" stop="20261011023000 +0600" channel="TRT World">
-    <title lang="bn">Debrief</title>
-  </programme>
-  <programme start="20261011023000 +0600" stop="20261011030000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20261011030000 +0600" stop="20261011033000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011033000 +0600" stop="20261011040000 +0600" channel="TRT World">
-    <title lang="bn">First Light</title>
-  </programme>
-  <programme start="20261011040000 +0600" stop="20261011050000 +0600" channel="TRT World">
-    <title lang="bn">Storyteller</title>
-  </programme>
-  <programme start="20261011050000 +0600" stop="20261011053000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011053000 +0600" stop="20261011060000 +0600" channel="TRT World">
-    <title lang="bn">Overbooked</title>
-  </programme>
-  <programme start="20261011060000 +0600" stop="20261011063000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011063000 +0600" stop="20261011070000 +0600" channel="TRT World">
+  <programme start="20261012003000 +0600" stop="20261012010000 +0600" channel="TRT World">
     <title lang="bn">Nexus</title>
   </programme>
-  <programme start="20261011070000 +0600" stop="20261011073000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
+  <programme start="20261012010000 +0600" stop="20261012020000 +0600" channel="TRT World">
+    <title lang="bn">Newshour</title>
   </programme>
-  <programme start="20261011073000 +0600" stop="20261011080000 +0600" channel="TRT World">
-    <title lang="bn">Money Talks</title>
-  </programme>
-  <programme start="20261011080000 +0600" stop="20261011083000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011083000 +0600" stop="20261011090000 +0600" channel="TRT World">
-    <title lang="bn">Africa Matters</title>
-  </programme>
-  <programme start="20261011090000 +0600" stop="20261011093000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011093000 +0600" stop="20261011100000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20261011100000 +0600" stop="20261011110000 +0600" channel="TRT World">
-    <title lang="bn">Off The Grid</title>
-  </programme>
-  <programme start="20261011110000 +0600" stop="20261011113000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011113000 +0600" stop="20261011120000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
-  </programme>
-  <programme start="20261011120000 +0600" stop="20261011123000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011123000 +0600" stop="20261011130000 +0600" channel="TRT World">
-    <title lang="bn">Inside America</title>
-  </programme>
-  <programme start="20261011130000 +0600" stop="20261011133000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011133000 +0600" stop="20261011134500 +0600" channel="TRT World">
-    <title lang="bn">Debrief</title>
-  </programme>
-  <programme start="20261011134500 +0600" stop="20261011140000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20261011140000 +0600" stop="20261011143000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011143000 +0600" stop="20261011150000 +0600" channel="TRT World">
-    <title lang="bn">Bigger Than Five</title>
-  </programme>
-  <programme start="20261011150000 +0600" stop="20261011153000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011153000 +0600" stop="20261011160000 +0600" channel="TRT World">
-    <title lang="bn">Just 2 Degrees</title>
-  </programme>
-  <programme start="20261011160000 +0600" stop="20261011170000 +0600" channel="TRT World">
+  <programme start="20261012020000 +0600" stop="20261012030000 +0600" channel="TRT World">
     <title lang="bn">Storyteller</title>
-  </programme>
-  <programme start="20261011170000 +0600" stop="20261011173000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011173000 +0600" stop="20261011180000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20261011180000 +0600" stop="20261011183000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011183000 +0600" stop="20261011190000 +0600" channel="TRT World">
-    <title lang="bn">Money Talks</title>
-  </programme>
-  <programme start="20261011190000 +0600" stop="20261011193000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011193000 +0600" stop="20261011200000 +0600" channel="TRT World">
-    <title lang="bn">Across The Balkans</title>
-  </programme>
-  <programme start="20261011200000 +0600" stop="20261011203000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011203000 +0600" stop="20261011204500 +0600" channel="TRT World">
-    <title lang="bn">Scoreline</title>
-  </programme>
-  <programme start="20261011204500 +0600" stop="20261011210000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20261011210000 +0600" stop="20261011213000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011213000 +0600" stop="20261011220000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
-  </programme>
-  <programme start="20261011220000 +0600" stop="20261011223000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011223000 +0600" stop="20261011230000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20261011230000 +0600" stop="20261011233000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261011233000 +0600" stop="20261012000000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20261012000000 +0600" stop="20261012003000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261012003000 +0600" stop="20261012004500 +0600" channel="TRT World">
-    <title lang="bn">Scoreline</title>
-  </programme>
-  <programme start="20261012004500 +0600" stop="20261012010000 +0600" channel="TRT World">
-    <title lang="bn">Debrief</title>
-  </programme>
-  <programme start="20261012010000 +0600" stop="20261012013000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261012013000 +0600" stop="20261012020000 +0600" channel="TRT World">
-    <title lang="bn">Across The Balkans</title>
-  </programme>
-  <programme start="20261012020000 +0600" stop="20261012021500 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261012021500 +0600" stop="20261012023000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20261012023000 +0600" stop="20261012030000 +0600" channel="TRT World">
-    <title lang="bn">Nextech</title>
   </programme>
   <programme start="20261012030000 +0600" stop="20261012033000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20261012033000 +0600" stop="20261012040000 +0600" channel="TRT World">
-    <title lang="bn">Money Talks</title>
+    <title lang="bn">Business News</title>
   </programme>
   <programme start="20261012040000 +0600" stop="20261012043000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20261012043000 +0600" stop="20261012050000 +0600" channel="TRT World">
-    <title lang="bn">Africa Matters</title>
-  </programme>
-  <programme start="20261012050000 +0600" stop="20261012053000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20261012053000 +0600" stop="20261012060000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
+  <programme start="20261012043000 +0600" stop="20261012050000 +0600" channel="TRT World">
+    <title lang="bn">Across The Balkans</title>
+  </programme>
+  <programme start="20261012050000 +0600" stop="20261012060000 +0600" channel="TRT World">
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20261012060000 +0600" stop="20261012063000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20261012063000 +0600" stop="20261012070000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
+    <title lang="bn">Africa Matters</title>
   </programme>
   <programme start="20261012070000 +0600" stop="20261012073000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20261012073000 +0600" stop="20261012080000 +0600" channel="TRT World">
-    <title lang="bn">Bigger Than Five</title>
+    <title lang="bn">Strait Talk</title>
   </programme>
   <programme start="20261012080000 +0600" stop="20261012083000 +0600" channel="TRT World">
-    <title lang="bn">Business News</title>
+    <title lang="bn">Roundtable</title>
   </programme>
   <programme start="20261012083000 +0600" stop="20261012090000 +0600" channel="TRT World">
-    <title lang="bn">Nexus</title>
+    <title lang="bn">The Newsmakers</title>
   </programme>
   <programme start="20261012090000 +0600" stop="20261012100000 +0600" channel="TRT World">
     <title lang="bn">Newshour</title>
   </programme>
-  <programme start="20261012100000 +0600" stop="20261012110000 +0600" channel="TRT World">
-    <title lang="bn">Storyteller</title>
+  <programme start="20261012100000 +0600" stop="20261012103000 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
   </programme>
-  <programme start="20261012110000 +0600" stop="20261012113000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
+  <programme start="20261012103000 +0600" stop="20261012110000 +0600" channel="TRT World">
+    <title lang="bn">Just 2 Degrees</title>
+  </programme>
+  <programme start="20261012110000 +0600" stop="20261012111500 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
+  </programme>
+  <programme start="20261012111500 +0600" stop="20261012113000 +0600" channel="TRT World">
+    <title lang="bn">Newsfeed</title>
   </programme>
   <programme start="20261012113000 +0600" stop="20261012120000 +0600" channel="TRT World">
-    <title lang="bn">Business News</title>
+    <title lang="bn">Compass</title>
   </programme>
-  <programme start="20261012120000 +0600" stop="20261012123000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
+  <programme start="20261012120000 +0600" stop="20261012130000 +0600" channel="TRT World">
+    <title lang="bn">Newshour - London</title>
   </programme>
-  <programme start="20261012123000 +0600" stop="20261012130000 +0600" channel="TRT World">
-    <title lang="bn">Across The Balkans</title>
+  <programme start="20261012130000 +0600" stop="20261012133000 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
   </programme>
-  <programme start="20261012130000 +0600" stop="20261012140000 +0600" channel="TRT World">
-    <title lang="bn">Newshour</title>
+  <programme start="20261012133000 +0600" stop="20261012140000 +0600" channel="TRT World">
+    <title lang="bn">Nexus</title>
   </programme>
   <programme start="20261012140000 +0600" stop="20261012143000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
+    <title lang="bn">News - London</title>
   </programme>
   <programme start="20261012143000 +0600" stop="20261012150000 +0600" channel="TRT World">
-    <title lang="bn">Africa Matters</title>
+    <title lang="bn">Roundtable</title>
   </programme>
   <programme start="20261012150000 +0600" stop="20261012153000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20261012153000 +0600" stop="20261012160000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
-  </programme>
-  <programme start="20261012160000 +0600" stop="20261012163000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20261012163000 +0600" stop="20261012170000 +0600" channel="TRT World">
     <title lang="bn">The Newsmakers</title>
   </programme>
-  <programme start="20261012170000 +0600" stop="20261012180000 +0600" channel="TRT World">
-    <title lang="bn">Newshour</title>
+  <programme start="20261012160000 +0600" stop="20261012163000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
   </programme>
-  <programme start="20261012180000 +0600" stop="20261012183000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
+  <programme start="20261012163000 +0600" stop="20261012170000 +0600" channel="TRT World">
+    <title lang="bn">Inside America</title>
   </programme>
-  <programme start="20261012183000 +0600" stop="20261012190000 +0600" channel="TRT World">
-    <title lang="bn">Just 2 Degrees</title>
+  <programme start="20261012170000 +0600" stop="20261012173000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
   </programme>
-  <programme start="20261012190000 +0600" stop="20261012191500 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
+  <programme start="20261012173000 +0600" stop="20261012180000 +0600" channel="TRT World">
+    <title lang="bn">Strait Talk</title>
   </programme>
-  <programme start="20261012191500 +0600" stop="20261012193000 +0600" channel="TRT World">
+  <programme start="20261012180000 +0600" stop="20261012181500 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20261012181500 +0600" stop="20261012183000 +0600" channel="TRT World">
     <title lang="bn">Newsfeed</title>
   </programme>
+  <programme start="20261012183000 +0600" stop="20261012190000 +0600" channel="TRT World">
+    <title lang="bn">Roundtable</title>
+  </programme>
+  <programme start="20261012190000 +0600" stop="20261012193000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
   <programme start="20261012193000 +0600" stop="20261012200000 +0600" channel="TRT World">
-    <title lang="bn">Compass</title>
+    <title lang="bn">The Newsmakers</title>
   </programme>
   <programme start="20261012200000 +0600" stop="20261012210000 +0600" channel="TRT World">
-    <title lang="bn">Newshour - London</title>
+    <title lang="bn">Storyteller</title>
   </programme>
   <programme start="20261012210000 +0600" stop="20261012213000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
+    <title lang="bn">News</title>
   </programme>
   <programme start="20261012213000 +0600" stop="20261012220000 +0600" channel="TRT World">
-    <title lang="bn">Nexus</title>
+    <title lang="bn">Compass</title>
   </programme>
   <programme start="20261012220000 +0600" stop="20261012223000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
+    <title lang="bn">News</title>
   </programme>
   <programme start="20261012223000 +0600" stop="20261012230000 +0600" channel="TRT World">
     <title lang="bn">Roundtable</title>
@@ -1696,340 +1894,328 @@
     <title lang="bn">News</title>
   </programme>
   <programme start="20261012233000 +0600" stop="20261013000000 +0600" channel="TRT World">
+    <title lang="bn">Inside America</title>
+  </programme>
+  <programme start="20261013000000 +0600" stop="20261013003000 +0600" channel="TRT World">
+    <title lang="bn">Business News</title>
+  </programme>
+  <programme start="20261013003000 +0600" stop="20261013010000 +0600" channel="TRT World">
+    <title lang="bn">The Newsmakers</title>
+  </programme>
+  <programme start="20261013010000 +0600" stop="20261013020000 +0600" channel="TRT World">
+    <title lang="bn">Newshour</title>
+  </programme>
+  <programme start="20261013020000 +0600" stop="20261013023000 +0600" channel="TRT World">
+    <title lang="bn">Africa Matters</title>
+  </programme>
+  <programme start="20261013023000 +0600" stop="20261013030000 +0600" channel="TRT World">
+    <title lang="bn">Just 2 Degrees</title>
+  </programme>
+  <programme start="20261013030000 +0600" stop="20261013033000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20261013033000 +0600" stop="20261013040000 +0600" channel="TRT World">
+    <title lang="bn">Business News</title>
+  </programme>
+  <programme start="20261013040000 +0600" stop="20261013043000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20261013043000 +0600" stop="20261013050000 +0600" channel="TRT World">
+    <title lang="bn">The Newsmakers</title>
+  </programme>
+  <programme start="20261013050000 +0600" stop="20261013060000 +0600" channel="TRT World">
+    <title lang="bn">Newshour</title>
+  </programme>
+  <programme start="20261013060000 +0600" stop="20261013063000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20261013063000 +0600" stop="20261013070000 +0600" channel="TRT World">
+    <title lang="bn">Nextech</title>
+  </programme>
+  <programme start="20261013070000 +0600" stop="20261013073000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20261013073000 +0600" stop="20261013080000 +0600" channel="TRT World">
+    <title lang="bn">Nexus</title>
+  </programme>
+  <programme start="20261013080000 +0600" stop="20261013083000 +0600" channel="TRT World">
+    <title lang="bn">Roundtable</title>
+  </programme>
+  <programme start="20261013083000 +0600" stop="20261013090000 +0600" channel="TRT World">
+    <title lang="bn">The Newsmakers</title>
+  </programme>
+  <programme start="20261013090000 +0600" stop="20261013100000 +0600" channel="TRT World">
+    <title lang="bn">Newshour</title>
+  </programme>
+  <programme start="20261013100000 +0600" stop="20261013103000 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
+  </programme>
+  <programme start="20261013103000 +0600" stop="20261013110000 +0600" channel="TRT World">
+    <title lang="bn">Inside America</title>
+  </programme>
+  <programme start="20261013110000 +0600" stop="20261013111500 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
+  </programme>
+  <programme start="20261013111500 +0600" stop="20261013113000 +0600" channel="TRT World">
+    <title lang="bn">Newsfeed</title>
+  </programme>
+  <programme start="20261013113000 +0600" stop="20261013120000 +0600" channel="TRT World">
+    <title lang="bn">Strait Talk</title>
+  </programme>
+  <programme start="20261013120000 +0600" stop="20261013130000 +0600" channel="TRT World">
+    <title lang="bn">Newshour - London</title>
+  </programme>
+  <programme start="20261013130000 +0600" stop="20261013133000 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
+  </programme>
+  <programme start="20261013133000 +0600" stop="20261013140000 +0600" channel="TRT World">
+    <title lang="bn">Across The Balkans</title>
+  </programme>
+  <programme start="20261013140000 +0600" stop="20261013143000 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
+  </programme>
+  <programme start="20261013143000 +0600" stop="20261013150000 +0600" channel="TRT World">
+    <title lang="bn">Roundtable</title>
+  </programme>
+  <programme start="20261013150000 +0600" stop="20261013153000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20261013153000 +0600" stop="20261013160000 +0600" channel="TRT World">
     <title lang="bn">The Newsmakers</title>
   </programme>
   <channel id="Bloomberg TV">
     <display-name>BloombergTV.us</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/9/93/Bloomberg_tv_2016.svg"/>
   </channel>
-  <programme start="20261011000000 +0600" stop="20261011003000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Originals</title>
-  </programme>
-  <programme start="20261011003000 +0600" stop="20261011010000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Posthuman</title>
-  </programme>
-  <programme start="20261011010000 +0600" stop="20261011020000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Investigates</title>
-  </programme>
-  <programme start="20261011020000 +0600" stop="20261011023000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Primer</title>
-  </programme>
-  <programme start="20261011023000 +0600" stop="20261011030000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Mishal Husain Show</title>
-  </programme>
-  <programme start="20261011030000 +0600" stop="20261011033000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Leaders with Francine Lacqua</title>
-  </programme>
-  <programme start="20261011033000 +0600" stop="20261011040000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Best of the Bloomberg Women Money &amp;amp; Pow</title>
-  </programme>
-  <programme start="20261011040000 +0600" stop="20261011050000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Wall Street Week</title>
-  </programme>
-  <programme start="20261011050000 +0600" stop="20261011053000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Originals</title>
-  </programme>
-  <programme start="20261011053000 +0600" stop="20261011060000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Circuit</title>
-  </programme>
-  <programme start="20261011060000 +0600" stop="20261011070000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Wall Street Week</title>
-  </programme>
-  <programme start="20261011070000 +0600" stop="20261011100000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg This Weekend</title>
-  </programme>
-  <programme start="20261011100000 +0600" stop="20261011103000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Mishal Husain Show</title>
-  </programme>
-  <programme start="20261011103000 +0600" stop="20261011110000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The David Rubenstein Show</title>
-  </programme>
-  <programme start="20261011110000 +0600" stop="20261011120000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Circuit</title>
-  </programme>
-  <programme start="20261011120000 +0600" stop="20261011130000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Wall Street Week</title>
-  </programme>
-  <programme start="20261011130000 +0600" stop="20261011133000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The David Rubenstein Show</title>
-  </programme>
-  <programme start="20261011133000 +0600" stop="20261011140000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Best of the Bloomberg Women Money &amp;amp; Pow</title>
-  </programme>
-  <programme start="20261011140000 +0600" stop="20261011143000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Investigates</title>
-  </programme>
-  <programme start="20261011143000 +0600" stop="20261011150000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Posthuman</title>
-  </programme>
-  <programme start="20261011150000 +0600" stop="20261011153000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Leaders with Francine Lacqua</title>
-  </programme>
-  <programme start="20261011153000 +0600" stop="20261011160000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Mishal Husain Show</title>
-  </programme>
-  <programme start="20261011160000 +0600" stop="20261011163000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Mishal Husain Show</title>
-  </programme>
-  <programme start="20261011163000 +0600" stop="20261011170000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg New Economy: Thriving in an A</title>
-  </programme>
-  <programme start="20261011170000 +0600" stop="20261011173000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Circuit</title>
-  </programme>
-  <programme start="20261011173000 +0600" stop="20261011180000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Originals</title>
-  </programme>
-  <programme start="20261011180000 +0600" stop="20261011190000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Wall Street Week</title>
-  </programme>
-  <programme start="20261011190000 +0600" stop="20261011210000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg The Asia Trade</title>
-  </programme>
-  <programme start="20261011210000 +0600" stop="20261011230000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg: The China Show</title>
-  </programme>
-  <programme start="20261011230000 +0600" stop="20261012000000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Insight with Haslinda Amin</title>
-  </programme>
-  <programme start="20261012000000 +0600" stop="20261012010000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Horizons Middle East &amp;amp; Africa</title>
-  </programme>
   <programme start="20261012010000 +0600" stop="20261012020000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg Daybreak: Europe</title>
-  </programme>
-  <programme start="20261012020000 +0600" stop="20261012040000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Bloomberg: The Opening Trade</title>
-  </programme>
-  <programme start="20261012040000 +0600" stop="20261012050000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: The Pulse with Francine Lacqua</title>
   </programme>
-  <programme start="20261012050000 +0600" stop="20261012060000 +0600" channel="Bloomberg TV">
+  <programme start="20261012020000 +0600" stop="20261012030000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Brief</title>
   </programme>
-  <programme start="20261012060000 +0600" stop="20261012090000 +0600" channel="Bloomberg TV">
+  <programme start="20261012030000 +0600" stop="20261012060000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Chief Future Officer</title>
   </programme>
-  <programme start="20261012090000 +0600" stop="20261012110000 +0600" channel="Bloomberg TV">
+  <programme start="20261012060000 +0600" stop="20261012080000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Open Interest</title>
   </programme>
-  <programme start="20261012110000 +0600" stop="20261012120000 +0600" channel="Bloomberg TV">
+  <programme start="20261012080000 +0600" stop="20261012090000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Tech</title>
   </programme>
-  <programme start="20261012120000 +0600" stop="20261012130000 +0600" channel="Bloomberg TV">
+  <programme start="20261012090000 +0600" stop="20261012100000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg ETF IQ</title>
   </programme>
-  <programme start="20261012130000 +0600" stop="20261012140000 +0600" channel="Bloomberg TV">
+  <programme start="20261012100000 +0600" stop="20261012110000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Markets: Balance of Pow</title>
+  </programme>
+  <programme start="20261012110000 +0600" stop="20261012120000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Live: Bloomberg Businessweek Daily</title>
+  </programme>
+  <programme start="20261012120000 +0600" stop="20261012140000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Live: Bloomberg Markets: The Close</title>
   </programme>
   <programme start="20261012140000 +0600" stop="20261012150000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Live: Bloomberg Businessweek Daily</title>
-  </programme>
-  <programme start="20261012150000 +0600" stop="20261012170000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Live: Bloomberg Markets: The Close</title>
-  </programme>
-  <programme start="20261012170000 +0600" stop="20261012180000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Markets: Balance of Pow</title>
   </programme>
-  <programme start="20261012180000 +0600" stop="20261012183000 +0600" channel="Bloomberg TV">
+  <programme start="20261012150000 +0600" stop="20261012153000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Chief Future Officer</title>
   </programme>
-  <programme start="20261012183000 +0600" stop="20261012190000 +0600" channel="Bloomberg TV">
+  <programme start="20261012153000 +0600" stop="20261012160000 +0600" channel="Bloomberg TV">
     <title lang="bn">The Mishal Husain Show</title>
   </programme>
-  <programme start="20261012190000 +0600" stop="20261012210000 +0600" channel="Bloomberg TV">
+  <programme start="20261012160000 +0600" stop="20261012180000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg The Asia Trade</title>
   </programme>
-  <programme start="20261012210000 +0600" stop="20261012230000 +0600" channel="Bloomberg TV">
+  <programme start="20261012180000 +0600" stop="20261012200000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg: The China Show</title>
   </programme>
-  <programme start="20261012230000 +0600" stop="20261013000000 +0600" channel="Bloomberg TV">
+  <programme start="20261012200000 +0600" stop="20261012210000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Insight with Haslinda Amin</title>
   </programme>
-  <programme start="20261013000000 +0600" stop="20261013010000 +0600" channel="Bloomberg TV">
+  <programme start="20261012210000 +0600" stop="20261012220000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Horizons Middle East &amp;amp;</title>
+  </programme>
+  <programme start="20261012220000 +0600" stop="20261012230000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Live: Bloomberg Daybreak: Europe</title>
+  </programme>
+  <programme start="20261012230000 +0600" stop="20261013010000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Live: Bloomberg: The Opening Trade</title>
   </programme>
   <programme start="20261013010000 +0600" stop="20261013020000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Live: Bloomberg Daybreak: Europe</title>
-  </programme>
-  <programme start="20261013020000 +0600" stop="20261013040000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Live: Bloomberg: The Opening Trade</title>
-  </programme>
-  <programme start="20261013040000 +0600" stop="20261013050000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: The Pulse with Francine Lacqua</title>
   </programme>
-  <programme start="20261013050000 +0600" stop="20261013060000 +0600" channel="Bloomberg TV">
+  <programme start="20261013020000 +0600" stop="20261013030000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Brief</title>
   </programme>
-  <programme start="20261013060000 +0600" stop="20261013090000 +0600" channel="Bloomberg TV">
+  <programme start="20261013030000 +0600" stop="20261013060000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Chief Future Officer</title>
   </programme>
-  <programme start="20261013090000 +0600" stop="20261013110000 +0600" channel="Bloomberg TV">
+  <programme start="20261013060000 +0600" stop="20261013080000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Open Interest</title>
   </programme>
-  <programme start="20261013110000 +0600" stop="20261013120000 +0600" channel="Bloomberg TV">
+  <programme start="20261013080000 +0600" stop="20261013090000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Tech</title>
   </programme>
-  <programme start="20261013120000 +0600" stop="20261013130000 +0600" channel="Bloomberg TV">
+  <programme start="20261013090000 +0600" stop="20261013100000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Crypto</title>
   </programme>
-  <programme start="20261013130000 +0600" stop="20261013140000 +0600" channel="Bloomberg TV">
+  <programme start="20261013100000 +0600" stop="20261013110000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Markets: Balance of Pow</title>
+  </programme>
+  <programme start="20261013110000 +0600" stop="20261013120000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Live: Bloomberg Businessweek Daily</title>
+  </programme>
+  <programme start="20261013120000 +0600" stop="20261013140000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Live: Bloomberg Markets: The Close</title>
   </programme>
   <programme start="20261013140000 +0600" stop="20261013150000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Live: Bloomberg Businessweek Daily</title>
-  </programme>
-  <programme start="20261013150000 +0600" stop="20261013170000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Live: Bloomberg Markets: The Close</title>
-  </programme>
-  <programme start="20261013170000 +0600" stop="20261013180000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Markets: Balance of Pow</title>
   </programme>
-  <programme start="20261013180000 +0600" stop="20261013190000 +0600" channel="Bloomberg TV">
+  <programme start="20261013150000 +0600" stop="20261013160000 +0600" channel="Bloomberg TV">
     <title lang="bn">Post Credits</title>
   </programme>
-  <programme start="20261013190000 +0600" stop="20261013210000 +0600" channel="Bloomberg TV">
+  <programme start="20261013160000 +0600" stop="20261013180000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg The Asia Trade</title>
   </programme>
-  <programme start="20261013210000 +0600" stop="20261013230000 +0600" channel="Bloomberg TV">
+  <programme start="20261013180000 +0600" stop="20261013200000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg: The China Show</title>
   </programme>
-  <programme start="20261013230000 +0600" stop="20261014000000 +0600" channel="Bloomberg TV">
+  <programme start="20261013200000 +0600" stop="20261013210000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Insight with Haslinda Amin</title>
   </programme>
-  <programme start="20261014000000 +0600" stop="20261014010000 +0600" channel="Bloomberg TV">
+  <programme start="20261013210000 +0600" stop="20261013220000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Horizons Middle East &amp;amp;</title>
+  </programme>
+  <programme start="20261013220000 +0600" stop="20261013230000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Live: Bloomberg Daybreak: Europe</title>
+  </programme>
+  <programme start="20261013230000 +0600" stop="20261014010000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Live: Bloomberg: The Opening Trade</title>
   </programme>
   <programme start="20261014010000 +0600" stop="20261014020000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Live: Bloomberg Daybreak: Europe</title>
-  </programme>
-  <programme start="20261014020000 +0600" stop="20261014040000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Live: Bloomberg: The Opening Trade</title>
-  </programme>
-  <programme start="20261014040000 +0600" stop="20261014050000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: The Pulse with Francine Lacqua</title>
   </programme>
-  <programme start="20261014050000 +0600" stop="20261014060000 +0600" channel="Bloomberg TV">
+  <programme start="20261014020000 +0600" stop="20261014030000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Brief</title>
   </programme>
-  <programme start="20261014060000 +0600" stop="20261014090000 +0600" channel="Bloomberg TV">
+  <programme start="20261014030000 +0600" stop="20261014060000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Chief Future Officer</title>
   </programme>
-  <programme start="20261014090000 +0600" stop="20261014110000 +0600" channel="Bloomberg TV">
+  <programme start="20261014060000 +0600" stop="20261014080000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Open Interest</title>
   </programme>
-  <programme start="20261014110000 +0600" stop="20261014120000 +0600" channel="Bloomberg TV">
+  <programme start="20261014080000 +0600" stop="20261014090000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Tech</title>
   </programme>
-  <programme start="20261014120000 +0600" stop="20261014130000 +0600" channel="Bloomberg TV">
+  <programme start="20261014090000 +0600" stop="20261014100000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Deals</title>
   </programme>
-  <programme start="20261014130000 +0600" stop="20261014140000 +0600" channel="Bloomberg TV">
+  <programme start="20261014100000 +0600" stop="20261014110000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Markets: Balance of Pow</title>
+  </programme>
+  <programme start="20261014110000 +0600" stop="20261014120000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Live: Bloomberg Businessweek Daily</title>
+  </programme>
+  <programme start="20261014120000 +0600" stop="20261014140000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Live: Bloomberg Markets: The Close</title>
   </programme>
   <programme start="20261014140000 +0600" stop="20261014150000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Live: Bloomberg Businessweek Daily</title>
-  </programme>
-  <programme start="20261014150000 +0600" stop="20261014170000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Live: Bloomberg Markets: The Close</title>
-  </programme>
-  <programme start="20261014170000 +0600" stop="20261014180000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Markets: Balance of Pow</title>
   </programme>
-  <programme start="20261014180000 +0600" stop="20261014183000 +0600" channel="Bloomberg TV">
+  <programme start="20261014150000 +0600" stop="20261014153000 +0600" channel="Bloomberg TV">
     <title lang="bn">Quantum Marketing</title>
   </programme>
-  <programme start="20261014183000 +0600" stop="20261014190000 +0600" channel="Bloomberg TV">
+  <programme start="20261014153000 +0600" stop="20261014160000 +0600" channel="Bloomberg TV">
     <title lang="bn">The Mishal Husain Show</title>
   </programme>
-  <programme start="20261014190000 +0600" stop="20261014210000 +0600" channel="Bloomberg TV">
+  <programme start="20261014160000 +0600" stop="20261014180000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg The Asia Trade</title>
   </programme>
-  <programme start="20261014210000 +0600" stop="20261014230000 +0600" channel="Bloomberg TV">
+  <programme start="20261014180000 +0600" stop="20261014200000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg: The China Show</title>
   </programme>
-  <programme start="20261014230000 +0600" stop="20261015000000 +0600" channel="Bloomberg TV">
+  <programme start="20261014200000 +0600" stop="20261014210000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Insight with Haslinda Amin</title>
   </programme>
-  <programme start="20261015000000 +0600" stop="20261015010000 +0600" channel="Bloomberg TV">
+  <programme start="20261014210000 +0600" stop="20261014220000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Horizons Middle East &amp;amp;</title>
+  </programme>
+  <programme start="20261014220000 +0600" stop="20261014230000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Live: Bloomberg Daybreak: Europe</title>
+  </programme>
+  <programme start="20261014230000 +0600" stop="20261015010000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Live: Bloomberg: The Opening Trade</title>
   </programme>
   <programme start="20261015010000 +0600" stop="20261015020000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Live: Bloomberg Daybreak: Europe</title>
-  </programme>
-  <programme start="20261015020000 +0600" stop="20261015040000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Live: Bloomberg: The Opening Trade</title>
-  </programme>
-  <programme start="20261015040000 +0600" stop="20261015050000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: The Pulse with Francine Lacqua</title>
   </programme>
-  <programme start="20261015050000 +0600" stop="20261015060000 +0600" channel="Bloomberg TV">
+  <programme start="20261015020000 +0600" stop="20261015030000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Brief</title>
   </programme>
-  <programme start="20261015060000 +0600" stop="20261015070000 +0600" channel="Bloomberg TV">
+  <programme start="20261015030000 +0600" stop="20261015040000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Surveillance: Thursday</title>
   </programme>
-  <programme start="20261015070000 +0600" stop="20261015073000 +0600" channel="Bloomberg TV">
+  <programme start="20261015040000 +0600" stop="20261015043000 +0600" channel="Bloomberg TV">
     <title lang="bn">The David Rubenstein Show</title>
   </programme>
-  <programme start="20261015073000 +0600" stop="20261015080000 +0600" channel="Bloomberg TV">
+  <programme start="20261015043000 +0600" stop="20261015050000 +0600" channel="Bloomberg TV">
     <title lang="bn">Bloomberg Chief Future Officer</title>
   </programme>
-  <programme start="20261015080000 +0600" stop="20261015090000 +0600" channel="Bloomberg TV">
+  <programme start="20261015050000 +0600" stop="20261015060000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Surveillance: Thursday</title>
   </programme>
-  <programme start="20261015090000 +0600" stop="20261015110000 +0600" channel="Bloomberg TV">
+  <programme start="20261015060000 +0600" stop="20261015080000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Open Interest</title>
   </programme>
-  <programme start="20261015110000 +0600" stop="20261015120000 +0600" channel="Bloomberg TV">
+  <programme start="20261015080000 +0600" stop="20261015090000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Tech</title>
   </programme>
-  <programme start="20261015120000 +0600" stop="20261015130000 +0600" channel="Bloomberg TV">
+  <programme start="20261015090000 +0600" stop="20261015100000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Real Yield</title>
   </programme>
-  <programme start="20261015130000 +0600" stop="20261015140000 +0600" channel="Bloomberg TV">
+  <programme start="20261015100000 +0600" stop="20261015110000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Markets: Balance of Pow</title>
   </programme>
-  <programme start="20261015140000 +0600" stop="20261015150000 +0600" channel="Bloomberg TV">
+  <programme start="20261015110000 +0600" stop="20261015120000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Businessweek Daily</title>
   </programme>
-  <programme start="20261015150000 +0600" stop="20261015170000 +0600" channel="Bloomberg TV">
+  <programme start="20261015120000 +0600" stop="20261015140000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Markets: The Close</title>
   </programme>
-  <programme start="20261015170000 +0600" stop="20261015180000 +0600" channel="Bloomberg TV">
+  <programme start="20261015140000 +0600" stop="20261015150000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Markets: Balance of Pow</title>
   </programme>
-  <programme start="20261015180000 +0600" stop="20261015183000 +0600" channel="Bloomberg TV">
+  <programme start="20261015150000 +0600" stop="20261015153000 +0600" channel="Bloomberg TV">
     <title lang="bn">The Circuit</title>
   </programme>
-  <programme start="20261015183000 +0600" stop="20261015190000 +0600" channel="Bloomberg TV">
+  <programme start="20261015153000 +0600" stop="20261015160000 +0600" channel="Bloomberg TV">
     <title lang="bn">The Mishal Husain Show</title>
   </programme>
-  <programme start="20261015190000 +0600" stop="20261015210000 +0600" channel="Bloomberg TV">
+  <programme start="20261015160000 +0600" stop="20261015180000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg The Asia Trade</title>
   </programme>
-  <programme start="20261015210000 +0600" stop="20261015230000 +0600" channel="Bloomberg TV">
+  <programme start="20261015180000 +0600" stop="20261015200000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg: The China Show</title>
   </programme>
-  <programme start="20261015230000 +0600" stop="20261016000000 +0600" channel="Bloomberg TV">
+  <programme start="20261015200000 +0600" stop="20261015210000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Insight with Haslinda Amin</title>
   </programme>
-  <programme start="20261016000000 +0600" stop="20261016010000 +0600" channel="Bloomberg TV">
+  <programme start="20261015210000 +0600" stop="20261015220000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Horizons Middle East &amp;amp;</title>
   </programme>
-  <programme start="20261016010000 +0600" stop="20261016020000 +0600" channel="Bloomberg TV">
+  <programme start="20261015220000 +0600" stop="20261015230000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Daybreak: Europe</title>
   </programme>
-  <programme start="20261016020000 +0600" stop="20261016040000 +0600" channel="Bloomberg TV">
+  <programme start="20261015230000 +0600" stop="20261016010000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg: The Opening Trade</title>
   </programme>
-  <programme start="20261016040000 +0600" stop="20261016050000 +0600" channel="Bloomberg TV">
+  <programme start="20261016010000 +0600" stop="20261016020000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: The Pulse with Francine Lacqua</title>
   </programme>
-  <programme start="20261016050000 +0600" stop="20261016060000 +0600" channel="Bloomberg TV">
+  <programme start="20261016020000 +0600" stop="20261016030000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Brief</title>
   </programme>
-  <programme start="20261016060000 +0600" stop="20261016063000 +0600" channel="Bloomberg TV">
+  <programme start="20261016030000 +0600" stop="20261016033000 +0600" channel="Bloomberg TV">
     <title lang="bn">Live: Bloomberg Chief Future Officer</title>
   </programme>
   <channel id="YouTube">
