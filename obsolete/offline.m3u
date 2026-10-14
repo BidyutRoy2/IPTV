@@ -1,37 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla",ATN Bangla UK (0d)
-https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Ayna TV (0d)
+#EXTINF:-1 group-title="Bangla",Ayna TV (1d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",GAZI TV HD (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",MU | ATN MUSIC (0d)
+#EXTINF:-1 group-title="Bangla",MU | ATN MUSIC (1d)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Rajdhani TV (0d)
+#EXTINF:-1 group-title="Bangla",Rajdhani TV (1d)
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-#EXTINF:-1 group-title="Bangla",RTV (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | Channel 1 (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="India",MU | 7X Music (0d)
-https://cdn2.in/7xPunjabihls/live.m3u8
-#EXTINF:-1 group-title="India",MU | 9XM (8d)
+#EXTINF:-1 group-title="Bangla News",IN | R Plus News (0d)
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1 group-title="India",MU | 9XM (9d)
 https://9xjio.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1 group-title="India",NEWS | Amar Ujala (5d)
+#EXTINF:-1 group-title="India",NEWS | Amar Ujala (6d)
 https://amarujala.ottlive.co.in/amarujala/index.m3u8
-#EXTINF:-1 group-title="International News",CNN International (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 group-title="International News",CNN International (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Kids",1. Minimax (1d)
+#EXTINF:-1 group-title="International",EN | CINEMAX MOREMAX (0d)
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="Kids",1. Minimax (2d)
 http://88.212.15.19/live/test_minimax/playlist.m3u8
-#EXTINF:-1 group-title="Kids",1. Nickelodeon (1d)
+#EXTINF:-1 group-title="Kids",1. Nickelodeon (2d)
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-#EXTINF:-1 group-title="Movies",EN | HBO Movies (8d)
+#EXTINF:-1 group-title="Movies",EN | HBO Movies (9d)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="Religious",Azan TV (7d)
+#EXTINF:-1 group-title="Religious",Azan TV (8d)
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
-#EXTINF:-1 group-title="Sports",--Live(Euro Sport 1)-- (1d)
+#EXTINF:-1 group-title="Sports",--Live(Euro Sport 1)-- (2d)
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 group-title="Sports",--Live(Euro Sport 2 HD)-- (1d)
+#EXTINF:-1 group-title="Sports",--Live(Euro Sport 2 HD)-- (2d)
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 group-title="Sports",CR | Star Sports 1 Hindi (0d)
+http://41.205.93.154/STARSPORTS1/index.m3u8
