@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla",Ayna TV (1d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla",DEEPTO TV HD (0d)
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
+#EXTINF:-1 group-title="Bangla",DEEPTO TV HD (0d)
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="Bangla",MU | ATN MUSIC (1d)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Rajdhani TV (1d)
-https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | R Plus News (0d)
-https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1 group-title="Educational",Amazing Discoveries TV (0d)
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 group-title="India",MU | 9XM (9d)
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 group-title="India",NEWS | Amar Ujala (6d)
@@ -19,6 +19,10 @@ http://88.212.15.19/live/test_minimax/playlist.m3u8
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 #EXTINF:-1 group-title="Movies",EN | HBO Movies (9d)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 group-title="Music",AR | Albania Music (0d)
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 group-title="Music",EN | Play TV (0d)
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 #EXTINF:-1 group-title="Religious",Azan TV (8d)
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Euro Sport 1)-- (2d)
