@@ -4,37 +4,29 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Bangla",Channel S (1d)
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",DEEPTO TV HD (3d)
-https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
-#EXTINF:-1 group-title="Bangla",DEEPTO TV HD (3d)
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 group-title="Bangla",DEEPTO TV HD (3d)
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 #EXTINF:-1 group-title="Bangla",GAZI TV HD (2d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",Green TV (2d)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",MOV | ZB Cinema (0d)
-https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 group-title="Bangla",MU | ATN MUSIC (4d)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | Tribe TV (1d)
-https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-#EXTINF:-1 group-title="India",MU | 7X Music (1d)
-https://cdn2.in/7xPunjabihls/live.m3u8
-#EXTINF:-1 group-title="India",MU | Jalwa (0d)
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
+#EXTINF:-1 group-title="Bangla",RTV (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla News",BD | Channel 1 (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="India",NEWS | Amar Ujala (9d)
 https://amarujala.ottlive.co.in/amarujala/index.m3u8
-#EXTINF:-1 group-title="India",NEWS | ZEE News (0d)
-https://amg01412-xiaomiasia-zeenews-xiaomi-nkeug.amagi.tv/playlist/amg01412-xiaomiasia-zeenews-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="Kids",0. LooLoo Kids TV (0d)
-https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8
+#EXTINF:-1 group-title="International News",CNN International (0d)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 group-title="International News",CNN International (0d)
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Kids",1. Minimax (5d)
 http://88.212.15.19/live/test_minimax/playlist.m3u8
 #EXTINF:-1 group-title="Kids",1. Nickelodeon (5d)
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-#EXTINF:-1 group-title="Kids",ZB Cartoon (0d)
-https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 group-title="Music",EN | Vevo '90s & '00s (0d)
-https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Euro Sport 1)-- (5d)
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Euro Sport 2 HD)-- (5d)
