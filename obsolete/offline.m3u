@@ -1,20 +1,22 @@
 #EXTM3U
+#EXTINF:-1 group-title="Bangla",Bangla+ HD (0d)
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 group-title="Bangla",Channel S (2d)
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",DEEPTO TV HD (4d)
-https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
-#EXTINF:-1 group-title="Bangla",DEEPTO TV HD (4d)
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 group-title="Bangla",DEEPTO TV HD (4d)
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 #EXTINF:-1 group-title="Bangla",MU | ATN MUSIC (5d)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Thikana (1d)
-https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
-#EXTINF:-1 group-title="India",MU | Only Music (0d)
-https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
+#EXTINF:-1 group-title="India",MU | Steelbird Music (0d)
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 group-title="Kids",1. Minimax (6d)
 http://88.212.15.19/live/test_minimax/playlist.m3u8
 #EXTINF:-1 group-title="Kids",1. Nickelodeon (6d)
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+#EXTINF:-1 group-title="Movies",EN | MovieSphere UK (0d)
+https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-n2/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Euro Sport 1)-- (6d)
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Euro Sport 2 HD)-- (6d)
