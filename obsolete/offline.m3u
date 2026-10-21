@@ -4,36 +4,38 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Bangla",Bangla+ HD (3d)
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 group-title="Bangla",DEEPTO TV HD (7d)
-https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
-#EXTINF:-1 group-title="Bangla",DEEPTO TV HD (7d)
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 group-title="Bangla",DEEPTO TV HD (7d)
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
+#EXTINF:-1 group-title="Bangla",GAZI TV HD (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",MU | ATN MUSIC (8d)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | Republic Bangla (0d)
-https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="Educational",PowerNation TV (0d)
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991291
-#EXTINF:-1 group-title="India",MOV | MBC Bollywood (0d)
-http://93.184.10.248/MBCBollywood/index.m3u8
-#EXTINF:-1 group-title="India",NEWS | News18 India (0d)
-https://amg01448-samsungin-news18india-samsungin-ad-gx.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungin-news18india-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="International",EN | TV BRICS English (0d)
-https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
-#EXTINF:-1 group-title="International News",CNN International (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 group-title="International News",CNN International (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="International News",RT Now (Russia) (0d)
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
+#EXTINF:-1 group-title="Bangla",RTV (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla News",BD | Channel 1 (0d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla News",BD | Jago News 24 (0d)
+https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla News",BD | Jago News 24 (0d)
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1 group-title="India",MU | Pitaara TV (0d)
+https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 #EXTINF:-1 group-title="Kids",1. Minimax (9d)
 http://88.212.15.19/live/test_minimax/playlist.m3u8
 #EXTINF:-1 group-title="Kids",1. Nickelodeon (9d)
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-#EXTINF:-1 group-title="Music",EN | Oxygen Music (0d)
-https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 group-title="Music",EN | Play TV (0d)
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+#EXTINF:-1 group-title="Music",EN | Trace Urban (0d)
+https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/ts-eu-w1-n2/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Euro Sport 1)-- (9d)
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Euro Sport 2 HD)-- (9d)
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="Sports",CR | Star Sports 1 Hindi (7d)
 http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 group-title="Sports",GOLF | Golf Network (0d)
+https://streams2.sofast.tv/ptnr-sportstribal/genre-Sports/lang-English/ctgr-Sport/title-Golf_Network/sofastplayout/b7500c3f-bd94-4725-abfd-2644e004132c/manifest.m3u8
+#EXTINF:-1 group-title="Sports",MIXER | Hunt Fish TV (0d)
+https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8
