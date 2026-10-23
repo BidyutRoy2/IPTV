@@ -884,776 +884,1433 @@
     <display-name>Al Jazeera English</display-name>
     <icon src="https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png"/>
   </channel>
-  <programme start="20261023000000 +0600" stop="20261023003000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
+  <programme start="20261023005500 +0600" stop="20261023011000 +0600" channel="aljazeera.com">
+    <title lang="bn">Новости Голливуда</title>
   </programme>
-  <programme start="20261023003000 +0600" stop="20261023010000 +0600" channel="aljazeera.com">
-    <title lang="bn">Business Today</title>
+  <programme start="20261023011000 +0600" stop="20261023024000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Шпион по соседству</title>
   </programme>
-  <programme start="20261023010000 +0600" stop="20261023013000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
+  <programme start="20261023024000 +0600" stop="20261023041000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф А вот и она</title>
   </programme>
-  <programme start="20261023013000 +0600" stop="20261023020000 +0600" channel="aljazeera.com">
-    <title lang="bn">Business Today</title>
+  <programme start="20261023041000 +0600" stop="20261023055000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Любовь не по сценарию</title>
   </programme>
-  <programme start="20261023020000 +0600" stop="20261023023000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
+  <programme start="20261023055000 +0600" stop="20261023073500 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Ничего, кроме правды</title>
   </programme>
-  <programme start="20261023023000 +0600" stop="20261023030000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
+  <programme start="20261023073500 +0600" stop="20261023085500 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Липучка</title>
   </programme>
-  <programme start="20261023030000 +0600" stop="20261023033000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
+  <programme start="20261023085500 +0600" stop="20261023104500 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Я не киллер</title>
   </programme>
-  <programme start="20261023033000 +0600" stop="20261023040000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
+  <programme start="20261023104500 +0600" stop="20261023122500 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Счастливое число Слевина</title>
   </programme>
-  <programme start="20261023040000 +0600" stop="20261023043000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
+  <programme start="20261023122500 +0600" stop="20261023140000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Папуля</title>
   </programme>
-  <programme start="20261023043000 +0600" stop="20261023050000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
+  <programme start="20261023140000 +0600" stop="20261023153500 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Мой шпион</title>
   </programme>
-  <programme start="20261023050000 +0600" stop="20261023053000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
+  <programme start="20261023153500 +0600" stop="20261023172000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Банк Дэйва</title>
   </programme>
-  <programme start="20261023053000 +0600" stop="20261023054500 +0600" channel="aljazeera.com">
-    <title lang="bn">Business Today</title>
+  <programme start="20261023172000 +0600" stop="20261023184000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Джулс</title>
   </programme>
-  <programme start="20261023054500 +0600" stop="20261023060000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
+  <programme start="20261023184000 +0600" stop="20261023200500 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Дыши во мгле</title>
   </programme>
-  <programme start="20261023060000 +0600" stop="20261023063000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20261023200500 +0600" stop="20261023215000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Астрал</title>
   </programme>
-  <programme start="20261023063000 +0600" stop="20261023070000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20261023215000 +0600" stop="20261023231000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Суперхозяйка</title>
   </programme>
-  <programme start="20261023070000 +0600" stop="20261023080000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News at One</title>
+  <programme start="20261023231000 +0600" stop="20261024004000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Замерзшие</title>
   </programme>
-  <programme start="20261023080000 +0600" stop="20261023083000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20261024004000 +0600" stop="20261024021000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Финальный аккорд</title>
   </programme>
-  <programme start="20261023083000 +0600" stop="20261023084500 +0600" channel="aljazeera.com">
-    <title lang="bn">Business Today – NYSE Opening Bell</title>
+  <programme start="20261024021000 +0600" stop="20261024040500 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Отчаянный ход</title>
   </programme>
-  <programme start="20261023084500 +0600" stop="20261023090000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20261024040500 +0600" stop="20261024055500 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Беглец</title>
   </programme>
-  <programme start="20261023090000 +0600" stop="20261023093000 +0600" channel="aljazeera.com">
-    <title lang="bn">Verified Live</title>
+  <programme start="20261024055500 +0600" stop="20261024073500 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Шрамы Парижа</title>
   </programme>
-  <programme start="20261023093000 +0600" stop="20261023100000 +0600" channel="aljazeera.com">
-    <title lang="bn">Verified Live</title>
+  <programme start="20261024073500 +0600" stop="20261024075000 +0600" channel="aljazeera.com">
+    <title lang="bn">Новости Голливуда</title>
   </programme>
-  <programme start="20261023100000 +0600" stop="20261023103000 +0600" channel="aljazeera.com">
-    <title lang="bn">Verified Live</title>
+  <programme start="20261024075000 +0600" stop="20261024092500 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф По долгу службы</title>
   </programme>
-  <programme start="20261023103000 +0600" stop="20261023110000 +0600" channel="aljazeera.com">
-    <title lang="bn">Verified Live</title>
+  <programme start="20261024092500 +0600" stop="20261024104500 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Летние каникулы, или Как спасти город</title>
   </programme>
-  <programme start="20261023110000 +0600" stop="20261023113000 +0600" channel="aljazeera.com">
-    <title lang="bn">Verified Live</title>
+  <programme start="20261024104500 +0600" stop="20261024122500 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Офелия</title>
   </programme>
-  <programme start="20261023113000 +0600" stop="20261023120000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
+  <programme start="20261024122500 +0600" stop="20261024140000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Три мушкетера</title>
   </programme>
-  <programme start="20261023120000 +0600" stop="20261023123000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News at Six</title>
+  <programme start="20261024140000 +0600" stop="20261024141500 +0600" channel="aljazeera.com">
+    <title lang="bn">Новости Голливуда</title>
   </programme>
-  <programme start="20261023123000 +0600" stop="20261023130000 +0600" channel="aljazeera.com">
-    <title lang="bn">The World Today with Maryam Moshiri</title>
+  <programme start="20261024141500 +0600" stop="20261024155500 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Марлоу</title>
   </programme>
-  <programme start="20261023130000 +0600" stop="20261023133000 +0600" channel="aljazeera.com">
-    <title lang="bn">The World Today with Maryam Moshiri</title>
+  <programme start="20261024155500 +0600" stop="20261024174000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Происхождение</title>
   </programme>
-  <programme start="20261023133000 +0600" stop="20261023140000 +0600" channel="aljazeera.com">
-    <title lang="bn">The World Today with Maryam Moshiri</title>
+  <programme start="20261024174000 +0600" stop="20261024193500 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Ганнибал. Восхождение</title>
   </programme>
-  <programme start="20261023140000 +0600" stop="20261023143000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Context USA</title>
+  <programme start="20261024193500 +0600" stop="20261024211000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Запретное царство</title>
   </programme>
-  <programme start="20261023143000 +0600" stop="20261023150000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Context USA</title>
+  <programme start="20261024211000 +0600" stop="20261024230000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Бюро магических услуг</title>
   </programme>
-  <programme start="20261023150000 +0600" stop="20261023153000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Context</title>
+  <programme start="20261024230000 +0600" stop="20261025004000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Игра теней</title>
   </programme>
-  <programme start="20261023153000 +0600" stop="20261023160000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Context</title>
+  <programme start="20261025004000 +0600" stop="20261025020000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Гонка со временем</title>
   </programme>
-  <programme start="20261023160000 +0600" stop="20261023163000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News at Ten</title>
+  <programme start="20261025020000 +0600" stop="20261025033500 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Миддлтон</title>
   </programme>
-  <programme start="20261023163000 +0600" stop="20261023170000 +0600" channel="aljazeera.com">
-    <title lang="bn">Newsnight</title>
+  <programme start="20261025033500 +0600" stop="20261025051000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Спрячь бабушку в холодильнике</title>
   </programme>
-  <programme start="20261023170000 +0600" stop="20261023173000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC World News America</title>
+  <programme start="20261025051000 +0600" stop="20261025070000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Одержимость</title>
   </programme>
-  <programme start="20261023173000 +0600" stop="20261023174500 +0600" channel="aljazeera.com">
-    <title lang="bn">The President&amp;#x27;s Path</title>
+  <programme start="20261025070000 +0600" stop="20261025083000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Кривая дорога</title>
   </programme>
-  <programme start="20261023174500 +0600" stop="20261023180000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
+  <programme start="20261025083000 +0600" stop="20261025102500 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Маргарита – королева Севера</title>
   </programme>
-  <programme start="20261023180000 +0600" stop="20261023183000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
+  <programme start="20261025102500 +0600" stop="20261025121000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Мой создатель</title>
   </programme>
-  <programme start="20261023183000 +0600" stop="20261023190000 +0600" channel="aljazeera.com">
-    <title lang="bn">Talking Business</title>
+  <programme start="20261025121000 +0600" stop="20261025140000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Пороховой коктейль</title>
   </programme>
-  <programme start="20261023190000 +0600" stop="20261023193000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
+  <programme start="20261025140000 +0600" stop="20261025152000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Липучка</title>
   </programme>
-  <programme start="20261023193000 +0600" stop="20261023200000 +0600" channel="aljazeera.com">
-    <title lang="bn">Tech Now</title>
+  <programme start="20261025152000 +0600" stop="20261025171000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Я не киллер</title>
   </programme>
-  <programme start="20261023200000 +0600" stop="20261023203000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
+  <programme start="20261025171000 +0600" stop="20261025185000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Счастливое число Слевина</title>
   </programme>
-  <programme start="20261023203000 +0600" stop="20261023210000 +0600" channel="aljazeera.com">
-    <title lang="bn">Clive Myrie&amp;#x27;s African Adventure</title>
-  </programme>
-  <programme start="20261023210000 +0600" stop="20261023213000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261023213000 +0600" stop="20261023214500 +0600" channel="aljazeera.com">
-    <title lang="bn">Africa Enterprise</title>
-  </programme>
-  <programme start="20261023214500 +0600" stop="20261023220000 +0600" channel="aljazeera.com">
-    <title lang="bn">Tech Now</title>
-  </programme>
-  <programme start="20261023220000 +0600" stop="20261023223000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261023223000 +0600" stop="20261023230000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Media Show</title>
-  </programme>
-  <programme start="20261023230000 +0600" stop="20261023233000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261023233000 +0600" stop="20261024000000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Travel Show</title>
-  </programme>
-  <programme start="20261024000000 +0600" stop="20261024003000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024003000 +0600" stop="20261024010000 +0600" channel="aljazeera.com">
-    <title lang="bn">AI Decoded</title>
-  </programme>
-  <programme start="20261024010000 +0600" stop="20261024013000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024013000 +0600" stop="20261024020000 +0600" channel="aljazeera.com">
-    <title lang="bn">Tech Now</title>
-  </programme>
-  <programme start="20261024020000 +0600" stop="20261024023000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024023000 +0600" stop="20261024030000 +0600" channel="aljazeera.com">
-    <title lang="bn">Unspun World with John Simpson</title>
-  </programme>
-  <programme start="20261024030000 +0600" stop="20261024040000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024040000 +0600" stop="20261024043000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024043000 +0600" stop="20261024050000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024050000 +0600" stop="20261024053000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024053000 +0600" stop="20261024060000 +0600" channel="aljazeera.com">
-    <title lang="bn">Talking Business</title>
-  </programme>
-  <programme start="20261024060000 +0600" stop="20261024063000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024063000 +0600" stop="20261024070000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024070000 +0600" stop="20261024073000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024073000 +0600" stop="20261024080000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Media Show</title>
-  </programme>
-  <programme start="20261024080000 +0600" stop="20261024083000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024083000 +0600" stop="20261024090000 +0600" channel="aljazeera.com">
-    <title lang="bn">AI Decoded</title>
-  </programme>
-  <programme start="20261024090000 +0600" stop="20261024093000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024093000 +0600" stop="20261024094500 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024094500 +0600" stop="20261024100000 +0600" channel="aljazeera.com">
-    <title lang="bn">Newswatch</title>
-  </programme>
-  <programme start="20261024100000 +0600" stop="20261024103000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024103000 +0600" stop="20261024110000 +0600" channel="aljazeera.com">
-    <title lang="bn">Political Thinking with Nick Robinson</title>
-  </programme>
-  <programme start="20261024110000 +0600" stop="20261024120000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024120000 +0600" stop="20261024123000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024123000 +0600" stop="20261024130000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024130000 +0600" stop="20261024133000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024133000 +0600" stop="20261024140000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024140000 +0600" stop="20261024143000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024143000 +0600" stop="20261024150000 +0600" channel="aljazeera.com">
-    <title lang="bn">Newscast</title>
-  </programme>
-  <programme start="20261024150000 +0600" stop="20261024160000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024160000 +0600" stop="20261024170000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024170000 +0600" stop="20261024173000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024173000 +0600" stop="20261024180000 +0600" channel="aljazeera.com">
-    <title lang="bn">Talking Business</title>
-  </programme>
-  <programme start="20261024180000 +0600" stop="20261024183000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024183000 +0600" stop="20261024190000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Media Show</title>
-  </programme>
-  <programme start="20261024190000 +0600" stop="20261024193000 +0600" channel="aljazeera.com">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024193000 +0600" stop="20261024200000 +0600" channel="aljazeera.com">
-    <title lang="bn">Arts in Motion</title>
+  <programme start="20261025185000 +0600" stop="20261025192000 +0600" channel="aljazeera.com">
+    <title lang="bn">х/ф Папуля</title>
   </programme>
   <channel id="WION.in">
     <display-name>WION</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/1d/WION_World_Is_One_News.svg"/>
   </channel>
-  <programme start="20261023000000 +0600" stop="20261023003000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+  <programme start="20261023004500 +0600" stop="20261023010000 +0600" channel="WION.in">
+    <title lang="bn">World Sport</title>
   </programme>
-  <programme start="20261023003000 +0600" stop="20261023010000 +0600" channel="WION.in">
-    <title lang="bn">Business Today</title>
+  <programme start="20261023010000 +0600" stop="20261023020000 +0600" channel="WION.in">
+    <title lang="bn">CNN Newsroom</title>
   </programme>
-  <programme start="20261023010000 +0600" stop="20261023013000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+  <programme start="20261023020000 +0600" stop="20261023030000 +0600" channel="WION.in">
+    <title lang="bn">CNN Headline Express</title>
   </programme>
-  <programme start="20261023013000 +0600" stop="20261023015500 +0600" channel="WION.in">
-    <title lang="bn">Business Today</title>
+  <programme start="20261023030000 +0600" stop="20261023040000 +0600" channel="WION.in">
+    <title lang="bn">CNN This Morning</title>
   </programme>
-  <programme start="20261023015500 +0600" stop="20261023020000 +0600" channel="WION.in">
-    <title lang="bn">The Travel Show</title>
-  </programme>
-  <programme start="20261023020000 +0600" stop="20261023023000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261023023000 +0600" stop="20261023025500 +0600" channel="WION.in">
-    <title lang="bn">Business Today</title>
-  </programme>
-  <programme start="20261023025500 +0600" stop="20261023030000 +0600" channel="WION.in">
-    <title lang="bn">The Travel Show</title>
-  </programme>
-  <programme start="20261023030000 +0600" stop="20261023033000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261023033000 +0600" stop="20261023040000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261023040000 +0600" stop="20261023043000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261023043000 +0600" stop="20261023045500 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261023045500 +0600" stop="20261023050000 +0600" channel="WION.in">
-    <title lang="bn">The Travel Show</title>
-  </programme>
-  <programme start="20261023050000 +0600" stop="20261023053000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+  <programme start="20261023040000 +0600" stop="20261023053000 +0600" channel="WION.in">
+    <title lang="bn">CNN News Central</title>
   </programme>
   <programme start="20261023053000 +0600" stop="20261023060000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+    <title lang="bn">World Sport</title>
   </programme>
-  <programme start="20261023060000 +0600" stop="20261023063000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+  <programme start="20261023060000 +0600" stop="20261023064500 +0600" channel="WION.in">
+    <title lang="bn">Connect the World</title>
   </programme>
-  <programme start="20261023063000 +0600" stop="20261023064500 +0600" channel="WION.in">
-    <title lang="bn">Business Today</title>
+  <programme start="20261023064500 +0600" stop="20261023070000 +0600" channel="WION.in">
+    <title lang="bn">World Sport</title>
   </programme>
-  <programme start="20261023064500 +0600" stop="20261023065500 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+  <programme start="20261023070000 +0600" stop="20261023080000 +0600" channel="WION.in">
+    <title lang="bn">Connect the World</title>
   </programme>
-  <programme start="20261023065500 +0600" stop="20261023070000 +0600" channel="WION.in">
-    <title lang="bn">The Travel Show</title>
+  <programme start="20261023080000 +0600" stop="20261023100000 +0600" channel="WION.in">
+    <title lang="bn">One World</title>
   </programme>
-  <programme start="20261023070000 +0600" stop="20261023073000 +0600" channel="WION.in">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20261023100000 +0600" stop="20261023110000 +0600" channel="WION.in">
+    <title lang="bn">Amanpour</title>
   </programme>
-  <programme start="20261023073000 +0600" stop="20261023080000 +0600" channel="WION.in">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20261023110000 +0600" stop="20261023120000 +0600" channel="WION.in">
+    <title lang="bn">Isa Soares Tonight</title>
   </programme>
-  <programme start="20261023080000 +0600" stop="20261023083000 +0600" channel="WION.in">
-    <title lang="bn">BBC News Now</title>
+  <programme start="20261023120000 +0600" stop="20261023130000 +0600" channel="WION.in">
+    <title lang="bn">What We Know with Max Foster</title>
   </programme>
-  <programme start="20261023083000 +0600" stop="20261023085500 +0600" channel="WION.in">
-    <title lang="bn">BBC News Now</title>
-  </programme>
-  <programme start="20261023085500 +0600" stop="20261023090000 +0600" channel="WION.in">
-    <title lang="bn">The Travel Show</title>
-  </programme>
-  <programme start="20261023090000 +0600" stop="20261023093000 +0600" channel="WION.in">
-    <title lang="bn">BBC News Now</title>
-  </programme>
-  <programme start="20261023093000 +0600" stop="20261023094500 +0600" channel="WION.in">
-    <title lang="bn">Business Today – NYSE Opening Bell</title>
-  </programme>
-  <programme start="20261023094500 +0600" stop="20261023100000 +0600" channel="WION.in">
-    <title lang="bn">BBC News Now</title>
-  </programme>
-  <programme start="20261023100000 +0600" stop="20261023103000 +0600" channel="WION.in">
-    <title lang="bn">Verified Live</title>
-  </programme>
-  <programme start="20261023103000 +0600" stop="20261023110000 +0600" channel="WION.in">
-    <title lang="bn">Verified Live</title>
-  </programme>
-  <programme start="20261023110000 +0600" stop="20261023113000 +0600" channel="WION.in">
-    <title lang="bn">Verified Live</title>
-  </programme>
-  <programme start="20261023113000 +0600" stop="20261023115500 +0600" channel="WION.in">
-    <title lang="bn">Verified Live</title>
-  </programme>
-  <programme start="20261023115500 +0600" stop="20261023120000 +0600" channel="WION.in">
-    <title lang="bn">The Travel Show</title>
-  </programme>
-  <programme start="20261023120000 +0600" stop="20261023123000 +0600" channel="WION.in">
-    <title lang="bn">Verified Live</title>
-  </programme>
-  <programme start="20261023123000 +0600" stop="20261023130000 +0600" channel="WION.in">
-    <title lang="bn">Focus on Africa</title>
-  </programme>
-  <programme start="20261023130000 +0600" stop="20261023133000 +0600" channel="WION.in">
-    <title lang="bn">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme start="20261023133000 +0600" stop="20261023140000 +0600" channel="WION.in">
-    <title lang="bn">The World Today with Maryam Moshiri</title>
+  <programme start="20261023130000 +0600" stop="20261023140000 +0600" channel="WION.in">
+    <title lang="bn">Quest Means Business</title>
   </programme>
   <programme start="20261023140000 +0600" stop="20261023143000 +0600" channel="WION.in">
-    <title lang="bn">The World Today with Maryam Moshiri</title>
+    <title lang="bn">The Lead with Jake Tapper</title>
   </programme>
-  <programme start="20261023143000 +0600" stop="20261023145500 +0600" channel="WION.in">
-    <title lang="bn">The World Today with Maryam Moshiri</title>
+  <programme start="20261023143000 +0600" stop="20261023150000 +0600" channel="WION.in">
+    <title lang="bn">World Sport</title>
   </programme>
-  <programme start="20261023145500 +0600" stop="20261023150000 +0600" channel="WION.in">
-    <title lang="bn">The Travel Show</title>
+  <programme start="20261023150000 +0600" stop="20261023160000 +0600" channel="WION.in">
+    <title lang="bn">The Brief with Jim Sciutto</title>
   </programme>
-  <programme start="20261023150000 +0600" stop="20261023153000 +0600" channel="WION.in">
-    <title lang="bn">The Context USA</title>
+  <programme start="20261023160000 +0600" stop="20261023170000 +0600" channel="WION.in">
+    <title lang="bn">Erin Burnett OutFront</title>
   </programme>
-  <programme start="20261023153000 +0600" stop="20261023160000 +0600" channel="WION.in">
-    <title lang="bn">The Context USA</title>
+  <programme start="20261023170000 +0600" stop="20261023180000 +0600" channel="WION.in">
+    <title lang="bn">Anderson Cooper 360</title>
   </programme>
-  <programme start="20261023160000 +0600" stop="20261023163000 +0600" channel="WION.in">
-    <title lang="bn">The Context</title>
+  <programme start="20261023180000 +0600" stop="20261023190000 +0600" channel="WION.in">
+    <title lang="bn">The Source with Kaitlan Collins</title>
   </programme>
-  <programme start="20261023163000 +0600" stop="20261023165500 +0600" channel="WION.in">
-    <title lang="bn">The Context</title>
+  <programme start="20261023190000 +0600" stop="20261023200000 +0600" channel="WION.in">
+    <title lang="bn">CNN NewsNight</title>
   </programme>
-  <programme start="20261023165500 +0600" stop="20261023170000 +0600" channel="WION.in">
-    <title lang="bn">The Travel Show</title>
+  <programme start="20261023200000 +0600" stop="20261023210000 +0600" channel="WION.in">
+    <title lang="bn">Laura Coates Live</title>
   </programme>
-  <programme start="20261023170000 +0600" stop="20261023173000 +0600" channel="WION.in">
-    <title lang="bn">BBC World News America</title>
-  </programme>
-  <programme start="20261023173000 +0600" stop="20261023180000 +0600" channel="WION.in">
-    <title lang="bn">Newsnight</title>
-  </programme>
-  <programme start="20261023180000 +0600" stop="20261023183000 +0600" channel="WION.in">
-    <title lang="bn">BBC World News America</title>
-  </programme>
-  <programme start="20261023183000 +0600" stop="20261023184500 +0600" channel="WION.in">
-    <title lang="bn">The President&amp;#x27;s Path</title>
-  </programme>
-  <programme start="20261023184500 +0600" stop="20261023190000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261023190000 +0600" stop="20261023193000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261023193000 +0600" stop="20261023200000 +0600" channel="WION.in">
-    <title lang="bn">Talking Business</title>
-  </programme>
-  <programme start="20261023200000 +0600" stop="20261023203000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261023203000 +0600" stop="20261023210000 +0600" channel="WION.in">
-    <title lang="bn">Tech Now</title>
-  </programme>
-  <programme start="20261023210000 +0600" stop="20261023213000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261023213000 +0600" stop="20261023220000 +0600" channel="WION.in">
-    <title lang="bn">Clive Myrie&amp;#x27;s African Adventure</title>
-  </programme>
-  <programme start="20261023220000 +0600" stop="20261023223000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261023223000 +0600" stop="20261023224500 +0600" channel="WION.in">
-    <title lang="bn">Africa Enterprise</title>
-  </programme>
-  <programme start="20261023224500 +0600" stop="20261023230000 +0600" channel="WION.in">
-    <title lang="bn">Tech Now</title>
+  <programme start="20261023210000 +0600" stop="20261023230000 +0600" channel="WION.in">
+    <title lang="bn">The Story Is With Elex Michaelson</title>
   </programme>
   <programme start="20261023230000 +0600" stop="20261023233000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+    <title lang="bn">CNN Newsroom</title>
   </programme>
   <programme start="20261023233000 +0600" stop="20261024000000 +0600" channel="WION.in">
-    <title lang="bn">The Media Show</title>
+    <title lang="bn">African Voices. Ramzi Yamusah</title>
   </programme>
   <programme start="20261024000000 +0600" stop="20261024003000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+    <title lang="bn">CNN Newsroom</title>
   </programme>
   <programme start="20261024003000 +0600" stop="20261024010000 +0600" channel="WION.in">
-    <title lang="bn">The Travel Show</title>
+    <title lang="bn">Seasons. Taste</title>
   </programme>
   <programme start="20261024010000 +0600" stop="20261024013000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+    <title lang="bn">CNN Newsroom</title>
   </programme>
   <programme start="20261024013000 +0600" stop="20261024020000 +0600" channel="WION.in">
-    <title lang="bn">AI Decoded</title>
+    <title lang="bn">CNN Creators</title>
   </programme>
-  <programme start="20261024020000 +0600" stop="20261024023000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024023000 +0600" stop="20261024030000 +0600" channel="WION.in">
-    <title lang="bn">Tech Now</title>
+  <programme start="20261024020000 +0600" stop="20261024030000 +0600" channel="WION.in">
+    <title lang="bn">CNN Newsroom</title>
   </programme>
   <programme start="20261024030000 +0600" stop="20261024033000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+    <title lang="bn">African Voices. Ramzi Yamusah</title>
   </programme>
   <programme start="20261024033000 +0600" stop="20261024040000 +0600" channel="WION.in">
-    <title lang="bn">Clive Myrie&amp;#x27;s African Adventure</title>
+    <title lang="bn">Inside Africa. Madagascar&amp;#x27;s Island of Giants</title>
   </programme>
   <programme start="20261024040000 +0600" stop="20261024050000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+    <title lang="bn">CNN This Morning Weekend</title>
   </programme>
-  <programme start="20261024050000 +0600" stop="20261024053000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+  <programme start="20261024050000 +0600" stop="20261024060000 +0600" channel="WION.in">
+    <title lang="bn">First of All with Victor Blackwell</title>
   </programme>
-  <programme start="20261024053000 +0600" stop="20261024060000 +0600" channel="WION.in">
-    <title lang="bn">Global Eye</title>
-  </programme>
-  <programme start="20261024060000 +0600" stop="20261024063000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024063000 +0600" stop="20261024070000 +0600" channel="WION.in">
-    <title lang="bn">Talking Business</title>
+  <programme start="20261024060000 +0600" stop="20261024070000 +0600" channel="WION.in">
+    <title lang="bn">Smerconish</title>
   </programme>
   <programme start="20261024070000 +0600" stop="20261024073000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+    <title lang="bn">CNN Creators</title>
   </programme>
   <programme start="20261024073000 +0600" stop="20261024080000 +0600" channel="WION.in">
-    <title lang="bn">Unspun World with John Simpson</title>
+    <title lang="bn">Inside Africa ┊ 737</title>
   </programme>
-  <programme start="20261024080000 +0600" stop="20261024083000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024083000 +0600" stop="20261024090000 +0600" channel="WION.in">
-    <title lang="bn">Arts in Motion</title>
+  <programme start="20261024080000 +0600" stop="20261024090000 +0600" channel="WION.in">
+    <title lang="bn">The Amanpour Hour</title>
   </programme>
   <programme start="20261024090000 +0600" stop="20261024093000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+    <title lang="bn">World Sport</title>
   </programme>
   <programme start="20261024093000 +0600" stop="20261024100000 +0600" channel="WION.in">
-    <title lang="bn">AI Decoded</title>
+    <title lang="bn">Quest&amp;#x27;s World of Wonder. Naples, Italy</title>
   </programme>
-  <programme start="20261024100000 +0600" stop="20261024103000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+  <programme start="20261024100000 +0600" stop="20261024130000 +0600" channel="WION.in">
+    <title lang="bn">CNN Newsroom Saturday</title>
   </programme>
-  <programme start="20261024103000 +0600" stop="20261024110000 +0600" channel="WION.in">
-    <title lang="bn">The Media Show</title>
-  </programme>
-  <programme start="20261024110000 +0600" stop="20261024113000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024113000 +0600" stop="20261024114500 +0600" channel="WION.in">
-    <title lang="bn">Africa Enterprise</title>
-  </programme>
-  <programme start="20261024114500 +0600" stop="20261024120000 +0600" channel="WION.in">
-    <title lang="bn">Tech Now</title>
-  </programme>
-  <programme start="20261024120000 +0600" stop="20261024130000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024130000 +0600" stop="20261024133000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024133000 +0600" stop="20261024140000 +0600" channel="WION.in">
-    <title lang="bn">Unspun World with John Simpson</title>
+  <programme start="20261024130000 +0600" stop="20261024140000 +0600" channel="WION.in">
+    <title lang="bn">Zuckerberg: Facebook and the Cost of Connection</title>
   </programme>
   <programme start="20261024140000 +0600" stop="20261024143000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+    <title lang="bn">World Sport</title>
   </programme>
   <programme start="20261024143000 +0600" stop="20261024150000 +0600" channel="WION.in">
-    <title lang="bn">Tech Now</title>
+    <title lang="bn">CNN Creators</title>
   </programme>
-  <programme start="20261024150000 +0600" stop="20261024153000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+  <programme start="20261024150000 +0600" stop="20261024170000 +0600" channel="WION.in">
+    <title lang="bn">CNN Newsroom Saturday</title>
   </programme>
-  <programme start="20261024153000 +0600" stop="20261024160000 +0600" channel="WION.in">
-    <title lang="bn">The Travel Show</title>
+  <programme start="20261024170000 +0600" stop="20261024173000 +0600" channel="WION.in">
+    <title lang="bn">World Sport</title>
   </programme>
-  <programme start="20261024160000 +0600" stop="20261024170000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
-  </programme>
-  <programme start="20261024170000 +0600" stop="20261024180000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+  <programme start="20261024173000 +0600" stop="20261024180000 +0600" channel="WION.in">
+    <title lang="bn">African Voices. Mai Atafo</title>
   </programme>
   <programme start="20261024180000 +0600" stop="20261024183000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+    <title lang="bn">Inside Africa ┊ 737</title>
   </programme>
   <programme start="20261024183000 +0600" stop="20261024190000 +0600" channel="WION.in">
-    <title lang="bn">Talking Business</title>
+    <title lang="bn">African Voices. Ramzi Yamusah</title>
   </programme>
   <programme start="20261024190000 +0600" stop="20261024193000 +0600" channel="WION.in">
-    <title lang="bn">BBC News</title>
+    <title lang="bn">Connecting Africa. Africa&amp;#x27;s Manufacturing Moment</title>
   </programme>
-  <programme start="20261024193000 +0600" stop="20261024200000 +0600" channel="WION.in">
-    <title lang="bn">The Media Show</title>
+  <programme start="20261024193000 +0600" stop="20261024194500 +0600" channel="WION.in">
+    <title lang="bn">Marketplace Africa ┊ 604</title>
+  </programme>
+  <programme start="20261024194500 +0600" stop="20261024200000 +0600" channel="WION.in">
+    <title lang="bn">Marketplace Europe. The UK&amp;#x27;s Energy Industry</title>
+  </programme>
+  <programme start="20261024200000 +0600" stop="20261024203000 +0600" channel="WION.in">
+    <title lang="bn">CNN Newsroom</title>
+  </programme>
+  <programme start="20261024203000 +0600" stop="20261024210000 +0600" channel="WION.in">
+    <title lang="bn">World Sport</title>
+  </programme>
+  <programme start="20261024210000 +0600" stop="20261024213000 +0600" channel="WION.in">
+    <title lang="bn">CNN Newsroom</title>
+  </programme>
+  <programme start="20261024213000 +0600" stop="20261024220000 +0600" channel="WION.in">
+    <title lang="bn">Inside Africa ┊ 737</title>
+  </programme>
+  <programme start="20261024220000 +0600" stop="20261024223000 +0600" channel="WION.in">
+    <title lang="bn">CNN Newsroom</title>
+  </programme>
+  <programme start="20261024223000 +0600" stop="20261024224500 +0600" channel="WION.in">
+    <title lang="bn">Marketplace Africa ┊ 604</title>
+  </programme>
+  <programme start="20261024224500 +0600" stop="20261024230000 +0600" channel="WION.in">
+    <title lang="bn">Marketplace Europe. The UK&amp;#x27;s Energy Industry</title>
+  </programme>
+  <programme start="20261024230000 +0600" stop="20261024233000 +0600" channel="WION.in">
+    <title lang="bn">CNN Newsroom</title>
+  </programme>
+  <programme start="20261024233000 +0600" stop="20261025000000 +0600" channel="WION.in">
+    <title lang="bn">Quest&amp;#x27;s World of Wonder. Naples, Italy</title>
+  </programme>
+  <programme start="20261025000000 +0600" stop="20261025020000 +0600" channel="WION.in">
+    <title lang="bn">CNN Newsroom</title>
+  </programme>
+  <programme start="20261025020000 +0600" stop="20261025023000 +0600" channel="WION.in">
+    <title lang="bn">Seasons. Taste</title>
+  </programme>
+  <programme start="20261025023000 +0600" stop="20261025030000 +0600" channel="WION.in">
+    <title lang="bn">Inside Africa ┊ 737</title>
+  </programme>
+  <programme start="20261025030000 +0600" stop="20261025040000 +0600" channel="WION.in">
+    <title lang="bn">CNN This Morning Weekend</title>
+  </programme>
+  <programme start="20261025040000 +0600" stop="20261025050000 +0600" channel="WION.in">
+    <title lang="bn">Inside Politics with Manu Raju</title>
+  </programme>
+  <programme start="20261025050000 +0600" stop="20261025060000 +0600" channel="WION.in">
+    <title lang="bn">State of the Union with Jake Tapper and Dana Bash</title>
+  </programme>
+  <programme start="20261025060000 +0600" stop="20261025070000 +0600" channel="WION.in">
+    <title lang="bn">Fareed Zakaria GPS</title>
+  </programme>
+  <programme start="20261025070000 +0600" stop="20261025080000 +0600" channel="WION.in">
+    <title lang="bn">Inside Politics with Manu Raju</title>
+  </programme>
+  <programme start="20261025080000 +0600" stop="20261025083000 +0600" channel="WION.in">
+    <title lang="bn">World Sport</title>
+  </programme>
+  <programme start="20261025083000 +0600" stop="20261025090000 +0600" channel="WION.in">
+    <title lang="bn">Inside Africa ┊ 737</title>
+  </programme>
+  <programme start="20261025090000 +0600" stop="20261025093000 +0600" channel="WION.in">
+    <title lang="bn">African Voices. Ramzi Yamusah</title>
+  </programme>
+  <programme start="20261025093000 +0600" stop="20261025094500 +0600" channel="WION.in">
+    <title lang="bn">Marketplace Africa ┊ 604</title>
+  </programme>
+  <programme start="20261025094500 +0600" stop="20261025100000 +0600" channel="WION.in">
+    <title lang="bn">Marketplace Europe. The UK&amp;#x27;s Energy Industry</title>
+  </programme>
+  <programme start="20261025100000 +0600" stop="20261025130000 +0600" channel="WION.in">
+    <title lang="bn">CNN Newsroom Sunday</title>
+  </programme>
+  <programme start="20261025130000 +0600" stop="20261025133000 +0600" channel="WION.in">
+    <title lang="bn">World Sport</title>
+  </programme>
+  <programme start="20261025133000 +0600" stop="20261025140000 +0600" channel="WION.in">
+    <title lang="bn">Quest&amp;#x27;s World of Wonder. Naples, Italy</title>
+  </programme>
+  <programme start="20261025140000 +0600" stop="20261025143000 +0600" channel="WION.in">
+    <title lang="bn">CNN Newsroom Sunday</title>
   </programme>
   <channel id="CGTN.cn">
     <display-name>CGTN</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/>
   </channel>
-  <programme start="20261023003500 +0600" stop="20261023013500 +0600" channel="CGTN.cn">
-    <title lang="bn">Frozen Planet</title>
+  <programme start="20261023000000 +0600" stop="20261023003000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20261023013500 +0600" stop="20261023023000 +0600" channel="CGTN.cn">
-    <title lang="bn">Joanna Lumley&amp;#x27;s Spice Trail Adventure</title>
+  <programme start="20261023003000 +0600" stop="20261023010000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20261023023000 +0600" stop="20261023033500 +0600" channel="CGTN.cn">
-    <title lang="bn">Tiger Island</title>
+  <programme start="20261023010000 +0600" stop="20261023013000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20261023033500 +0600" stop="20261023043000 +0600" channel="CGTN.cn">
-    <title lang="bn">Engineering Repurposed</title>
+  <programme start="20261023013000 +0600" stop="20261023020000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20261023043000 +0600" stop="20261023052500 +0600" channel="CGTN.cn">
-    <title lang="bn">Extreme Fishing With Robson Green</title>
+  <programme start="20261023020000 +0600" stop="20261023023000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20261023052500 +0600" stop="20261023062500 +0600" channel="CGTN.cn">
-    <title lang="bn">Griff&amp;#x27;s Great Kiwi Road Trip</title>
+  <programme start="20261023023000 +0600" stop="20261023024500 +0600" channel="CGTN.cn">
+    <title lang="bn">Business Today</title>
   </programme>
-  <programme start="20261023062500 +0600" stop="20261023072000 +0600" channel="CGTN.cn">
-    <title lang="bn">Joanna Lumley&amp;#x27;s Spice Trail Adventure</title>
+  <programme start="20261023024500 +0600" stop="20261023030000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
   </programme>
-  <programme start="20261023072000 +0600" stop="20261023081000 +0600" channel="CGTN.cn">
-    <title lang="bn">Extreme Fishing With Robson Green</title>
+  <programme start="20261023030000 +0600" stop="20261023033000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News Now</title>
   </programme>
-  <programme start="20261023081000 +0600" stop="20261023091000 +0600" channel="CGTN.cn">
-    <title lang="bn">Wilderness With Simon Reeve</title>
+  <programme start="20261023033000 +0600" stop="20261023040000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News Now</title>
   </programme>
-  <programme start="20261023091000 +0600" stop="20261023100500 +0600" channel="CGTN.cn">
-    <title lang="bn">Secret Africa: Into the Wild</title>
+  <programme start="20261023040000 +0600" stop="20261023050000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News at One</title>
   </programme>
-  <programme start="20261023100500 +0600" stop="20261023110500 +0600" channel="CGTN.cn">
-    <title lang="bn">The World&amp;#x27;s Deadliest Weather</title>
+  <programme start="20261023050000 +0600" stop="20261023053000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News Now</title>
   </programme>
-  <programme start="20261023110500 +0600" stop="20261023115500 +0600" channel="CGTN.cn">
-    <title lang="bn">Extreme Fishing With Robson Green</title>
+  <programme start="20261023053000 +0600" stop="20261023054500 +0600" channel="CGTN.cn">
+    <title lang="bn">Business Today – NYSE Opening Bell</title>
   </programme>
-  <programme start="20261023115500 +0600" stop="20261023140000 +0600" channel="CGTN.cn">
-    <title lang="bn">Wilderness With Simon Reeve</title>
+  <programme start="20261023054500 +0600" stop="20261023060000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News Now</title>
   </programme>
-  <programme start="20261023140000 +0600" stop="20261023150000 +0600" channel="CGTN.cn">
-    <title lang="bn">The World&amp;#x27;s Deadliest Weather</title>
+  <programme start="20261023060000 +0600" stop="20261023063000 +0600" channel="CGTN.cn">
+    <title lang="bn">Verified Live</title>
   </programme>
-  <programme start="20261023150000 +0600" stop="20261023161500 +0600" channel="CGTN.cn">
-    <title lang="bn">Wilderness With Simon Reeve</title>
+  <programme start="20261023063000 +0600" stop="20261023070000 +0600" channel="CGTN.cn">
+    <title lang="bn">Verified Live</title>
   </programme>
-  <programme start="20261023161500 +0600" stop="20261023171000 +0600" channel="CGTN.cn">
-    <title lang="bn">Secret Africa: Into the Wild</title>
+  <programme start="20261023070000 +0600" stop="20261023073000 +0600" channel="CGTN.cn">
+    <title lang="bn">Verified Live</title>
   </programme>
-  <programme start="20261023171000 +0600" stop="20261023181000 +0600" channel="CGTN.cn">
-    <title lang="bn">The World&amp;#x27;s Deadliest Weather</title>
+  <programme start="20261023073000 +0600" stop="20261023080000 +0600" channel="CGTN.cn">
+    <title lang="bn">Verified Live</title>
   </programme>
-  <programme start="20261023181000 +0600" stop="20261023190500 +0600" channel="CGTN.cn">
-    <title lang="bn">China&amp;#x27;s Wild Guangdong</title>
+  <programme start="20261023080000 +0600" stop="20261023083000 +0600" channel="CGTN.cn">
+    <title lang="bn">Verified Live</title>
   </programme>
-  <programme start="20261023190500 +0600" stop="20261023193500 +0600" channel="CGTN.cn">
-    <title lang="bn">Wilderness With Simon Reeve</title>
+  <programme start="20261023083000 +0600" stop="20261023090000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261023090000 +0600" stop="20261023093000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News at Six</title>
+  </programme>
+  <programme start="20261023093000 +0600" stop="20261023100000 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme start="20261023100000 +0600" stop="20261023103000 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme start="20261023103000 +0600" stop="20261023110000 +0600" channel="CGTN.cn">
+    <title lang="bn">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme start="20261023110000 +0600" stop="20261023113000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Context USA</title>
+  </programme>
+  <programme start="20261023113000 +0600" stop="20261023120000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Context USA</title>
+  </programme>
+  <programme start="20261023120000 +0600" stop="20261023123000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Context</title>
+  </programme>
+  <programme start="20261023123000 +0600" stop="20261023130000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Context</title>
+  </programme>
+  <programme start="20261023130000 +0600" stop="20261023133000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News at Ten</title>
+  </programme>
+  <programme start="20261023133000 +0600" stop="20261023140000 +0600" channel="CGTN.cn">
+    <title lang="bn">Newsnight</title>
+  </programme>
+  <programme start="20261023140000 +0600" stop="20261023143000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC World News America</title>
+  </programme>
+  <programme start="20261023143000 +0600" stop="20261023144500 +0600" channel="CGTN.cn">
+    <title lang="bn">The President&amp;#x27;s Path</title>
+  </programme>
+  <programme start="20261023144500 +0600" stop="20261023150000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261023150000 +0600" stop="20261023153000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261023153000 +0600" stop="20261023160000 +0600" channel="CGTN.cn">
+    <title lang="bn">Talking Business</title>
+  </programme>
+  <programme start="20261023160000 +0600" stop="20261023163000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261023163000 +0600" stop="20261023170000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tech Now</title>
+  </programme>
+  <programme start="20261023170000 +0600" stop="20261023173000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261023173000 +0600" stop="20261023180000 +0600" channel="CGTN.cn">
+    <title lang="bn">Clive Myrie&amp;#x27;s African Adventure</title>
+  </programme>
+  <programme start="20261023180000 +0600" stop="20261023183000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261023183000 +0600" stop="20261023184500 +0600" channel="CGTN.cn">
+    <title lang="bn">Africa Enterprise</title>
+  </programme>
+  <programme start="20261023184500 +0600" stop="20261023190000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tech Now</title>
+  </programme>
+  <programme start="20261023190000 +0600" stop="20261023193000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261023193000 +0600" stop="20261023200000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Media Show</title>
+  </programme>
+  <programme start="20261023200000 +0600" stop="20261023203000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261023203000 +0600" stop="20261023210000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Travel Show</title>
+  </programme>
+  <programme start="20261023210000 +0600" stop="20261023213000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261023213000 +0600" stop="20261023220000 +0600" channel="CGTN.cn">
+    <title lang="bn">AI Decoded</title>
+  </programme>
+  <programme start="20261023220000 +0600" stop="20261023223000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261023223000 +0600" stop="20261023230000 +0600" channel="CGTN.cn">
+    <title lang="bn">Tech Now</title>
+  </programme>
+  <programme start="20261023230000 +0600" stop="20261023233000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261023233000 +0600" stop="20261024000000 +0600" channel="CGTN.cn">
+    <title lang="bn">Unspun World with John Simpson</title>
+  </programme>
+  <programme start="20261024000000 +0600" stop="20261024010000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024010000 +0600" stop="20261024013000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024013000 +0600" stop="20261024020000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024020000 +0600" stop="20261024023000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024023000 +0600" stop="20261024030000 +0600" channel="CGTN.cn">
+    <title lang="bn">Talking Business</title>
+  </programme>
+  <programme start="20261024030000 +0600" stop="20261024033000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024033000 +0600" stop="20261024040000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024040000 +0600" stop="20261024043000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024043000 +0600" stop="20261024050000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Media Show</title>
+  </programme>
+  <programme start="20261024050000 +0600" stop="20261024053000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024053000 +0600" stop="20261024060000 +0600" channel="CGTN.cn">
+    <title lang="bn">AI Decoded</title>
+  </programme>
+  <programme start="20261024060000 +0600" stop="20261024063000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024063000 +0600" stop="20261024064500 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024064500 +0600" stop="20261024070000 +0600" channel="CGTN.cn">
+    <title lang="bn">Newswatch</title>
+  </programme>
+  <programme start="20261024070000 +0600" stop="20261024073000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024073000 +0600" stop="20261024080000 +0600" channel="CGTN.cn">
+    <title lang="bn">Political Thinking with Nick Robinson</title>
+  </programme>
+  <programme start="20261024080000 +0600" stop="20261024090000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024090000 +0600" stop="20261024093000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024093000 +0600" stop="20261024100000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024100000 +0600" stop="20261024103000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024103000 +0600" stop="20261024110000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024110000 +0600" stop="20261024113000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024113000 +0600" stop="20261024120000 +0600" channel="CGTN.cn">
+    <title lang="bn">Newscast</title>
+  </programme>
+  <programme start="20261024120000 +0600" stop="20261024130000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024130000 +0600" stop="20261024140000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024140000 +0600" stop="20261024143000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024143000 +0600" stop="20261024150000 +0600" channel="CGTN.cn">
+    <title lang="bn">Talking Business</title>
+  </programme>
+  <programme start="20261024150000 +0600" stop="20261024153000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024153000 +0600" stop="20261024160000 +0600" channel="CGTN.cn">
+    <title lang="bn">The Media Show</title>
+  </programme>
+  <programme start="20261024160000 +0600" stop="20261024163000 +0600" channel="CGTN.cn">
+    <title lang="bn">BBC News</title>
+  </programme>
+  <programme start="20261024163000 +0600" stop="20261024170000 +0600" channel="CGTN.cn">
+    <title lang="bn">Arts in Motion</title>
   </programme>
   <channel id="cna.sg">
     <display-name>Channel News Asia</display-name>
     <icon src="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg"/>
   </channel>
-  <programme start="20261022000000 +0600" stop="20261022030000 +0600" channel="cna.sg">
-    <title lang="bn">De Paris à New York en passant par Milan, les plus grands défilés et les plus beaux mannequins</title>
+  <programme start="20261023000000 +0600" stop="20261023002800 +0600" channel="cna.sg">
+    <title lang="bn">Newsline Asia 24</title>
   </programme>
-  <programme start="20261022030000 +0600" stop="20261022060000 +0600" channel="cna.sg">
-    <title lang="bn">De Paris à New York en passant par Milan, les plus grands défilés et les plus beaux mannequins</title>
+  <programme start="20261023002800 +0600" stop="20261023002900 +0600" channel="cna.sg">
+    <title lang="bn">Info (Manben:Sugimura Shinichi(10/24)PR)</title>
   </programme>
-  <programme start="20261022060000 +0600" stop="20261022090000 +0600" channel="cna.sg">
-    <title lang="bn">De Paris à New York en passant par Milan, les plus grands défilés et les plus beaux mannequins</title>
+  <programme start="20261023002900 +0600" stop="20261023003000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
   </programme>
-  <programme start="20261022090000 +0600" stop="20261022120000 +0600" channel="cna.sg">
-    <title lang="bn">De Paris à New York en passant par Milan, les plus grands défilés et les plus beaux mannequins</title>
+  <programme start="20261023003000 +0600" stop="20261023005500 +0600" channel="cna.sg">
+    <title lang="bn">Small Journeys (Odaishi-San Bringing People Together – Koya-Sanroku, Wakayama Prefecture-)</title>
   </programme>
-  <programme start="20261022120000 +0600" stop="20261022150000 +0600" channel="cna.sg">
-    <title lang="bn">De Paris à New York en passant par Milan, les plus grands défilés et les plus beaux mannequins</title>
+  <programme start="20261023005500 +0600" stop="20261023010000 +0600" channel="cna.sg">
+    <title lang="bn">Ramen Japan (Ramen of Fukushima)</title>
   </programme>
-  <programme start="20261022150000 +0600" stop="20261022180000 +0600" channel="cna.sg">
-    <title lang="bn">De Paris à New York en passant par Milan, les plus grands défilés et les plus beaux mannequins</title>
+  <programme start="20261023010000 +0600" stop="20261023012800 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
   </programme>
-  <programme start="20261022180000 +0600" stop="20261023000000 +0600" channel="cna.sg">
-    <title lang="bn">De Paris à New York en passant par Milan, les plus grands défilés et les plus beaux mannequins</title>
+  <programme start="20261023012800 +0600" stop="20261023012900 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
   </programme>
-  <programme start="20261023000000 +0600" stop="20261023030000 +0600" channel="cna.sg">
-    <title lang="bn">De Paris à New York en passant par Milan, les plus grands défilés et les plus beaux mannequins</title>
+  <programme start="20261023012900 +0600" stop="20261023013000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
   </programme>
-  <programme start="20261023030000 +0600" stop="20261023060000 +0600" channel="cna.sg">
-    <title lang="bn">De Paris à New York en passant par Milan, les plus grands défilés et les plus beaux mannequins</title>
+  <programme start="20261023013000 +0600" stop="20261023015900 +0600" channel="cna.sg">
+    <title lang="bn">д/с Document 72 Hours (A Martial Arts Gym in Tokyo)</title>
   </programme>
-  <programme start="20261023060000 +0600" stop="20261023090000 +0600" channel="cna.sg">
-    <title lang="bn">De Paris à New York en passant par Milan, les plus grands défilés et les plus beaux mannequins</title>
+  <programme start="20261023015900 +0600" stop="20261023020000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
   </programme>
-  <programme start="20261023090000 +0600" stop="20261023120000 +0600" channel="cna.sg">
-    <title lang="bn">De Paris à New York en passant par Milan, les plus grands défilés et les plus beaux mannequins</title>
+  <programme start="20261023020000 +0600" stop="20261023022800 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
   </programme>
-  <programme start="20261023120000 +0600" stop="20261023150000 +0600" channel="cna.sg">
-    <title lang="bn">De Paris à New York en passant par Milan, les plus grands défilés et les plus beaux mannequins</title>
+  <programme start="20261023022800 +0600" stop="20261023023000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
   </programme>
-  <programme start="20261023150000 +0600" stop="20261023180000 +0600" channel="cna.sg">
-    <title lang="bn">De Paris à New York en passant par Milan, les plus grands défilés et les plus beaux mannequins</title>
+  <programme start="20261023023000 +0600" stop="20261023025800 +0600" channel="cna.sg">
+    <title lang="bn">д/с Japan Railway Journal (2026 Train Awards: Blue Ribbon and Laurel Prize)</title>
   </programme>
-  <programme start="20261023180000 +0600" stop="20261023183000 +0600" channel="cna.sg">
-    <title lang="bn">De Paris à New York en passant par Milan, les plus grands défilés et les plus beaux mannequins</title>
+  <programme start="20261023025800 +0600" stop="20261023030000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023030000 +0600" stop="20261023033000 +0600" channel="cna.sg">
+    <title lang="bn">NHK News-7</title>
+  </programme>
+  <programme start="20261023033000 +0600" stop="20261023035700 +0600" channel="cna.sg">
+    <title lang="bn">Today&amp;#x27;s Close-up</title>
+  </programme>
+  <programme start="20261023035700 +0600" stop="20261023035800 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023035800 +0600" stop="20261023040000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023040000 +0600" stop="20261023042800 +0600" channel="cna.sg">
+    <title lang="bn">Newsroom Tokyo</title>
+  </programme>
+  <programme start="20261023042800 +0600" stop="20261023044300 +0600" channel="cna.sg">
+    <title lang="bn">Direct Talk (Reimagining Sake as a Dining Companion)</title>
+  </programme>
+  <programme start="20261023044300 +0600" stop="20261023045300 +0600" channel="cna.sg">
+    <title lang="bn">Impacts: Climates Change the World (Triggering Extreme Weather: Super El nino Approaches)</title>
+  </programme>
+  <programme start="20261023045300 +0600" stop="20261023045400 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023045400 +0600" stop="20261023045500 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023045500 +0600" stop="20261023045800 +0600" channel="cna.sg">
+    <title lang="bn">Chatroom Japan ┊ 21</title>
+  </programme>
+  <programme start="20261023045800 +0600" stop="20261023050000 +0600" channel="cna.sg">
+    <title lang="bn">Info (Time-lapse Nikko Tochigi)</title>
+  </programme>
+  <programme start="20261023050000 +0600" stop="20261023052800 +0600" channel="cna.sg">
+    <title lang="bn">Newsroom Tokyo</title>
+  </programme>
+  <programme start="20261023052800 +0600" stop="20261023053000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023053000 +0600" stop="20261023055800 +0600" channel="cna.sg">
+    <title lang="bn">Asia Insight (Reintegration of Former Terrorists: Indonesia)</title>
+  </programme>
+  <programme start="20261023055800 +0600" stop="20261023060000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023060000 +0600" stop="20261023062800 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261023062800 +0600" stop="20261023062900 +0600" channel="cna.sg">
+    <title lang="bn">Info (Manben:Sugimura Shinichi(10/24)PR)</title>
+  </programme>
+  <programme start="20261023062900 +0600" stop="20261023063000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023063000 +0600" stop="20261023065500 +0600" channel="cna.sg">
+    <title lang="bn">Small Journeys (Odaishi-San Bringing People Together – Koya-Sanroku, Wakayama Prefecture-)</title>
+  </programme>
+  <programme start="20261023065500 +0600" stop="20261023070000 +0600" channel="cna.sg">
+    <title lang="bn">Ramen Japan (Ramen of Fukushima)</title>
+  </programme>
+  <programme start="20261023070000 +0600" stop="20261023072800 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261023072800 +0600" stop="20261023073000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023073000 +0600" stop="20261023075800 +0600" channel="cna.sg">
+    <title lang="bn">Design x Stories</title>
+  </programme>
+  <programme start="20261023075800 +0600" stop="20261023080000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023080000 +0600" stop="20261023082800 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261023082800 +0600" stop="20261023082900 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023082900 +0600" stop="20261023083000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023083000 +0600" stop="20261023085700 +0600" channel="cna.sg">
+    <title lang="bn">Today&amp;#x27;s Close-up</title>
+  </programme>
+  <programme start="20261023085700 +0600" stop="20261023085800 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023085800 +0600" stop="20261023090000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023090000 +0600" stop="20261023092800 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261023092800 +0600" stop="20261023093000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023093000 +0600" stop="20261023095800 +0600" channel="cna.sg">
+    <title lang="bn">д/с Frontrunners (Advocate for Art of the Aged)</title>
+  </programme>
+  <programme start="20261023095800 +0600" stop="20261023095900 +0600" channel="cna.sg">
+    <title lang="bn">Info (Samurai Castles Goryokaku(10/24)PR)</title>
+  </programme>
+  <programme start="20261023095900 +0600" stop="20261023100000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023100000 +0600" stop="20261023102800 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261023102800 +0600" stop="20261023102900 +0600" channel="cna.sg">
+    <title lang="bn">Info (Japan Navigator PR)</title>
+  </programme>
+  <programme start="20261023102900 +0600" stop="20261023103000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023103000 +0600" stop="20261023105800 +0600" channel="cna.sg">
+    <title lang="bn">Asia Insight (Reintegration of Former Terrorists: Indonesia)</title>
+  </programme>
+  <programme start="20261023105800 +0600" stop="20261023110000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023110000 +0600" stop="20261023112800 +0600" channel="cna.sg">
+    <title lang="bn">Newsroom Tokyo</title>
+  </programme>
+  <programme start="20261023112800 +0600" stop="20261023114300 +0600" channel="cna.sg">
+    <title lang="bn">Direct Talk (Reimagining Sake as a Dining Companion)</title>
+  </programme>
+  <programme start="20261023114300 +0600" stop="20261023115300 +0600" channel="cna.sg">
+    <title lang="bn">Impacts: Climates Change the World (Triggering Extreme Weather: Super El nino Approaches)</title>
+  </programme>
+  <programme start="20261023115300 +0600" stop="20261023115400 +0600" channel="cna.sg">
+    <title lang="bn">Info (Manben:Sugimura Shinichi(10/24)PR)</title>
+  </programme>
+  <programme start="20261023115400 +0600" stop="20261023115500 +0600" channel="cna.sg">
+    <title lang="bn">Japan delish ┊ 5</title>
+  </programme>
+  <programme start="20261023115500 +0600" stop="20261023120000 +0600" channel="cna.sg">
+    <title lang="bn">д/с Ukiyoe Edo-life (The Bird Cafe)</title>
+  </programme>
+  <programme start="20261023120000 +0600" stop="20261023122800 +0600" channel="cna.sg">
+    <title lang="bn">д/с Medical Frontiers (Tregs: Nobel-Winning Discovery That Could Change Medicine)</title>
+  </programme>
+  <programme start="20261023122800 +0600" stop="20261023123000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023123000 +0600" stop="20261023125500 +0600" channel="cna.sg">
+    <title lang="bn">Small Journeys (Odaishi-San Bringing People Together – Koya-Sanroku, Wakayama Prefecture-)</title>
+  </programme>
+  <programme start="20261023125500 +0600" stop="20261023130000 +0600" channel="cna.sg">
+    <title lang="bn">Ramen Japan (Ramen of Fukushima)</title>
+  </programme>
+  <programme start="20261023130000 +0600" stop="20261023132800 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261023132800 +0600" stop="20261023132900 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023132900 +0600" stop="20261023133000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023133000 +0600" stop="20261023135800 +0600" channel="cna.sg">
+    <title lang="bn">Design x Stories</title>
+  </programme>
+  <programme start="20261023135800 +0600" stop="20261023140000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023140000 +0600" stop="20261023142800 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261023142800 +0600" stop="20261023143000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023143000 +0600" stop="20261023145700 +0600" channel="cna.sg">
+    <title lang="bn">Today&amp;#x27;s Close-up</title>
+  </programme>
+  <programme start="20261023145700 +0600" stop="20261023145800 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023145800 +0600" stop="20261023150000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023150000 +0600" stop="20261023152800 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261023152800 +0600" stop="20261023152900 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023152900 +0600" stop="20261023153000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023153000 +0600" stop="20261023155800 +0600" channel="cna.sg">
+    <title lang="bn">Asia Insight (Reintegration of Former Terrorists: Indonesia)</title>
+  </programme>
+  <programme start="20261023155800 +0600" stop="20261023160000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023160000 +0600" stop="20261023161000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261023161000 +0600" stop="20261023161300 +0600" channel="cna.sg">
+    <title lang="bn">Chatroom Japan ┊ 21</title>
+  </programme>
+  <programme start="20261023161300 +0600" stop="20261023161500 +0600" channel="cna.sg">
+    <title lang="bn">Info (Time-lapse Seto naikai Kagawa)</title>
+  </programme>
+  <programme start="20261023161500 +0600" stop="20261023163000 +0600" channel="cna.sg">
+    <title lang="bn">Japan&amp;#x27;s Top Inventions (Center Bridge Knee Braces)</title>
+  </programme>
+  <programme start="20261023163000 +0600" stop="20261023165800 +0600" channel="cna.sg">
+    <title lang="bn">Japanology Plus (Natto)</title>
+  </programme>
+  <programme start="20261023165800 +0600" stop="20261023170000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023170000 +0600" stop="20261023171000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261023171000 +0600" stop="20261023175900 +0600" channel="cna.sg">
+    <title lang="bn">д/с Documentary 360 (Shiretoko&amp;#x27;s Brown Bears: Surviving a Sea of Change)</title>
+  </programme>
+  <programme start="20261023175900 +0600" stop="20261023180000 +0600" channel="cna.sg">
+    <title lang="bn">Info (Overlooked Voices:Minamata Disease(10/25)PR)</title>
+  </programme>
+  <programme start="20261023180000 +0600" stop="20261023181000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261023181000 +0600" stop="20261023185900 +0600" channel="cna.sg">
+    <title lang="bn">д/с Manben: Behind the Scenes of Manga with Urasawa Naoki (Sugimura Shinichi)</title>
+  </programme>
+  <programme start="20261023185900 +0600" stop="20261023190000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023190000 +0600" stop="20261023191000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261023191000 +0600" stop="20261023195900 +0600" channel="cna.sg">
+    <title lang="bn">Cycle Around Japan (Gumma)</title>
+  </programme>
+  <programme start="20261023195900 +0600" stop="20261023200000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023200000 +0600" stop="20261023201000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261023201000 +0600" stop="20261023203800 +0600" channel="cna.sg">
+    <title lang="bn">Design x Stories</title>
+  </programme>
+  <programme start="20261023203800 +0600" stop="20261023203900 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023203900 +0600" stop="20261023204000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023204000 +0600" stop="20261023205000 +0600" channel="cna.sg">
+    <title lang="bn">Story Land in Classical Japanese (Chinese Poem Shungyo (Spring Morning))</title>
+  </programme>
+  <programme start="20261023205000 +0600" stop="20261023210000 +0600" channel="cna.sg">
+    <title lang="bn">Mitateru-phose: Let&amp;#x27;s Change Perspectives! ep. 7</title>
+  </programme>
+  <programme start="20261023210000 +0600" stop="20261023211000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261023211000 +0600" stop="20261023214000 +0600" channel="cna.sg">
+    <title lang="bn">Samurai Castles (Goryokaku Fort)</title>
+  </programme>
+  <programme start="20261023214000 +0600" stop="20261023220000 +0600" channel="cna.sg">
+    <title lang="bn">Time-lapse Journey (Nighttime Scenery)</title>
+  </programme>
+  <programme start="20261023220000 +0600" stop="20261023221000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261023221000 +0600" stop="20261023222500 +0600" channel="cna.sg">
+    <title lang="bn">д/с BOSAI: Science that Can Save Your Life (Nankai Trough Megaquake)</title>
+  </programme>
+  <programme start="20261023222500 +0600" stop="20261023223000 +0600" channel="cna.sg">
+    <title lang="bn">Design Museum Japan (Kyoto: An evolving font)</title>
+  </programme>
+  <programme start="20261023223000 +0600" stop="20261023225800 +0600" channel="cna.sg">
+    <title lang="bn">Kabuki kool (The Revenge of the Soga Brothers)</title>
+  </programme>
+  <programme start="20261023225800 +0600" stop="20261023230000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261023230000 +0600" stop="20261023231000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261023231000 +0600" stop="20261023235900 +0600" channel="cna.sg">
+    <title lang="bn">д/с Documentary 360 (Shiretoko&amp;#x27;s Brown Bears: Surviving a Sea of Change)</title>
+  </programme>
+  <programme start="20261023235900 +0600" stop="20261024000000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024000000 +0600" stop="20261024001000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024001000 +0600" stop="20261024005900 +0600" channel="cna.sg">
+    <title lang="bn">д/с Manben: Behind the Scenes of Manga with Urasawa Naoki (Sugimura Shinichi)</title>
+  </programme>
+  <programme start="20261024005900 +0600" stop="20261024010000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024010000 +0600" stop="20261024011000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024011000 +0600" stop="20261024014000 +0600" channel="cna.sg">
+    <title lang="bn">Samurai Castles (Goryokaku Fort)</title>
+  </programme>
+  <programme start="20261024014000 +0600" stop="20261024020000 +0600" channel="cna.sg">
+    <title lang="bn">Time-lapse Journey (Nighttime Scenery)</title>
+  </programme>
+  <programme start="20261024020000 +0600" stop="20261024021000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024021000 +0600" stop="20261024023800 +0600" channel="cna.sg">
+    <title lang="bn">Design x Stories</title>
+  </programme>
+  <programme start="20261024023800 +0600" stop="20261024024000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024024000 +0600" stop="20261024025000 +0600" channel="cna.sg">
+    <title lang="bn">Story Land in Classical Japanese (Chinese Poem Shungyo (Spring Morning))</title>
+  </programme>
+  <programme start="20261024025000 +0600" stop="20261024030000 +0600" channel="cna.sg">
+    <title lang="bn">Mitateru-phose: Let&amp;#x27;s Change Perspectives! ep. 7</title>
+  </programme>
+  <programme start="20261024030000 +0600" stop="20261024031000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024031000 +0600" stop="20261024035900 +0600" channel="cna.sg">
+    <title lang="bn">Cycle Around Japan</title>
+  </programme>
+  <programme start="20261024035900 +0600" stop="20261024040000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024040000 +0600" stop="20261024041000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024041000 +0600" stop="20261024042500 +0600" channel="cna.sg">
+    <title lang="bn">д/с BOSAI: Science that Can Save Your Life (Nankai Trough Megaquake)</title>
+  </programme>
+  <programme start="20261024042500 +0600" stop="20261024043000 +0600" channel="cna.sg">
+    <title lang="bn">Design Museum Japan (Kyoto: An evolving font)</title>
+  </programme>
+  <programme start="20261024043000 +0600" stop="20261024045800 +0600" channel="cna.sg">
+    <title lang="bn">Kabuki kool (The Revenge of the Soga Brothers)</title>
+  </programme>
+  <programme start="20261024045800 +0600" stop="20261024050000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024050000 +0600" stop="20261024051000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024051000 +0600" stop="20261024055900 +0600" channel="cna.sg">
+    <title lang="bn">д/с Documentary 360 (Shiretoko&amp;#x27;s Brown Bears: Surviving a Sea of Change)</title>
+  </programme>
+  <programme start="20261024055900 +0600" stop="20261024060000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024060000 +0600" stop="20261024061000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024061000 +0600" stop="20261024065900 +0600" channel="cna.sg">
+    <title lang="bn">д/с Manben: Behind the Scenes of Manga with Urasawa Naoki (Sugimura Shinichi)</title>
+  </programme>
+  <programme start="20261024065900 +0600" stop="20261024070000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024070000 +0600" stop="20261024071000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024071000 +0600" stop="20261024073500 +0600" channel="cna.sg">
+    <title lang="bn">д/с Darwin&amp;#x27;s Amazing Animals (Synchronized Sway – Spotted Garden Eel, Japan)</title>
+  </programme>
+  <programme start="20261024073500 +0600" stop="20261024073800 +0600" channel="cna.sg">
+    <title lang="bn">Time-lapse Journey (Iwate)</title>
+  </programme>
+  <programme start="20261024073800 +0600" stop="20261024073900 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024073900 +0600" stop="20261024074000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024074000 +0600" stop="20261024075000 +0600" channel="cna.sg">
+    <title lang="bn">Story Land in Classical Japanese (Chinese Poem Shungyo (Spring Morning))</title>
+  </programme>
+  <programme start="20261024075000 +0600" stop="20261024080000 +0600" channel="cna.sg">
+    <title lang="bn">Mitateru-phose: Let&amp;#x27;s Change Perspectives! ep. 7</title>
+  </programme>
+  <programme start="20261024080000 +0600" stop="20261024081000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024081000 +0600" stop="20261024085900 +0600" channel="cna.sg">
+    <title lang="bn">Cycle Around Japan</title>
+  </programme>
+  <programme start="20261024085900 +0600" stop="20261024090000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024090000 +0600" stop="20261024091000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024091000 +0600" stop="20261024094000 +0600" channel="cna.sg">
+    <title lang="bn">Samurai Castles (Goryokaku Fort)</title>
+  </programme>
+  <programme start="20261024094000 +0600" stop="20261024100000 +0600" channel="cna.sg">
+    <title lang="bn">Time-lapse Journey (Nighttime Scenery)</title>
+  </programme>
+  <programme start="20261024100000 +0600" stop="20261024101000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024101000 +0600" stop="20261024102500 +0600" channel="cna.sg">
+    <title lang="bn">д/с BOSAI: Science that Can Save Your Life (Nankai Trough Megaquake)</title>
+  </programme>
+  <programme start="20261024102500 +0600" stop="20261024103000 +0600" channel="cna.sg">
+    <title lang="bn">Design Museum Japan (Kyoto: An evolving font)</title>
+  </programme>
+  <programme start="20261024103000 +0600" stop="20261024105800 +0600" channel="cna.sg">
+    <title lang="bn">Kabuki kool (The Revenge of the Soga Brothers)</title>
+  </programme>
+  <programme start="20261024105800 +0600" stop="20261024110000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024110000 +0600" stop="20261024111000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024111000 +0600" stop="20261024115900 +0600" channel="cna.sg">
+    <title lang="bn">д/с Documentary 360 (Shiretoko&amp;#x27;s Brown Bears: Surviving a Sea of Change)</title>
+  </programme>
+  <programme start="20261024115900 +0600" stop="20261024120000 +0600" channel="cna.sg">
+    <title lang="bn">Info (Overlooked Voices:Minamata Disease(10/25)PR)</title>
+  </programme>
+  <programme start="20261024120000 +0600" stop="20261024121000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024121000 +0600" stop="20261024125900 +0600" channel="cna.sg">
+    <title lang="bn">д/с Manben: Behind the Scenes of Manga with Urasawa Naoki (Sugimura Shinichi)</title>
+  </programme>
+  <programme start="20261024125900 +0600" stop="20261024130000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024130000 +0600" stop="20261024131000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024131000 +0600" stop="20261024133500 +0600" channel="cna.sg">
+    <title lang="bn">д/с Darwin&amp;#x27;s Amazing Animals (Synchronized Sway – Spotted Garden Eel, Japan)</title>
+  </programme>
+  <programme start="20261024133500 +0600" stop="20261024133800 +0600" channel="cna.sg">
+    <title lang="bn">Time-lapse Journey (Iwate)</title>
+  </programme>
+  <programme start="20261024133800 +0600" stop="20261024133900 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024133900 +0600" stop="20261024134000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024134000 +0600" stop="20261024135000 +0600" channel="cna.sg">
+    <title lang="bn">Story Land in Classical Japanese (Chinese Poem Shungyo (Spring Morning))</title>
+  </programme>
+  <programme start="20261024135000 +0600" stop="20261024140000 +0600" channel="cna.sg">
+    <title lang="bn">Mitateru-phose: Let&amp;#x27;s Change Perspectives! ep. 7</title>
+  </programme>
+  <programme start="20261024140000 +0600" stop="20261024141000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024141000 +0600" stop="20261024145900 +0600" channel="cna.sg">
+    <title lang="bn">Cycle Around Japan</title>
+  </programme>
+  <programme start="20261024145900 +0600" stop="20261024150000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024150000 +0600" stop="20261024151000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024151000 +0600" stop="20261024153800 +0600" channel="cna.sg">
+    <title lang="bn">Samurai Castles (Goryokaku Fort)</title>
+  </programme>
+  <programme start="20261024153800 +0600" stop="20261024154000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024154000 +0600" stop="20261024160000 +0600" channel="cna.sg">
+    <title lang="bn">Time-lapse Journey (Nighttime Scenery)</title>
+  </programme>
+  <programme start="20261024160000 +0600" stop="20261024161000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024161000 +0600" stop="20261024162500 +0600" channel="cna.sg">
+    <title lang="bn">д/с BOSAI: Science that Can Save Your Life (Nankai Trough Megaquake)</title>
+  </programme>
+  <programme start="20261024162500 +0600" stop="20261024163000 +0600" channel="cna.sg">
+    <title lang="bn">Design Museum Japan (Kyoto: An evolving font)</title>
+  </programme>
+  <programme start="20261024163000 +0600" stop="20261024165800 +0600" channel="cna.sg">
+    <title lang="bn">Kabuki kool (The Revenge of the Soga Brothers)</title>
+  </programme>
+  <programme start="20261024165800 +0600" stop="20261024170000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024170000 +0600" stop="20261024175900 +0600" channel="cna.sg">
+    <title lang="bn">д/с Documentary 360 (Silenced by History: Voices of Minamata Disease Victims)</title>
+  </programme>
+  <programme start="20261024175900 +0600" stop="20261024180000 +0600" channel="cna.sg">
+    <title lang="bn">Info (#2 Diorama Tokyo)</title>
+  </programme>
+  <programme start="20261024180000 +0600" stop="20261024181000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024181000 +0600" stop="20261024185900 +0600" channel="cna.sg">
+    <title lang="bn">Core Kyoto (Behind the Scenes of Gion Matsuri)</title>
+  </programme>
+  <programme start="20261024185900 +0600" stop="20261024190000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024190000 +0600" stop="20261024191000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024191000 +0600" stop="20261024193800 +0600" channel="cna.sg">
+    <title lang="bn">Tiny desk concerts Japan (KIRINJI)</title>
+  </programme>
+  <programme start="20261024193800 +0600" stop="20261024194000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024194000 +0600" stop="20261024195000 +0600" channel="cna.sg">
+    <title lang="bn">м/ф Little Charo (Season 2-7)</title>
+  </programme>
+  <programme start="20261024195000 +0600" stop="20261024195500 +0600" channel="cna.sg">
+    <title lang="bn">Japanology Plus mini (Torii)</title>
+  </programme>
+  <programme start="20261024195500 +0600" stop="20261024200000 +0600" channel="cna.sg">
+    <title lang="bn">A Cat&amp;#x27;s-Eye View of Japan (Hokkaido: Draft Horses and Trucks)</title>
+  </programme>
+  <programme start="20261024200000 +0600" stop="20261024201000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024201000 +0600" stop="20261024203800 +0600" channel="cna.sg">
+    <title lang="bn">Anime Manga Explosion (Shinomiya Yoshitoshi)</title>
+  </programme>
+  <programme start="20261024203800 +0600" stop="20261024204000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024204000 +0600" stop="20261024210000 +0600" channel="cna.sg">
+    <title lang="bn">The Wakey Show ┊ 9</title>
+  </programme>
+  <programme start="20261024210000 +0600" stop="20261024211000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024211000 +0600" stop="20261024215800 +0600" channel="cna.sg">
+    <title lang="bn">Somewhere Street (Cadiz, Spain)</title>
+  </programme>
+  <programme start="20261024215800 +0600" stop="20261024215900 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024215900 +0600" stop="20261024220000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261024220000 +0600" stop="20261024221000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024221000 +0600" stop="20261024222500 +0600" channel="cna.sg">
+    <title lang="bn">NHK World Selection</title>
+  </programme>
+  <programme start="20261024222500 +0600" stop="20261024223000 +0600" channel="cna.sg">
+    <title lang="bn">Core Kyoto mini ┊ 28</title>
+  </programme>
+  <programme start="20261024223000 +0600" stop="20261024224500 +0600" channel="cna.sg">
+    <title lang="bn">Easy Japanese for Work ┊ 43</title>
+  </programme>
+  <programme start="20261024224500 +0600" stop="20261024230000 +0600" channel="cna.sg">
+    <title lang="bn">Zero Waste Life (Bicycle Upcycle Cycle)</title>
+  </programme>
+  <programme start="20261024230000 +0600" stop="20261024231000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261024231000 +0600" stop="20261024235900 +0600" channel="cna.sg">
+    <title lang="bn">д/с Fading Homeland</title>
+  </programme>
+  <programme start="20261024235900 +0600" stop="20261025000000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261025000000 +0600" stop="20261025001000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261025001000 +0600" stop="20261025005900 +0600" channel="cna.sg">
+    <title lang="bn">Core Kyoto (Behind the Scenes of Gion Matsuri)</title>
+  </programme>
+  <programme start="20261025005900 +0600" stop="20261025010000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261025010000 +0600" stop="20261025011000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261025011000 +0600" stop="20261025015800 +0600" channel="cna.sg">
+    <title lang="bn">Somewhere Street (Cadiz, Spain)</title>
+  </programme>
+  <programme start="20261025015800 +0600" stop="20261025020000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261025020000 +0600" stop="20261025021000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261025021000 +0600" stop="20261025023800 +0600" channel="cna.sg">
+    <title lang="bn">Anime Manga Explosion (Shinomiya Yoshitoshi)</title>
+  </programme>
+  <programme start="20261025023800 +0600" stop="20261025023900 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261025023900 +0600" stop="20261025024000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261025024000 +0600" stop="20261025030000 +0600" channel="cna.sg">
+    <title lang="bn">The Wakey Show ┊ 9</title>
+  </programme>
+  <programme start="20261025030000 +0600" stop="20261025031000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261025031000 +0600" stop="20261025033800 +0600" channel="cna.sg">
+    <title lang="bn">Tiny desk concerts Japan (Kimishima Ohzora)</title>
+  </programme>
+  <programme start="20261025033800 +0600" stop="20261025034000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261025034000 +0600" stop="20261025035000 +0600" channel="cna.sg">
+    <title lang="bn">м/ф Little Charo (Season 2-7)</title>
+  </programme>
+  <programme start="20261025035000 +0600" stop="20261025035500 +0600" channel="cna.sg">
+    <title lang="bn">Japanology Plus mini (Torii)</title>
+  </programme>
+  <programme start="20261025035500 +0600" stop="20261025040000 +0600" channel="cna.sg">
+    <title lang="bn">A Cat&amp;#x27;s-Eye View of Japan (Hokkaido: Draft Horses and Trucks)</title>
+  </programme>
+  <programme start="20261025040000 +0600" stop="20261025041000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261025041000 +0600" stop="20261025042500 +0600" channel="cna.sg">
+    <title lang="bn">NHK World Selection</title>
+  </programme>
+  <programme start="20261025042500 +0600" stop="20261025043000 +0600" channel="cna.sg">
+    <title lang="bn">Core Kyoto mini ┊ 28</title>
+  </programme>
+  <programme start="20261025043000 +0600" stop="20261025044500 +0600" channel="cna.sg">
+    <title lang="bn">Easy Japanese for Work ┊ 43</title>
+  </programme>
+  <programme start="20261025044500 +0600" stop="20261025050000 +0600" channel="cna.sg">
+    <title lang="bn">Zero Waste Life (Bicycle Upcycle Cycle)</title>
+  </programme>
+  <programme start="20261025050000 +0600" stop="20261025051000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261025051000 +0600" stop="20261025055900 +0600" channel="cna.sg">
+    <title lang="bn">д/с Fading Homeland</title>
+  </programme>
+  <programme start="20261025055900 +0600" stop="20261025060000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261025060000 +0600" stop="20261025061000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261025061000 +0600" stop="20261025065900 +0600" channel="cna.sg">
+    <title lang="bn">Core Kyoto (Behind the Scenes of Gion Matsuri)</title>
+  </programme>
+  <programme start="20261025065900 +0600" stop="20261025070000 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261025070000 +0600" stop="20261025071000 +0600" channel="cna.sg">
+    <title lang="bn">NHK Newsline</title>
+  </programme>
+  <programme start="20261025071000 +0600" stop="20261025073800 +0600" channel="cna.sg">
+    <title lang="bn">Anime Manga Explosion (Shinomiya Yoshitoshi)</title>
+  </programme>
+  <programme start="20261025073800 +0600" stop="20261025073900 +0600" channel="cna.sg">
+    <title lang="bn">Info</title>
+  </programme>
+  <programme start="20261025073900 +0600" stop="20261025074000 +0600" channel="cna.sg">
+    <title lang="bn">Info (Nhkworld-Japan Channel PR)</title>
+  </programme>
+  <programme start="20261025074000 +0600" stop="20261025081000 +0600" channel="cna.sg">
+    <title lang="bn">The Wakey Show ┊ 9</title>
   </programme>
   <channel id="TRT World">
     <display-name>TRTWorld.tr</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/6/6e/TRT_World_logo.svg"/>
   </channel>
   <programme start="20261023000000 +0600" stop="20261023003000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261023003000 +0600" stop="20261023010000 +0600" channel="TRT World">
-    <title lang="bn">Beyond The Game</title>
-  </programme>
-  <programme start="20261023010000 +0600" stop="20261023013000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261023013000 +0600" stop="20261023020000 +0600" channel="TRT World">
-    <title lang="bn">Just 2 Degrees</title>
-  </programme>
-  <programme start="20261023020000 +0600" stop="20261023023000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261023023000 +0600" stop="20261023030000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
-  </programme>
-  <programme start="20261023030000 +0600" stop="20261023033000 +0600" channel="TRT World">
     <title lang="bn">Business News</title>
   </programme>
-  <programme start="20261023033000 +0600" stop="20261023040000 +0600" channel="TRT World">
+  <programme start="20261023003000 +0600" stop="20261023010000 +0600" channel="TRT World">
     <title lang="bn">The Newsmakers</title>
   </programme>
-  <programme start="20261023040000 +0600" stop="20261023050000 +0600" channel="TRT World">
+  <programme start="20261023010000 +0600" stop="20261023020000 +0600" channel="TRT World">
     <title lang="bn">Newshour</title>
   </programme>
-  <programme start="20261023050000 +0600" stop="20261023060000 +0600" channel="TRT World">
+  <programme start="20261023020000 +0600" stop="20261023030000 +0600" channel="TRT World">
     <title lang="bn">Storyteller</title>
+  </programme>
+  <programme start="20261023030000 +0600" stop="20261023033000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20261023033000 +0600" stop="20261023040000 +0600" channel="TRT World">
+    <title lang="bn">Nextech</title>
+  </programme>
+  <programme start="20261023040000 +0600" stop="20261023043000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20261023043000 +0600" stop="20261023050000 +0600" channel="TRT World">
+    <title lang="bn">The Newsmakers</title>
+  </programme>
+  <programme start="20261023050000 +0600" stop="20261023060000 +0600" channel="TRT World">
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20261023060000 +0600" stop="20261023063000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20261023063000 +0600" stop="20261023070000 +0600" channel="TRT World">
-    <title lang="bn">Nextech</title>
+    <title lang="bn">Nexus</title>
   </programme>
   <programme start="20261023070000 +0600" stop="20261023073000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20261023073000 +0600" stop="20261023080000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20261023080000 +0600" stop="20261023090000 +0600" channel="TRT World">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20261023090000 +0600" stop="20261023093000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261023093000 +0600" stop="20261023100000 +0600" channel="TRT World">
-    <title lang="bn">Nexus</title>
-  </programme>
-  <programme start="20261023100000 +0600" stop="20261023103000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20261023103000 +0600" stop="20261023110000 +0600" channel="TRT World">
     <title lang="bn">Africa Matters</title>
   </programme>
-  <programme start="20261023110000 +0600" stop="20261023113000 +0600" channel="TRT World">
+  <programme start="20261023080000 +0600" stop="20261023083000 +0600" channel="TRT World">
     <title lang="bn">Roundtable</title>
   </programme>
-  <programme start="20261023113000 +0600" stop="20261023120000 +0600" channel="TRT World">
+  <programme start="20261023083000 +0600" stop="20261023090000 +0600" channel="TRT World">
     <title lang="bn">The Newsmakers</title>
   </programme>
-  <programme start="20261023120000 +0600" stop="20261023130000 +0600" channel="TRT World">
+  <programme start="20261023090000 +0600" stop="20261023100000 +0600" channel="TRT World">
     <title lang="bn">Newshour</title>
+  </programme>
+  <programme start="20261023100000 +0600" stop="20261023103000 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
+  </programme>
+  <programme start="20261023103000 +0600" stop="20261023110000 +0600" channel="TRT World">
+    <title lang="bn">Money Talks</title>
+  </programme>
+  <programme start="20261023110000 +0600" stop="20261023111500 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
+  </programme>
+  <programme start="20261023111500 +0600" stop="20261023113000 +0600" channel="TRT World">
+    <title lang="bn">Newsfeed</title>
+  </programme>
+  <programme start="20261023113000 +0600" stop="20261023120000 +0600" channel="TRT World">
+    <title lang="bn">Strait Talk</title>
+  </programme>
+  <programme start="20261023120000 +0600" stop="20261023130000 +0600" channel="TRT World">
+    <title lang="bn">Newshour - London</title>
   </programme>
   <programme start="20261023130000 +0600" stop="20261023133000 +0600" channel="TRT World">
     <title lang="bn">News - London</title>
   </programme>
   <programme start="20261023133000 +0600" stop="20261023140000 +0600" channel="TRT World">
-    <title lang="bn">Money Talks</title>
-  </programme>
-  <programme start="20261023140000 +0600" stop="20261023141500 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20261023141500 +0600" stop="20261023143000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20261023143000 +0600" stop="20261023150000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
-  </programme>
-  <programme start="20261023150000 +0600" stop="20261023160000 +0600" channel="TRT World">
-    <title lang="bn">Newshour - London</title>
-  </programme>
-  <programme start="20261023160000 +0600" stop="20261023163000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20261023163000 +0600" stop="20261023170000 +0600" channel="TRT World">
     <title lang="bn">Across The Balkans</title>
   </programme>
-  <programme start="20261023170000 +0600" stop="20261023173000 +0600" channel="TRT World">
+  <programme start="20261023140000 +0600" stop="20261023143000 +0600" channel="TRT World">
     <title lang="bn">News - London</title>
   </programme>
-  <programme start="20261023173000 +0600" stop="20261023180000 +0600" channel="TRT World">
+  <programme start="20261023143000 +0600" stop="20261023150000 +0600" channel="TRT World">
     <title lang="bn">Roundtable</title>
   </programme>
-  <programme start="20261023180000 +0600" stop="20261023183000 +0600" channel="TRT World">
+  <programme start="20261023150000 +0600" stop="20261023153000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20261023183000 +0600" stop="20261023190000 +0600" channel="TRT World">
+  <programme start="20261023153000 +0600" stop="20261023160000 +0600" channel="TRT World">
     <title lang="bn">The Newsmakers</title>
   </programme>
   <channel id="Bloomberg TV">
@@ -1661,388 +2318,184 @@
     <icon src="https://static.wikia.nocookie.net/logopedia/images/9/93/Bloomberg_tv_2016.svg"/>
   </channel>
   <programme start="20261023000000 +0600" stop="20261023010000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Global Watch</title>
+    <title lang="bn">Newshour</title>
   </programme>
-  <programme start="20261023010000 +0600" stop="20261023011500 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261023011500 +0600" stop="20261023013000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Sports Scene</title>
+  <programme start="20261023010000 +0600" stop="20261023013000 +0600" channel="Bloomberg TV">
+    <title lang="bn">News Live</title>
   </programme>
   <programme start="20261023013000 +0600" stop="20261023020000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Assignment Asia</title>
+    <title lang="bn">Al Jazeera Explains</title>
   </programme>
   <programme start="20261023020000 +0600" stop="20261023023000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+    <title lang="bn">News Live</title>
   </programme>
   <programme start="20261023023000 +0600" stop="20261023030000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Heat</title>
+    <title lang="bn">101 East</title>
   </programme>
-  <programme start="20261023030000 +0600" stop="20261023033000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+  <programme start="20261023030000 +0600" stop="20261023040000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Newshour</title>
   </programme>
-  <programme start="20261023033000 +0600" stop="20261023040000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Sports Scene</title>
+  <programme start="20261023040000 +0600" stop="20261023043000 +0600" channel="Bloomberg TV">
+    <title lang="bn">News Live</title>
   </programme>
-  <programme start="20261023040000 +0600" stop="20261023041500 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+  <programme start="20261023043000 +0600" stop="20261023050000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Inside Story</title>
   </programme>
-  <programme start="20261023041500 +0600" stop="20261023050000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Global Business</title>
+  <programme start="20261023050000 +0600" stop="20261023060000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Head to Head</title>
   </programme>
-  <programme start="20261023050000 +0600" stop="20261023053000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261023053000 +0600" stop="20261023060000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Vibe</title>
-  </programme>
-  <programme start="20261023060000 +0600" stop="20261023061500 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261023061500 +0600" stop="20261023070000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Africa Live</title>
+  <programme start="20261023060000 +0600" stop="20261023070000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20261023070000 +0600" stop="20261023073000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Asia Today</title>
+    <title lang="bn">News Live</title>
   </programme>
   <programme start="20261023073000 +0600" stop="20261023080000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Dialogue</title>
+    <title lang="bn">Fault Lines</title>
   </programme>
-  <programme start="20261023080000 +0600" stop="20261023081500 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+  <programme start="20261023080000 +0600" stop="20261023090000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Newshour</title>
   </programme>
-  <programme start="20261023081500 +0600" stop="20261023090000 +0600" channel="Bloomberg TV">
-    <title lang="bn">China 24</title>
-  </programme>
-  <programme start="20261023090000 +0600" stop="20261023093000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Global Business</title>
-  </programme>
-  <programme start="20261023093000 +0600" stop="20261023100000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Point with Liu Xin</title>
+  <programme start="20261023090000 +0600" stop="20261023100000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20261023100000 +0600" stop="20261023103000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+    <title lang="bn">News Live</title>
   </programme>
   <programme start="20261023103000 +0600" stop="20261023110000 +0600" channel="Bloomberg TV">
-    <title lang="bn">World Insight with Tian Wei</title>
+    <title lang="bn">Inside Story</title>
   </programme>
-  <programme start="20261023110000 +0600" stop="20261023113000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261023113000 +0600" stop="20261023120000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Vibe</title>
+  <programme start="20261023110000 +0600" stop="20261023120000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20261023120000 +0600" stop="20261023130000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Global Business</title>
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20261023130000 +0600" stop="20261023140000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Africa Live</title>
+    <title lang="bn">Al Jazeera Investigates</title>
   </programme>
   <programme start="20261023140000 +0600" stop="20261023150000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Global Business</title>
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20261023150000 +0600" stop="20261023153000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+    <title lang="bn">News Live</title>
   </programme>
   <programme start="20261023153000 +0600" stop="20261023160000 +0600" channel="Bloomberg TV">
-    <title lang="bn">World Insight with Tian Wei</title>
+    <title lang="bn">Mindset</title>
   </programme>
   <programme start="20261023160000 +0600" stop="20261023163000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+    <title lang="bn">News Live</title>
   </programme>
   <programme start="20261023163000 +0600" stop="20261023170000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Dialogue</title>
+    <title lang="bn">Inside Story</title>
   </programme>
-  <programme start="20261023170000 +0600" stop="20261023173000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Global Business</title>
-  </programme>
-  <programme start="20261023173000 +0600" stop="20261023180000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Point with Liu Xin</title>
+  <programme start="20261023170000 +0600" stop="20261023180000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20261023180000 +0600" stop="20261023190000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Americas Now</title>
+    <title lang="bn">Head to Head</title>
   </programme>
-  <programme start="20261023190000 +0600" stop="20261023193000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Heat</title>
+  <programme start="20261023190000 +0600" stop="20261023200000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Newshour</title>
   </programme>
-  <programme start="20261023193000 +0600" stop="20261023200000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+  <programme start="20261023200000 +0600" stop="20261023203000 +0600" channel="Bloomberg TV">
+    <title lang="bn">News Live</title>
   </programme>
-  <programme start="20261023200000 +0600" stop="20261023210000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Global Business</title>
+  <programme start="20261023203000 +0600" stop="20261023210000 +0600" channel="Bloomberg TV">
+    <title lang="bn">101 East</title>
   </programme>
   <programme start="20261023210000 +0600" stop="20261023213000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+    <title lang="bn">News Live</title>
   </programme>
   <programme start="20261023213000 +0600" stop="20261023220000 +0600" channel="Bloomberg TV">
-    <title lang="bn">China 24</title>
+    <title lang="bn">Witness</title>
   </programme>
   <programme start="20261023220000 +0600" stop="20261023223000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+    <title lang="bn">News Live</title>
   </programme>
   <programme start="20261023223000 +0600" stop="20261023230000 +0600" channel="Bloomberg TV">
-    <title lang="bn">World Insight with Tian Wei</title>
+    <title lang="bn">Inside Story</title>
   </programme>
-  <programme start="20261023230000 +0600" stop="20261023231500 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261023231500 +0600" stop="20261023233000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Sports Scene</title>
+  <programme start="20261023230000 +0600" stop="20261023233000 +0600" channel="Bloomberg TV">
+    <title lang="bn">News Live</title>
   </programme>
   <programme start="20261023233000 +0600" stop="20261024000000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Travelogue</title>
+    <title lang="bn">Business of War</title>
   </programme>
   <programme start="20261024000000 +0600" stop="20261024010000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Global Watch</title>
+    <title lang="bn">Newshour</title>
   </programme>
-  <programme start="20261024010000 +0600" stop="20261024020000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Big Story</title>
+  <programme start="20261024010000 +0600" stop="20261024013000 +0600" channel="Bloomberg TV">
+    <title lang="bn">News Live</title>
+  </programme>
+  <programme start="20261024013000 +0600" stop="20261024020000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Counting the Cost</title>
   </programme>
   <programme start="20261024020000 +0600" stop="20261024023000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+    <title lang="bn">News Live</title>
   </programme>
   <programme start="20261024023000 +0600" stop="20261024030000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Heat</title>
+    <title lang="bn">Mindset</title>
   </programme>
-  <programme start="20261024030000 +0600" stop="20261024033000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261024033000 +0600" stop="20261024040000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Sports Scene</title>
+  <programme start="20261024030000 +0600" stop="20261024040000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20261024040000 +0600" stop="20261024043000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+    <title lang="bn">News Live</title>
   </programme>
   <programme start="20261024043000 +0600" stop="20261024050000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Biz Talk</title>
+    <title lang="bn">Inside Story</title>
   </programme>
-  <programme start="20261024050000 +0600" stop="20261024053000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+  <programme start="20261024050000 +0600" stop="20261024060000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Al Jazeera Investigates</title>
   </programme>
-  <programme start="20261024053000 +0600" stop="20261024060000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Inheritors</title>
-  </programme>
-  <programme start="20261024060000 +0600" stop="20261024061500 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261024061500 +0600" stop="20261024070000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Africa Live</title>
+  <programme start="20261024060000 +0600" stop="20261024070000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20261024070000 +0600" stop="20261024073000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Asia Today</title>
+    <title lang="bn">News Live</title>
   </programme>
   <programme start="20261024073000 +0600" stop="20261024080000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Leaders Talk</title>
+    <title lang="bn">Talk to Al Jazeera</title>
   </programme>
-  <programme start="20261024080000 +0600" stop="20261024081500 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+  <programme start="20261024080000 +0600" stop="20261024090000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Newshour</title>
   </programme>
-  <programme start="20261024081500 +0600" stop="20261024090000 +0600" channel="Bloomberg TV">
-    <title lang="bn">China 24</title>
-  </programme>
-  <programme start="20261024090000 +0600" stop="20261024093000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261024093000 +0600" stop="20261024100000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Biz Talk</title>
+  <programme start="20261024090000 +0600" stop="20261024100000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20261024100000 +0600" stop="20261024103000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+    <title lang="bn">News Live</title>
   </programme>
   <programme start="20261024103000 +0600" stop="20261024110000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Assignment Asia</title>
+    <title lang="bn">Inside Story</title>
   </programme>
-  <programme start="20261024110000 +0600" stop="20261024113000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261024113000 +0600" stop="20261024120000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Inheritors</title>
+  <programme start="20261024110000 +0600" stop="20261024120000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20261024120000 +0600" stop="20261024123000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+    <title lang="bn">News Live</title>
   </programme>
   <programme start="20261024123000 +0600" stop="20261024130000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Agenda</title>
+    <title lang="bn">The Listening Post</title>
   </programme>
-  <programme start="20261024130000 +0600" stop="20261024133000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Africa Live</title>
+  <programme start="20261024130000 +0600" stop="20261024140000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Witness</title>
   </programme>
-  <programme start="20261024133000 +0600" stop="20261024140000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Talk Africa</title>
-  </programme>
-  <programme start="20261024140000 +0600" stop="20261024143000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Sports Scene</title>
-  </programme>
-  <programme start="20261024143000 +0600" stop="20261024150000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Biz Talk</title>
+  <programme start="20261024140000 +0600" stop="20261024150000 +0600" channel="Bloomberg TV">
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20261024150000 +0600" stop="20261024153000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+    <title lang="bn">News Live</title>
   </programme>
   <programme start="20261024153000 +0600" stop="20261024160000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Travelogue</title>
+    <title lang="bn">The Bottom Line</title>
   </programme>
   <programme start="20261024160000 +0600" stop="20261024163000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
+    <title lang="bn">News Live</title>
   </programme>
   <programme start="20261024163000 +0600" stop="20261024170000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Agenda</title>
-  </programme>
-  <programme start="20261024170000 +0600" stop="20261024173000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261024173000 +0600" stop="20261024180000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Leaders Talk</title>
-  </programme>
-  <programme start="20261024180000 +0600" stop="20261024190000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Full Frame</title>
-  </programme>
-  <programme start="20261024190000 +0600" stop="20261024193000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261024193000 +0600" stop="20261024200000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Assignment Asia</title>
-  </programme>
-  <programme start="20261024200000 +0600" stop="20261024203000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261024203000 +0600" stop="20261024210000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Agenda</title>
-  </programme>
-  <programme start="20261024210000 +0600" stop="20261024220000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Big Story</title>
-  </programme>
-  <programme start="20261024220000 +0600" stop="20261024223000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261024223000 +0600" stop="20261024230000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Inheritors</title>
-  </programme>
-  <programme start="20261024230000 +0600" stop="20261024231500 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261024231500 +0600" stop="20261024233000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Sports Scene</title>
-  </programme>
-  <programme start="20261024233000 +0600" stop="20261025000000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Leaders Talk</title>
-  </programme>
-  <programme start="20261025000000 +0600" stop="20261025010000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Global Watch</title>
-  </programme>
-  <programme start="20261025010000 +0600" stop="20261025020000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Full Frame</title>
-  </programme>
-  <programme start="20261025020000 +0600" stop="20261025023000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261025023000 +0600" stop="20261025030000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Biz Talk</title>
-  </programme>
-  <programme start="20261025030000 +0600" stop="20261025033000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261025033000 +0600" stop="20261025040000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Sports Scene</title>
-  </programme>
-  <programme start="20261025040000 +0600" stop="20261025043000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261025043000 +0600" stop="20261025050000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Talk Africa</title>
-  </programme>
-  <programme start="20261025050000 +0600" stop="20261025053000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261025053000 +0600" stop="20261025060000 +0600" channel="Bloomberg TV">
-    <title lang="bn">д/с Faces of Africa</title>
-  </programme>
-  <programme start="20261025060000 +0600" stop="20261025061500 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261025061500 +0600" stop="20261025070000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Africa Live</title>
-  </programme>
-  <programme start="20261025070000 +0600" stop="20261025080000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Zoom In</title>
-  </programme>
-  <programme start="20261025080000 +0600" stop="20261025081500 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261025081500 +0600" stop="20261025090000 +0600" channel="Bloomberg TV">
-    <title lang="bn">China 24</title>
-  </programme>
-  <programme start="20261025090000 +0600" stop="20261025093000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261025093000 +0600" stop="20261025100000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The Agenda</title>
-  </programme>
-  <programme start="20261025100000 +0600" stop="20261025110000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Big Story</title>
-  </programme>
-  <programme start="20261025110000 +0600" stop="20261025113000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261025113000 +0600" stop="20261025120000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Travelogue</title>
-  </programme>
-  <programme start="20261025120000 +0600" stop="20261025123000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261025123000 +0600" stop="20261025130000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Razor</title>
-  </programme>
-  <programme start="20261025130000 +0600" stop="20261025133000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Africa Live</title>
-  </programme>
-  <programme start="20261025133000 +0600" stop="20261025140000 +0600" channel="Bloomberg TV">
-    <title lang="bn">д/с Faces of Africa</title>
-  </programme>
-  <programme start="20261025140000 +0600" stop="20261025143000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Razor</title>
-  </programme>
-  <programme start="20261025143000 +0600" stop="20261025150000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Talk Africa</title>
-  </programme>
-  <programme start="20261025150000 +0600" stop="20261025153000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261025153000 +0600" stop="20261025160000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Inheritors</title>
-  </programme>
-  <programme start="20261025160000 +0600" stop="20261025163000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261025163000 +0600" stop="20261025170000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Travelogue</title>
-  </programme>
-  <programme start="20261025170000 +0600" stop="20261025173000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261025173000 +0600" stop="20261025180000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Assignment Asia</title>
-  </programme>
-  <programme start="20261025180000 +0600" stop="20261025190000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Americas Now</title>
-  </programme>
-  <programme start="20261025190000 +0600" stop="20261025193000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261025193000 +0600" stop="20261025200000 +0600" channel="Bloomberg TV">
-    <title lang="bn">д/с Faces of Africa</title>
-  </programme>
-  <programme start="20261025200000 +0600" stop="20261025203000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261025203000 +0600" stop="20261025210000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Inheritors</title>
-  </programme>
-  <programme start="20261025210000 +0600" stop="20261025213000 +0600" channel="Bloomberg TV">
-    <title lang="bn">The World Today</title>
-  </programme>
-  <programme start="20261025213000 +0600" stop="20261025220000 +0600" channel="Bloomberg TV">
-    <title lang="bn">Razor</title>
+    <title lang="bn">Inside Story</title>
   </programme>
   <channel id="YouTube">
     <display-name>YouTube</display-name>
