@@ -7,17 +7,21 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 #EXTINF:-1 group-title="Bangla",Green TV (0d)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla",MOV | ZB Cinema (0d)
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 group-title="Bangla",R Plus Gold (0d)
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla News",IN | R Plus News (0d)
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1 group-title="Bangla News",IN | Tribe TV (0d)
+https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 #EXTINF:-1 group-title="Educational",Safari TV Tamil (0d)
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1 group-title="India",ENT | Gangaur (0d)
-https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
-#EXTINF:-1 group-title="International News",CNN International (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="International News",CNN International (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 group-title="International News",Connecting America (0d)
+https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/ts-us-e2-n1/playlist/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 #EXTINF:-1 group-title="International News",Press TV (Iran) (0d)
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-#EXTINF:-1 group-title="International News",RT Now (Russia) (0d)
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
+#EXTINF:-1 group-title="Kids",ZB Cartoon (0d)
+https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 group-title="Sports",CR | Star Sports 1 Hindi (9d)
 http://41.205.93.154/STARSPORTS1/index.m3u8
