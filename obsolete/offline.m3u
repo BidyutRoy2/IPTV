@@ -1,21 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla",Green TV (2d)
+#EXTINF:-1 group-title="Bangla",Green TV (3d)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Educational",Documentary+ 2 (1d)
+#EXTINF:-1 group-title="Bangla News",IN | Republic Bangla (0d)
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Bangla News",IN | Republic Bangla (0d)
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Educational",Documentary+ 2 (2d)
 https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="India",ENT | Gangaur (0d)
-https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
-#EXTINF:-1 group-title="International",QVC UK (5d)
+#EXTINF:-1 group-title="International",QVC UK (6d)
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
-#EXTINF:-1 group-title="International News",CNN International (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 group-title="International News",CNN International (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="International News",Press TV (Iran) (0d)
+#EXTINF:-1 group-title="International News",Press TV (Iran) (1d)
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-#EXTINF:-1 group-title="Music",EN | Oxygen Music (0d)
-https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:-1 group-title="Religious",IBN TV Africa (0d)
-http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
-#EXTINF:-1 group-title="Sports",RACING | MTRSPT1 (0d)
-https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
+#EXTINF:-1 group-title="Kids",1. Persiana Junior (0d)
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies",EN | AVA SERIES (0d)
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies",OTHER | SL1 (0d)
+https://slonehls.wns.live/hls/stream.m3u8
