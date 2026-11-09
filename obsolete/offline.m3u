@@ -1,47 +1,53 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla",Ayna TV (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",GAZI TV HD (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",Green TV (0d)
+#EXTINF:-1 group-title="Bangla",Green TV (1d)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",RTV (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | Channel 1 (0d)
+#EXTINF:-1 group-title="Bangla",SONY AATH HD (0d)
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+#EXTINF:-1 group-title="Bangla News",BD | Channel 1 (1d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla News",BD | Jago News 24 (0d)
-https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | Tribe TV (0d)
-https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-#EXTINF:-1 group-title="Educational",Amazing Discoveries TV (5d)
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 group-title="Educational",Documentary+ 2 (9d)
-https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="India",MU | YRF Music HD (0d)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="International",Duck Dynasty (6d)
+#EXTINF:-1 group-title="India",MO | Hindi Movies (0d)
+https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="India",MOV | South Movies (0d)
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="India",MU | DEEWANA HD (0d)
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="International",Duck Dynasty (7d)
 https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="International News",DW News (1d)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 group-title="International News",Press TV (Iran) (8d)
+#EXTINF:-1 group-title="International News",Press TV (Iran) (9d)
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-#EXTINF:-1 group-title="Kids",1. KidDo MATIX (5d)
+#EXTINF:-1 group-title="Kids",0. Bantul The Great (0d)
+https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kids",0. Doraemon (0d)
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kids",0. Gopal Var (0d)
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+#EXTINF:-1 group-title="Kids",0. Oggy and the cockroaches (0d)
+https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kids",0. Tom and Jerry (0d)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kids",0. WowKidz (Motu Patlu) (0d)
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:-1 group-title="Kids",1. KidDo MATIX (6d)
 https://cc-le0kohm4qt3mk.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/OTM/OTM_KiddoMatix-SCTE_SAMSUNG/playlist.m3u8
-#EXTINF:-1 group-title="Music",EN | Play TV (0d)
-http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
-#EXTINF:-1 group-title="Religious",Al-MahdiTV (0d)
+#EXTINF:-1 group-title="Kids",Cartoon Anima (0d)
+https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+#EXTINF:-1 group-title="Music",AR | AFN TV (0d)
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 group-title="Music",AR | Albania Music (0d)
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 group-title="Religious",Al-MahdiTV (1d)
 https://iptv.almahditv.com/almahditv/playlist.m3u8
-#EXTINF:-1 group-title="Religious",Channel WIN (4d)
+#EXTINF:-1 group-title="Religious",Channel WIN (5d)
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunks.m3u8
-#EXTINF:-1 group-title="Sports",---FIFA(Go3 Sport 1)--- (1d)
+#EXTINF:-1 group-title="Sports",---FIFA(Go3 Sport 1)--- (2d)
 http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/18001/index.m3u8
-#EXTINF:-1 group-title="Sports",---FIFA(Go3 Sport 1)--- (1d)
+#EXTINF:-1 group-title="Sports",---FIFA(Go3 Sport 1)--- (2d)
 http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/18000/index.m3u8
-#EXTINF:-1 group-title="Sports",---FIFA(Go3 Sport 3 4K)--- (1d)
+#EXTINF:-1 group-title="Sports",---FIFA(Go3 Sport 3 4K)--- (2d)
 http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
-#EXTINF:-1 group-title="Sports",CR | Fox Cricket 501 (1d)
+#EXTINF:-1 group-title="Sports",CR | Fox Cricket 501 (2d)
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
-#EXTINF:-1 group-title="Sports",CR | Fox Cricket 501 HD (1d)
+#EXTINF:-1 group-title="Sports",CR | Fox Cricket 501 HD (2d)
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
-#EXTINF:-1 group-title="Sports",CR | Fox Cricket 501 HD (1d)
+#EXTINF:-1 group-title="Sports",CR | Fox Cricket 501 HD (2d)
 http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/19146/index.m3u8
