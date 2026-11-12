@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla",Green TV (4d)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",NTV TV UK (0d)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",R Plus Gold (0d)
-https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",SONY AATH HD (3d)
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (3d)
 http://str24.l9574.com/510.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | R Plus News (0d)
-https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 group-title="India",MO | Hindi Movies (3d)
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="India",MOV | Shemaroo Bollywood 2 (0d)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 group-title="India",MOV | South Movies (3d)
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="India",MU | DEEWANA HD (3d)
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="International",Are We There Yet? (0d)
-https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="India",NEWS | Aap Ki Adalat (0d)
+https://amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi-n5tuk.amagi.tv/playlist/amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="International News",CNN International (0d)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 group-title="International News",CNN International (0d)
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="International News",DW News (0d)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 group-title="International News",Sky News Weather (1d)
@@ -39,12 +39,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 https://cc-le0kohm4qt3mk.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/OTM/OTM_KiddoMatix-SCTE_SAMSUNG/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Cartoon Anima (3d)
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
-#EXTINF:-1 group-title="Movies",EN | Classic Movies (1d)
-https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 group-title="Movies",EN | Rakuten Movies (2d)
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-#EXTINF:-1 group-title="Music",EN | Play TV (0d)
-http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+#EXTINF:-1 group-title="Music",EN | NOW 80's (0d)
+https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/ts-eu-w1-n2/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Al-MahdiTV (4d)
 https://iptv.almahditv.com/almahditv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Channel WIN (8d)
