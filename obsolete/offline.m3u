@@ -1,47 +1,35 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla",Green TV (9d)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",SONY AATH HD (8d)
+#EXTINF:-1 group-title="Bangla",SONY AATH HD (9d)
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
-#EXTINF:-1 group-title="Bangla",Thikana (0d)
+#EXTINF:-1 group-title="Bangla",Thikana (1d)
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (8d)
+#EXTINF:-1 group-title="Bangla",US-BD Journal 24 TV (9d)
 http://str24.l9574.com/510.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla News",IN | Tribe TV (0d)
-https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-#EXTINF:-1 group-title="Educational",Amazing Discoveries TV (0d)
+#EXTINF:-1 group-title="Educational",Amazing Discoveries TV (1d)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 group-title="India",ENT | Gangaur (0d)
-https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
-#EXTINF:-1 group-title="India",MO | Hindi Movies (8d)
+#EXTINF:-1 group-title="India",MO | Hindi Movies (9d)
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="India",MOV | MBC Bollywood (1d)
+#EXTINF:-1 group-title="India",MOV | MBC Bollywood (2d)
 http://93.184.10.248/MBCBollywood/index.m3u8
-#EXTINF:-1 group-title="India",MOV | Shemaroo Bollywood 2 (5d)
+#EXTINF:-1 group-title="India",MOV | Shemaroo Bollywood 2 (6d)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 group-title="India",MOV | South Movies (8d)
+#EXTINF:-1 group-title="India",MOV | South Movies (9d)
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="India",MU | DEEWANA HD (8d)
+#EXTINF:-1 group-title="India",MU | DEEWANA HD (9d)
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="International News",Al Jazeera English HD (0d)
-https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="International News",CNN International (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="International News",CNN International (0d)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 group-title="Kids",0. Bantul The Great (8d)
+#EXTINF:-1 group-title="Kids",0. Bantul The Great (9d)
 https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Kids",0. Doraemon (8d)
+#EXTINF:-1 group-title="Kids",0. Doraemon (9d)
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Kids",0. Gopal Var (8d)
+#EXTINF:-1 group-title="Kids",0. Gopal Var (9d)
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
-#EXTINF:-1 group-title="Kids",0. Oggy and the cockroaches (8d)
+#EXTINF:-1 group-title="Kids",0. Oggy and the cockroaches (9d)
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Kids",0. Tom and Jerry (8d)
+#EXTINF:-1 group-title="Kids",0. Tom and Jerry (9d)
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Kids",0. WowKidz (Motu Patlu) (8d)
+#EXTINF:-1 group-title="Kids",0. WowKidz (Motu Patlu) (9d)
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-#EXTINF:-1 group-title="Kids",Cartoon Anima (8d)
+#EXTINF:-1 group-title="Kids",Cartoon Anima (9d)
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
-#EXTINF:-1 group-title="Movies",EN | Rakuten Movies (7d)
+#EXTINF:-1 group-title="Movies",EN | Rakuten Movies (8d)
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
